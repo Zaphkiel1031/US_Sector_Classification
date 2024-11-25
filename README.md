@@ -4,9 +4,21 @@ This repository contains classified US stock tickers based on their sectors. The
 
 ## 📂 Directory Structure
 
-sector/ ├── Communication_Services/ ├── Consumer_Discretionary/ ├── Consumer_Staples/ ├── Energy/ ├── Financials/ ├── Healthcare/ ├── Industrials/ ├── Information_Technology/ ├── Materials/ ├── Real_Estate/ └── Utilities/
-
-Each subdirectory contains text files or JSON files with stock tickers categorized by sector.
+   ```plaintext
+   sector/
+   ├── Communication_Services/
+   ├── Consumer_Discretionary/
+   ├── Consumer_Staples/
+   ├── Energy/
+   ├── Financials/
+   ├── Healthcare/
+   ├── Industrials/
+   ├── Information_Technology/
+   ├── Materials/
+   ├── Real_Estate/
+   └── Utilities/
+   ```
+   Each subdirectory contains text files or JSON files with stock tickers categorized by sector.
 
 ## 🛠️ Tools Used
 
@@ -19,28 +31,31 @@ Each subdirectory contains text files or JSON files with stock tickers categoriz
 
 ### Classification Script
 
-1. Clone this repository:
+ 1. Clone this repository:
    ```bash
    git clone https://github.com/Zaphkiel1031/US_Sector_Classification.git
    cd US_Sector_Classification
-Ensure the sector/ directory exists with the classified tickers.
-Run the Python classification script to reclassify or update tickers if needed:
-
-python classify_tickers.py
-Note: The classify_tickers.py file is not included in the repository. You can add your custom script for further updates.
-
-Uploading Data
-Use the following Git commands to update data in the repository:
-
-
-git add .
-git commit -m "Update sector classification with data from official source (2024/11/25)"
-git push
-
-###📝 To-Do List
+   ```
+ 2. Ensure the sector/ directory exists with the classified tickers.
+ 3. Run the Python classification script to reclassify or update tickers if needed:
+    
+   ```bash
+   python classify_tickers.py
+   ```
+   Note: The classify_tickers.py file is not included in the repository. You can add your custom script for further updates.
+   
+ 4. Uploading Data
+    Use the following Git commands to update data in the repository:
+   
+    ```bash
+    git add .
+    git commit -m "Update sector classification with data from official source (2024/11/25)"
+    git push
+    ```
+    
+## 📝 To-Do List
 Add support for additional data points like market capitalization and P/E ratio.
 Include error-handling for API rate limits.
 
-###💡 Contribution Guidelines
+## 💡 Contribution Guidelines
 Feel free to fork this repository and submit pull requests for improvements or bug fixes.
-
