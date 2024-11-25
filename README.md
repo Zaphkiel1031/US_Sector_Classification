@@ -42,7 +42,7 @@ This repository contains classified US stock tickers based on their sectors. The
    ```bash
    python classify_tickers.py
    ```
-   Note: The classify_tickers.py file is not included in the repository. You can add your custom script for further updates.
+      Note: The classify_tickers.py file is not included in the repository. You can add your custom script for further updates.
    
  4. Uploading Data
     Use the following Git commands to update data in the repository:
