@@ -1,0 +1,6644 @@
+{
+    "NVDA": {
+        "cik_str": 1045810,
+        "ticker": "NVDA",
+        "title": "NVIDIA CORP",
+        "sector": "Technology"
+    },
+    "AAPL": {
+        "cik_str": 320193,
+        "ticker": "AAPL",
+        "title": "Apple Inc.",
+        "sector": "Technology"
+    },
+    "MSFT": {
+        "cik_str": 789019,
+        "ticker": "MSFT",
+        "title": "MICROSOFT CORP",
+        "sector": "Technology"
+    },
+    "TSM": {
+        "cik_str": 1046179,
+        "ticker": "TSM",
+        "title": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+        "sector": "Technology"
+    },
+    "AVGO": {
+        "cik_str": 1730168,
+        "ticker": "AVGO",
+        "title": "Broadcom Inc.",
+        "sector": "Technology"
+    },
+    "ORCL": {
+        "cik_str": 1341439,
+        "ticker": "ORCL",
+        "title": "ORACLE CORP",
+        "sector": "Technology"
+    },
+    "CRM": {
+        "cik_str": 1108524,
+        "ticker": "CRM",
+        "title": "Salesforce, Inc.",
+        "sector": "Technology"
+    },
+    "SAP": {
+        "cik_str": 1000184,
+        "ticker": "SAP",
+        "title": "SAP SE",
+        "sector": "Technology"
+    },
+    "ASML": {
+        "cik_str": 937966,
+        "ticker": "ASML",
+        "title": "ASML HOLDING NV",
+        "sector": "Technology"
+    },
+    "CSCO": {
+        "cik_str": 858877,
+        "ticker": "CSCO",
+        "title": "CISCO SYSTEMS, INC.",
+        "sector": "Technology"
+    },
+    "ACN": {
+        "cik_str": 1467373,
+        "ticker": "ACN",
+        "title": "Accenture plc",
+        "sector": "Technology"
+    },
+    "AMD": {
+        "cik_str": 2488,
+        "ticker": "AMD",
+        "title": "ADVANCED MICRO DEVICES INC",
+        "sector": "Technology"
+    },
+    "ADBE": {
+        "cik_str": 796343,
+        "ticker": "ADBE",
+        "title": "ADOBE INC.",
+        "sector": "Technology"
+    },
+    "NOW": {
+        "cik_str": 1373715,
+        "ticker": "NOW",
+        "title": "ServiceNow, Inc.",
+        "sector": "Technology"
+    },
+    "IBM": {
+        "cik_str": 51143,
+        "ticker": "IBM",
+        "title": "INTERNATIONAL BUSINESS MACHINES CORP",
+        "sector": "Technology"
+    },
+    "INTU": {
+        "cik_str": 896878,
+        "ticker": "INTU",
+        "title": "INTUIT INC.",
+        "sector": "Technology"
+    },
+    "TXN": {
+        "cik_str": 97476,
+        "ticker": "TXN",
+        "title": "TEXAS INSTRUMENTS INC",
+        "sector": "Technology"
+    },
+    "QCOM": {
+        "cik_str": 804328,
+        "ticker": "QCOM",
+        "title": "QUALCOMM INC/DE",
+        "sector": "Technology"
+    },
+    "UBER": {
+        "cik_str": 1543151,
+        "ticker": "UBER",
+        "title": "Uber Technologies, Inc",
+        "sector": "Technology"
+    },
+    "AMAT": {
+        "cik_str": 6951,
+        "ticker": "AMAT",
+        "title": "APPLIED MATERIALS INC /DE",
+        "sector": "Technology"
+    },
+    "PLTR": {
+        "cik_str": 1321655,
+        "ticker": "PLTR",
+        "title": "Palantir Technologies Inc.",
+        "sector": "Technology"
+    },
+    "ARM": {
+        "cik_str": 1973239,
+        "ticker": "ARM",
+        "title": "ARM HOLDINGS PLC /UK",
+        "sector": "Technology"
+    },
+    "SHOP": {
+        "cik_str": 1594805,
+        "ticker": "SHOP",
+        "title": "SHOPIFY INC.",
+        "sector": "Technology"
+    },
+    "PANW": {
+        "cik_str": 1327567,
+        "ticker": "PANW",
+        "title": "Palo Alto Networks Inc",
+        "sector": "Technology"
+    },
+    "ANET": {
+        "cik_str": 1596532,
+        "ticker": "ANET",
+        "title": "Arista Networks, Inc.",
+        "sector": "Technology"
+    },
+    "FI": {
+        "cik_str": 798354,
+        "ticker": "FI",
+        "title": "FISERV INC",
+        "sector": "Technology"
+    },
+    "ADP": {
+        "cik_str": 8670,
+        "ticker": "ADP",
+        "title": "AUTOMATIC DATA PROCESSING INC",
+        "sector": "Technology"
+    },
+    "SONY": {
+        "cik_str": 313838,
+        "ticker": "SONY",
+        "title": "Sony Group Corp",
+        "sector": "Technology"
+    },
+    "MU": {
+        "cik_str": 723125,
+        "ticker": "MU",
+        "title": "MICRON TECHNOLOGY INC",
+        "sector": "Technology"
+    },
+    "APP": {
+        "cik_str": 1751008,
+        "ticker": "APP",
+        "title": "AppLovin Corp",
+        "sector": "Technology"
+    },
+    "ADI": {
+        "cik_str": 6281,
+        "ticker": "ADI",
+        "title": "ANALOG DEVICES INC",
+        "sector": "Technology"
+    },
+    "INTC": {
+        "cik_str": 50863,
+        "ticker": "INTC",
+        "title": "INTEL CORP",
+        "sector": "Technology"
+    },
+    "MSTR": {
+        "cik_str": 1050446,
+        "ticker": "MSTR",
+        "title": "MICROSTRATEGY Inc",
+        "sector": "Technology"
+    },
+    "DELL": {
+        "cik_str": 1571996,
+        "ticker": "DELL",
+        "title": "Dell Technologies Inc.",
+        "sector": "Technology"
+    },
+    "LRCX": {
+        "cik_str": 707549,
+        "ticker": "LRCX",
+        "title": "LAM RESEARCH CORP",
+        "sector": "Technology"
+    },
+    "INFY": {
+        "cik_str": 1067491,
+        "ticker": "INFY",
+        "title": "Infosys Ltd",
+        "sector": "Technology"
+    },
+    "APH": {
+        "cik_str": 820313,
+        "ticker": "APH",
+        "title": "AMPHENOL CORP /DE/",
+        "sector": "Technology"
+    },
+    "CRWD": {
+        "cik_str": 1535527,
+        "ticker": "CRWD",
+        "title": "CrowdStrike Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "SNPS": {
+        "cik_str": 883241,
+        "ticker": "SNPS",
+        "title": "SYNOPSYS INC",
+        "sector": "Technology"
+    },
+    "KLAC": {
+        "cik_str": 319201,
+        "ticker": "KLAC",
+        "title": "KLA CORP",
+        "sector": "Technology"
+    },
+    "CDNS": {
+        "cik_str": 813672,
+        "ticker": "CDNS",
+        "title": "CADENCE DESIGN SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "MSI": {
+        "cik_str": 68505,
+        "ticker": "MSI",
+        "title": "Motorola Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "MRVL": {
+        "cik_str": 1835632,
+        "ticker": "MRVL",
+        "title": "Marvell Technology, Inc.",
+        "sector": "Technology"
+    },
+    "FTNT": {
+        "cik_str": 1262039,
+        "ticker": "FTNT",
+        "title": "Fortinet, Inc.",
+        "sector": "Technology"
+    },
+    "WDAY": {
+        "cik_str": 1327811,
+        "ticker": "WDAY",
+        "title": "Workday, Inc.",
+        "sector": "Technology"
+    },
+    "ADSK": {
+        "cik_str": 769397,
+        "ticker": "ADSK",
+        "title": "Autodesk, Inc.",
+        "sector": "Technology"
+    },
+    "TOELY": {
+        "cik_str": 1443276,
+        "ticker": "TOELY",
+        "title": "Tokyo Electron LTD",
+        "sector": "Technology"
+    },
+    "TEAM": {
+        "cik_str": 1650372,
+        "ticker": "TEAM",
+        "title": "Atlassian Corp",
+        "sector": "Technology"
+    },
+    "TTD": {
+        "cik_str": 1671933,
+        "ticker": "TTD",
+        "title": "Trade Desk, Inc.",
+        "sector": "Technology"
+    },
+    "ROP": {
+        "cik_str": 882835,
+        "ticker": "ROP",
+        "title": "ROPER TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "SQ": {
+        "cik_str": 1512673,
+        "ticker": "SQ",
+        "title": "Block, Inc.",
+        "sector": "Technology"
+    },
+    "NXPI": {
+        "cik_str": 1413447,
+        "ticker": "NXPI",
+        "title": "NXP Semiconductors N.V.",
+        "sector": "Technology"
+    },
+    "SNOW": {
+        "cik_str": 1640147,
+        "ticker": "SNOW",
+        "title": "Snowflake Inc.",
+        "sector": "Technology"
+    },
+    "FICO": {
+        "cik_str": 814547,
+        "ticker": "FICO",
+        "title": "FAIR ISAAC CORP",
+        "sector": "Technology"
+    },
+    "PAYX": {
+        "cik_str": 723531,
+        "ticker": "PAYX",
+        "title": "PAYCHEX INC",
+        "sector": "Technology"
+    },
+    "DDOG": {
+        "cik_str": 1561550,
+        "ticker": "DDOG",
+        "title": "Datadog, Inc.",
+        "sector": "Technology"
+    },
+    "FIS": {
+        "cik_str": 1136893,
+        "ticker": "FIS",
+        "title": "Fidelity National Information Services, Inc.",
+        "sector": "Technology"
+    },
+    "ATEYY": {
+        "cik_str": 1158838,
+        "ticker": "ATEYY",
+        "title": "ADVANTEST CORP",
+        "sector": "Technology"
+    },
+    "TEL": {
+        "cik_str": 1385157,
+        "ticker": "TEL",
+        "title": "TE Connectivity plc",
+        "sector": "Technology"
+    },
+    "GLW": {
+        "cik_str": 24741,
+        "ticker": "GLW",
+        "title": "CORNING INC /NY",
+        "sector": "Technology"
+    },
+    "GRMN": {
+        "cik_str": 1121788,
+        "ticker": "GRMN",
+        "title": "GARMIN LTD",
+        "sector": "Technology"
+    },
+    "IT": {
+        "cik_str": 749251,
+        "ticker": "IT",
+        "title": "GARTNER INC",
+        "sector": "Technology"
+    },
+    "CTSH": {
+        "cik_str": 1058290,
+        "ticker": "CTSH",
+        "title": "COGNIZANT TECHNOLOGY SOLUTIONS CORP",
+        "sector": "Technology"
+    },
+    "HUBS": {
+        "cik_str": 1404655,
+        "ticker": "HUBS",
+        "title": "HUBSPOT INC",
+        "sector": "Technology"
+    },
+    "HPQ": {
+        "cik_str": 47217,
+        "ticker": "HPQ",
+        "title": "HP INC",
+        "sector": "Technology"
+    },
+    "MCHP": {
+        "cik_str": 827054,
+        "ticker": "MCHP",
+        "title": "MICROCHIP TECHNOLOGY INC",
+        "sector": "Technology"
+    },
+    "NET": {
+        "cik_str": 1477333,
+        "ticker": "NET",
+        "title": "Cloudflare, Inc.",
+        "sector": "Technology"
+    },
+    "WIT": {
+        "cik_str": 1123799,
+        "ticker": "WIT",
+        "title": "WIPRO LTD",
+        "sector": "Technology"
+    },
+    "ZS": {
+        "cik_str": 1713683,
+        "ticker": "ZS",
+        "title": "Zscaler, Inc.",
+        "sector": "Technology"
+    },
+    "MRAAY": {
+        "cik_str": 1450468,
+        "ticker": "MRAAY",
+        "title": "Murata Manufacturing Co., Ltd./ADR",
+        "sector": "Technology"
+    },
+    "DSCSY": {
+        "cik_str": 1671750,
+        "ticker": "DSCSY",
+        "title": "Disco Corporation/ADR",
+        "sector": "Technology"
+    },
+    "ANSS": {
+        "cik_str": 1013462,
+        "ticker": "ANSS",
+        "title": "ANSYS INC",
+        "sector": "Technology"
+    },
+    "IOT": {
+        "cik_str": 1642896,
+        "ticker": "IOT",
+        "title": "Samsara Inc.",
+        "sector": "Technology"
+    },
+    "KEYS": {
+        "cik_str": 1601046,
+        "ticker": "KEYS",
+        "title": "Keysight Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "ON": {
+        "cik_str": 1097864,
+        "ticker": "ON",
+        "title": "ON SEMICONDUCTOR CORP",
+        "sector": "Technology"
+    },
+    "HPE": {
+        "cik_str": 1645590,
+        "ticker": "HPE",
+        "title": "Hewlett Packard Enterprise Co",
+        "sector": "Technology"
+    },
+    "MPWR": {
+        "cik_str": 1280452,
+        "ticker": "MPWR",
+        "title": "MONOLITHIC POWER SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "GDDY": {
+        "cik_str": 1609711,
+        "ticker": "GDDY",
+        "title": "GoDaddy Inc.",
+        "sector": "Technology"
+    },
+    "ERIC": {
+        "cik_str": 717826,
+        "ticker": "ERIC",
+        "title": "ERICSSON LM TELEPHONE CO",
+        "sector": "Technology"
+    },
+    "FTV": {
+        "cik_str": 1659166,
+        "ticker": "FTV",
+        "title": "Fortive Corp",
+        "sector": "Technology"
+    },
+    "BR": {
+        "cik_str": 1383312,
+        "ticker": "BR",
+        "title": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
+        "sector": "Technology"
+    },
+    "CPAY": {
+        "cik_str": 1175454,
+        "ticker": "CPAY",
+        "title": "CORPAY, INC.",
+        "sector": "Technology"
+    },
+    "NTAP": {
+        "cik_str": 1002047,
+        "ticker": "NTAP",
+        "title": "NetApp, Inc.",
+        "sector": "Technology"
+    },
+    "TYL": {
+        "cik_str": 860731,
+        "ticker": "TYL",
+        "title": "TYLER TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "GIB": {
+        "cik_str": 1061574,
+        "ticker": "GIB",
+        "title": "CGI INC",
+        "sector": "Technology"
+    },
+    "ZM": {
+        "cik_str": 1585521,
+        "ticker": "ZM",
+        "title": "Zoom Video Communications, Inc.",
+        "sector": "Technology"
+    },
+    "NTDTY": {
+        "cik_str": 1446705,
+        "ticker": "NTDTY",
+        "title": "NTT Data Corp",
+        "sector": "Technology"
+    },
+    "TOST": {
+        "cik_str": 1650164,
+        "ticker": "TOST",
+        "title": "Toast, Inc.",
+        "sector": "Technology"
+    },
+    "CDW": {
+        "cik_str": 1402057,
+        "ticker": "CDW",
+        "title": "CDW Corp",
+        "sector": "Technology"
+    },
+    "GFS": {
+        "cik_str": 1709048,
+        "ticker": "GFS",
+        "title": "GLOBALFOUNDRIES Inc.",
+        "sector": "Technology"
+    },
+    "MDB": {
+        "cik_str": 1441816,
+        "ticker": "MDB",
+        "title": "MongoDB, Inc.",
+        "sector": "Technology"
+    },
+    "PTC": {
+        "cik_str": 857005,
+        "ticker": "PTC",
+        "title": "PTC INC.",
+        "sector": "Technology"
+    },
+    "DIDIY": {
+        "cik_str": 1764757,
+        "ticker": "DIDIY",
+        "title": "DiDi Global Inc.",
+        "sector": "Technology"
+    },
+    "GRAB": {
+        "cik_str": 1855612,
+        "ticker": "GRAB",
+        "title": "Grab Holdings Ltd",
+        "sector": "Technology"
+    },
+    "WDC": {
+        "cik_str": 106040,
+        "ticker": "WDC",
+        "title": "WESTERN DIGITAL CORP",
+        "sector": "Technology"
+    },
+    "NOK": {
+        "cik_str": 924613,
+        "ticker": "NOK",
+        "title": "NOKIA CORP",
+        "sector": "Technology"
+    },
+    "TDY": {
+        "cik_str": 1094285,
+        "ticker": "TDY",
+        "title": "TELEDYNE TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "LDOS": {
+        "cik_str": 1336920,
+        "ticker": "LDOS",
+        "title": "Leidos Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "STM": {
+        "cik_str": 932787,
+        "ticker": "STM",
+        "title": "STMicroelectronics N.V.",
+        "sector": "Technology"
+    },
+    "ASX": {
+        "cik_str": 1122411,
+        "ticker": "ASX",
+        "title": "ASE Technology Holding Co., Ltd.",
+        "sector": "Technology"
+    },
+    "STX": {
+        "cik_str": 1137789,
+        "ticker": "STX",
+        "title": "Seagate Technology Holdings plc",
+        "sector": "Technology"
+    },
+    "UI": {
+        "cik_str": 1511737,
+        "ticker": "UI",
+        "title": "Ubiquiti Inc.",
+        "sector": "Technology"
+    },
+    "KSPI": {
+        "cik_str": 1985487,
+        "ticker": "KSPI",
+        "title": "Joint Stock Co Kaspi.kz",
+        "sector": "Technology"
+    },
+    "AFRM": {
+        "cik_str": 1820953,
+        "ticker": "AFRM",
+        "title": "Affirm Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "ZBRA": {
+        "cik_str": 877212,
+        "ticker": "ZBRA",
+        "title": "ZEBRA TECHNOLOGIES CORP",
+        "sector": "Technology"
+    },
+    "CHKP": {
+        "cik_str": 1015922,
+        "ticker": "CHKP",
+        "title": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+        "sector": "Technology"
+    },
+    "FSLR": {
+        "cik_str": 1274494,
+        "ticker": "FSLR",
+        "title": "FIRST SOLAR, INC.",
+        "sector": "Technology"
+    },
+    "NTNX": {
+        "cik_str": 1618732,
+        "ticker": "NTNX",
+        "title": "Nutanix, Inc.",
+        "sector": "Technology"
+    },
+    "SSNC": {
+        "cik_str": 1402436,
+        "ticker": "SSNC",
+        "title": "SS&C Technologies Holdings Inc",
+        "sector": "Technology"
+    },
+    "GEN": {
+        "cik_str": 849399,
+        "ticker": "GEN",
+        "title": "Gen Digital Inc.",
+        "sector": "Technology"
+    },
+    "VRSN": {
+        "cik_str": 1014473,
+        "ticker": "VRSN",
+        "title": "VERISIGN INC/CA",
+        "sector": "Technology"
+    },
+    "TRMB": {
+        "cik_str": 864749,
+        "ticker": "TRMB",
+        "title": "TRIMBLE INC.",
+        "sector": "Technology"
+    },
+    "UMC": {
+        "cik_str": 1033767,
+        "ticker": "UMC",
+        "title": "UNITED MICROELECTRONICS CORP",
+        "sector": "Technology"
+    },
+    "TER": {
+        "cik_str": 97210,
+        "ticker": "TER",
+        "title": "TERADYNE, INC",
+        "sector": "Technology"
+    },
+    "SMCI": {
+        "cik_str": 1375365,
+        "ticker": "SMCI",
+        "title": "Super Micro Computer, Inc.",
+        "sector": "Technology"
+    },
+    "PSTG": {
+        "cik_str": 1474432,
+        "ticker": "PSTG",
+        "title": "Pure Storage, Inc.",
+        "sector": "Technology"
+    },
+    "ALAB": {
+        "cik_str": 1736297,
+        "ticker": "ALAB",
+        "title": "Astera Labs, Inc.",
+        "sector": "Technology"
+    },
+    "GWRE": {
+        "cik_str": 1528396,
+        "ticker": "GWRE",
+        "title": "Guidewire Software, Inc.",
+        "sector": "Technology"
+    },
+    "MANH": {
+        "cik_str": 1056696,
+        "ticker": "MANH",
+        "title": "MANHATTAN ASSOCIATES INC",
+        "sector": "Technology"
+    },
+    "COHR": {
+        "cik_str": 820318,
+        "ticker": "COHR",
+        "title": "COHERENT CORP.",
+        "sector": "Technology"
+    },
+    "DOCU": {
+        "cik_str": 1261333,
+        "ticker": "DOCU",
+        "title": "DOCUSIGN, INC.",
+        "sector": "Technology"
+    },
+    "FLEX": {
+        "cik_str": 866374,
+        "ticker": "FLEX",
+        "title": "FLEX LTD.",
+        "sector": "Technology"
+    },
+    "ENTG": {
+        "cik_str": 1101302,
+        "ticker": "ENTG",
+        "title": "ENTEGRIS INC",
+        "sector": "Technology"
+    },
+    "DT": {
+        "cik_str": 1773383,
+        "ticker": "DT",
+        "title": "Dynatrace, Inc.",
+        "sector": "Technology"
+    },
+    "AZPN": {
+        "cik_str": 1897982,
+        "ticker": "AZPN",
+        "title": "Aspen Technology, Inc.",
+        "sector": "Technology"
+    },
+    "TWLO": {
+        "cik_str": 1447669,
+        "ticker": "TWLO",
+        "title": "TWILIO INC",
+        "sector": "Technology"
+    },
+    "DUOL": {
+        "cik_str": 1562088,
+        "ticker": "DUOL",
+        "title": "Duolingo, Inc.",
+        "sector": "Technology"
+    },
+    "JBL": {
+        "cik_str": 898293,
+        "ticker": "JBL",
+        "title": "JABIL INC",
+        "sector": "Technology"
+    },
+    "BSY": {
+        "cik_str": 1031308,
+        "ticker": "BSY",
+        "title": "BENTLEY SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "FFIV": {
+        "cik_str": 1048695,
+        "ticker": "FFIV",
+        "title": "F5, INC.",
+        "sector": "Technology"
+    },
+    "CYBR": {
+        "cik_str": 1598110,
+        "ticker": "CYBR",
+        "title": "CyberArk Software Ltd.",
+        "sector": "Technology"
+    },
+    "EPAM": {
+        "cik_str": 1352010,
+        "ticker": "EPAM",
+        "title": "EPAM Systems, Inc.",
+        "sector": "Technology"
+    },
+    "MNDY": {
+        "cik_str": 1845338,
+        "ticker": "MNDY",
+        "title": "monday.com Ltd.",
+        "sector": "Technology"
+    },
+    "SWKS": {
+        "cik_str": 4127,
+        "ticker": "SWKS",
+        "title": "SKYWORKS SOLUTIONS, INC.",
+        "sector": "Technology"
+    },
+    "AKAM": {
+        "cik_str": 1086222,
+        "ticker": "AKAM",
+        "title": "AKAMAI TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "PAYC": {
+        "cik_str": 1590955,
+        "ticker": "PAYC",
+        "title": "Paycom Software, Inc.",
+        "sector": "Technology"
+    },
+    "OKTA": {
+        "cik_str": 1660134,
+        "ticker": "OKTA",
+        "title": "Okta, Inc.",
+        "sector": "Technology"
+    },
+    "JKHY": {
+        "cik_str": 779152,
+        "ticker": "JKHY",
+        "title": "JACK HENRY & ASSOCIATES INC",
+        "sector": "Technology"
+    },
+    "DAY": {
+        "cik_str": 1725057,
+        "ticker": "DAY",
+        "title": "Dayforce, Inc.",
+        "sector": "Technology"
+    },
+    "LOGI": {
+        "cik_str": 1032975,
+        "ticker": "LOGI",
+        "title": "LOGITECH INTERNATIONAL S.A.",
+        "sector": "Technology"
+    },
+    "WIX": {
+        "cik_str": 1576789,
+        "ticker": "WIX",
+        "title": "Wix.com Ltd.",
+        "sector": "Technology"
+    },
+    "JNPR": {
+        "cik_str": 1043604,
+        "ticker": "JNPR",
+        "title": "JUNIPER NETWORKS INC",
+        "sector": "Technology"
+    },
+    "PCTY": {
+        "cik_str": 1591698,
+        "ticker": "PCTY",
+        "title": "Paylocity Holding Corp",
+        "sector": "Technology"
+    },
+    "PCOR": {
+        "cik_str": 1611052,
+        "ticker": "PCOR",
+        "title": "PROCORE TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "NICE": {
+        "cik_str": 1003935,
+        "ticker": "NICE",
+        "title": "NICE Ltd.",
+        "sector": "Technology"
+    },
+    "CLS": {
+        "cik_str": 1030894,
+        "ticker": "CLS",
+        "title": "CELESTICA INC",
+        "sector": "Technology"
+    },
+    "CACI": {
+        "cik_str": 16058,
+        "ticker": "CACI",
+        "title": "CACI INTERNATIONAL INC /DE/",
+        "sector": "Technology"
+    },
+    "PSN": {
+        "cik_str": 275880,
+        "ticker": "PSN",
+        "title": "PARSONS CORP",
+        "sector": "Technology"
+    },
+    "AUR": {
+        "cik_str": 1828108,
+        "ticker": "AUR",
+        "title": "Aurora Innovation, Inc.",
+        "sector": "Technology"
+    },
+    "GTLB": {
+        "cik_str": 1653482,
+        "ticker": "GTLB",
+        "title": "Gitlab Inc.",
+        "sector": "Technology"
+    },
+    "YMM": {
+        "cik_str": 1838413,
+        "ticker": "YMM",
+        "title": "Full Truck Alliance Co. Ltd.",
+        "sector": "Technology"
+    },
+    "SNX": {
+        "cik_str": 1177394,
+        "ticker": "SNX",
+        "title": "TD SYNNEX CORP",
+        "sector": "Technology"
+    },
+    "CIEN": {
+        "cik_str": 936395,
+        "ticker": "CIEN",
+        "title": "CIENA CORP",
+        "sector": "Technology"
+    },
+    "CFLT": {
+        "cik_str": 1699838,
+        "ticker": "CFLT",
+        "title": "Confluent, Inc.",
+        "sector": "Technology"
+    },
+    "DSGX": {
+        "cik_str": 1050140,
+        "ticker": "DSGX",
+        "title": "DESCARTES SYSTEMS GROUP INC",
+        "sector": "Technology"
+    },
+    "KVYO": {
+        "cik_str": 1835830,
+        "ticker": "KVYO",
+        "title": "Klaviyo, Inc.",
+        "sector": "Technology"
+    },
+    "FOUR": {
+        "cik_str": 1794669,
+        "ticker": "FOUR",
+        "title": "Shift4 Payments, Inc.",
+        "sector": "Technology"
+    },
+    "DOX": {
+        "cik_str": 1062579,
+        "ticker": "DOX",
+        "title": "AMDOCS LTD",
+        "sector": "Technology"
+    },
+    "ESTC": {
+        "cik_str": 1707753,
+        "ticker": "ESTC",
+        "title": "Elastic N.V.",
+        "sector": "Technology"
+    },
+    "MTSI": {
+        "cik_str": 1493594,
+        "ticker": "MTSI",
+        "title": "MACOM Technology Solutions Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "GLOB": {
+        "cik_str": 1557860,
+        "ticker": "GLOB",
+        "title": "Globant S.A.",
+        "sector": "Technology"
+    },
+    "BILL": {
+        "cik_str": 1786352,
+        "ticker": "BILL",
+        "title": "BILL Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "U": {
+        "cik_str": 1810806,
+        "ticker": "U",
+        "title": "Unity Software Inc.",
+        "sector": "Technology"
+    },
+    "RBRK": {
+        "cik_str": 1943896,
+        "ticker": "RBRK",
+        "title": "Rubrik, Inc.",
+        "sector": "Technology"
+    },
+    "S": {
+        "cik_str": 1583708,
+        "ticker": "S",
+        "title": "SentinelOne, Inc.",
+        "sector": "Technology"
+    },
+    "ALTR": {
+        "cik_str": 1701732,
+        "ticker": "ALTR",
+        "title": "Altair Engineering Inc.",
+        "sector": "Technology"
+    },
+    "ENPH": {
+        "cik_str": 1463101,
+        "ticker": "ENPH",
+        "title": "Enphase Energy, Inc.",
+        "sector": "Technology"
+    },
+    "APPF": {
+        "cik_str": 1433195,
+        "ticker": "APPF",
+        "title": "APPFOLIO INC",
+        "sector": "Technology"
+    },
+    "FN": {
+        "cik_str": 1408710,
+        "ticker": "FN",
+        "title": "Fabrinet",
+        "sector": "Technology"
+    },
+    "VERX": {
+        "cik_str": 1806837,
+        "ticker": "VERX",
+        "title": "Vertex, Inc.",
+        "sector": "Technology"
+    },
+    "DBX": {
+        "cik_str": 1467623,
+        "ticker": "DBX",
+        "title": "DROPBOX, INC.",
+        "sector": "Technology"
+    },
+    "ONTO": {
+        "cik_str": 704532,
+        "ticker": "ONTO",
+        "title": "ONTO INNOVATION INC.",
+        "sector": "Technology"
+    },
+    "INFA": {
+        "cik_str": 1868778,
+        "ticker": "INFA",
+        "title": "Informatica Inc.",
+        "sector": "Technology"
+    },
+    "G": {
+        "cik_str": 1398659,
+        "ticker": "G",
+        "title": "Genpact LTD",
+        "sector": "Technology"
+    },
+    "OLED": {
+        "cik_str": 1005284,
+        "ticker": "OLED",
+        "title": "UNIVERSAL DISPLAY CORP \\PA\\",
+        "sector": "Technology"
+    },
+    "CWAN": {
+        "cik_str": 1866368,
+        "ticker": "CWAN",
+        "title": "Clearwater Analytics Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "CRDO": {
+        "cik_str": 1807794,
+        "ticker": "CRDO",
+        "title": "Credo Technology Group Holding Ltd",
+        "sector": "Technology"
+    },
+    "SMAR": {
+        "cik_str": 1366561,
+        "ticker": "SMAR",
+        "title": "SMARTSHEET INC",
+        "sector": "Technology"
+    },
+    "OTEX": {
+        "cik_str": 1002638,
+        "ticker": "OTEX",
+        "title": "OPEN TEXT CORP",
+        "sector": "Technology"
+    },
+    "MKSI": {
+        "cik_str": 1049502,
+        "ticker": "MKSI",
+        "title": "MKS INSTRUMENTS INC",
+        "sector": "Technology"
+    },
+    "PEGA": {
+        "cik_str": 1013857,
+        "ticker": "PEGA",
+        "title": "PEGASYSTEMS INC",
+        "sector": "Technology"
+    },
+    "CCCS": {
+        "cik_str": 1818201,
+        "ticker": "CCCS",
+        "title": "CCC Intelligent Solutions Holdings Inc.",
+        "sector": "Technology"
+    },
+    "KD": {
+        "cik_str": 1867072,
+        "ticker": "KD",
+        "title": "Kyndryl Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "PATH": {
+        "cik_str": 1734722,
+        "ticker": "PATH",
+        "title": "UiPath, Inc.",
+        "sector": "Technology"
+    },
+    "CVLT": {
+        "cik_str": 1169561,
+        "ticker": "CVLT",
+        "title": "COMMVAULT SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "OS": {
+        "cik_str": 1889956,
+        "ticker": "OS",
+        "title": "OneStream, Inc.",
+        "sector": "Technology"
+    },
+    "EXLS": {
+        "cik_str": 1297989,
+        "ticker": "EXLS",
+        "title": "ExlService Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "WEX": {
+        "cik_str": 1309108,
+        "ticker": "WEX",
+        "title": "WEX Inc.",
+        "sector": "Technology"
+    },
+    "LSCC": {
+        "cik_str": 855658,
+        "ticker": "LSCC",
+        "title": "LATTICE SEMICONDUCTOR CORP",
+        "sector": "Technology"
+    },
+    "IONQ": {
+        "cik_str": 1824920,
+        "ticker": "IONQ",
+        "title": "IonQ, Inc.",
+        "sector": "Technology"
+    },
+    "SPSC": {
+        "cik_str": 1092699,
+        "ticker": "SPSC",
+        "title": "SPS COMMERCE INC",
+        "sector": "Technology"
+    },
+    "ASTS": {
+        "cik_str": 1780312,
+        "ticker": "ASTS",
+        "title": "AST SpaceMobile, Inc.",
+        "sector": "Technology"
+    },
+    "QXO": {
+        "cik_str": 1236275,
+        "ticker": "QXO",
+        "title": "QXO, Inc.",
+        "sector": "Technology"
+    },
+    "HCP": {
+        "cik_str": 1720671,
+        "ticker": "HCP",
+        "title": "HashiCorp, Inc.",
+        "sector": "Technology"
+    },
+    "SATS": {
+        "cik_str": 1415404,
+        "ticker": "SATS",
+        "title": "EchoStar CORP",
+        "sector": "Technology"
+    },
+    "LYFT": {
+        "cik_str": 1759509,
+        "ticker": "LYFT",
+        "title": "Lyft, Inc.",
+        "sector": "Technology"
+    },
+    "CGNX": {
+        "cik_str": 851205,
+        "ticker": "CGNX",
+        "title": "COGNEX CORP",
+        "sector": "Technology"
+    },
+    "AMKR": {
+        "cik_str": 1047127,
+        "ticker": "AMKR",
+        "title": "AMKOR TECHNOLOGY, INC.",
+        "sector": "Technology"
+    },
+    "BMI": {
+        "cik_str": 9092,
+        "ticker": "BMI",
+        "title": "BADGER METER INC",
+        "sector": "Technology"
+    },
+    "QRVO": {
+        "cik_str": 1604778,
+        "ticker": "QRVO",
+        "title": "Qorvo, Inc.",
+        "sector": "Technology"
+    },
+    "QTWO": {
+        "cik_str": 1410384,
+        "ticker": "QTWO",
+        "title": "Q2 Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "SAIC": {
+        "cik_str": 1571123,
+        "ticker": "SAIC",
+        "title": "Science Applications International Corp",
+        "sector": "Technology"
+    },
+    "ARW": {
+        "cik_str": 7536,
+        "ticker": "ARW",
+        "title": "ARROW ELECTRONICS, INC.",
+        "sector": "Technology"
+    },
+    "LITE": {
+        "cik_str": 1633978,
+        "ticker": "LITE",
+        "title": "Lumentum Holdings Inc.",
+        "sector": "Technology"
+    },
+    "NOVT": {
+        "cik_str": 1076930,
+        "ticker": "NOVT",
+        "title": "NOVANTA INC",
+        "sector": "Technology"
+    },
+    "LFUS": {
+        "cik_str": 889331,
+        "ticker": "LFUS",
+        "title": "LITTELFUSE INC /DE",
+        "sector": "Technology"
+    },
+    "ACIW": {
+        "cik_str": 935036,
+        "ticker": "ACIW",
+        "title": "ACI WORLDWIDE, INC.",
+        "sector": "Technology"
+    },
+    "RMBS": {
+        "cik_str": 917273,
+        "ticker": "RMBS",
+        "title": "RAMBUS INC",
+        "sector": "Technology"
+    },
+    "VNT": {
+        "cik_str": 1786842,
+        "ticker": "VNT",
+        "title": "Vontier Corp",
+        "sector": "Technology"
+    },
+    "VRNS": {
+        "cik_str": 1361113,
+        "ticker": "VRNS",
+        "title": "VARONIS SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "NXT": {
+        "cik_str": 1852131,
+        "ticker": "NXT",
+        "title": "Nextracker Inc.",
+        "sector": "Technology"
+    },
+    "QLYS": {
+        "cik_str": 1107843,
+        "ticker": "QLYS",
+        "title": "QUALYS, INC.",
+        "sector": "Technology"
+    },
+    "CRUS": {
+        "cik_str": 772406,
+        "ticker": "CRUS",
+        "title": "CIRRUS LOGIC, INC.",
+        "sector": "Technology"
+    },
+    "PI": {
+        "cik_str": 1114995,
+        "ticker": "PI",
+        "title": "IMPINJ INC",
+        "sector": "Technology"
+    },
+    "TSEM": {
+        "cik_str": 928876,
+        "ticker": "TSEM",
+        "title": "TOWER SEMICONDUCTOR LTD",
+        "sector": "Technology"
+    },
+    "ITRI": {
+        "cik_str": 780571,
+        "ticker": "ITRI",
+        "title": "ITRON, INC.",
+        "sector": "Technology"
+    },
+    "SRAD": {
+        "cik_str": 1836470,
+        "ticker": "SRAD",
+        "title": "Sportradar Group AG",
+        "sector": "Technology"
+    },
+    "NVMI": {
+        "cik_str": 1109345,
+        "ticker": "NVMI",
+        "title": "NOVA LTD.",
+        "sector": "Technology"
+    },
+    "WK": {
+        "cik_str": 1445305,
+        "ticker": "WK",
+        "title": "WORKIVA INC",
+        "sector": "Technology"
+    },
+    "ZETA": {
+        "cik_str": 1851003,
+        "ticker": "ZETA",
+        "title": "Zeta Global Holdings Corp.",
+        "sector": "Technology"
+    },
+    "INGM": {
+        "cik_str": 1897762,
+        "ticker": "INGM",
+        "title": "Ingram Micro Holding Corp",
+        "sector": "Technology"
+    },
+    "CORZ": {
+        "cik_str": 1839341,
+        "ticker": "CORZ",
+        "title": "Core Scientific, Inc./tx",
+        "sector": "Technology"
+    },
+    "TENB": {
+        "cik_str": 1660280,
+        "ticker": "TENB",
+        "title": "Tenable Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "FRSH": {
+        "cik_str": 1544522,
+        "ticker": "FRSH",
+        "title": "Freshworks Inc.",
+        "sector": "Technology"
+    },
+    "SITM": {
+        "cik_str": 1451809,
+        "ticker": "SITM",
+        "title": "SITIME Corp",
+        "sector": "Technology"
+    },
+    "BDC": {
+        "cik_str": 913142,
+        "ticker": "BDC",
+        "title": "BELDEN INC.",
+        "sector": "Technology"
+    },
+    "BOX": {
+        "cik_str": 1372612,
+        "ticker": "BOX",
+        "title": "BOX INC",
+        "sector": "Technology"
+    },
+    "NSIT": {
+        "cik_str": 932696,
+        "ticker": "NSIT",
+        "title": "INSIGHT ENTERPRISES INC",
+        "sector": "Technology"
+    },
+    "NCNO": {
+        "cik_str": 1902733,
+        "ticker": "NCNO",
+        "title": "nCino, Inc.",
+        "sector": "Technology"
+    },
+    "AVT": {
+        "cik_str": 8858,
+        "ticker": "AVT",
+        "title": "AVNET INC",
+        "sector": "Technology"
+    },
+    "IDCC": {
+        "cik_str": 1405495,
+        "ticker": "IDCC",
+        "title": "InterDigital, Inc.",
+        "sector": "Technology"
+    },
+    "ST": {
+        "cik_str": 1477294,
+        "ticker": "ST",
+        "title": "Sensata Technologies Holding plc",
+        "sector": "Technology"
+    },
+    "EEFT": {
+        "cik_str": 1029199,
+        "ticker": "EEFT",
+        "title": "EURONET WORLDWIDE, INC.",
+        "sector": "Technology"
+    },
+    "INTA": {
+        "cik_str": 1565687,
+        "ticker": "INTA",
+        "title": "Intapp, Inc.",
+        "sector": "Technology"
+    },
+    "PAY": {
+        "cik_str": 1841156,
+        "ticker": "PAY",
+        "title": "Paymentus Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "AI": {
+        "cik_str": 1577526,
+        "ticker": "AI",
+        "title": "C3.ai, Inc.",
+        "sector": "Technology"
+    },
+    "ALIT": {
+        "cik_str": 1809104,
+        "ticker": "ALIT",
+        "title": "Alight, Inc. / Delaware",
+        "sector": "Technology"
+    },
+    "BLKB": {
+        "cik_str": 1280058,
+        "ticker": "BLKB",
+        "title": "BLACKBAUD INC",
+        "sector": "Technology"
+    },
+    "SANM": {
+        "cik_str": 897723,
+        "ticker": "SANM",
+        "title": "SANMINA CORP",
+        "sector": "Technology"
+    },
+    "PLXS": {
+        "cik_str": 785786,
+        "ticker": "PLXS",
+        "title": "PLEXUS CORP",
+        "sector": "Technology"
+    },
+    "GBTG": {
+        "cik_str": 1820872,
+        "ticker": "GBTG",
+        "title": "Global Business Travel Group, Inc.",
+        "sector": "Technology"
+    },
+    "CLBT": {
+        "cik_str": 1854587,
+        "ticker": "CLBT",
+        "title": "Cellebrite DI Ltd.",
+        "sector": "Technology"
+    },
+    "RELY": {
+        "cik_str": 1782170,
+        "ticker": "RELY",
+        "title": "Remitly Global, Inc.",
+        "sector": "Technology"
+    },
+    "DXC": {
+        "cik_str": 1688568,
+        "ticker": "DXC",
+        "title": "DXC Technology Co",
+        "sector": "Technology"
+    },
+    "ALKT": {
+        "cik_str": 1529274,
+        "ticker": "ALKT",
+        "title": "ALKAMI TECHNOLOGY, INC.",
+        "sector": "Technology"
+    },
+    "SMTC": {
+        "cik_str": 88941,
+        "ticker": "SMTC",
+        "title": "SEMTECH CORP",
+        "sector": "Technology"
+    },
+    "BRZE": {
+        "cik_str": 1676238,
+        "ticker": "BRZE",
+        "title": "Braze, Inc.",
+        "sector": "Technology"
+    },
+    "BL": {
+        "cik_str": 1666134,
+        "ticker": "BL",
+        "title": "BLACKLINE, INC.",
+        "sector": "Technology"
+    },
+    "GDS": {
+        "cik_str": 1526125,
+        "ticker": "GDS",
+        "title": "GDS Holdings Ltd",
+        "sector": "Technology"
+    },
+    "PAYO": {
+        "cik_str": 1845815,
+        "ticker": "PAYO",
+        "title": "Payoneer Global Inc.",
+        "sector": "Technology"
+    },
+    "ESE": {
+        "cik_str": 866706,
+        "ticker": "ESE",
+        "title": "ESCO TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "ALGM": {
+        "cik_str": 866291,
+        "ticker": "ALGM",
+        "title": "ALLEGRO MICROSYSTEMS, INC.",
+        "sector": "Technology"
+    },
+    "ZI": {
+        "cik_str": 1794515,
+        "ticker": "ZI",
+        "title": "ZoomInfo Technologies Inc.",
+        "sector": "Technology"
+    },
+    "ASGN": {
+        "cik_str": 890564,
+        "ticker": "ASGN",
+        "title": "ASGN Inc",
+        "sector": "Technology"
+    },
+    "CLVT": {
+        "cik_str": 1764046,
+        "ticker": "CLVT",
+        "title": "CLARIVATE PLC",
+        "sector": "Technology"
+    },
+    "ROHCY": {
+        "cik_str": 1442653,
+        "ticker": "ROHCY",
+        "title": "ROHM Co., Ltd.",
+        "sector": "Technology"
+    },
+    "AGYS": {
+        "cik_str": 78749,
+        "ticker": "AGYS",
+        "title": "AGILYSYS INC",
+        "sector": "Technology"
+    },
+    "YOU": {
+        "cik_str": 1856314,
+        "ticker": "YOU",
+        "title": "Clear Secure, Inc.",
+        "sector": "Technology"
+    },
+    "DOCN": {
+        "cik_str": 1582961,
+        "ticker": "DOCN",
+        "title": "DigitalOcean Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "LPL": {
+        "cik_str": 1290109,
+        "ticker": "LPL",
+        "title": "LG Display Co., Ltd.",
+        "sector": "Technology"
+    },
+    "POWI": {
+        "cik_str": 833640,
+        "ticker": "POWI",
+        "title": "POWER INTEGRATIONS INC",
+        "sector": "Technology"
+    },
+    "FROG": {
+        "cik_str": 1800667,
+        "ticker": "FROG",
+        "title": "JFrog Ltd",
+        "sector": "Technology"
+    },
+    "ENV": {
+        "cik_str": 1337619,
+        "ticker": "ENV",
+        "title": "ENVESTNET, INC.",
+        "sector": "Technology"
+    },
+    "CAMT": {
+        "cik_str": 1109138,
+        "ticker": "CAMT",
+        "title": "CAMTEK LTD",
+        "sector": "Technology"
+    },
+    "AVPT": {
+        "cik_str": 1777921,
+        "ticker": "AVPT",
+        "title": "AvePoint, Inc.",
+        "sector": "Technology"
+    },
+    "ASAN": {
+        "cik_str": 1477720,
+        "ticker": "ASAN",
+        "title": "Asana, Inc.",
+        "sector": "Technology"
+    },
+    "SLAB": {
+        "cik_str": 1038074,
+        "ticker": "SLAB",
+        "title": "SILICON LABORATORIES INC.",
+        "sector": "Technology"
+    },
+    "DV": {
+        "cik_str": 1819928,
+        "ticker": "DV",
+        "title": "DoubleVerify Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "IPGP": {
+        "cik_str": 1111928,
+        "ticker": "IPGP",
+        "title": "IPG PHOTONICS CORP",
+        "sector": "Technology"
+    },
+    "LIF": {
+        "cik_str": 1581760,
+        "ticker": "LIF",
+        "title": "Life360, Inc.",
+        "sector": "Technology"
+    },
+    "RNG": {
+        "cik_str": 1384905,
+        "ticker": "RNG",
+        "title": "RingCentral, Inc.",
+        "sector": "Technology"
+    },
+    "FORM": {
+        "cik_str": 1039399,
+        "ticker": "FORM",
+        "title": "FORMFACTOR INC",
+        "sector": "Technology"
+    },
+    "PYCR": {
+        "cik_str": 1839439,
+        "ticker": "PYCR",
+        "title": "PAYCOR HCM, INC.",
+        "sector": "Technology"
+    },
+    "DLO": {
+        "cik_str": 1846832,
+        "ticker": "DLO",
+        "title": "dLocal Ltd",
+        "sector": "Technology"
+    },
+    "ALRM": {
+        "cik_str": 1459200,
+        "ticker": "ALRM",
+        "title": "Alarm.com Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "SYNA": {
+        "cik_str": 817720,
+        "ticker": "SYNA",
+        "title": "SYNAPTICS Inc",
+        "sector": "Technology"
+    },
+    "PRGS": {
+        "cik_str": 876167,
+        "ticker": "PRGS",
+        "title": "PROGRESS SOFTWARE CORP /MA",
+        "sector": "Technology"
+    },
+    "TDC": {
+        "cik_str": 816761,
+        "ticker": "TDC",
+        "title": "TERADATA CORP /DE/",
+        "sector": "Technology"
+    },
+    "FIVN": {
+        "cik_str": 1288847,
+        "ticker": "FIVN",
+        "title": "Five9, Inc.",
+        "sector": "Technology"
+    },
+    "FLYW": {
+        "cik_str": 1580560,
+        "ticker": "FLYW",
+        "title": "Flywire Corp",
+        "sector": "Technology"
+    },
+    "PAR": {
+        "cik_str": 708821,
+        "ticker": "PAR",
+        "title": "PAR TECHNOLOGY CORP",
+        "sector": "Technology"
+    },
+    "APPN": {
+        "cik_str": 1441683,
+        "ticker": "APPN",
+        "title": "APPIAN CORP",
+        "sector": "Technology"
+    },
+    "STNE": {
+        "cik_str": 1745431,
+        "ticker": "STNE",
+        "title": "StoneCo Ltd.",
+        "sector": "Technology"
+    },
+    "OSIS": {
+        "cik_str": 1039065,
+        "ticker": "OSIS",
+        "title": "OSI SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "DIOD": {
+        "cik_str": 29002,
+        "ticker": "DIOD",
+        "title": "DIODES INC /DEL/",
+        "sector": "Technology"
+    },
+    "LSPD": {
+        "cik_str": 1823306,
+        "ticker": "LSPD",
+        "title": "Lightspeed Commerce Inc.",
+        "sector": "Technology"
+    },
+    "RPD": {
+        "cik_str": 1560327,
+        "ticker": "RPD",
+        "title": "Rapid7, Inc.",
+        "sector": "Technology"
+    },
+    "GRND": {
+        "cik_str": 1820144,
+        "ticker": "GRND",
+        "title": "Grindr Inc.",
+        "sector": "Technology"
+    },
+    "SOUN": {
+        "cik_str": 1840856,
+        "ticker": "SOUN",
+        "title": "SOUNDHOUND AI, INC.",
+        "sector": "Technology"
+    },
+    "KLIC": {
+        "cik_str": 56978,
+        "ticker": "KLIC",
+        "title": "KULICKE & SOFFA INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "CNXC": {
+        "cik_str": 1803599,
+        "ticker": "CNXC",
+        "title": "Concentrix Corp",
+        "sector": "Technology"
+    },
+    "AMBA": {
+        "cik_str": 1280263,
+        "ticker": "AMBA",
+        "title": "AMBARELLA INC",
+        "sector": "Technology"
+    },
+    "VICR": {
+        "cik_str": 751978,
+        "ticker": "VICR",
+        "title": "VICOR CORP",
+        "sector": "Technology"
+    },
+    "ODD": {
+        "cik_str": 1907085,
+        "ticker": "ODD",
+        "title": "Oddity Tech Ltd",
+        "sector": "Technology"
+    },
+    "TTMI": {
+        "cik_str": 1116942,
+        "ticker": "TTMI",
+        "title": "TTM TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "ACLS": {
+        "cik_str": 1113232,
+        "ticker": "ACLS",
+        "title": "AXCELIS TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "PAGS": {
+        "cik_str": 1712807,
+        "ticker": "PAGS",
+        "title": "PagSeguro Digital Ltd.",
+        "sector": "Technology"
+    },
+    "EVTC": {
+        "cik_str": 1559865,
+        "ticker": "EVTC",
+        "title": "EVERTEC, Inc.",
+        "sector": "Technology"
+    },
+    "VZIO": {
+        "cik_str": 1835591,
+        "ticker": "VZIO",
+        "title": "Vizio Holding Corp.",
+        "sector": "Technology"
+    },
+    "RUN": {
+        "cik_str": 1469367,
+        "ticker": "RUN",
+        "title": "Sunrun Inc.",
+        "sector": "Technology"
+    },
+    "NATL": {
+        "cik_str": 1974138,
+        "ticker": "NATL",
+        "title": "NCR Atleos Corp",
+        "sector": "Technology"
+    },
+    "SWI": {
+        "cik_str": 1739942,
+        "ticker": "SWI",
+        "title": "SolarWinds Corp",
+        "sector": "Technology"
+    },
+    "AVDX": {
+        "cik_str": 1858257,
+        "ticker": "AVDX",
+        "title": "AvidXchange Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "WNS": {
+        "cik_str": 1356570,
+        "ticker": "WNS",
+        "title": "WNS (HOLDINGS) LTD",
+        "sector": "Technology"
+    },
+    "VIAV": {
+        "cik_str": 912093,
+        "ticker": "VIAV",
+        "title": "VIAVI SOLUTIONS INC.",
+        "sector": "Technology"
+    },
+    "SEMR": {
+        "cik_str": 1831840,
+        "ticker": "SEMR",
+        "title": "SEMrush Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "PLUS": {
+        "cik_str": 1022408,
+        "ticker": "PLUS",
+        "title": "EPLUS INC",
+        "sector": "Technology"
+    },
+    "VYX": {
+        "cik_str": 70866,
+        "ticker": "VYX",
+        "title": "NCR Voyix Corp",
+        "sector": "Technology"
+    },
+    "EVCM": {
+        "cik_str": 1853145,
+        "ticker": "EVCM",
+        "title": "EverCommerce Inc.",
+        "sector": "Technology"
+    },
+    "VSH": {
+        "cik_str": 103730,
+        "ticker": "VSH",
+        "title": "VISHAY INTERTECHNOLOGY INC",
+        "sector": "Technology"
+    },
+    "CALX": {
+        "cik_str": 1406666,
+        "ticker": "CALX",
+        "title": "CALIX, INC",
+        "sector": "Technology"
+    },
+    "EXTR": {
+        "cik_str": 1078271,
+        "ticker": "EXTR",
+        "title": "EXTREME NETWORKS INC",
+        "sector": "Technology"
+    },
+    "CXM": {
+        "cik_str": 1569345,
+        "ticker": "CXM",
+        "title": "Sprinklr, Inc.",
+        "sector": "Technology"
+    },
+    "APLD": {
+        "cik_str": 1144879,
+        "ticker": "APLD",
+        "title": "Applied Digital Corp.",
+        "sector": "Technology"
+    },
+    "BTDR": {
+        "cik_str": 1899123,
+        "ticker": "BTDR",
+        "title": "Bitdeer Technologies Group",
+        "sector": "Technology"
+    },
+    "NN": {
+        "cik_str": 1865631,
+        "ticker": "NN",
+        "title": "NEXTNAV INC.",
+        "sector": "Technology"
+    },
+    "MQ": {
+        "cik_str": 1522540,
+        "ticker": "MQ",
+        "title": "Marqeta, Inc.",
+        "sector": "Technology"
+    },
+    "RAMP": {
+        "cik_str": 733269,
+        "ticker": "RAMP",
+        "title": "LiveRamp Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "ROG": {
+        "cik_str": 84748,
+        "ticker": "ROG",
+        "title": "ROGERS CORP",
+        "sector": "Technology"
+    },
+    "NABL": {
+        "cik_str": 1834488,
+        "ticker": "NABL",
+        "title": "N-able, Inc.",
+        "sector": "Technology"
+    },
+    "CNXN": {
+        "cik_str": 1050377,
+        "ticker": "CNXN",
+        "title": "PC CONNECTION INC",
+        "sector": "Technology"
+    },
+    "IBTA": {
+        "cik_str": 1538379,
+        "ticker": "IBTA",
+        "title": "Ibotta, Inc.",
+        "sector": "Technology"
+    },
+    "JAMF": {
+        "cik_str": 1721947,
+        "ticker": "JAMF",
+        "title": "Jamf Holding Corp.",
+        "sector": "Technology"
+    },
+    "PD": {
+        "cik_str": 1568100,
+        "ticker": "PD",
+        "title": "PagerDuty, Inc.",
+        "sector": "Technology"
+    },
+    "SIMO": {
+        "cik_str": 1329394,
+        "ticker": "SIMO",
+        "title": "Silicon Motion Technology CORP",
+        "sector": "Technology"
+    },
+    "UPBD": {
+        "cik_str": 933036,
+        "ticker": "UPBD",
+        "title": "UPBOUND GROUP, INC.",
+        "sector": "Technology"
+    },
+    "RUM": {
+        "cik_str": 1830081,
+        "ticker": "RUM",
+        "title": "Rumble Inc.",
+        "sector": "Technology"
+    },
+    "DFIN": {
+        "cik_str": 1669811,
+        "ticker": "DFIN",
+        "title": "Donnelley Financial Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "SPT": {
+        "cik_str": 1517375,
+        "ticker": "SPT",
+        "title": "Sprout Social, Inc.",
+        "sector": "Technology"
+    },
+    "BHE": {
+        "cik_str": 863436,
+        "ticker": "BHE",
+        "title": "BENCHMARK ELECTRONICS INC",
+        "sector": "Technology"
+    },
+    "DAVA": {
+        "cik_str": 1656081,
+        "ticker": "DAVA",
+        "title": "Endava plc",
+        "sector": "Technology"
+    },
+    "MLNK": {
+        "cik_str": 1834494,
+        "ticker": "MLNK",
+        "title": "MeridianLink, Inc.",
+        "sector": "Technology"
+    },
+    "UCTT": {
+        "cik_str": 1275014,
+        "ticker": "UCTT",
+        "title": "Ultra Clean Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "AAOI": {
+        "cik_str": 1158114,
+        "ticker": "AAOI",
+        "title": "APPLIED OPTOELECTRONICS, INC.",
+        "sector": "Technology"
+    },
+    "DBD": {
+        "cik_str": 28823,
+        "ticker": "DBD",
+        "title": "DIEBOLD NIXDORF, Inc",
+        "sector": "Technology"
+    },
+    "KN": {
+        "cik_str": 1587523,
+        "ticker": "KN",
+        "title": "Knowles Corp",
+        "sector": "Technology"
+    },
+    "SONO": {
+        "cik_str": 1314727,
+        "ticker": "SONO",
+        "title": "Sonos Inc",
+        "sector": "Technology"
+    },
+    "CTS": {
+        "cik_str": 26058,
+        "ticker": "CTS",
+        "title": "CTS CORP",
+        "sector": "Technology"
+    },
+    "CSGS": {
+        "cik_str": 1005757,
+        "ticker": "CSGS",
+        "title": "CSG SYSTEMS INTERNATIONAL INC",
+        "sector": "Technology"
+    },
+    "INFN": {
+        "cik_str": 1138639,
+        "ticker": "INFN",
+        "title": "Infinera Corp",
+        "sector": "Technology"
+    },
+    "PLAB": {
+        "cik_str": 810136,
+        "ticker": "PLAB",
+        "title": "PHOTRONICS INC",
+        "sector": "Technology"
+    },
+    "NTCT": {
+        "cik_str": 1078075,
+        "ticker": "NTCT",
+        "title": "NETSCOUT SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "MTTR": {
+        "cik_str": 1819394,
+        "ticker": "MTTR",
+        "title": "Matterport, Inc./DE",
+        "sector": "Technology"
+    },
+    "SPNS": {
+        "cik_str": 885740,
+        "ticker": "SPNS",
+        "title": "SAPIENS INTERNATIONAL CORP N V",
+        "sector": "Technology"
+    },
+    "WBTN": {
+        "cik_str": 1997859,
+        "ticker": "WBTN",
+        "title": "WEBTOON Entertainment Inc.",
+        "sector": "Technology"
+    },
+    "ZUO": {
+        "cik_str": 1423774,
+        "ticker": "ZUO",
+        "title": "ZUORA INC",
+        "sector": "Technology"
+    },
+    "VECO": {
+        "cik_str": 103145,
+        "ticker": "VECO",
+        "title": "VEECO INSTRUMENTS INC",
+        "sector": "Technology"
+    },
+    "VRNT": {
+        "cik_str": 1166388,
+        "ticker": "VRNT",
+        "title": "VERINT SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "DCBO": {
+        "cik_str": 1829959,
+        "ticker": "DCBO",
+        "title": "Docebo Inc.",
+        "sector": "Technology"
+    },
+    "GDYN": {
+        "cik_str": 1743725,
+        "ticker": "GDYN",
+        "title": "GRID DYNAMICS HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "HLIT": {
+        "cik_str": 851310,
+        "ticker": "HLIT",
+        "title": "HARMONIC INC",
+        "sector": "Technology"
+    },
+    "SABR": {
+        "cik_str": 1597033,
+        "ticker": "SABR",
+        "title": "Sabre Corp",
+        "sector": "Technology"
+    },
+    "BB": {
+        "cik_str": 1070235,
+        "ticker": "BB",
+        "title": "BLACKBERRY Ltd",
+        "sector": "Technology"
+    },
+    "KC": {
+        "cik_str": 1795589,
+        "ticker": "KC",
+        "title": "Kingsoft Cloud Holdings Ltd",
+        "sector": "Technology"
+    },
+    "INOD": {
+        "cik_str": 903651,
+        "ticker": "INOD",
+        "title": "INNODATA INC",
+        "sector": "Technology"
+    },
+    "MXL": {
+        "cik_str": 1288469,
+        "ticker": "MXL",
+        "title": "MAXLINEAR, INC",
+        "sector": "Technology"
+    },
+    "AMPL": {
+        "cik_str": 1866692,
+        "ticker": "AMPL",
+        "title": "Amplitude, Inc.",
+        "sector": "Technology"
+    },
+    "TASK": {
+        "cik_str": 1829864,
+        "ticker": "TASK",
+        "title": "TaskUs, Inc.",
+        "sector": "Technology"
+    },
+    "BLND": {
+        "cik_str": 1855747,
+        "ticker": "BLND",
+        "title": "Blend Labs, Inc.",
+        "sector": "Technology"
+    },
+    "ADEA": {
+        "cik_str": 1803696,
+        "ticker": "ADEA",
+        "title": "Adeia Inc.",
+        "sector": "Technology"
+    },
+    "DQ": {
+        "cik_str": 1477641,
+        "ticker": "DQ",
+        "title": "DAQO NEW ENERGY CORP.",
+        "sector": "Technology"
+    },
+    "FORTY": {
+        "cik_str": 1045986,
+        "ticker": "FORTY",
+        "title": "FORMULA SYSTEMS (1985) LTD",
+        "sector": "Technology"
+    },
+    "BMBL": {
+        "cik_str": 1830043,
+        "ticker": "BMBL",
+        "title": "Bumble Inc.",
+        "sector": "Technology"
+    },
+    "KARO": {
+        "cik_str": 1828102,
+        "ticker": "KARO",
+        "title": "Karooooo Ltd.",
+        "sector": "Technology"
+    },
+    "ATEN": {
+        "cik_str": 1580808,
+        "ticker": "ATEN",
+        "title": "A10 Networks, Inc.",
+        "sector": "Technology"
+    },
+    "COHU": {
+        "cik_str": 21535,
+        "ticker": "COHU",
+        "title": "COHU INC",
+        "sector": "Technology"
+    },
+    "ACMR": {
+        "cik_str": 1680062,
+        "ticker": "ACMR",
+        "title": "ACM Research, Inc.",
+        "sector": "Technology"
+    },
+    "PDFS": {
+        "cik_str": 1120914,
+        "ticker": "PDFS",
+        "title": "PDF SOLUTIONS INC",
+        "sector": "Technology"
+    },
+    "GB": {
+        "cik_str": 1799983,
+        "ticker": "GB",
+        "title": "Global Blue Group Holding AG",
+        "sector": "Technology"
+    },
+    "SCSC": {
+        "cik_str": 918965,
+        "ticker": "SCSC",
+        "title": "SCANSOURCE, INC.",
+        "sector": "Technology"
+    },
+    "VTEX": {
+        "cik_str": 1793663,
+        "ticker": "VTEX",
+        "title": "VTEX",
+        "sector": "Technology"
+    },
+    "DSP": {
+        "cik_str": 1828791,
+        "ticker": "DSP",
+        "title": "Viant Technology Inc.",
+        "sector": "Technology"
+    },
+    "AOSL": {
+        "cik_str": 1387467,
+        "ticker": "AOSL",
+        "title": "ALPHA & OMEGA SEMICONDUCTOR Ltd",
+        "sector": "Technology"
+    },
+    "VNET": {
+        "cik_str": 1508475,
+        "ticker": "VNET",
+        "title": "VNET Group, Inc.",
+        "sector": "Technology"
+    },
+    "DGII": {
+        "cik_str": 854775,
+        "ticker": "DGII",
+        "title": "DIGI INTERNATIONAL INC",
+        "sector": "Technology"
+    },
+    "VSAT": {
+        "cik_str": 797721,
+        "ticker": "VSAT",
+        "title": "VIASAT INC",
+        "sector": "Technology"
+    },
+    "OLO": {
+        "cik_str": 1431695,
+        "ticker": "OLO",
+        "title": "Olo Inc.",
+        "sector": "Technology"
+    },
+    "PRO": {
+        "cik_str": 1392972,
+        "ticker": "PRO",
+        "title": "PROS Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "CRCT": {
+        "cik_str": 1828962,
+        "ticker": "CRCT",
+        "title": "Cricut, Inc.",
+        "sector": "Technology"
+    },
+    "VMEO": {
+        "cik_str": 1837686,
+        "ticker": "VMEO",
+        "title": "Vimeo, Inc.",
+        "sector": "Technology"
+    },
+    "ICHR": {
+        "cik_str": 1652535,
+        "ticker": "ICHR",
+        "title": "ICHOR HOLDINGS, LTD.",
+        "sector": "Technology"
+    },
+    "XRX": {
+        "cik_str": 1770450,
+        "ticker": "XRX",
+        "title": "Xerox Holdings Corp",
+        "sector": "Technology"
+    },
+    "TUYA": {
+        "cik_str": 1829118,
+        "ticker": "TUYA",
+        "title": "Tuya Inc.",
+        "sector": "Technology"
+    },
+    "JKS": {
+        "cik_str": 1481513,
+        "ticker": "JKS",
+        "title": "JinkoSolar Holding Co., Ltd.",
+        "sector": "Technology"
+    },
+    "BASE": {
+        "cik_str": 1845022,
+        "ticker": "BASE",
+        "title": "Couchbase, Inc.",
+        "sector": "Technology"
+    },
+    "PSFE": {
+        "cik_str": 1833835,
+        "ticker": "PSFE",
+        "title": "Paysafe Ltd",
+        "sector": "Technology"
+    },
+    "DAVE": {
+        "cik_str": 1841408,
+        "ticker": "DAVE",
+        "title": "Dave Inc./DE",
+        "sector": "Technology"
+    },
+    "NYAX": {
+        "cik_str": 1901279,
+        "ticker": "NYAX",
+        "title": "Nayax Ltd.",
+        "sector": "Technology"
+    },
+    "FSLY": {
+        "cik_str": 1517413,
+        "ticker": "FSLY",
+        "title": "Fastly, Inc.",
+        "sector": "Technology"
+    },
+    "SMWB": {
+        "cik_str": 1842731,
+        "ticker": "SMWB",
+        "title": "SIMILARWEB LTD.",
+        "sector": "Technology"
+    },
+    "YEXT": {
+        "cik_str": 1614178,
+        "ticker": "YEXT",
+        "title": "Yext, Inc.",
+        "sector": "Technology"
+    },
+    "GCT": {
+        "cik_str": 1857816,
+        "ticker": "GCT",
+        "title": "GigaCloud Technology Inc",
+        "sector": "Technology"
+    },
+    "TIXT": {
+        "cik_str": 1825155,
+        "ticker": "TIXT",
+        "title": "TELUS International (Cda) Inc.",
+        "sector": "Technology"
+    },
+    "BELFA": {
+        "cik_str": 729580,
+        "ticker": "BELFA",
+        "title": "BEL FUSE INC /NJ",
+        "sector": "Technology"
+    },
+    "ARRY": {
+        "cik_str": 1820721,
+        "ticker": "ARRY",
+        "title": "Array Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "RDWR": {
+        "cik_str": 1094366,
+        "ticker": "RDWR",
+        "title": "RADWARE LTD",
+        "sector": "Technology"
+    },
+    "COMM": {
+        "cik_str": 1517228,
+        "ticker": "COMM",
+        "title": "CommScope Holding Company, Inc.",
+        "sector": "Technology"
+    },
+    "ENFN": {
+        "cik_str": 1868912,
+        "ticker": "ENFN",
+        "title": "Enfusion, Inc.",
+        "sector": "Technology"
+    },
+    "PENG": {
+        "cik_str": 1616533,
+        "ticker": "PENG",
+        "title": "Penguin Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "ETWO": {
+        "cik_str": 1800347,
+        "ticker": "ETWO",
+        "title": "E2open Parent Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "HIMX": {
+        "cik_str": 1342338,
+        "ticker": "HIMX",
+        "title": "Himax Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "CINT": {
+        "cik_str": 1868995,
+        "ticker": "CINT",
+        "title": "CI&T Inc",
+        "sector": "Technology"
+    },
+    "ML": {
+        "cik_str": 1807846,
+        "ticker": "ML",
+        "title": "MONEYLION INC.",
+        "sector": "Technology"
+    },
+    "AIOT": {
+        "cik_str": 1774170,
+        "ticker": "AIOT",
+        "title": "Powerfleet, Inc.",
+        "sector": "Technology"
+    },
+    "INDI": {
+        "cik_str": 1841925,
+        "ticker": "INDI",
+        "title": "indie Semiconductor, Inc.",
+        "sector": "Technology"
+    },
+    "HCKT": {
+        "cik_str": 1057379,
+        "ticker": "HCKT",
+        "title": "HACKETT GROUP, INC.",
+        "sector": "Technology"
+    },
+    "WOLF": {
+        "cik_str": 895419,
+        "ticker": "WOLF",
+        "title": "WOLFSPEED, INC.",
+        "sector": "Technology"
+    },
+    "PXPC": {
+        "cik_str": 1785493,
+        "ticker": "PXPC",
+        "title": "Phoenix Plus Corp.",
+        "sector": "Technology"
+    },
+    "IIIV": {
+        "cik_str": 1728688,
+        "ticker": "IIIV",
+        "title": "i3 Verticals, Inc.",
+        "sector": "Technology"
+    },
+    "DJCO": {
+        "cik_str": 783412,
+        "ticker": "DJCO",
+        "title": "DAILY JOURNAL CORP",
+        "sector": "Technology"
+    },
+    "AIUG": {
+        "cik_str": 1932244,
+        "ticker": "AIUG",
+        "title": "AI Unlimited Group, Inc.",
+        "sector": "Technology"
+    },
+    "PUBM": {
+        "cik_str": 1422930,
+        "ticker": "PUBM",
+        "title": "PubMatic, Inc.",
+        "sector": "Technology"
+    },
+    "CRSR": {
+        "cik_str": 1743759,
+        "ticker": "CRSR",
+        "title": "Corsair Gaming, Inc.",
+        "sector": "Technology"
+    },
+    "RPAY": {
+        "cik_str": 1720592,
+        "ticker": "RPAY",
+        "title": "Repay Holdings Corp",
+        "sector": "Technology"
+    },
+    "CSIQ": {
+        "cik_str": 1375877,
+        "ticker": "CSIQ",
+        "title": "Canadian Solar Inc.",
+        "sector": "Technology"
+    },
+    "SCWX": {
+        "cik_str": 1468666,
+        "ticker": "SCWX",
+        "title": "SecureWorks Corp",
+        "sector": "Technology"
+    },
+    "SHLS": {
+        "cik_str": 1831651,
+        "ticker": "SHLS",
+        "title": "Shoals Technologies Group, Inc.",
+        "sector": "Technology"
+    },
+    "IMOS": {
+        "cik_str": 1123134,
+        "ticker": "IMOS",
+        "title": "CHIPMOS TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "EXOD": {
+        "cik_str": 1821534,
+        "ticker": "EXOD",
+        "title": "Exodus Movement, Inc.",
+        "sector": "Technology"
+    },
+    "NTGR": {
+        "cik_str": 1122904,
+        "ticker": "NTGR",
+        "title": "NETGEAR, INC.",
+        "sector": "Technology"
+    },
+    "DMRC": {
+        "cik_str": 1438231,
+        "ticker": "DMRC",
+        "title": "Digimarc CORP",
+        "sector": "Technology"
+    },
+    "SSYS": {
+        "cik_str": 1517396,
+        "ticker": "SSYS",
+        "title": "STRATASYS LTD.",
+        "sector": "Technology"
+    },
+    "PGY": {
+        "cik_str": 1883085,
+        "ticker": "PGY",
+        "title": "Pagaya Technologies Ltd.",
+        "sector": "Technology"
+    },
+    "CEVA": {
+        "cik_str": 1173489,
+        "ticker": "CEVA",
+        "title": "CEVA INC",
+        "sector": "Technology"
+    },
+    "OSPN": {
+        "cik_str": 1044777,
+        "ticker": "OSPN",
+        "title": "OneSpan Inc.",
+        "sector": "Technology"
+    },
+    "DAKT": {
+        "cik_str": 915779,
+        "ticker": "DAKT",
+        "title": "DAKTRONICS INC /SD/",
+        "sector": "Technology"
+    },
+    "YALA": {
+        "cik_str": 1794350,
+        "ticker": "YALA",
+        "title": "Yalla Group Ltd",
+        "sector": "Technology"
+    },
+    "IMXI": {
+        "cik_str": 1683695,
+        "ticker": "IMXI",
+        "title": "International Money Express, Inc.",
+        "sector": "Technology"
+    },
+    "CTLP": {
+        "cik_str": 896429,
+        "ticker": "CTLP",
+        "title": "CANTALOUPE, INC.",
+        "sector": "Technology"
+    },
+    "ADTN": {
+        "cik_str": 926282,
+        "ticker": "ADTN",
+        "title": "ADTRAN Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "PRTH": {
+        "cik_str": 1653558,
+        "ticker": "PRTH",
+        "title": "Priority Technology Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "RSKD": {
+        "cik_str": 1851112,
+        "ticker": "RSKD",
+        "title": "RISKIFIED LTD.",
+        "sector": "Technology"
+    },
+    "CLMB": {
+        "cik_str": 945983,
+        "ticker": "CLMB",
+        "title": "Climb Global Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "SEDG": {
+        "cik_str": 1419612,
+        "ticker": "SEDG",
+        "title": "SOLAREDGE TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "LYTS": {
+        "cik_str": 763532,
+        "ticker": "LYTS",
+        "title": "LSI INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "TSAT": {
+        "cik_str": 1845840,
+        "ticker": "TSAT",
+        "title": "Telesat Corp",
+        "sector": "Technology"
+    },
+    "ILLR": {
+        "cik_str": 1769624,
+        "ticker": "ILLR",
+        "title": "Triller Group Inc.",
+        "sector": "Technology"
+    },
+    "CNDT": {
+        "cik_str": 1677703,
+        "ticker": "CNDT",
+        "title": "CONDUENT Inc",
+        "sector": "Technology"
+    },
+    "CGNT": {
+        "cik_str": 1824814,
+        "ticker": "CGNT",
+        "title": "Cognyte Software Ltd.",
+        "sector": "Technology"
+    },
+    "ITRN": {
+        "cik_str": 1337117,
+        "ticker": "ITRN",
+        "title": "Ituran Location & Control Ltd.",
+        "sector": "Technology"
+    },
+    "RCAT": {
+        "cik_str": 748268,
+        "ticker": "RCAT",
+        "title": "Red Cat Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "HKD": {
+        "cik_str": 1809691,
+        "ticker": "HKD",
+        "title": "AMTD Digital Inc.",
+        "sector": "Technology"
+    },
+    "QUBT": {
+        "cik_str": 1758009,
+        "ticker": "QUBT",
+        "title": "Quantum Computing Inc.",
+        "sector": "Technology"
+    },
+    "BBAI": {
+        "cik_str": 1836981,
+        "ticker": "BBAI",
+        "title": "BigBear.ai Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "MLAB": {
+        "cik_str": 724004,
+        "ticker": "MLAB",
+        "title": "MESA LABORATORIES INC /CO/",
+        "sector": "Technology"
+    },
+    "RXT": {
+        "cik_str": 1810019,
+        "ticker": "RXT",
+        "title": "Rackspace Technology, Inc.",
+        "sector": "Technology"
+    },
+    "BIGC": {
+        "cik_str": 1626450,
+        "ticker": "BIGC",
+        "title": "BigCommerce Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "MGIC": {
+        "cik_str": 876779,
+        "ticker": "MGIC",
+        "title": "MAGIC SOFTWARE ENTERPRISES LTD",
+        "sector": "Technology"
+    },
+    "UIS": {
+        "cik_str": 746838,
+        "ticker": "UIS",
+        "title": "UNISYS CORP",
+        "sector": "Technology"
+    },
+    "CAN": {
+        "cik_str": 1780652,
+        "ticker": "CAN",
+        "title": "Canaan Inc.",
+        "sector": "Technology"
+    },
+    "LASR": {
+        "cik_str": 1124796,
+        "ticker": "LASR",
+        "title": "NLIGHT, INC.",
+        "sector": "Technology"
+    },
+    "NOVA": {
+        "cik_str": 1772695,
+        "ticker": "NOVA",
+        "title": "Sunnova Energy International Inc.",
+        "sector": "Technology"
+    },
+    "BAND": {
+        "cik_str": 1514416,
+        "ticker": "BAND",
+        "title": "Bandwidth Inc.",
+        "sector": "Technology"
+    },
+    "RDVT": {
+        "cik_str": 1720116,
+        "ticker": "RDVT",
+        "title": "Red Violet, Inc.",
+        "sector": "Technology"
+    },
+    "FARO": {
+        "cik_str": 917491,
+        "ticker": "FARO",
+        "title": "FARO TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "NNDM": {
+        "cik_str": 1643303,
+        "ticker": "NNDM",
+        "title": "Nano Dimension Ltd.",
+        "sector": "Technology"
+    },
+    "CCSI": {
+        "cik_str": 1866633,
+        "ticker": "CCSI",
+        "title": "Consensus Cloud Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "OUST": {
+        "cik_str": 1816581,
+        "ticker": "OUST",
+        "title": "Ouster, Inc.",
+        "sector": "Technology"
+    },
+    "MTLS": {
+        "cik_str": 1091223,
+        "ticker": "MTLS",
+        "title": "MATERIALISE NV",
+        "sector": "Technology"
+    },
+    "QBTS": {
+        "cik_str": 1907982,
+        "ticker": "QBTS",
+        "title": "D-Wave Quantum Inc.",
+        "sector": "Technology"
+    },
+    "DDD": {
+        "cik_str": 910638,
+        "ticker": "DDD",
+        "title": "3D SYSTEMS CORP",
+        "sector": "Technology"
+    },
+    "CLFD": {
+        "cik_str": 796505,
+        "ticker": "CLFD",
+        "title": "Clearfield, Inc.",
+        "sector": "Technology"
+    },
+    "TRAK": {
+        "cik_str": 50471,
+        "ticker": "TRAK",
+        "title": "ReposiTrak, Inc.",
+        "sector": "Technology"
+    },
+    "MITK": {
+        "cik_str": 807863,
+        "ticker": "MITK",
+        "title": "MITEK SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "ALNT": {
+        "cik_str": 46129,
+        "ticker": "ALNT",
+        "title": "ALLIENT INC",
+        "sector": "Technology"
+    },
+    "API": {
+        "cik_str": 1802883,
+        "ticker": "API",
+        "title": "Agora, Inc.",
+        "sector": "Technology"
+    },
+    "LSAK": {
+        "cik_str": 1041514,
+        "ticker": "LSAK",
+        "title": "LESAKA TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "SKYT": {
+        "cik_str": 1819974,
+        "ticker": "SKYT",
+        "title": "SkyWater Technology, Inc",
+        "sector": "Technology"
+    },
+    "LGTY": {
+        "cik_str": 713425,
+        "ticker": "LGTY",
+        "title": "LOGILITY SUPPLY CHAIN SOLUTIONS, INC",
+        "sector": "Technology"
+    },
+    "XPER": {
+        "cik_str": 1788999,
+        "ticker": "XPER",
+        "title": "Xperi Inc.",
+        "sector": "Technology"
+    },
+    "EGHT": {
+        "cik_str": 1023731,
+        "ticker": "EGHT",
+        "title": "8X8 INC /DE/",
+        "sector": "Technology"
+    },
+    "NVTS": {
+        "cik_str": 1821769,
+        "ticker": "NVTS",
+        "title": "Navitas Semiconductor Corp",
+        "sector": "Technology"
+    },
+    "NVEC": {
+        "cik_str": 724910,
+        "ticker": "NVEC",
+        "title": "NVE CORP /NEW/",
+        "sector": "Technology"
+    },
+    "OOMA": {
+        "cik_str": 1327688,
+        "ticker": "OOMA",
+        "title": "OOMA INC",
+        "sector": "Technology"
+    },
+    "IBEX": {
+        "cik_str": 1720420,
+        "ticker": "IBEX",
+        "title": "IBEX Ltd",
+        "sector": "Technology"
+    },
+    "PRCH": {
+        "cik_str": 1784535,
+        "ticker": "PRCH",
+        "title": "Porch Group, Inc.",
+        "sector": "Technology"
+    },
+    "DOMO": {
+        "cik_str": 1505952,
+        "ticker": "DOMO",
+        "title": "DOMO, INC.",
+        "sector": "Technology"
+    },
+    "AEHR": {
+        "cik_str": 1040470,
+        "ticker": "AEHR",
+        "title": "AEHR TEST SYSTEMS",
+        "sector": "Technology"
+    },
+    "EB": {
+        "cik_str": 1475115,
+        "ticker": "EB",
+        "title": "Eventbrite, Inc.",
+        "sector": "Technology"
+    },
+    "MEI": {
+        "cik_str": 65270,
+        "ticker": "MEI",
+        "title": "METHODE ELECTRONICS INC",
+        "sector": "Technology"
+    },
+    "AIP": {
+        "cik_str": 1667011,
+        "ticker": "AIP",
+        "title": "Arteris, Inc.",
+        "sector": "Technology"
+    },
+    "LAW": {
+        "cik_str": 1625641,
+        "ticker": "LAW",
+        "title": "CS Disco, Inc.",
+        "sector": "Technology"
+    },
+    "KLTR": {
+        "cik_str": 1432133,
+        "ticker": "KLTR",
+        "title": "KALTURA INC",
+        "sector": "Technology"
+    },
+    "BKSY": {
+        "cik_str": 1753539,
+        "ticker": "BKSY",
+        "title": "BlackSky Technology Inc.",
+        "sector": "Technology"
+    },
+    "AEYE": {
+        "cik_str": 1362190,
+        "ticker": "AEYE",
+        "title": "AUDIOEYE INC",
+        "sector": "Technology"
+    },
+    "HEAR": {
+        "cik_str": 1493761,
+        "ticker": "HEAR",
+        "title": "Turtle Beach Corp",
+        "sector": "Technology"
+    },
+    "RZLV": {
+        "cik_str": 1920294,
+        "ticker": "RZLV",
+        "title": "REZOLVE AI Ltd",
+        "sector": "Technology"
+    },
+    "GILT": {
+        "cik_str": 897322,
+        "ticker": "GILT",
+        "title": "GILAT SATELLITE NETWORKS LTD",
+        "sector": "Technology"
+    },
+    "SMRT": {
+        "cik_str": 1837014,
+        "ticker": "SMRT",
+        "title": "SmartRent, Inc.",
+        "sector": "Technology"
+    },
+    "ABXXF": {
+        "cik_str": 1971975,
+        "ticker": "ABXXF",
+        "title": "Abaxx Technologies Inc.",
+        "sector": "Technology"
+    },
+    "EXFY": {
+        "cik_str": 1476840,
+        "ticker": "EXFY",
+        "title": "Expensify, Inc.",
+        "sector": "Technology"
+    },
+    "VPG": {
+        "cik_str": 1487952,
+        "ticker": "VPG",
+        "title": "Vishay Precision Group, Inc.",
+        "sector": "Technology"
+    },
+    "POET": {
+        "cik_str": 1437424,
+        "ticker": "POET",
+        "title": "POET TECHNOLOGIES INC.",
+        "sector": "Technology"
+    },
+    "RGTI": {
+        "cik_str": 1838359,
+        "ticker": "RGTI",
+        "title": "Rigetti Computing, Inc.",
+        "sector": "Technology"
+    },
+    "CRNT": {
+        "cik_str": 1119769,
+        "ticker": "CRNT",
+        "title": "CERAGON NETWORKS LTD",
+        "sector": "Technology"
+    },
+    "IMMR": {
+        "cik_str": 1058811,
+        "ticker": "IMMR",
+        "title": "IMMERSION CORP",
+        "sector": "Technology"
+    },
+    "NLST": {
+        "cik_str": 1282631,
+        "ticker": "NLST",
+        "title": "NETLIST INC",
+        "sector": "Technology"
+    },
+    "ONTF": {
+        "cik_str": 1110611,
+        "ticker": "ONTF",
+        "title": "ON24 INC.",
+        "sector": "Technology"
+    },
+    "CRNC": {
+        "cik_str": 1768267,
+        "ticker": "CRNC",
+        "title": "Cerence Inc.",
+        "sector": "Technology"
+    },
+    "FCCN": {
+        "cik_str": 1131903,
+        "ticker": "FCCN",
+        "title": "SPECTRAL CAPITAL Corp",
+        "sector": "Technology"
+    },
+    "ASUR": {
+        "cik_str": 884144,
+        "ticker": "ASUR",
+        "title": "ASURE SOFTWARE INC",
+        "sector": "Technology"
+    },
+    "AUDC": {
+        "cik_str": 1086434,
+        "ticker": "AUDC",
+        "title": "AUDIOCODES LTD",
+        "sector": "Technology"
+    },
+    "BLZE": {
+        "cik_str": 1462056,
+        "ticker": "BLZE",
+        "title": "Backblaze, Inc.",
+        "sector": "Technology"
+    },
+    "ICG": {
+        "cik_str": 1895597,
+        "ticker": "ICG",
+        "title": "Intchains Group Ltd",
+        "sector": "Technology"
+    },
+    "TLS": {
+        "cik_str": 320121,
+        "ticker": "TLS",
+        "title": "TELOS CORP",
+        "sector": "Technology"
+    },
+    "TTEC": {
+        "cik_str": 1013880,
+        "ticker": "TTEC",
+        "title": "TTEC Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "VLN": {
+        "cik_str": 1863006,
+        "ticker": "VLN",
+        "title": "Valens Semiconductor Ltd.",
+        "sector": "Technology"
+    },
+    "GOAI": {
+        "cik_str": 1983736,
+        "ticker": "GOAI",
+        "title": "Eva Live Inc",
+        "sector": "Technology"
+    },
+    "WEWA": {
+        "cik_str": 1616156,
+        "ticker": "WEWA",
+        "title": "WEWARDS, INC.",
+        "sector": "Technology"
+    },
+    "SVCO": {
+        "cik_str": 1943289,
+        "ticker": "SVCO",
+        "title": "Silvaco Group, Inc.",
+        "sector": "Technology"
+    },
+    "MVIS": {
+        "cik_str": 65770,
+        "ticker": "MVIS",
+        "title": "MICROVISION, INC.",
+        "sector": "Technology"
+    },
+    "ATGL": {
+        "cik_str": 1967621,
+        "ticker": "ATGL",
+        "title": "Alpha Technology Group Ltd",
+        "sector": "Technology"
+    },
+    "SANG": {
+        "cik_str": 1753368,
+        "ticker": "SANG",
+        "title": "Sangoma Technologies Corp",
+        "sector": "Technology"
+    },
+    "WBX": {
+        "cik_str": 1866501,
+        "ticker": "WBX",
+        "title": "Wallbox N.V.",
+        "sector": "Technology"
+    },
+    "BKKT": {
+        "cik_str": 1820302,
+        "ticker": "BKKT",
+        "title": "Bakkt Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "HPAI": {
+        "cik_str": 2001699,
+        "ticker": "HPAI",
+        "title": "Helport AI Ltd",
+        "sector": "Technology"
+    },
+    "AEVA": {
+        "cik_str": 1789029,
+        "ticker": "AEVA",
+        "title": "Aeva Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "RELL": {
+        "cik_str": 355948,
+        "ticker": "RELL",
+        "title": "RICHARDSON ELECTRONICS, LTD.",
+        "sector": "Technology"
+    },
+    "YIBO": {
+        "cik_str": 1868395,
+        "ticker": "YIBO",
+        "title": "Planet Image International Ltd",
+        "sector": "Technology"
+    },
+    "PERF": {
+        "cik_str": 1899830,
+        "ticker": "PERF",
+        "title": "Perfect Corp.",
+        "sector": "Technology"
+    },
+    "MAPS": {
+        "cik_str": 1779474,
+        "ticker": "MAPS",
+        "title": "WM TECHNOLOGY, INC.",
+        "sector": "Technology"
+    },
+    "NRDY": {
+        "cik_str": 1819404,
+        "ticker": "NRDY",
+        "title": "Nerdy Inc.",
+        "sector": "Technology"
+    },
+    "RTC": {
+        "cik_str": 1381074,
+        "ticker": "RTC",
+        "title": "Baijiayun Group Ltd",
+        "sector": "Technology"
+    },
+    "AVNW": {
+        "cik_str": 1377789,
+        "ticker": "AVNW",
+        "title": "AVIAT NETWORKS, INC.",
+        "sector": "Technology"
+    },
+    "AILE": {
+        "cik_str": 1835972,
+        "ticker": "AILE",
+        "title": "iLearningEngines, Inc.",
+        "sector": "Technology"
+    },
+    "GPRO": {
+        "cik_str": 1500435,
+        "ticker": "GPRO",
+        "title": "GoPro, Inc.",
+        "sector": "Technology"
+    },
+    "PAYS": {
+        "cik_str": 1496443,
+        "ticker": "PAYS",
+        "title": "Paysign, Inc.",
+        "sector": "Technology"
+    },
+    "INSG": {
+        "cik_str": 1022652,
+        "ticker": "INSG",
+        "title": "INSEEGO CORP.",
+        "sector": "Technology"
+    },
+    "EACO": {
+        "cik_str": 784539,
+        "ticker": "EACO",
+        "title": "EACO CORP",
+        "sector": "Technology"
+    },
+    "AERG": {
+        "cik_str": 879911,
+        "ticker": "AERG",
+        "title": "APPLIED ENERGETICS, INC.",
+        "sector": "Technology"
+    },
+    "TCX": {
+        "cik_str": 909494,
+        "ticker": "TCX",
+        "title": "TUCOWS INC /PA/",
+        "sector": "Technology"
+    },
+    "RMNI": {
+        "cik_str": 1635282,
+        "ticker": "RMNI",
+        "title": "Rimini Street, Inc.",
+        "sector": "Technology"
+    },
+    "TROO": {
+        "cik_str": 1412095,
+        "ticker": "TROO",
+        "title": "Troops, Inc. /Cayman Islands/",
+        "sector": "Technology"
+    },
+    "MPTI": {
+        "cik_str": 1902314,
+        "ticker": "MPTI",
+        "title": "M-tron Industries, Inc.",
+        "sector": "Technology"
+    },
+    "ALLT": {
+        "cik_str": 1365767,
+        "ticker": "ALLT",
+        "title": "Allot Ltd.",
+        "sector": "Technology"
+    },
+    "TSSI": {
+        "cik_str": 1320760,
+        "ticker": "TSSI",
+        "title": "TSS, Inc.",
+        "sector": "Technology"
+    },
+    "ATOM": {
+        "cik_str": 1420520,
+        "ticker": "ATOM",
+        "title": "Atomera Inc",
+        "sector": "Technology"
+    },
+    "VOXX": {
+        "cik_str": 807707,
+        "ticker": "VOXX",
+        "title": "VOXX International Corp",
+        "sector": "Technology"
+    },
+    "GNSS": {
+        "cik_str": 924383,
+        "ticker": "GNSS",
+        "title": "Genasys Inc.",
+        "sector": "Technology"
+    },
+    "AZ": {
+        "cik_str": 1866030,
+        "ticker": "AZ",
+        "title": "A2Z CUST2MATE SOLUTIONS CORP.",
+        "sector": "Technology"
+    },
+    "III": {
+        "cik_str": 1371489,
+        "ticker": "III",
+        "title": "Information Services Group Inc.",
+        "sector": "Technology"
+    },
+    "ZEO": {
+        "cik_str": 1865506,
+        "ticker": "ZEO",
+        "title": "Zeo Energy Corp.",
+        "sector": "Technology"
+    },
+    "APPS": {
+        "cik_str": 317788,
+        "ticker": "APPS",
+        "title": "Digital Turbine, Inc.",
+        "sector": "Technology"
+    },
+    "KOPN": {
+        "cik_str": 771266,
+        "ticker": "KOPN",
+        "title": "KOPIN CORP",
+        "sector": "Technology"
+    },
+    "UEIC": {
+        "cik_str": 101984,
+        "ticker": "UEIC",
+        "title": "UNIVERSAL ELECTRONICS INC",
+        "sector": "Technology"
+    },
+    "ARBE": {
+        "cik_str": 1861841,
+        "ticker": "ARBE",
+        "title": "Arbe Robotics Ltd.",
+        "sector": "Technology"
+    },
+    "CCRD": {
+        "cik_str": 320340,
+        "ticker": "CCRD",
+        "title": "CoreCard Corp",
+        "sector": "Technology"
+    },
+    "SSTI": {
+        "cik_str": 1351636,
+        "ticker": "SSTI",
+        "title": "SOUNDTHINKING, INC.",
+        "sector": "Technology"
+    },
+    "EGAN": {
+        "cik_str": 1066194,
+        "ticker": "EGAN",
+        "title": "EGAIN Corp",
+        "sector": "Technology"
+    },
+    "DM": {
+        "cik_str": 1754820,
+        "ticker": "DM",
+        "title": "Desktop Metal, Inc.",
+        "sector": "Technology"
+    },
+    "CSLR": {
+        "cik_str": 1838987,
+        "ticker": "CSLR",
+        "title": "Complete Solaria, Inc.",
+        "sector": "Technology"
+    },
+    "RPMT": {
+        "cik_str": 1437283,
+        "ticker": "RPMT",
+        "title": "REGO PAYMENT ARCHITECTURES, INC.",
+        "sector": "Technology"
+    },
+    "TDTH": {
+        "cik_str": 1983550,
+        "ticker": "TDTH",
+        "title": "Trident Digital Tech Holdings Ltd",
+        "sector": "Technology"
+    },
+    "CSPI": {
+        "cik_str": 356037,
+        "ticker": "CSPI",
+        "title": "CSP INC /MA/",
+        "sector": "Technology"
+    },
+    "MX": {
+        "cik_str": 1325702,
+        "ticker": "MX",
+        "title": "MAGNACHIP SEMICONDUCTOR Corp",
+        "sector": "Technology"
+    },
+    "BCOV": {
+        "cik_str": 1313275,
+        "ticker": "BCOV",
+        "title": "BRIGHTCOVE INC",
+        "sector": "Technology"
+    },
+    "MRAM": {
+        "cik_str": 1438423,
+        "ticker": "MRAM",
+        "title": "EVERSPIN TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "TOYO": {
+        "cik_str": 1985273,
+        "ticker": "TOYO",
+        "title": "TOYO Co., Ltd",
+        "sector": "Technology"
+    },
+    "YXT": {
+        "cik_str": 1872090,
+        "ticker": "YXT",
+        "title": "YXT.COM GROUP HOLDING Ltd",
+        "sector": "Technology"
+    },
+    "FEIM": {
+        "cik_str": 39020,
+        "ticker": "FEIM",
+        "title": "FREQUENCY ELECTRONICS INC",
+        "sector": "Technology"
+    },
+    "GEDC": {
+        "cik_str": 1174891,
+        "ticker": "GEDC",
+        "title": "CalEthos, Inc.",
+        "sector": "Technology"
+    },
+    "BKTI": {
+        "cik_str": 2186,
+        "ticker": "BKTI",
+        "title": "BK Technologies Corp",
+        "sector": "Technology"
+    },
+    "MAXN": {
+        "cik_str": 1796898,
+        "ticker": "MAXN",
+        "title": "Maxeon Solar Technologies, Ltd.",
+        "sector": "Technology"
+    },
+    "QH": {
+        "cik_str": 1781193,
+        "ticker": "QH",
+        "title": "QUHUO Ltd",
+        "sector": "Technology"
+    },
+    "XNET": {
+        "cik_str": 1510593,
+        "ticker": "XNET",
+        "title": "Xunlei Ltd",
+        "sector": "Technology"
+    },
+    "NOTE": {
+        "cik_str": 1823466,
+        "ticker": "NOTE",
+        "title": "FiscalNote Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "NEON": {
+        "cik_str": 87050,
+        "ticker": "NEON",
+        "title": "Neonode Inc.",
+        "sector": "Technology"
+    },
+    "MRT": {
+        "cik_str": 1852767,
+        "ticker": "MRT",
+        "title": "Marti Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "ALOT": {
+        "cik_str": 8146,
+        "ticker": "ALOT",
+        "title": "AstroNova, Inc.",
+        "sector": "Technology"
+    },
+    "LTRX": {
+        "cik_str": 1114925,
+        "ticker": "LTRX",
+        "title": "LANTRONIX INC",
+        "sector": "Technology"
+    },
+    "QUIK": {
+        "cik_str": 882508,
+        "ticker": "QUIK",
+        "title": "QUICKLOGIC Corp",
+        "sector": "Technology"
+    },
+    "HYSR": {
+        "cik_str": 1481028,
+        "ticker": "HYSR",
+        "title": "SUNHYDROGEN, INC.",
+        "sector": "Technology"
+    },
+    "ALYAF": {
+        "cik_str": 1734520,
+        "ticker": "ALYAF",
+        "title": "Alithya Group inc",
+        "sector": "Technology"
+    },
+    "GCTS": {
+        "cik_str": 1851961,
+        "ticker": "GCTS",
+        "title": "GCT Semiconductor Holding, Inc.",
+        "sector": "Technology"
+    },
+    "VERI": {
+        "cik_str": 1615165,
+        "ticker": "VERI",
+        "title": "Veritone, Inc.",
+        "sector": "Technology"
+    },
+    "KVHI": {
+        "cik_str": 1007587,
+        "ticker": "KVHI",
+        "title": "KVH INDUSTRIES INC \\DE\\",
+        "sector": "Technology"
+    },
+    "VRSSF": {
+        "cik_str": 1879001,
+        "ticker": "VRSSF",
+        "title": "Verses AI Inc.",
+        "sector": "Technology"
+    },
+    "SNCR": {
+        "cik_str": 1131554,
+        "ticker": "SNCR",
+        "title": "SYNCHRONOSS TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "AIRG": {
+        "cik_str": 1272842,
+        "ticker": "AIRG",
+        "title": "AIRGAIN INC",
+        "sector": "Technology"
+    },
+    "OCFT": {
+        "cik_str": 1780531,
+        "ticker": "OCFT",
+        "title": "ONECONNECT FINANCIAL TECHNOLOGY CO., LTD.",
+        "sector": "Technology"
+    },
+    "RSSS": {
+        "cik_str": 1386301,
+        "ticker": "RSSS",
+        "title": "Research Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "INTT": {
+        "cik_str": 1036262,
+        "ticker": "INTT",
+        "title": "INTEST CORP",
+        "sector": "Technology"
+    },
+    "SOL": {
+        "cik_str": 1417892,
+        "ticker": "SOL",
+        "title": "Emeren Group Ltd",
+        "sector": "Technology"
+    },
+    "VUZI": {
+        "cik_str": 1463972,
+        "ticker": "VUZI",
+        "title": "Vuzix Corp",
+        "sector": "Technology"
+    },
+    "CMTL": {
+        "cik_str": 23197,
+        "ticker": "CMTL",
+        "title": "COMTECH TELECOMMUNICATIONS CORP /DE/",
+        "sector": "Technology"
+    },
+    "MKFG": {
+        "cik_str": 1816613,
+        "ticker": "MKFG",
+        "title": "Markforged Holding Corp",
+        "sector": "Technology"
+    },
+    "ALAR": {
+        "cik_str": 1725332,
+        "ticker": "ALAR",
+        "title": "Alarum Technologies Ltd.",
+        "sector": "Technology"
+    },
+    "UPLD": {
+        "cik_str": 1505155,
+        "ticker": "UPLD",
+        "title": "Upland Software, Inc.",
+        "sector": "Technology"
+    },
+    "REKR": {
+        "cik_str": 1697851,
+        "ticker": "REKR",
+        "title": "Rekor Systems, Inc.",
+        "sector": "Technology"
+    },
+    "PHUN": {
+        "cik_str": 1665300,
+        "ticker": "PHUN",
+        "title": "Phunware, Inc.",
+        "sector": "Technology"
+    },
+    "SILC": {
+        "cik_str": 916793,
+        "ticker": "SILC",
+        "title": "SILICOM LTD.",
+        "sector": "Technology"
+    },
+    "VEEA": {
+        "cik_str": 1840317,
+        "ticker": "VEEA",
+        "title": "VEEA INC.",
+        "sector": "Technology"
+    },
+    "KULR": {
+        "cik_str": 1662684,
+        "ticker": "KULR",
+        "title": "KULR Technology Group, Inc.",
+        "sector": "Technology"
+    },
+    "AXTI": {
+        "cik_str": 1051627,
+        "ticker": "AXTI",
+        "title": "AXT INC",
+        "sector": "Technology"
+    },
+    "DHX": {
+        "cik_str": 1393883,
+        "ticker": "DHX",
+        "title": "DHI GROUP, INC.",
+        "sector": "Technology"
+    },
+    "VTSI": {
+        "cik_str": 1085243,
+        "ticker": "VTSI",
+        "title": "VirTra, Inc",
+        "sector": "Technology"
+    },
+    "ASYS": {
+        "cik_str": 720500,
+        "ticker": "ASYS",
+        "title": "AMTECH SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "GLE": {
+        "cik_str": 1908705,
+        "ticker": "GLE",
+        "title": "Global Engine Group Holding Ltd",
+        "sector": "Technology"
+    },
+    "ODYS": {
+        "cik_str": 1577445,
+        "ticker": "ODYS",
+        "title": "Odysight.ai Inc.",
+        "sector": "Technology"
+    },
+    "PSQH": {
+        "cik_str": 1847064,
+        "ticker": "PSQH",
+        "title": "PSQ Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "PRKR": {
+        "cik_str": 914139,
+        "ticker": "PRKR",
+        "title": "PARKERVISION INC",
+        "sector": "Technology"
+    },
+    "PDYN": {
+        "cik_str": 1826681,
+        "ticker": "PDYN",
+        "title": "Palladyne AI Corp.",
+        "sector": "Technology"
+    },
+    "ELTK": {
+        "cik_str": 1024672,
+        "ticker": "ELTK",
+        "title": "ELTEK LTD",
+        "sector": "Technology"
+    },
+    "GSIT": {
+        "cik_str": 1126741,
+        "ticker": "GSIT",
+        "title": "GSI TECHNOLOGY INC",
+        "sector": "Technology"
+    },
+    "LPSN": {
+        "cik_str": 1102993,
+        "ticker": "LPSN",
+        "title": "LIVEPERSON INC",
+        "sector": "Technology"
+    },
+    "ZENV": {
+        "cik_str": 1836934,
+        "ticker": "ZENV",
+        "title": "Zenvia Inc.",
+        "sector": "Technology"
+    },
+    "AUID": {
+        "cik_str": 1534154,
+        "ticker": "AUID",
+        "title": "authID Inc.",
+        "sector": "Technology"
+    },
+    "AVAI": {
+        "cik_str": 1740797,
+        "ticker": "AVAI",
+        "title": "AVANT TECHNOLOGIES INC.",
+        "sector": "Technology"
+    },
+    "SOTK": {
+        "cik_str": 806172,
+        "ticker": "SOTK",
+        "title": "SONO TEK CORP",
+        "sector": "Technology"
+    },
+    "LGCL": {
+        "cik_str": 1954694,
+        "ticker": "LGCL",
+        "title": "Lucas GC Ltd",
+        "sector": "Technology"
+    },
+    "ARAT": {
+        "cik_str": 1566243,
+        "ticker": "ARAT",
+        "title": "Arax Holdings Corp",
+        "sector": "Technology"
+    },
+    "WRAP": {
+        "cik_str": 1702924,
+        "ticker": "WRAP",
+        "title": "WRAP TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "SQNS": {
+        "cik_str": 1383395,
+        "ticker": "SQNS",
+        "title": "SEQUANS COMMUNICATIONS",
+        "sector": "Technology"
+    },
+    "INLX": {
+        "cik_str": 1081745,
+        "ticker": "INLX",
+        "title": "INTELLINETICS, INC.",
+        "sector": "Technology"
+    },
+    "SATX": {
+        "cik_str": 1915403,
+        "ticker": "SATX",
+        "title": "SatixFy Communications Ltd.",
+        "sector": "Technology"
+    },
+    "ARQQ": {
+        "cik_str": 1859690,
+        "ticker": "ARQQ",
+        "title": "Arqit Quantum Inc.",
+        "sector": "Technology"
+    },
+    "KOSS": {
+        "cik_str": 56701,
+        "ticker": "KOSS",
+        "title": "KOSS CORP",
+        "sector": "Technology"
+    },
+    "BCRD": {
+        "cik_str": 1496690,
+        "ticker": "BCRD",
+        "title": "BlueOne Card, Inc.",
+        "sector": "Technology"
+    },
+    "GBUX": {
+        "cik_str": 1169138,
+        "ticker": "GBUX",
+        "title": "GIVBUX, INC.",
+        "sector": "Technology"
+    },
+    "REFR": {
+        "cik_str": 793524,
+        "ticker": "REFR",
+        "title": "RESEARCH FRONTIERS INC",
+        "sector": "Technology"
+    },
+    "VCSA": {
+        "cik_str": 1874944,
+        "ticker": "VCSA",
+        "title": "Vacasa, Inc.",
+        "sector": "Technology"
+    },
+    "AISP": {
+        "cik_str": 1842566,
+        "ticker": "AISP",
+        "title": "Airship AI Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "ORKT": {
+        "cik_str": 1979407,
+        "ticker": "ORKT",
+        "title": "ORANGEKLOUD TECHNOLOGY INC.",
+        "sector": "Technology"
+    },
+    "ONDS": {
+        "cik_str": 1646188,
+        "ticker": "ONDS",
+        "title": "Ondas Holdings Inc.",
+        "sector": "Technology"
+    },
+    "BTCT": {
+        "cik_str": 1796514,
+        "ticker": "BTCT",
+        "title": "BTC Digital Ltd.",
+        "sector": "Technology"
+    },
+    "MTC": {
+        "cik_str": 1742518,
+        "ticker": "MTC",
+        "title": "MMTec, Inc.",
+        "sector": "Technology"
+    },
+    "BEEM": {
+        "cik_str": 1398805,
+        "ticker": "BEEM",
+        "title": "Beam Global",
+        "sector": "Technology"
+    },
+    "EAXR": {
+        "cik_str": 832370,
+        "ticker": "EAXR",
+        "title": "Ealixir, Inc.",
+        "sector": "Technology"
+    },
+    "KTCC": {
+        "cik_str": 719733,
+        "ticker": "KTCC",
+        "title": "KEY TRONIC CORP",
+        "sector": "Technology"
+    },
+    "WFCF": {
+        "cik_str": 1360565,
+        "ticker": "WFCF",
+        "title": "Where Food Comes From, Inc.",
+        "sector": "Technology"
+    },
+    "TYGO": {
+        "cik_str": 1855447,
+        "ticker": "TYGO",
+        "title": "TIGO ENERGY, INC.",
+        "sector": "Technology"
+    },
+    "CIIT": {
+        "cik_str": 1557798,
+        "ticker": "CIIT",
+        "title": "Tianci International, Inc.",
+        "sector": "Technology"
+    },
+    "LPTH": {
+        "cik_str": 889971,
+        "ticker": "LPTH",
+        "title": "LIGHTPATH TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "ITMSF": {
+        "cik_str": 1285170,
+        "ticker": "ITMSF",
+        "title": "INTERMAP TECHNOLOGIES CORP",
+        "sector": "Technology"
+    },
+    "BMTX": {
+        "cik_str": 1725872,
+        "ticker": "BMTX",
+        "title": "BM Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "LUNA": {
+        "cik_str": 1239819,
+        "ticker": "LUNA",
+        "title": "LUNA INNOVATIONS INC",
+        "sector": "Technology"
+    },
+    "RDZN": {
+        "cik_str": 1868640,
+        "ticker": "RDZN",
+        "title": "Roadzen Inc.",
+        "sector": "Technology"
+    },
+    "WHEN": {
+        "cik_str": 943535,
+        "ticker": "WHEN",
+        "title": "WORLD HEALTH ENERGY HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "SELX": {
+        "cik_str": 1990950,
+        "ticker": "SELX",
+        "title": "Semilux International Ltd.",
+        "sector": "Technology"
+    },
+    "SWVL": {
+        "cik_str": 1875609,
+        "ticker": "SWVL",
+        "title": "Swvl Holdings Corp",
+        "sector": "Technology"
+    },
+    "BTTC": {
+        "cik_str": 1066764,
+        "ticker": "BTTC",
+        "title": "Bitech Technologies Corp",
+        "sector": "Technology"
+    },
+    "AIXI": {
+        "cik_str": 1935172,
+        "ticker": "AIXI",
+        "title": "Xiao-I Corp",
+        "sector": "Technology"
+    },
+    "FTCI": {
+        "cik_str": 1828161,
+        "ticker": "FTCI",
+        "title": "FTC Solar, Inc.",
+        "sector": "Technology"
+    },
+    "IDN": {
+        "cik_str": 1040896,
+        "ticker": "IDN",
+        "title": "Intellicheck, Inc.",
+        "sector": "Technology"
+    },
+    "MSAI": {
+        "cik_str": 1863990,
+        "ticker": "MSAI",
+        "title": "MultiSensor AI Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "GRRR": {
+        "cik_str": 1903145,
+        "ticker": "GRRR",
+        "title": "Gorilla Technology Group Inc.",
+        "sector": "Technology"
+    },
+    "MPAD": {
+        "cik_str": 65759,
+        "ticker": "MPAD",
+        "title": "MICROPAC INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "RIVF": {
+        "cik_str": 1342936,
+        "ticker": "RIVF",
+        "title": "Rivulet Entertainment, Inc.",
+        "sector": "Technology"
+    },
+    "OSS": {
+        "cik_str": 1394056,
+        "ticker": "OSS",
+        "title": "ONE STOP SYSTEMS, INC.",
+        "sector": "Technology"
+    },
+    "CPTN": {
+        "cik_str": 1498233,
+        "ticker": "CPTN",
+        "title": "Cepton, Inc.",
+        "sector": "Technology"
+    },
+    "WYY": {
+        "cik_str": 1034760,
+        "ticker": "WYY",
+        "title": "WIDEPOINT CORP",
+        "sector": "Technology"
+    },
+    "FKWL": {
+        "cik_str": 722572,
+        "ticker": "FKWL",
+        "title": "FRANKLIN WIRELESS CORP",
+        "sector": "Technology"
+    },
+    "JG": {
+        "cik_str": 1737339,
+        "ticker": "JG",
+        "title": "Aurora Mobile Ltd",
+        "sector": "Technology"
+    },
+    "SMXT": {
+        "cik_str": 1519472,
+        "ticker": "SMXT",
+        "title": "SolarMax Technology, Inc.",
+        "sector": "Technology"
+    },
+    "AKOM": {
+        "cik_str": 1590496,
+        "ticker": "AKOM",
+        "title": "Aerkomm Inc.",
+        "sector": "Technology"
+    },
+    "EBON": {
+        "cik_str": 1799290,
+        "ticker": "EBON",
+        "title": "Ebang International Holdings Inc.",
+        "sector": "Technology"
+    },
+    "LINK": {
+        "cik_str": 828146,
+        "ticker": "LINK",
+        "title": "INTERLINK ELECTRONICS INC",
+        "sector": "Technology"
+    },
+    "ACFN": {
+        "cik_str": 880984,
+        "ticker": "ACFN",
+        "title": "ACORN ENERGY, INC.",
+        "sector": "Technology"
+    },
+    "SYT": {
+        "cik_str": 1946216,
+        "ticker": "SYT",
+        "title": "SYLA Technologies Co., Ltd.",
+        "sector": "Technology"
+    },
+    "FOXX": {
+        "cik_str": 2013807,
+        "ticker": "FOXX",
+        "title": "Foxx Development Holdings Inc.",
+        "sector": "Technology"
+    },
+    "SPRU": {
+        "cik_str": 1772720,
+        "ticker": "SPRU",
+        "title": "SPRUCE POWER HOLDING CORP",
+        "sector": "Technology"
+    },
+    "HOLO": {
+        "cik_str": 1841209,
+        "ticker": "HOLO",
+        "title": "MicroCloud Hologram Inc.",
+        "sector": "Technology"
+    },
+    "PXLW": {
+        "cik_str": 1040161,
+        "ticker": "PXLW",
+        "title": "PIXELWORKS, INC",
+        "sector": "Technology"
+    },
+    "AGMH": {
+        "cik_str": 1705402,
+        "ticker": "AGMH",
+        "title": "AGM GROUP HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "CLOQ": {
+        "cik_str": 1437517,
+        "ticker": "CLOQ",
+        "title": "CYBERLOQ TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "ALMU": {
+        "cik_str": 1828805,
+        "ticker": "ALMU",
+        "title": "Aeluma, Inc.",
+        "sector": "Technology"
+    },
+    "SKKY": {
+        "cik_str": 1546853,
+        "ticker": "SKKY",
+        "title": "Skkynet Cloud Systems, Inc.",
+        "sector": "Technology"
+    },
+    "NA": {
+        "cik_str": 1872302,
+        "ticker": "NA",
+        "title": "Nano Labs Ltd",
+        "sector": "Technology"
+    },
+    "DSWL": {
+        "cik_str": 946936,
+        "ticker": "DSWL",
+        "title": "DESWELL INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "VSTE": {
+        "cik_str": 1964630,
+        "ticker": "VSTE",
+        "title": "Vast Renewables Ltd",
+        "sector": "Technology"
+    },
+    "BMR": {
+        "cik_str": 1899005,
+        "ticker": "BMR",
+        "title": "Beamr Imaging Ltd.",
+        "sector": "Technology"
+    },
+    "USIO": {
+        "cik_str": 1088034,
+        "ticker": "USIO",
+        "title": "Usio, Inc.",
+        "sector": "Technology"
+    },
+    "NAHD": {
+        "cik_str": 1485029,
+        "ticker": "NAHD",
+        "title": "New Asia Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "MNDO": {
+        "cik_str": 1119083,
+        "ticker": "MNDO",
+        "title": "MIND CTI LTD",
+        "sector": "Technology"
+    },
+    "TACT": {
+        "cik_str": 1017303,
+        "ticker": "TACT",
+        "title": "TRANSACT TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "DUOT": {
+        "cik_str": 1396536,
+        "ticker": "DUOT",
+        "title": "DUOS TECHNOLOGIES GROUP, INC.",
+        "sector": "Technology"
+    },
+    "XBP": {
+        "cik_str": 1839530,
+        "ticker": "XBP",
+        "title": "XBP Europe Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "ZEPP": {
+        "cik_str": 1720446,
+        "ticker": "ZEPP",
+        "title": "Zepp Health Corp",
+        "sector": "Technology"
+    },
+    "HKIT": {
+        "cik_str": 1742341,
+        "ticker": "HKIT",
+        "title": "HiTek Global Inc.",
+        "sector": "Technology"
+    },
+    "MOGO": {
+        "cik_str": 1602842,
+        "ticker": "MOGO",
+        "title": "Mogo Inc.",
+        "sector": "Technology"
+    },
+    "ISDR": {
+        "cik_str": 843006,
+        "ticker": "ISDR",
+        "title": "ISSUER DIRECT CORP",
+        "sector": "Technology"
+    },
+    "SURG": {
+        "cik_str": 1392694,
+        "ticker": "SURG",
+        "title": "SurgePays, Inc.",
+        "sector": "Technology"
+    },
+    "SODI": {
+        "cik_str": 91668,
+        "ticker": "SODI",
+        "title": "SOLITRON DEVICES INC",
+        "sector": "Technology"
+    },
+    "MYNA": {
+        "cik_str": 1850453,
+        "ticker": "MYNA",
+        "title": "Mynaric AG",
+        "sector": "Technology"
+    },
+    "CREX": {
+        "cik_str": 1356093,
+        "ticker": "CREX",
+        "title": "CREATIVE REALITIES, INC.",
+        "sector": "Technology"
+    },
+    "MLGO": {
+        "cik_str": 1800392,
+        "ticker": "MLGO",
+        "title": "MicroAlgo Inc.",
+        "sector": "Technology"
+    },
+    "CRMZ": {
+        "cik_str": 315958,
+        "ticker": "CRMZ",
+        "title": "CREDITRISKMONITOR COM INC",
+        "sector": "Technology"
+    },
+    "AITX": {
+        "cik_str": 1498148,
+        "ticker": "AITX",
+        "title": "Artificial Intelligence Technology Solutions Inc.",
+        "sector": "Technology"
+    },
+    "LGL": {
+        "cik_str": 61004,
+        "ticker": "LGL",
+        "title": "LGL GROUP INC",
+        "sector": "Technology"
+    },
+    "OPTX": {
+        "cik_str": 1866816,
+        "ticker": "OPTX",
+        "title": "SYNTEC OPTICS HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "BNAI": {
+        "cik_str": 1838163,
+        "ticker": "BNAI",
+        "title": "Brand Engagement Network Inc.",
+        "sector": "Technology"
+    },
+    "GWSO": {
+        "cik_str": 1430300,
+        "ticker": "GWSO",
+        "title": "Global Warming Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "LTCH": {
+        "cik_str": 1826000,
+        "ticker": "LTCH",
+        "title": "Latch, Inc.",
+        "sector": "Technology"
+    },
+    "FAAS": {
+        "cik_str": 1844981,
+        "ticker": "FAAS",
+        "title": "DIGIASIA CORP.",
+        "sector": "Technology"
+    },
+    "BTCM": {
+        "cik_str": 1517496,
+        "ticker": "BTCM",
+        "title": "BIT Mining Ltd",
+        "sector": "Technology"
+    },
+    "INUV": {
+        "cik_str": 829323,
+        "ticker": "INUV",
+        "title": "Inuvo, Inc.",
+        "sector": "Technology"
+    },
+    "AWRE": {
+        "cik_str": 1015739,
+        "ticker": "AWRE",
+        "title": "AWARE INC /MA/",
+        "sector": "Technology"
+    },
+    "CLPS": {
+        "cik_str": 1724542,
+        "ticker": "CLPS",
+        "title": "CLPS Inc",
+        "sector": "Technology"
+    },
+    "MIND": {
+        "cik_str": 926423,
+        "ticker": "MIND",
+        "title": "MIND TECHNOLOGY, INC",
+        "sector": "Technology"
+    },
+    "CMBM": {
+        "cik_str": 1738177,
+        "ticker": "CMBM",
+        "title": "Cambium Networks Corp",
+        "sector": "Technology"
+    },
+    "ALTS": {
+        "cik_str": 862861,
+        "ticker": "ALTS",
+        "title": "ALT5 Sigma Corp",
+        "sector": "Technology"
+    },
+    "STEC": {
+        "cik_str": 1785680,
+        "ticker": "STEC",
+        "title": "Santech Holdings Ltd",
+        "sector": "Technology"
+    },
+    "NTWK": {
+        "cik_str": 1039280,
+        "ticker": "NTWK",
+        "title": "NETSOL TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "ZENA": {
+        "cik_str": 1997403,
+        "ticker": "ZENA",
+        "title": "ZenaTech, Inc.",
+        "sector": "Technology"
+    },
+    "TRT": {
+        "cik_str": 732026,
+        "ticker": "TRT",
+        "title": "TRIO-TECH INTERNATIONAL",
+        "sector": "Technology"
+    },
+    "MMTIF": {
+        "cik_str": 1085921,
+        "ticker": "MMTIF",
+        "title": "MICROMEM TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "KPLT": {
+        "cik_str": 1785424,
+        "ticker": "KPLT",
+        "title": "Katapult Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "DTST": {
+        "cik_str": 1419951,
+        "ticker": "DTST",
+        "title": "Data Storage Corp",
+        "sector": "Technology"
+    },
+    "DZSI": {
+        "cik_str": 1101680,
+        "ticker": "DZSI",
+        "title": "DZS INC.",
+        "sector": "Technology"
+    },
+    "EMKR": {
+        "cik_str": 808326,
+        "ticker": "EMKR",
+        "title": "EMCORE CORP",
+        "sector": "Technology"
+    },
+    "IZM": {
+        "cik_str": 1854572,
+        "ticker": "IZM",
+        "title": "ICZOOM Group Inc.",
+        "sector": "Technology"
+    },
+    "UTSI": {
+        "cik_str": 1030471,
+        "ticker": "UTSI",
+        "title": "UTSTARCOM HOLDINGS CORP.",
+        "sector": "Technology"
+    },
+    "KNW": {
+        "cik_str": 1074828,
+        "ticker": "KNW",
+        "title": "KNOW LABS, INC.",
+        "sector": "Technology"
+    },
+    "BTQQF": {
+        "cik_str": 1821866,
+        "ticker": "BTQQF",
+        "title": "Sonora Gold & Silver Corp.",
+        "sector": "Technology"
+    },
+    "HTCR": {
+        "cik_str": 1892322,
+        "ticker": "HTCR",
+        "title": "HeartCore Enterprises, Inc.",
+        "sector": "Technology"
+    },
+    "AIFF": {
+        "cik_str": 803578,
+        "ticker": "AIFF",
+        "title": "FIREFLY NEUROSCIENCE, INC.",
+        "sector": "Technology"
+    },
+    "SAIH": {
+        "cik_str": 1847075,
+        "ticker": "SAIH",
+        "title": "SAIHEAT Ltd",
+        "sector": "Technology"
+    },
+    "XTKG": {
+        "cik_str": 1754323,
+        "ticker": "XTKG",
+        "title": "X3 Holdings Co., Ltd.",
+        "sector": "Technology"
+    },
+    "INVU": {
+        "cik_str": 862651,
+        "ticker": "INVU",
+        "title": "Investview, Inc.",
+        "sector": "Technology"
+    },
+    "DAIO": {
+        "cik_str": 351998,
+        "ticker": "DAIO",
+        "title": "DATA I/O CORP",
+        "sector": "Technology"
+    },
+    "AXIL": {
+        "cik_str": 1718500,
+        "ticker": "AXIL",
+        "title": "Axil Brands, Inc.",
+        "sector": "Technology"
+    },
+    "PAYD": {
+        "cik_str": 1017655,
+        "ticker": "PAYD",
+        "title": "PAID INC",
+        "sector": "Technology"
+    },
+    "NVNI": {
+        "cik_str": 1965143,
+        "ticker": "NVNI",
+        "title": "Nvni Group Ltd",
+        "sector": "Technology"
+    },
+    "NXPL": {
+        "cik_str": 1058307,
+        "ticker": "NXPL",
+        "title": "NextPlat Corp",
+        "sector": "Technology"
+    },
+    "SCIA": {
+        "cik_str": 830616,
+        "ticker": "SCIA",
+        "title": "SCI Engineered Materials, Inc.",
+        "sector": "Technology"
+    },
+    "FEBO": {
+        "cik_str": 1957001,
+        "ticker": "FEBO",
+        "title": "Fenbo Holdings Ltd",
+        "sector": "Technology"
+    },
+    "CBBB": {
+        "cik_str": 1477960,
+        "ticker": "CBBB",
+        "title": "Catalyst Crew Technologies Corp.",
+        "sector": "Technology"
+    },
+    "WCT": {
+        "cik_str": 1990251,
+        "ticker": "WCT",
+        "title": "Wellchange Holdings Co Ltd",
+        "sector": "Technology"
+    },
+    "CXAI": {
+        "cik_str": 1820875,
+        "ticker": "CXAI",
+        "title": "CXApp Inc.",
+        "sector": "Technology"
+    },
+    "IEHC": {
+        "cik_str": 50292,
+        "ticker": "IEHC",
+        "title": "IEH Corp",
+        "sector": "Technology"
+    },
+    "CPSH": {
+        "cik_str": 814676,
+        "ticker": "CPSH",
+        "title": "CPS TECHNOLOGIES CORP/DE/",
+        "sector": "Technology"
+    },
+    "OCC": {
+        "cik_str": 1000230,
+        "ticker": "OCC",
+        "title": "OPTICAL CABLE CORP",
+        "sector": "Technology"
+    },
+    "CNTM": {
+        "cik_str": 1895249,
+        "ticker": "CNTM",
+        "title": "ConnectM Technology Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "MFON": {
+        "cik_str": 1447380,
+        "ticker": "MFON",
+        "title": "MOBIVITY HOLDINGS CORP.",
+        "sector": "Technology"
+    },
+    "SPPL": {
+        "cik_str": 1948697,
+        "ticker": "SPPL",
+        "title": "SIMPPLE LTD.",
+        "sector": "Technology"
+    },
+    "BOSC": {
+        "cik_str": 1005516,
+        "ticker": "BOSC",
+        "title": "BOS BETTER ONLINE SOLUTIONS LTD",
+        "sector": "Technology"
+    },
+    "VHC": {
+        "cik_str": 1082324,
+        "ticker": "VHC",
+        "title": "VirnetX Holding Corp",
+        "sector": "Technology"
+    },
+    "FCUV": {
+        "cik_str": 1590418,
+        "ticker": "FCUV",
+        "title": "FOCUS UNIVERSAL INC.",
+        "sector": "Technology"
+    },
+    "PKKFF": {
+        "cik_str": 1558924,
+        "ticker": "PKKFF",
+        "title": "Tenet Fintech Group Inc.",
+        "sector": "Technology"
+    },
+    "MHUBF": {
+        "cik_str": 1869137,
+        "ticker": "MHUBF",
+        "title": "MineHub Technologies Inc.",
+        "sector": "Technology"
+    },
+    "WKEY": {
+        "cik_str": 1738699,
+        "ticker": "WKEY",
+        "title": "Wisekey International Holding S.A.",
+        "sector": "Technology"
+    },
+    "MOBX": {
+        "cik_str": 1855467,
+        "ticker": "MOBX",
+        "title": "MOBIX LABS, INC",
+        "sector": "Technology"
+    },
+    "DTSS": {
+        "cik_str": 1631282,
+        "ticker": "DTSS",
+        "title": "DATASEA INC.",
+        "sector": "Technology"
+    },
+    "QURT": {
+        "cik_str": 1549631,
+        "ticker": "QURT",
+        "title": "Quarta-Rad, Inc.",
+        "sector": "Technology"
+    },
+    "MTBLY": {
+        "cik_str": 1509223,
+        "ticker": "MTBLY",
+        "title": "Moatable, Inc.",
+        "sector": "Technology"
+    },
+    "TURB": {
+        "cik_str": 1963439,
+        "ticker": "TURB",
+        "title": "Turbo Energy, S.A.",
+        "sector": "Technology"
+    },
+    "JDZG": {
+        "cik_str": 1976908,
+        "ticker": "JDZG",
+        "title": "JIADE Ltd",
+        "sector": "Technology"
+    },
+    "EZFL": {
+        "cik_str": 1817004,
+        "ticker": "EZFL",
+        "title": "EzFill Holdings Inc",
+        "sector": "Technology"
+    },
+    "PALT": {
+        "cik_str": 1355839,
+        "ticker": "PALT",
+        "title": "PALTALK, INC.",
+        "sector": "Technology"
+    },
+    "QMCO": {
+        "cik_str": 709283,
+        "ticker": "QMCO",
+        "title": "QUANTUM CORP /DE/",
+        "sector": "Technology"
+    },
+    "NXTT": {
+        "cik_str": 1784970,
+        "ticker": "NXTT",
+        "title": "Next Technology Holding Inc.",
+        "sector": "Technology"
+    },
+    "SGMA": {
+        "cik_str": 915358,
+        "ticker": "SGMA",
+        "title": "SIGMATRON INTERNATIONAL INC",
+        "sector": "Technology"
+    },
+    "HUBC": {
+        "cik_str": 1905660,
+        "ticker": "HUBC",
+        "title": "Hub Cyber Security Ltd.",
+        "sector": "Technology"
+    },
+    "TAIT": {
+        "cik_str": 942126,
+        "ticker": "TAIT",
+        "title": "TAITRON COMPONENTS INC",
+        "sector": "Technology"
+    },
+    "MAPPF": {
+        "cik_str": 1493130,
+        "ticker": "MAPPF",
+        "title": "PROSTAR HOLDINGS INC. /BC",
+        "sector": "Technology"
+    },
+    "AKTS": {
+        "cik_str": 1584754,
+        "ticker": "AKTS",
+        "title": "Akoustis Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "JFU": {
+        "cik_str": 1619544,
+        "ticker": "JFU",
+        "title": "9F Inc.",
+        "sector": "Technology"
+    },
+    "SONM": {
+        "cik_str": 1178697,
+        "ticker": "SONM",
+        "title": "SONIM TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "ARBB": {
+        "cik_str": 1930179,
+        "ticker": "ARBB",
+        "title": "ARB IOT Group Ltd",
+        "sector": "Technology"
+    },
+    "ELSE": {
+        "cik_str": 351789,
+        "ticker": "ELSE",
+        "title": "ELECTRO SENSORS INC",
+        "sector": "Technology"
+    },
+    "WISA": {
+        "cik_str": 1682149,
+        "ticker": "WISA",
+        "title": "WISA TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "HLRTF": {
+        "cik_str": 1418149,
+        "ticker": "HLRTF",
+        "title": "Hillcrest Energy Technologies Ltd.",
+        "sector": "Technology"
+    },
+    "SYNX": {
+        "cik_str": 1976443,
+        "ticker": "SYNX",
+        "title": "Silynxcom Ltd.",
+        "sector": "Technology"
+    },
+    "APCX": {
+        "cik_str": 1070050,
+        "ticker": "APCX",
+        "title": "AppTech Payments Corp.",
+        "sector": "Technology"
+    },
+    "KSEZ": {
+        "cik_str": 1945619,
+        "ticker": "KSEZ",
+        "title": "Kinetic Seas Inc.",
+        "sector": "Technology"
+    },
+    "CISO": {
+        "cik_str": 1777319,
+        "ticker": "CISO",
+        "title": "CISO Global, Inc.",
+        "sector": "Technology"
+    },
+    "MTEK": {
+        "cik_str": 1872964,
+        "ticker": "MTEK",
+        "title": "Maris Tech Ltd.",
+        "sector": "Technology"
+    },
+    "LAES": {
+        "cik_str": 1951222,
+        "ticker": "LAES",
+        "title": "SEALSQ Corp",
+        "sector": "Technology"
+    },
+    "CYN": {
+        "cik_str": 1874097,
+        "ticker": "CYN",
+        "title": "Cyngn Inc.",
+        "sector": "Technology"
+    },
+    "SMSI": {
+        "cik_str": 948708,
+        "ticker": "SMSI",
+        "title": "SMITH MICRO SOFTWARE, INC.",
+        "sector": "Technology"
+    },
+    "KWIK": {
+        "cik_str": 1884164,
+        "ticker": "KWIK",
+        "title": "KwikClick, Inc.",
+        "sector": "Technology"
+    },
+    "ONEI": {
+        "cik_str": 1388295,
+        "ticker": "ONEI",
+        "title": "OneMeta Inc.",
+        "sector": "Technology"
+    },
+    "ASTC": {
+        "cik_str": 1001907,
+        "ticker": "ASTC",
+        "title": "ASTROTECH Corp",
+        "sector": "Technology"
+    },
+    "SPRS": {
+        "cik_str": 747540,
+        "ticker": "SPRS",
+        "title": "SURGE COMPONENTS INC",
+        "sector": "Technology"
+    },
+    "CRTG": {
+        "cik_str": 1375195,
+        "ticker": "CRTG",
+        "title": "CORETEC GROUP INC.",
+        "sector": "Technology"
+    },
+    "CLRO": {
+        "cik_str": 840715,
+        "ticker": "CLRO",
+        "title": "CLEARONE INC",
+        "sector": "Technology"
+    },
+    "SVMB": {
+        "cik_str": 1647822,
+        "ticker": "SVMB",
+        "title": "Jingbo Technology, Inc.",
+        "sector": "Technology"
+    },
+    "BLIN": {
+        "cik_str": 1378590,
+        "ticker": "BLIN",
+        "title": "Bridgeline Digital, Inc.",
+        "sector": "Technology"
+    },
+    "SCKT": {
+        "cik_str": 944075,
+        "ticker": "SCKT",
+        "title": "SOCKET MOBILE, INC.",
+        "sector": "Technology"
+    },
+    "CYCA": {
+        "cik_str": 1383088,
+        "ticker": "CYCA",
+        "title": "CYTTA CORP.",
+        "sector": "Technology"
+    },
+    "SUIC": {
+        "cik_str": 1394108,
+        "ticker": "SUIC",
+        "title": "SUIC Worldwide Holdings Ltd.",
+        "sector": "Technology"
+    },
+    "VRAR": {
+        "cik_str": 1854445,
+        "ticker": "VRAR",
+        "title": "Glimpse Group, Inc.",
+        "sector": "Technology"
+    },
+    "VISL": {
+        "cik_str": 1565228,
+        "ticker": "VISL",
+        "title": "Vislink Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "RYDE": {
+        "cik_str": 1971115,
+        "ticker": "RYDE",
+        "title": "Ryde Group Ltd",
+        "sector": "Technology"
+    },
+    "GMM": {
+        "cik_str": 1913749,
+        "ticker": "GMM",
+        "title": "Global Mofy AI Ltd",
+        "sector": "Technology"
+    },
+    "VMNT": {
+        "cik_str": 1605057,
+        "ticker": "VMNT",
+        "title": "Vemanti Group, Inc.",
+        "sector": "Technology"
+    },
+    "LEDS": {
+        "cik_str": 1333822,
+        "ticker": "LEDS",
+        "title": "SemiLEDs Corp",
+        "sector": "Technology"
+    },
+    "SPI": {
+        "cik_str": 1210618,
+        "ticker": "SPI",
+        "title": "SPI Energy Co., Ltd.",
+        "sector": "Technology"
+    },
+    "AMPG": {
+        "cik_str": 1518461,
+        "ticker": "AMPG",
+        "title": "AmpliTech Group, Inc.",
+        "sector": "Technology"
+    },
+    "GUER": {
+        "cik_str": 1832487,
+        "ticker": "GUER",
+        "title": "Guerrilla RF, Inc.",
+        "sector": "Technology"
+    },
+    "MFI": {
+        "cik_str": 1940941,
+        "ticker": "MFI",
+        "title": "mF International Ltd",
+        "sector": "Technology"
+    },
+    "DSNY": {
+        "cik_str": 1099369,
+        "ticker": "DSNY",
+        "title": "DESTINY MEDIA TECHNOLOGIES INC",
+        "sector": "Technology"
+    },
+    "LCTC": {
+        "cik_str": 1493137,
+        "ticker": "LCTC",
+        "title": "Lifeloc Technologies, Inc",
+        "sector": "Technology"
+    },
+    "PET": {
+        "cik_str": 1842356,
+        "ticker": "PET",
+        "title": "Wag! Group Co.",
+        "sector": "Technology"
+    },
+    "LDTC": {
+        "cik_str": 1981462,
+        "ticker": "LDTC",
+        "title": "LeddarTech Holdings Inc.",
+        "sector": "Technology"
+    },
+    "MSN": {
+        "cik_str": 32621,
+        "ticker": "MSN",
+        "title": "EMERSON RADIO CORP",
+        "sector": "Technology"
+    },
+    "DPLS": {
+        "cik_str": 866439,
+        "ticker": "DPLS",
+        "title": "DarkPulse, Inc.",
+        "sector": "Technology"
+    },
+    "FTFT": {
+        "cik_str": 1066923,
+        "ticker": "FTFT",
+        "title": "Future FinTech Group Inc.",
+        "sector": "Technology"
+    },
+    "BNZI": {
+        "cik_str": 1826011,
+        "ticker": "BNZI",
+        "title": "Banzai International, Inc.",
+        "sector": "Technology"
+    },
+    "BLBX": {
+        "cik_str": 1567900,
+        "ticker": "BLBX",
+        "title": "BLACKBOXSTOCKS INC.",
+        "sector": "Technology"
+    },
+    "CTM": {
+        "cik_str": 1877939,
+        "ticker": "CTM",
+        "title": "Castellum, Inc.",
+        "sector": "Technology"
+    },
+    "UBXG": {
+        "cik_str": 1888525,
+        "ticker": "UBXG",
+        "title": "U-BX Technology Ltd.",
+        "sector": "Technology"
+    },
+    "WTO": {
+        "cik_str": 1789299,
+        "ticker": "WTO",
+        "title": "UTime Ltd",
+        "sector": "Technology"
+    },
+    "VSMR": {
+        "cik_str": 1370292,
+        "ticker": "VSMR",
+        "title": "VERIFY SMART CORP.",
+        "sector": "Technology"
+    },
+    "CAUD": {
+        "cik_str": 1854583,
+        "ticker": "CAUD",
+        "title": "Collective Audience, Inc.",
+        "sector": "Technology"
+    },
+    "LIDR": {
+        "cik_str": 1818644,
+        "ticker": "LIDR",
+        "title": "AEye, Inc.",
+        "sector": "Technology"
+    },
+    "SRCO": {
+        "cik_str": 318299,
+        "ticker": "SRCO",
+        "title": "SPARTA COMMERCIAL SERVICES, INC.",
+        "sector": "Technology"
+    },
+    "MOB": {
+        "cik_str": 1898643,
+        "ticker": "MOB",
+        "title": "Mobilicom Ltd",
+        "sector": "Technology"
+    },
+    "HLEO": {
+        "cik_str": 1953988,
+        "ticker": "HLEO",
+        "title": "Helio Corp /FL/",
+        "sector": "Technology"
+    },
+    "VERB": {
+        "cik_str": 1566610,
+        "ticker": "VERB",
+        "title": "Verb Technology Company, Inc.",
+        "sector": "Technology"
+    },
+    "ELWS": {
+        "cik_str": 1944399,
+        "ticker": "ELWS",
+        "title": "Earlyworks Co., Ltd.",
+        "sector": "Technology"
+    },
+    "RVYL": {
+        "cik_str": 1419275,
+        "ticker": "RVYL",
+        "title": "RYVYL Inc.",
+        "sector": "Technology"
+    },
+    "VLDX": {
+        "cik_str": 1825079,
+        "ticker": "VLDX",
+        "title": "Velo3D, Inc.",
+        "sector": "Technology"
+    },
+    "SDCH": {
+        "cik_str": 1022505,
+        "ticker": "SDCH",
+        "title": "SideChannel, Inc.",
+        "sector": "Technology"
+    },
+    "SCND": {
+        "cik_str": 87802,
+        "ticker": "SCND",
+        "title": "SCIENTIFIC INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "BRQSF": {
+        "cik_str": 1650575,
+        "ticker": "BRQSF",
+        "title": "Borqs Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "HWNI": {
+        "cik_str": 1413891,
+        "ticker": "HWNI",
+        "title": "HIGH WIRE NETWORKS, INC.",
+        "sector": "Technology"
+    },
+    "TGCB": {
+        "cik_str": 1815632,
+        "ticker": "TGCB",
+        "title": "Tego Cyber, Inc.",
+        "sector": "Technology"
+    },
+    "ASNS": {
+        "cik_str": 1141284,
+        "ticker": "ASNS",
+        "title": "ACTELIS NETWORKS INC",
+        "sector": "Technology"
+    },
+    "AIAD": {
+        "cik_str": 743758,
+        "ticker": "AIAD",
+        "title": "AiAdvertising, Inc.",
+        "sector": "Technology"
+    },
+    "BBLR": {
+        "cik_str": 1873722,
+        "ticker": "BBLR",
+        "title": "Bubblr Inc.",
+        "sector": "Technology"
+    },
+    "APYP": {
+        "cik_str": 1568969,
+        "ticker": "APYP",
+        "title": "APPYEA, INC",
+        "sector": "Technology"
+    },
+    "VVPR": {
+        "cik_str": 1681348,
+        "ticker": "VVPR",
+        "title": "VivoPower International PLC",
+        "sector": "Technology"
+    },
+    "VBIX": {
+        "cik_str": 797542,
+        "ticker": "VBIX",
+        "title": "Viewbix Inc.",
+        "sector": "Technology"
+    },
+    "XELA": {
+        "cik_str": 1620179,
+        "ticker": "XELA",
+        "title": "Exela Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "AMST": {
+        "cik_str": 1807166,
+        "ticker": "AMST",
+        "title": "Amesite Inc.",
+        "sector": "Technology"
+    },
+    "UCLE": {
+        "cik_str": 1543623,
+        "ticker": "UCLE",
+        "title": "US NUCLEAR CORP.",
+        "sector": "Technology"
+    },
+    "TNLX": {
+        "cik_str": 99106,
+        "ticker": "TNLX",
+        "title": "TRANS LUX Corp",
+        "sector": "Technology"
+    },
+    "TRCC": {
+        "cik_str": 1843875,
+        "ticker": "TRCC",
+        "title": "TRACCOM INC.",
+        "sector": "Technology"
+    },
+    "MRIN": {
+        "cik_str": 1389002,
+        "ticker": "MRIN",
+        "title": "MARIN SOFTWARE INC",
+        "sector": "Technology"
+    },
+    "ULY": {
+        "cik_str": 1603652,
+        "ticker": "ULY",
+        "title": "Urgent.ly Inc.",
+        "sector": "Technology"
+    },
+    "MITQ": {
+        "cik_str": 1770236,
+        "ticker": "MITQ",
+        "title": "MOVING iMAGE TECHNOLOGIES INC.",
+        "sector": "Technology"
+    },
+    "DATS": {
+        "cik_str": 1648960,
+        "ticker": "DATS",
+        "title": "DatChat, Inc.",
+        "sector": "Technology"
+    },
+    "HMBL": {
+        "cik_str": 1119190,
+        "ticker": "HMBL",
+        "title": "HUMBL, INC.",
+        "sector": "Technology"
+    },
+    "JNVR": {
+        "cik_str": 1805526,
+        "ticker": "JNVR",
+        "title": "Janover Inc.",
+        "sector": "Technology"
+    },
+    "IONI": {
+        "cik_str": 1580490,
+        "ticker": "IONI",
+        "title": "I-ON Digital Corp.",
+        "sector": "Technology"
+    },
+    "SMTK": {
+        "cik_str": 1817760,
+        "ticker": "SMTK",
+        "title": "SmartKem, Inc.",
+        "sector": "Technology"
+    },
+    "GETR": {
+        "cik_str": 1839608,
+        "ticker": "GETR",
+        "title": "Getaround, Inc",
+        "sector": "Technology"
+    },
+    "BCAN": {
+        "cik_str": 1888151,
+        "ticker": "BCAN",
+        "title": "Femto Technologies Inc.",
+        "sector": "Technology"
+    },
+    "ATCH": {
+        "cik_str": 1963088,
+        "ticker": "ATCH",
+        "title": "AtlasClear Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "CETX": {
+        "cik_str": 1435064,
+        "ticker": "CETX",
+        "title": "CEMTREX INC",
+        "sector": "Technology"
+    },
+    "MARK": {
+        "cik_str": 1368365,
+        "ticker": "MARK",
+        "title": "REMARK HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "INTZ": {
+        "cik_str": 736012,
+        "ticker": "INTZ",
+        "title": "INTRUSION INC",
+        "sector": "Technology"
+    },
+    "LGIQ": {
+        "cik_str": 1335112,
+        "ticker": "LGIQ",
+        "title": "LOGIQ, INC.",
+        "sector": "Technology"
+    },
+    "PTOP": {
+        "cik_str": 1421981,
+        "ticker": "PTOP",
+        "title": "Peer To Peer Network",
+        "sector": "Technology"
+    },
+    "JTAI": {
+        "cik_str": 1861622,
+        "ticker": "JTAI",
+        "title": "Jet.AI Inc.",
+        "sector": "Technology"
+    },
+    "RBTC": {
+        "cik_str": 1862068,
+        "ticker": "RBTC",
+        "title": "Rubicon Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "XYLB": {
+        "cik_str": 1577351,
+        "ticker": "XYLB",
+        "title": "XY Labs, Inc.",
+        "sector": "Technology"
+    },
+    "NUKK": {
+        "cik_str": 1787518,
+        "ticker": "NUKK",
+        "title": "Nukkleus Inc.",
+        "sector": "Technology"
+    },
+    "GTLL": {
+        "cik_str": 932021,
+        "ticker": "GTLL",
+        "title": "GLOBAL TECHNOLOGIES LTD",
+        "sector": "Technology"
+    },
+    "VS": {
+        "cik_str": 1701963,
+        "ticker": "VS",
+        "title": "Versus Systems Inc.",
+        "sector": "Technology"
+    },
+    "HSTA": {
+        "cik_str": 1813603,
+        "ticker": "HSTA",
+        "title": "Hestia Insight Inc.",
+        "sector": "Technology"
+    },
+    "BOXL": {
+        "cik_str": 1624512,
+        "ticker": "BOXL",
+        "title": "Boxlight Corp",
+        "sector": "Technology"
+    },
+    "LKCO": {
+        "cik_str": 1487839,
+        "ticker": "LKCO",
+        "title": "Luokung Technology Corp.",
+        "sector": "Technology"
+    },
+    "IDAI": {
+        "cik_str": 1718939,
+        "ticker": "IDAI",
+        "title": "T Stamp Inc",
+        "sector": "Technology"
+    },
+    "SYTA": {
+        "cik_str": 1649009,
+        "ticker": "SYTA",
+        "title": "Siyata Mobile Inc.",
+        "sector": "Technology"
+    },
+    "IMTE": {
+        "cik_str": 1668438,
+        "ticker": "IMTE",
+        "title": "Integrated Media Technology Ltd",
+        "sector": "Technology"
+    },
+    "WATT": {
+        "cik_str": 1575793,
+        "ticker": "WATT",
+        "title": "Energous Corp",
+        "sector": "Technology"
+    },
+    "OLB": {
+        "cik_str": 1314196,
+        "ticker": "OLB",
+        "title": "OLB GROUP, INC.",
+        "sector": "Technology"
+    },
+    "RAASY": {
+        "cik_str": 1804583,
+        "ticker": "RAASY",
+        "title": "Cloopen Group Holding Ltd",
+        "sector": "Technology"
+    },
+    "OVTZ": {
+        "cik_str": 1107280,
+        "ticker": "OVTZ",
+        "title": "OCULUS VISIONTECH INC.",
+        "sector": "Technology"
+    },
+    "NRRWF": {
+        "cik_str": 1680637,
+        "ticker": "NRRWF",
+        "title": "Nuran Wireless Inc.",
+        "sector": "Technology"
+    },
+    "OBLG": {
+        "cik_str": 746210,
+        "ticker": "OBLG",
+        "title": "Oblong, Inc.",
+        "sector": "Technology"
+    },
+    "SOBR": {
+        "cik_str": 1425627,
+        "ticker": "SOBR",
+        "title": "SOBR Safe, Inc.",
+        "sector": "Technology"
+    },
+    "SEAV": {
+        "cik_str": 1763660,
+        "ticker": "SEAV",
+        "title": "SEATech Ventures Corp.",
+        "sector": "Technology"
+    },
+    "IFBD": {
+        "cik_str": 1815566,
+        "ticker": "IFBD",
+        "title": "Infobird Co., Ltd",
+        "sector": "Technology"
+    },
+    "OST": {
+        "cik_str": 1803407,
+        "ticker": "OST",
+        "title": "Ostin Technology Group Co., Ltd.",
+        "sector": "Technology"
+    },
+    "SGN": {
+        "cik_str": 1898474,
+        "ticker": "SGN",
+        "title": "Signing Day Sports, Inc.",
+        "sector": "Technology"
+    },
+    "SOPA": {
+        "cik_str": 1817511,
+        "ticker": "SOPA",
+        "title": "SOCIETY PASS INCORPORATED.",
+        "sector": "Technology"
+    },
+    "RIME": {
+        "cik_str": 923601,
+        "ticker": "RIME",
+        "title": "Algorhythm Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "TGL": {
+        "cik_str": 1905956,
+        "ticker": "TGL",
+        "title": "TREASURE GLOBAL INC",
+        "sector": "Technology"
+    },
+    "AUUD": {
+        "cik_str": 1554818,
+        "ticker": "AUUD",
+        "title": "AUDDIA INC.",
+        "sector": "Technology"
+    },
+    "ASTI": {
+        "cik_str": 1350102,
+        "ticker": "ASTI",
+        "title": "Ascent Solar Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "GSTX": {
+        "cik_str": 1497649,
+        "ticker": "GSTX",
+        "title": "Graphene & Solar Technologies Ltd",
+        "sector": "Technology"
+    },
+    "LYT": {
+        "cik_str": 1816319,
+        "ticker": "LYT",
+        "title": "Lytus Technologies Holdings PTV. Ltd.",
+        "sector": "Technology"
+    },
+    "SBIG": {
+        "cik_str": 1801602,
+        "ticker": "SBIG",
+        "title": "SpringBig Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "KCRD": {
+        "cik_str": 1696025,
+        "ticker": "KCRD",
+        "title": "Kindcard, Inc.",
+        "sector": "Technology"
+    },
+    "PRSO": {
+        "cik_str": 890394,
+        "ticker": "PRSO",
+        "title": "Peraso Inc.",
+        "sector": "Technology"
+    },
+    "FRGT": {
+        "cik_str": 1687542,
+        "ticker": "FRGT",
+        "title": "Freight Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "CLRI": {
+        "cik_str": 1362516,
+        "ticker": "CLRI",
+        "title": "Cleartronic, Inc.",
+        "sector": "Technology"
+    },
+    "UAVS": {
+        "cik_str": 8504,
+        "ticker": "UAVS",
+        "title": "AgEagle Aerial Systems Inc.",
+        "sector": "Technology"
+    },
+    "NUGN": {
+        "cik_str": 1593549,
+        "ticker": "NUGN",
+        "title": "Livento Group, Inc.",
+        "sector": "Technology"
+    },
+    "TAOP": {
+        "cik_str": 1552670,
+        "ticker": "TAOP",
+        "title": "Taoping Inc.",
+        "sector": "Technology"
+    },
+    "FWFW": {
+        "cik_str": 1492617,
+        "ticker": "FWFW",
+        "title": "FLYWHEEL ADVANCED TECHNOLOGY, INC.",
+        "sector": "Technology"
+    },
+    "SRAX": {
+        "cik_str": 1538217,
+        "ticker": "SRAX",
+        "title": "SRAX, Inc.",
+        "sector": "Technology"
+    },
+    "VPER": {
+        "cik_str": 1133192,
+        "ticker": "VPER",
+        "title": "VIPER NETWORKS INC",
+        "sector": "Technology"
+    },
+    "ALDS": {
+        "cik_str": 1755101,
+        "ticker": "ALDS",
+        "title": "APPlife Digital Solutions Inc",
+        "sector": "Technology"
+    },
+    "FERN": {
+        "cik_str": 1880419,
+        "ticker": "FERN",
+        "title": "Fernhill Corp",
+        "sector": "Technology"
+    },
+    "TRCK": {
+        "cik_str": 1045942,
+        "ticker": "TRCK",
+        "title": "Track Group, Inc.",
+        "sector": "Technology"
+    },
+    "WLDS": {
+        "cik_str": 1887673,
+        "ticker": "WLDS",
+        "title": "Wearable Devices Ltd.",
+        "sector": "Technology"
+    },
+    "ATMH": {
+        "cik_str": 1484674,
+        "ticker": "ATMH",
+        "title": "ALL THINGS MOBILE ANALYTIC, INC.",
+        "sector": "Technology"
+    },
+    "MLRT": {
+        "cik_str": 1375793,
+        "ticker": "MLRT",
+        "title": "Metalert, Inc.",
+        "sector": "Technology"
+    },
+    "GTCH": {
+        "cik_str": 1471781,
+        "ticker": "GTCH",
+        "title": "GBT Technologies Inc.",
+        "sector": "Technology"
+    },
+    "IPSI": {
+        "cik_str": 1591913,
+        "ticker": "IPSI",
+        "title": "Innovative Payment Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "OMQS": {
+        "cik_str": 278165,
+        "ticker": "OMQS",
+        "title": "OMNIQ Corp.",
+        "sector": "Technology"
+    },
+    "CRCW": {
+        "cik_str": 1688126,
+        "ticker": "CRCW",
+        "title": "Crypto Co",
+        "sector": "Technology"
+    },
+    "VEII": {
+        "cik_str": 1417664,
+        "ticker": "VEII",
+        "title": "Value Exchange International, Inc.",
+        "sector": "Technology"
+    },
+    "SMCE": {
+        "cik_str": 1497230,
+        "ticker": "SMCE",
+        "title": "SMC Entertainment, Inc.",
+        "sector": "Technology"
+    },
+    "MYSZ": {
+        "cik_str": 1211805,
+        "ticker": "MYSZ",
+        "title": "My Size, Inc.",
+        "sector": "Technology"
+    },
+    "WAST": {
+        "cik_str": 1515139,
+        "ticker": "WAST",
+        "title": "WASTE ENERGY CORP.",
+        "sector": "Technology"
+    },
+    "SVRE": {
+        "cik_str": 1894693,
+        "ticker": "SVRE",
+        "title": "SaverOne 2014 Ltd.",
+        "sector": "Technology"
+    },
+    "ASFT": {
+        "cik_str": 1651992,
+        "ticker": "ASFT",
+        "title": "Appsoft Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "MVLA": {
+        "cik_str": 1839132,
+        "ticker": "MVLA",
+        "title": "Movella Holdings Inc.",
+        "sector": "Technology"
+    },
+    "ELST": {
+        "cik_str": 752294,
+        "ticker": "ELST",
+        "title": "ELECTRONIC SYSTEMS TECHNOLOGY INC",
+        "sector": "Technology"
+    },
+    "MINM": {
+        "cik_str": 1467761,
+        "ticker": "MINM",
+        "title": "MINIM, INC.",
+        "sector": "Technology"
+    },
+    "VHAI": {
+        "cik_str": 1880431,
+        "ticker": "VHAI",
+        "title": "Vocodia Holdings Corp",
+        "sector": "Technology"
+    },
+    "ONCI": {
+        "cik_str": 1300867,
+        "ticker": "ONCI",
+        "title": "ON4 COMMUNICATIONS INC.",
+        "sector": "Technology"
+    },
+    "VRTC": {
+        "cik_str": 773318,
+        "ticker": "VRTC",
+        "title": "VERITEC INC",
+        "sector": "Technology"
+    },
+    "TPTW": {
+        "cik_str": 1661039,
+        "ticker": "TPTW",
+        "title": "TPT GLOBAL TECH, INC.",
+        "sector": "Technology"
+    },
+    "VISM": {
+        "cik_str": 1082733,
+        "ticker": "VISM",
+        "title": "VISIUM TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "WDDD": {
+        "cik_str": 1961,
+        "ticker": "WDDD",
+        "title": "WORLDS INC",
+        "sector": "Technology"
+    },
+    "LAAB": {
+        "cik_str": 1584480,
+        "ticker": "LAAB",
+        "title": "Startech Labs, Inc.",
+        "sector": "Technology"
+    },
+    "ITOX": {
+        "cik_str": 1290658,
+        "ticker": "ITOX",
+        "title": "IIOT-OXYS, Inc.",
+        "sector": "Technology"
+    },
+    "BOMO": {
+        "cik_str": 1381871,
+        "ticker": "BOMO",
+        "title": "bowmo, Inc.",
+        "sector": "Technology"
+    },
+    "GAHC": {
+        "cik_str": 1138724,
+        "ticker": "GAHC",
+        "title": "Global Arena Holding, Inc.",
+        "sector": "Technology"
+    },
+    "FLXT": {
+        "cik_str": 925660,
+        "ticker": "FLXT",
+        "title": "FLEXPOINT SENSOR SYSTEMS INC",
+        "sector": "Technology"
+    },
+    "SATT": {
+        "cik_str": 1661600,
+        "ticker": "SATT",
+        "title": "SATIVUS TECH CORP.",
+        "sector": "Technology"
+    },
+    "DCLT": {
+        "cik_str": 1321828,
+        "ticker": "DCLT",
+        "title": "Data Call Technologies",
+        "sector": "Technology"
+    },
+    "EBZT": {
+        "cik_str": 1730869,
+        "ticker": "EBZT",
+        "title": "Everything Blockchain, Inc.",
+        "sector": "Technology"
+    },
+    "ODII": {
+        "cik_str": 1781405,
+        "ticker": "ODII",
+        "title": "Odyssey Semiconductor Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "LEEN": {
+        "cik_str": 1230524,
+        "ticker": "LEEN",
+        "title": "Leopard Energy, Inc.",
+        "sector": "Technology"
+    },
+    "CUEN": {
+        "cik_str": 1424657,
+        "ticker": "CUEN",
+        "title": "Cuentas Inc.",
+        "sector": "Technology"
+    },
+    "TMPOQ": {
+        "cik_str": 1813658,
+        "ticker": "TMPOQ",
+        "title": "Tempo Automation Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "FINR": {
+        "cik_str": 1623590,
+        "ticker": "FINR",
+        "title": "Fintech Scion Ltd",
+        "sector": "Technology"
+    },
+    "SANP": {
+        "cik_str": 1499275,
+        "ticker": "SANP",
+        "title": "SANTO MINING CORP.",
+        "sector": "Technology"
+    },
+    "TWOH": {
+        "cik_str": 1494413,
+        "ticker": "TWOH",
+        "title": "Two Hands Corp",
+        "sector": "Technology"
+    },
+    "SMME": {
+        "cik_str": 1301991,
+        "ticker": "SMME",
+        "title": "SmartMetric, Inc.",
+        "sector": "Technology"
+    },
+    "BZWR": {
+        "cik_str": 1830503,
+        "ticker": "BZWR",
+        "title": "Business Warrior Corp",
+        "sector": "Technology"
+    },
+    "PTOS": {
+        "cik_str": 1172069,
+        "ticker": "PTOS",
+        "title": "P2 Solar, Inc.",
+        "sector": "Technology"
+    },
+    "CTKYY": {
+        "cik_str": 1734262,
+        "ticker": "CTKYY",
+        "title": "CooTek(Cayman)Inc.",
+        "sector": "Technology"
+    },
+    "ATDS": {
+        "cik_str": 1068689,
+        "ticker": "ATDS",
+        "title": "Data443 Risk Mitigation, Inc.",
+        "sector": "Technology"
+    },
+    "ZRFY": {
+        "cik_str": 1285543,
+        "ticker": "ZRFY",
+        "title": "Zerify, Inc.",
+        "sector": "Technology"
+    },
+    "ISUNQ": {
+        "cik_str": 1634447,
+        "ticker": "ISUNQ",
+        "title": "ISUN, INC.",
+        "sector": "Technology"
+    },
+    "XNDA": {
+        "cik_str": 1624985,
+        "ticker": "XNDA",
+        "title": "Tribal Rides International Corp.",
+        "sector": "Technology"
+    },
+    "SUNWQ": {
+        "cik_str": 1172631,
+        "ticker": "SUNWQ",
+        "title": "Sunworks, Inc.",
+        "sector": "Technology"
+    },
+    "AWIN": {
+        "cik_str": 1855631,
+        "ticker": "AWIN",
+        "title": "AERWINS Technologies Inc.",
+        "sector": "Technology"
+    },
+    "VSOLF": {
+        "cik_str": 1547660,
+        "ticker": "VSOLF",
+        "title": "THREE SIXTY SOLAR LTD.",
+        "sector": "Technology"
+    },
+    "SING": {
+        "cik_str": 1443611,
+        "ticker": "SING",
+        "title": "SinglePoint Inc.",
+        "sector": "Technology"
+    },
+    "IMCI": {
+        "cik_str": 884650,
+        "ticker": "IMCI",
+        "title": "INFINITE GROUP INC",
+        "sector": "Technology"
+    },
+    "GIGAQ": {
+        "cik_str": 719274,
+        "ticker": "GIGAQ",
+        "title": "GRESHAM WORLDWIDE, INC.",
+        "sector": "Technology"
+    },
+    "TSMWF": {
+        "cik_str": 1046179,
+        "ticker": "TSMWF",
+        "title": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+        "sector": "Technology"
+    },
+    "SAPGF": {
+        "cik_str": 1000184,
+        "ticker": "SAPGF",
+        "title": "SAP SE",
+        "sector": "Technology"
+    },
+    "ASMLF": {
+        "cik_str": 937966,
+        "ticker": "ASMLF",
+        "title": "ASML HOLDING NV",
+        "sector": "Technology"
+    },
+    "SNEJF": {
+        "cik_str": 313838,
+        "ticker": "SNEJF",
+        "title": "Sony Group Corp",
+        "sector": "Technology"
+    },
+    "TOELF": {
+        "cik_str": 1443276,
+        "ticker": "TOELF",
+        "title": "Tokyo Electron LTD",
+        "sector": "Technology"
+    },
+    "STMEF": {
+        "cik_str": 932787,
+        "ticker": "STMEF",
+        "title": "STMicroelectronics N.V.",
+        "sector": "Technology"
+    },
+    "MRAAF": {
+        "cik_str": 1450468,
+        "ticker": "MRAAF",
+        "title": "Murata Manufacturing Co., Ltd./ADR",
+        "sector": "Technology"
+    },
+    "CAJPY": {
+        "cik_str": 16988,
+        "ticker": "CAJPY",
+        "title": "CANON INC",
+        "sector": "Technology"
+    },
+    "NOKBF": {
+        "cik_str": 924613,
+        "ticker": "NOKBF",
+        "title": "NOKIA CORP",
+        "sector": "Technology"
+    },
+    "CAJFF": {
+        "cik_str": 16988,
+        "ticker": "CAJFF",
+        "title": "CANON INC",
+        "sector": "Technology"
+    },
+    "ERIXF": {
+        "cik_str": 717826,
+        "ticker": "ERIXF",
+        "title": "ERICSSON LM TELEPHONE CO",
+        "sector": "Technology"
+    },
+    "ADTTF": {
+        "cik_str": 1158838,
+        "ticker": "ADTTF",
+        "title": "ADVANTEST CORP",
+        "sector": "Technology"
+    },
+    "ROHCF": {
+        "cik_str": 1442653,
+        "ticker": "ROHCF",
+        "title": "ROHM Co., Ltd.",
+        "sector": "Technology"
+    },
+    "NVEI": {
+        "cik_str": 1765159,
+        "ticker": "NVEI",
+        "title": "Nuvei Corp",
+        "sector": "Technology"
+    },
+    "DISPF": {
+        "cik_str": 1671750,
+        "ticker": "DISPF",
+        "title": "Disco Corporation/ADR",
+        "sector": "Technology"
+    },
+    "INST": {
+        "cik_str": 1841804,
+        "ticker": "INST",
+        "title": "INSTRUCTURE HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "LIFX": {
+        "cik_str": 1581760,
+        "ticker": "LIFX",
+        "title": "Life360, Inc.",
+        "sector": "Technology"
+    },
+    "TWKS": {
+        "cik_str": 1866550,
+        "ticker": "TWKS",
+        "title": "Thoughtworks Holding, Inc.",
+        "sector": "Technology"
+    },
+    "BELFB": {
+        "cik_str": 729580,
+        "ticker": "BELFB",
+        "title": "BEL FUSE INC /NJ",
+        "sector": "Technology"
+    },
+    "THPTF": {
+        "cik_str": 1556898,
+        "ticker": "THPTF",
+        "title": "Techpoint, Inc.",
+        "sector": "Technology"
+    },
+    "PRTHU": {
+        "cik_str": 1653558,
+        "ticker": "PRTHU",
+        "title": "Priority Technology Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "MOYFF": {
+        "cik_str": 1850453,
+        "ticker": "MOYFF",
+        "title": "Mynaric AG",
+        "sector": "Technology"
+    },
+    "WONDF": {
+        "cik_str": 1882839,
+        "ticker": "WONDF",
+        "title": "WonderFi Technologies Inc.",
+        "sector": "Technology"
+    },
+    "KLDI": {
+        "cik_str": 1752474,
+        "ticker": "KLDI",
+        "title": "KLDiscovery Inc.",
+        "sector": "Technology"
+    },
+    "LCHD": {
+        "cik_str": 1715433,
+        "ticker": "LCHD",
+        "title": "Leader Capital Holdings Corp.",
+        "sector": "Technology"
+    },
+    "AATC": {
+        "cik_str": 943034,
+        "ticker": "AATC",
+        "title": "AUTOSCOPE TECHNOLOGIES CORP",
+        "sector": "Technology"
+    },
+    "WSKEF": {
+        "cik_str": 1738699,
+        "ticker": "WSKEF",
+        "title": "Wisekey International Holding S.A.",
+        "sector": "Technology"
+    },
+    "CATG": {
+        "cik_str": 1470129,
+        "ticker": "CATG",
+        "title": "Capstone Technologies Group Inc.",
+        "sector": "Technology"
+    },
+    "MCLDF": {
+        "cik_str": 1756499,
+        "ticker": "MCLDF",
+        "title": "mCloud Technologies Corp.",
+        "sector": "Technology"
+    },
+    "WBSR": {
+        "cik_str": 1645155,
+        "ticker": "WBSR",
+        "title": "Webstar Technology Group Inc.",
+        "sector": "Technology"
+    },
+    "SEAC": {
+        "cik_str": 1019671,
+        "ticker": "SEAC",
+        "title": "SEACHANGE INTERNATIONAL INC",
+        "sector": "Technology"
+    },
+    "BNSOF": {
+        "cik_str": 846546,
+        "ticker": "BNSOF",
+        "title": "BONSO ELECTRONICS INTERNATIONAL INC",
+        "sector": "Technology"
+    },
+    "EVOL": {
+        "cik_str": 1052054,
+        "ticker": "EVOL",
+        "title": "Symbolic Logic, Inc.",
+        "sector": "Technology"
+    },
+    "PXDT": {
+        "cik_str": 1962845,
+        "ticker": "PXDT",
+        "title": "PIXIE DUST TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "VQSSF": {
+        "cik_str": 1777765,
+        "ticker": "VQSSF",
+        "title": "VIQ Solutions Inc.",
+        "sector": "Technology"
+    },
+    "FALC": {
+        "cik_str": 922521,
+        "ticker": "FALC",
+        "title": "FALCONSTOR SOFTWARE INC",
+        "sector": "Technology"
+    },
+    "VIDE": {
+        "cik_str": 758743,
+        "ticker": "VIDE",
+        "title": "VIDEO DISPLAY CORP",
+        "sector": "Technology"
+    },
+    "PEGY": {
+        "cik_str": 22701,
+        "ticker": "PEGY",
+        "title": "Pineapple Energy Inc.",
+        "sector": "Technology"
+    },
+    "WDLF": {
+        "cik_str": 1281984,
+        "ticker": "WDLF",
+        "title": "Decentral Life, Inc.",
+        "sector": "Technology"
+    },
+    "RBCN": {
+        "cik_str": 1410172,
+        "ticker": "RBCN",
+        "title": "Rubicon Technology, Inc.",
+        "sector": "Technology"
+    },
+    "SWISF": {
+        "cik_str": 1771755,
+        "ticker": "SWISF",
+        "title": "Sekur Private Data Ltd.",
+        "sector": "Technology"
+    },
+    "CETXP": {
+        "cik_str": 1435064,
+        "ticker": "CETXP",
+        "title": "CEMTREX INC",
+        "sector": "Technology"
+    },
+    "SRMX": {
+        "cik_str": 841533,
+        "ticker": "SRMX",
+        "title": "SADDLE RANCH MEDIA, INC.",
+        "sector": "Technology"
+    },
+    "TKOI": {
+        "cik_str": 1094084,
+        "ticker": "TKOI",
+        "title": "TELKONET INC",
+        "sector": "Technology"
+    },
+    "DCSX": {
+        "cik_str": 1779303,
+        "ticker": "DCSX",
+        "title": "Direct Communication Solutions, Inc.",
+        "sector": "Technology"
+    },
+    "DROP": {
+        "cik_str": 842722,
+        "ticker": "DROP",
+        "title": "Fuse Science, Inc.",
+        "sector": "Technology"
+    },
+    "MWRK": {
+        "cik_str": 1515139,
+        "ticker": "MWRK",
+        "title": "WASTE ENERGY CORP.",
+        "sector": "Technology"
+    },
+    "RDAR": {
+        "cik_str": 1384365,
+        "ticker": "RDAR",
+        "title": "RAADR, INC.",
+        "sector": "Technology"
+    },
+    "BDRL": {
+        "cik_str": 1000683,
+        "ticker": "BDRL",
+        "title": "BLONDER TONGUE LABORATORIES INC",
+        "sector": "Technology"
+    },
+    "MOBBW": {
+        "cik_str": 1898643,
+        "ticker": "MOBBW",
+        "title": "Mobilicom Ltd",
+        "sector": "Technology"
+    },
+    "PRST": {
+        "cik_str": 1822145,
+        "ticker": "PRST",
+        "title": "Presto Automation Inc.",
+        "sector": "Technology"
+    },
+    "SIRC": {
+        "cik_str": 1756704,
+        "ticker": "SIRC",
+        "title": "SOLAR INTEGRATED ROOFING CORP.",
+        "sector": "Technology"
+    },
+    "SPYR": {
+        "cik_str": 829325,
+        "ticker": "SPYR",
+        "title": "SPYR, Inc.",
+        "sector": "Technology"
+    },
+    "ZPTA": {
+        "cik_str": 1843714,
+        "ticker": "ZPTA",
+        "title": "Zapata Computing Holdings Inc.",
+        "sector": "Technology"
+    },
+    "TCCO": {
+        "cik_str": 96699,
+        "ticker": "TCCO",
+        "title": "TECHNICAL COMMUNICATIONS CORP",
+        "sector": "Technology"
+    },
+    "EHVVF": {
+        "cik_str": 1653606,
+        "ticker": "EHVVF",
+        "title": "Ehave, Inc.",
+        "sector": "Technology"
+    },
+    "CLTS": {
+        "cik_str": 1165639,
+        "ticker": "CLTS",
+        "title": "EARTH LIFE SCIENCES INC",
+        "sector": "Technology"
+    },
+    "TKMO": {
+        "cik_str": 1946585,
+        "ticker": "TKMO",
+        "title": "Tekumo, Inc.",
+        "sector": "Technology"
+    },
+    "SNPW": {
+        "cik_str": 1343465,
+        "ticker": "SNPW",
+        "title": "Sun Pacific Holding Corp.",
+        "sector": "Technology"
+    },
+    "IGEN": {
+        "cik_str": 1393540,
+        "ticker": "IGEN",
+        "title": "IGEN NETWORKS CORP",
+        "sector": "Technology"
+    },
+    "ABCE": {
+        "cik_str": 1300938,
+        "ticker": "ABCE",
+        "title": "ABCO Energy, Inc.",
+        "sector": "Technology"
+    },
+    "BTZI": {
+        "cik_str": 1525852,
+        "ticker": "BTZI",
+        "title": "BOTS, Inc./PR",
+        "sector": "Technology"
+    },
+    "SMIT": {
+        "cik_str": 922612,
+        "ticker": "SMIT",
+        "title": "SCHMITT INDUSTRIES INC",
+        "sector": "Technology"
+    },
+    "TIOG": {
+        "cik_str": 854800,
+        "ticker": "TIOG",
+        "title": "Tingo Group, Inc.",
+        "sector": "Technology"
+    },
+    "DLTI": {
+        "cik_str": 1420368,
+        "ticker": "DLTI",
+        "title": "DLT Resolution Inc.",
+        "sector": "Technology"
+    },
+    "XDSL": {
+        "cik_str": 825322,
+        "ticker": "XDSL",
+        "title": "MPHASE TECHNOLOGIES, INC.",
+        "sector": "Technology"
+    },
+    "TRIRF": {
+        "cik_str": 1819876,
+        "ticker": "TRIRF",
+        "title": "Triterras, Inc.",
+        "sector": "Technology"
+    },
+    "LZGI": {
+        "cik_str": 1126115,
+        "ticker": "LZGI",
+        "title": "LZG INTERNATIONAL, INC.",
+        "sector": "Technology"
+    },
+    "SPWRQ": {
+        "cik_str": 867773,
+        "ticker": "SPWRQ",
+        "title": "SUNPOWER CORP",
+        "sector": "Technology"
+    },
+    "ADGO": {
+        "cik_str": 869531,
+        "ticker": "ADGO",
+        "title": "Advantego Corp",
+        "sector": "Technology"
+    },
+    "DSGT": {
+        "cik_str": 1413909,
+        "ticker": "DSGT",
+        "title": "DSG Global Inc.",
+        "sector": "Technology"
+    },
+    "NXTP": {
+        "cik_str": 1372183,
+        "ticker": "NXTP",
+        "title": "NextPlay Technologies Inc.",
+        "sector": "Technology"
+    },
+    "GAXYQ": {
+        "cik_str": 1127993,
+        "ticker": "GAXYQ",
+        "title": "GALAXY NEXT GENERATION, INC.",
+        "sector": "Technology"
+    },
+    "TKLS": {
+        "cik_str": 1429393,
+        "ticker": "TKLS",
+        "title": "Trutankless, Inc.",
+        "sector": "Technology"
+    },
+    "MAXD": {
+        "cik_str": 1353499,
+        "ticker": "MAXD",
+        "title": "Max Sound Corp",
+        "sector": "Technology"
+    },
+    "DUSYF": {
+        "cik_str": 1551887,
+        "ticker": "DUSYF",
+        "title": "DUESENBERG TECHNOLOGIES INC.",
+        "sector": "Technology"
+    },
+    "WOWI": {
+        "cik_str": 920990,
+        "ticker": "WOWI",
+        "title": "METRO ONE TELECOMMUNICATIONS INC",
+        "sector": "Technology"
+    },
+    "FDBL": {
+        "cik_str": 1414043,
+        "ticker": "FDBL",
+        "title": "Friendable, Inc.",
+        "sector": "Technology"
+    },
+    "KBNT": {
+        "cik_str": 1729750,
+        "ticker": "KBNT",
+        "title": "Kubient, Inc.",
+        "sector": "Technology"
+    },
+    "SOFO": {
+        "cik_str": 1029744,
+        "ticker": "SOFO",
+        "title": "SONIC FOUNDRY INC",
+        "sector": "Technology"
+    },
+    "EGIOQ": {
+        "cik_str": 1391127,
+        "ticker": "EGIOQ",
+        "title": "Edgio, Inc.",
+        "sector": "Technology"
+    },
+    "AEYGQ": {
+        "cik_str": 874292,
+        "ticker": "AEYGQ",
+        "title": "ADDVANTAGE TECHNOLOGIES GROUP INC",
+        "sector": "Technology"
+    },
+    "MTEKW": {
+        "cik_str": 1872964,
+        "ticker": "MTEKW",
+        "title": "Maris Tech Ltd.",
+        "sector": "Technology"
+    },
+    "CPTNW": {
+        "cik_str": 1498233,
+        "ticker": "CPTNW",
+        "title": "Cepton, Inc.",
+        "sector": "Technology"
+    },
+    "RONN": {
+        "cik_str": 58411,
+        "ticker": "RONN",
+        "title": "Lee Pharmaceuticals, Inc.",
+        "sector": "Technology"
+    },
+    "NUKKW": {
+        "cik_str": 1787518,
+        "ticker": "NUKKW",
+        "title": "Nukkleus Inc.",
+        "sector": "Technology"
+    },
+    "XBPEW": {
+        "cik_str": 1839530,
+        "ticker": "XBPEW",
+        "title": "XBP Europe Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "ARBEW": {
+        "cik_str": 1861841,
+        "ticker": "ARBEW",
+        "title": "Arbe Robotics Ltd.",
+        "sector": "Technology"
+    },
+    "TRSO": {
+        "cik_str": 1758699,
+        "ticker": "TRSO",
+        "title": "TRANSUITE.ORG INC.",
+        "sector": "Technology"
+    },
+    "GSLR": {
+        "cik_str": 1838876,
+        "ticker": "GSLR",
+        "title": "GeoSolar Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "AISPW": {
+        "cik_str": 1842566,
+        "ticker": "AISPW",
+        "title": "Airship AI Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "GDLG": {
+        "cik_str": 1848672,
+        "ticker": "GDLG",
+        "title": "Glidelogic Corp.",
+        "sector": "Technology"
+    },
+    "HMELF": {
+        "cik_str": 1853630,
+        "ticker": "HMELF",
+        "title": "Hold Me Ltd",
+        "sector": "Technology"
+    },
+    "RZLVW": {
+        "cik_str": 1920294,
+        "ticker": "RZLVW",
+        "title": "REZOLVE AI Ltd",
+        "sector": "Technology"
+    },
+    "BTCTW": {
+        "cik_str": 1796514,
+        "ticker": "BTCTW",
+        "title": "BTC Digital Ltd.",
+        "sector": "Technology"
+    },
+    "KPLTW": {
+        "cik_str": 1785424,
+        "ticker": "KPLTW",
+        "title": "Katapult Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "GRABW": {
+        "cik_str": 1855612,
+        "ticker": "GRABW",
+        "title": "Grab Holdings Ltd",
+        "sector": "Technology"
+    },
+    "ANKM": {
+        "cik_str": 1781629,
+        "ticker": "ANKM",
+        "title": "Ankam, Inc.",
+        "sector": "Technology"
+    },
+    "SOUNW": {
+        "cik_str": 1840856,
+        "ticker": "SOUNW",
+        "title": "SOUNDHOUND AI, INC.",
+        "sector": "Technology"
+    },
+    "ZPTAW": {
+        "cik_str": 1843714,
+        "ticker": "ZPTAW",
+        "title": "Zapata Computing Holdings Inc.",
+        "sector": "Technology"
+    },
+    "XELAP": {
+        "cik_str": 1620179,
+        "ticker": "XELAP",
+        "title": "Exela Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "VIAOY": {
+        "cik_str": 1769116,
+        "ticker": "VIAOY",
+        "title": "VIA optronics AG",
+        "sector": "Technology"
+    },
+    "VEEAW": {
+        "cik_str": 1840317,
+        "ticker": "VEEAW",
+        "title": "VEEA INC.",
+        "sector": "Technology"
+    },
+    "WLDSW": {
+        "cik_str": 1887673,
+        "ticker": "WLDSW",
+        "title": "Wearable Devices Ltd.",
+        "sector": "Technology"
+    },
+    "CBBBD": {
+        "cik_str": 1477960,
+        "ticker": "CBBBD",
+        "title": "Catalyst Crew Technologies Corp.",
+        "sector": "Technology"
+    },
+    "VENAF": {
+        "cik_str": 1800392,
+        "ticker": "VENAF",
+        "title": "MicroAlgo Inc.",
+        "sector": "Technology"
+    },
+    "AUROW": {
+        "cik_str": 1828108,
+        "ticker": "AUROW",
+        "title": "Aurora Innovation, Inc.",
+        "sector": "Technology"
+    },
+    "GRRRW": {
+        "cik_str": 1903145,
+        "ticker": "GRRRW",
+        "title": "Gorilla Technology Group Inc.",
+        "sector": "Technology"
+    },
+    "JOCM": {
+        "cik_str": 1907425,
+        "ticker": "JOCM",
+        "title": "JOCOM HOLDINGS CORP.",
+        "sector": "Technology"
+    },
+    "VSSYW": {
+        "cik_str": 1701963,
+        "ticker": "VSSYW",
+        "title": "Versus Systems Inc.",
+        "sector": "Technology"
+    },
+    "ILLRW": {
+        "cik_str": 1769624,
+        "ticker": "ILLRW",
+        "title": "Triller Group Inc.",
+        "sector": "Technology"
+    },
+    "ZEOWW": {
+        "cik_str": 1865506,
+        "ticker": "ZEOWW",
+        "title": "Zeo Energy Corp.",
+        "sector": "Technology"
+    },
+    "GETRW": {
+        "cik_str": 1839608,
+        "ticker": "GETRW",
+        "title": "Getaround, Inc",
+        "sector": "Technology"
+    },
+    "KLDIW": {
+        "cik_str": 1752474,
+        "ticker": "KLDIW",
+        "title": "KLDiscovery Inc.",
+        "sector": "Technology"
+    },
+    "TFLM": {
+        "cik_str": 1885849,
+        "ticker": "TFLM",
+        "title": "Tofla Megaline Inc.",
+        "sector": "Technology"
+    },
+    "GMTH": {
+        "cik_str": 2000762,
+        "ticker": "GMTH",
+        "title": "GMTech Inc.",
+        "sector": "Technology"
+    },
+    "RDZNW": {
+        "cik_str": 1868640,
+        "ticker": "RDZNW",
+        "title": "Roadzen Inc.",
+        "sector": "Technology"
+    },
+    "BNAIW": {
+        "cik_str": 1838163,
+        "ticker": "BNAIW",
+        "title": "Brand Engagement Network Inc.",
+        "sector": "Technology"
+    },
+    "SYTAW": {
+        "cik_str": 1649009,
+        "ticker": "SYTAW",
+        "title": "Siyata Mobile Inc.",
+        "sector": "Technology"
+    },
+    "SAIHW": {
+        "cik_str": 1847075,
+        "ticker": "SAIHW",
+        "title": "SAIHEAT Ltd",
+        "sector": "Technology"
+    },
+    "AILEW": {
+        "cik_str": 1835972,
+        "ticker": "AILEW",
+        "title": "iLearningEngines, Inc.",
+        "sector": "Technology"
+    },
+    "MOBXW": {
+        "cik_str": 1855467,
+        "ticker": "MOBXW",
+        "title": "MOBIX LABS, INC",
+        "sector": "Technology"
+    },
+    "MAPSW": {
+        "cik_str": 1779474,
+        "ticker": "MAPSW",
+        "title": "WM TECHNOLOGY, INC.",
+        "sector": "Technology"
+    },
+    "RBTCW": {
+        "cik_str": 1862068,
+        "ticker": "RBTCW",
+        "title": "Rubicon Technologies, Inc.",
+        "sector": "Technology"
+    },
+    "VJTTY": {
+        "cik_str": 1582581,
+        "ticker": "VJTTY",
+        "title": "voxeljet AG",
+        "sector": "Technology"
+    },
+    "NXNVW": {
+        "cik_str": 1865631,
+        "ticker": "NXNVW",
+        "title": "NEXTNAV INC.",
+        "sector": "Technology"
+    },
+    "NNAVW": {
+        "cik_str": 1865631,
+        "ticker": "NNAVW",
+        "title": "NEXTNAV INC.",
+        "sector": "Technology"
+    },
+    "MKFGW": {
+        "cik_str": 1816613,
+        "ticker": "MKFGW",
+        "title": "Markforged Holding Corp",
+        "sector": "Technology"
+    },
+    "NXPLW": {
+        "cik_str": 1058307,
+        "ticker": "NXPLW",
+        "title": "NextPlat Corp",
+        "sector": "Technology"
+    },
+    "LDTCW": {
+        "cik_str": 1981462,
+        "ticker": "LDTCW",
+        "title": "LeddarTech Holdings Inc.",
+        "sector": "Technology"
+    },
+    "BSQKZ": {
+        "cik_str": 1512673,
+        "ticker": "BSQKZ",
+        "title": "Block, Inc.",
+        "sector": "Technology"
+    },
+    "PDYNW": {
+        "cik_str": 1826681,
+        "ticker": "PDYNW",
+        "title": "Palladyne AI Corp.",
+        "sector": "Technology"
+    },
+    "LIDRW": {
+        "cik_str": 1818644,
+        "ticker": "LIDRW",
+        "title": "AEye, Inc.",
+        "sector": "Technology"
+    },
+    "SVREW": {
+        "cik_str": 1894693,
+        "ticker": "SVREW",
+        "title": "SaverOne 2014 Ltd.",
+        "sector": "Technology"
+    },
+    "SBIGW": {
+        "cik_str": 1801602,
+        "ticker": "SBIGW",
+        "title": "SpringBig Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "DTSTW": {
+        "cik_str": 1419951,
+        "ticker": "DTSTW",
+        "title": "Data Storage Corp",
+        "sector": "Technology"
+    },
+    "DATSW": {
+        "cik_str": 1648960,
+        "ticker": "DATSW",
+        "title": "DatChat, Inc.",
+        "sector": "Technology"
+    },
+    "APCXW": {
+        "cik_str": 1070050,
+        "ticker": "APCXW",
+        "title": "AppTech Payments Corp.",
+        "sector": "Technology"
+    },
+    "AVPTW": {
+        "cik_str": 1777921,
+        "ticker": "AVPTW",
+        "title": "AvePoint, Inc.",
+        "sector": "Technology"
+    },
+    "HPAIW": {
+        "cik_str": 2001699,
+        "ticker": "HPAIW",
+        "title": "Helport AI Ltd",
+        "sector": "Technology"
+    },
+    "FOXXW": {
+        "cik_str": 2013807,
+        "ticker": "FOXXW",
+        "title": "Foxx Development Holdings Inc.",
+        "sector": "Technology"
+    },
+    "NTTDF": {
+        "cik_str": 1446705,
+        "ticker": "NTTDF",
+        "title": "NTT Data Corp",
+        "sector": "Technology"
+    },
+    "HOLOW": {
+        "cik_str": 1841209,
+        "ticker": "HOLOW",
+        "title": "MicroCloud Hologram Inc.",
+        "sector": "Technology"
+    },
+    "AMPGW": {
+        "cik_str": 1518461,
+        "ticker": "AMPGW",
+        "title": "AmpliTech Group, Inc.",
+        "sector": "Technology"
+    },
+    "FAASW": {
+        "cik_str": 1844981,
+        "ticker": "FAASW",
+        "title": "DIGIASIA CORP.",
+        "sector": "Technology"
+    },
+    "RUMBW": {
+        "cik_str": 1830081,
+        "ticker": "RUMBW",
+        "title": "Rumble Inc.",
+        "sector": "Technology"
+    },
+    "BNZIW": {
+        "cik_str": 1826011,
+        "ticker": "BNZIW",
+        "title": "Banzai International, Inc.",
+        "sector": "Technology"
+    },
+    "NVNIW": {
+        "cik_str": 1965143,
+        "ticker": "NVNIW",
+        "title": "Nvni Group Ltd",
+        "sector": "Technology"
+    },
+    "ARQQW": {
+        "cik_str": 1859690,
+        "ticker": "ARQQW",
+        "title": "Arqit Quantum Inc.",
+        "sector": "Technology"
+    },
+    "OPTXW": {
+        "cik_str": 1866816,
+        "ticker": "OPTXW",
+        "title": "SYNTEC OPTICS HOLDINGS, INC.",
+        "sector": "Technology"
+    },
+    "AUUDW": {
+        "cik_str": 1554818,
+        "ticker": "AUUDW",
+        "title": "AUDDIA INC.",
+        "sector": "Technology"
+    },
+    "STXYF": {
+        "cik_str": 1915403,
+        "ticker": "STXYF",
+        "title": "SatixFy Communications Ltd.",
+        "sector": "Technology"
+    },
+    "PETWW": {
+        "cik_str": 1842356,
+        "ticker": "PETWW",
+        "title": "Wag! Group Co.",
+        "sector": "Technology"
+    },
+    "HUBCZ": {
+        "cik_str": 1905660,
+        "ticker": "HUBCZ",
+        "title": "Hub Cyber Security Ltd.",
+        "sector": "Technology"
+    },
+    "PRSTW": {
+        "cik_str": 1822145,
+        "ticker": "PRSTW",
+        "title": "Presto Automation Inc.",
+        "sector": "Technology"
+    },
+    "CTLPP": {
+        "cik_str": 896429,
+        "ticker": "CTLPP",
+        "title": "CANTALOUPE, INC.",
+        "sector": "Technology"
+    },
+    "VSTEW": {
+        "cik_str": 1964630,
+        "ticker": "VSTEW",
+        "title": "Vast Renewables Ltd",
+        "sector": "Technology"
+    },
+    "PGYWW": {
+        "cik_str": 1883085,
+        "ticker": "PGYWW",
+        "title": "Pagaya Technologies Ltd.",
+        "sector": "Technology"
+    },
+    "MSAIW": {
+        "cik_str": 1863990,
+        "ticker": "MSAIW",
+        "title": "MultiSensor AI Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "VLDXW": {
+        "cik_str": 1825079,
+        "ticker": "VLDXW",
+        "title": "Velo3D, Inc.",
+        "sector": "Technology"
+    },
+    "DAVEW": {
+        "cik_str": 1841408,
+        "ticker": "DAVEW",
+        "title": "Dave Inc./DE",
+        "sector": "Technology"
+    },
+    "ATCHW": {
+        "cik_str": 1963088,
+        "ticker": "ATCHW",
+        "title": "AtlasClear Holdings, Inc.",
+        "sector": "Technology"
+    },
+    "CORZW": {
+        "cik_str": 1839341,
+        "ticker": "CORZW",
+        "title": "Core Scientific, Inc./tx",
+        "sector": "Technology"
+    },
+    "CORZZ": {
+        "cik_str": 1839341,
+        "ticker": "CORZZ",
+        "title": "Core Scientific, Inc./tx",
+        "sector": "Technology"
+    },
+    "VHAIW": {
+        "cik_str": 1880431,
+        "ticker": "VHAIW",
+        "title": "Vocodia Holdings Corp",
+        "sector": "Technology"
+    },
+    "VHABW": {
+        "cik_str": 1880431,
+        "ticker": "VHABW",
+        "title": "Vocodia Holdings Corp",
+        "sector": "Technology"
+    },
+    "RGTIW": {
+        "cik_str": 1838359,
+        "ticker": "RGTIW",
+        "title": "Rigetti Computing, Inc.",
+        "sector": "Technology"
+    }
+}

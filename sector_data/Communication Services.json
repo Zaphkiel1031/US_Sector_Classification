@@ -1,0 +1,2420 @@
+{
+    "GOOGL": {
+        "cik_str": 1652044,
+        "ticker": "GOOGL",
+        "title": "Alphabet Inc.",
+        "sector": "Communication Services"
+    },
+    "META": {
+        "cik_str": 1326801,
+        "ticker": "META",
+        "title": "Meta Platforms, Inc.",
+        "sector": "Communication Services"
+    },
+    "NFLX": {
+        "cik_str": 1065280,
+        "ticker": "NFLX",
+        "title": "NETFLIX INC",
+        "sector": "Communication Services"
+    },
+    "TMUS": {
+        "cik_str": 1283699,
+        "ticker": "TMUS",
+        "title": "T-Mobile US, Inc.",
+        "sector": "Communication Services"
+    },
+    "DIS": {
+        "cik_str": 1744489,
+        "ticker": "DIS",
+        "title": "Walt Disney Co",
+        "sector": "Communication Services"
+    },
+    "VZ": {
+        "cik_str": 732712,
+        "ticker": "VZ",
+        "title": "VERIZON COMMUNICATIONS INC",
+        "sector": "Communication Services"
+    },
+    "CMCSA": {
+        "cik_str": 1166691,
+        "ticker": "CMCSA",
+        "title": "COMCAST CORP",
+        "sector": "Communication Services"
+    },
+    "T": {
+        "cik_str": 732717,
+        "ticker": "T",
+        "title": "AT&T INC.",
+        "sector": "Communication Services"
+    },
+    "SPOT": {
+        "cik_str": 1639920,
+        "ticker": "SPOT",
+        "title": "Spotify Technology S.A.",
+        "sector": "Communication Services"
+    },
+    "DASH": {
+        "cik_str": 1792789,
+        "ticker": "DASH",
+        "title": "DoorDash, Inc.",
+        "sector": "Communication Services"
+    },
+    "NTES": {
+        "cik_str": 1110646,
+        "ticker": "NTES",
+        "title": "NetEase, Inc.",
+        "sector": "Communication Services"
+    },
+    "CHTR": {
+        "cik_str": 1091667,
+        "ticker": "CHTR",
+        "title": "CHARTER COMMUNICATIONS, INC. /MO/",
+        "sector": "Communication Services"
+    },
+    "AMX": {
+        "cik_str": 1129137,
+        "ticker": "AMX",
+        "title": "AMERICA MOVIL SAB DE CV/",
+        "sector": "Communication Services"
+    },
+    "EA": {
+        "cik_str": 712515,
+        "ticker": "EA",
+        "title": "ELECTRONIC ARTS INC.",
+        "sector": "Communication Services"
+    },
+    "TTWO": {
+        "cik_str": 946581,
+        "ticker": "TTWO",
+        "title": "TAKE TWO INTERACTIVE SOFTWARE INC",
+        "sector": "Communication Services"
+    },
+    "RBLX": {
+        "cik_str": 1315098,
+        "ticker": "RBLX",
+        "title": "Roblox Corp",
+        "sector": "Communication Services"
+    },
+    "LYV": {
+        "cik_str": 1335258,
+        "ticker": "LYV",
+        "title": "Live Nation Entertainment, Inc.",
+        "sector": "Communication Services"
+    },
+    "CHT": {
+        "cik_str": 1132924,
+        "ticker": "CHT",
+        "title": "CHUNGHWA TELECOM CO LTD",
+        "sector": "Communication Services"
+    },
+    "BIDU": {
+        "cik_str": 1329099,
+        "ticker": "BIDU",
+        "title": "Baidu, Inc.",
+        "sector": "Communication Services"
+    },
+    "RDDT": {
+        "cik_str": 1713445,
+        "ticker": "RDDT",
+        "title": "Reddit, Inc.",
+        "sector": "Communication Services"
+    },
+    "PUBGY": {
+        "cik_str": 1050952,
+        "ticker": "PUBGY",
+        "title": "PUBLICIS GROUPE SA",
+        "sector": "Communication Services"
+    },
+    "TEF": {
+        "cik_str": 814052,
+        "ticker": "TEF",
+        "title": "TELEFONICA S A",
+        "sector": "Communication Services"
+    },
+    "WBD": {
+        "cik_str": 1437107,
+        "ticker": "WBD",
+        "title": "Warner Bros. Discovery, Inc.",
+        "sector": "Communication Services"
+    },
+    "BCE": {
+        "cik_str": 718940,
+        "ticker": "BCE",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "VOD": {
+        "cik_str": 839923,
+        "ticker": "VOD",
+        "title": "VODAFONE GROUP PUBLIC LTD CO",
+        "sector": "Communication Services"
+    },
+    "TU": {
+        "cik_str": 868675,
+        "ticker": "TU",
+        "title": "TELUS CORP",
+        "sector": "Communication Services"
+    },
+    "FOXA": {
+        "cik_str": 1754301,
+        "ticker": "FOXA",
+        "title": "Fox Corp",
+        "sector": "Communication Services"
+    },
+    "OMC": {
+        "cik_str": 29989,
+        "ticker": "OMC",
+        "title": "OMNICOM GROUP INC.",
+        "sector": "Communication Services"
+    },
+    "PINS": {
+        "cik_str": 1506293,
+        "ticker": "PINS",
+        "title": "PINTEREST, INC.",
+        "sector": "Communication Services"
+    },
+    "RCI": {
+        "cik_str": 733099,
+        "ticker": "RCI",
+        "title": "ROGERS COMMUNICATIONS INC",
+        "sector": "Communication Services"
+    },
+    "ZG": {
+        "cik_str": 1617640,
+        "ticker": "ZG",
+        "title": "ZILLOW GROUP, INC.",
+        "sector": "Communication Services"
+    },
+    "TME": {
+        "cik_str": 1744676,
+        "ticker": "TME",
+        "title": "Tencent Music Entertainment Group",
+        "sector": "Communication Services"
+    },
+    "SNAP": {
+        "cik_str": 1564408,
+        "ticker": "SNAP",
+        "title": "Snap Inc",
+        "sector": "Communication Services"
+    },
+    "NWSA": {
+        "cik_str": 1564708,
+        "ticker": "NWSA",
+        "title": "NEWS CORP",
+        "sector": "Communication Services"
+    },
+    "TLK": {
+        "cik_str": 1001807,
+        "ticker": "TLK",
+        "title": "PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK",
+        "sector": "Communication Services"
+    },
+    "WMG": {
+        "cik_str": 1319161,
+        "ticker": "WMG",
+        "title": "Warner Music Group Corp.",
+        "sector": "Communication Services"
+    },
+    "KKPNY": {
+        "cik_str": 1001474,
+        "ticker": "KKPNY",
+        "title": "KONINKLIJKE KPN N V",
+        "sector": "Communication Services"
+    },
+    "VIV": {
+        "cik_str": 1066119,
+        "ticker": "VIV",
+        "title": "TELEFONICA BRASIL S.A.",
+        "sector": "Communication Services"
+    },
+    "LBRDA": {
+        "cik_str": 1611983,
+        "ticker": "LBRDA",
+        "title": "Liberty Broadband Corp",
+        "sector": "Communication Services"
+    },
+    "WPP": {
+        "cik_str": 806968,
+        "ticker": "WPP",
+        "title": "WPP plc",
+        "sector": "Communication Services"
+    },
+    "VDMCY": {
+        "cik_str": 1468608,
+        "ticker": "VDMCY",
+        "title": "Vodacom Group Ltd / ADR",
+        "sector": "Communication Services"
+    },
+    "TKO": {
+        "cik_str": 1973266,
+        "ticker": "TKO",
+        "title": "TKO Group Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "IPG": {
+        "cik_str": 51644,
+        "ticker": "IPG",
+        "title": "INTERPUBLIC GROUP OF COMPANIES, INC.",
+        "sector": "Communication Services"
+    },
+    "CSXXY": {
+        "cik_str": 1541309,
+        "ticker": "CSXXY",
+        "title": "carsales.com Limited/ADR",
+        "sector": "Communication Services"
+    },
+    "PSO": {
+        "cik_str": 938323,
+        "ticker": "PSO",
+        "title": "PEARSON PLC",
+        "sector": "Communication Services"
+    },
+    "ROKU": {
+        "cik_str": 1428439,
+        "ticker": "ROKU",
+        "title": "ROKU, INC",
+        "sector": "Communication Services"
+    },
+    "EDR": {
+        "cik_str": 1766363,
+        "ticker": "EDR",
+        "title": "Endeavor Group Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "SIRI": {
+        "cik_str": 908937,
+        "ticker": "SIRI",
+        "title": "SIRIUS XM HOLDINGS INC.",
+        "sector": "Communication Services"
+    },
+    "NYT": {
+        "cik_str": 71691,
+        "ticker": "NYT",
+        "title": "NEW YORK TIMES CO",
+        "sector": "Communication Services"
+    },
+    "SKM": {
+        "cik_str": 1015650,
+        "ticker": "SKM",
+        "title": "SK TELECOM CO LTD",
+        "sector": "Communication Services"
+    },
+    "FYBR": {
+        "cik_str": 20520,
+        "ticker": "FYBR",
+        "title": "Frontier Communications Parent, Inc.",
+        "sector": "Communication Services"
+    },
+    "LUMN": {
+        "cik_str": 18926,
+        "ticker": "LUMN",
+        "title": "Lumen Technologies, Inc.",
+        "sector": "Communication Services"
+    },
+    "KT": {
+        "cik_str": 892450,
+        "ticker": "KT",
+        "title": "KT CORP",
+        "sector": "Communication Services"
+    },
+    "BILI": {
+        "cik_str": 1723690,
+        "ticker": "BILI",
+        "title": "Bilibili Inc.",
+        "sector": "Communication Services"
+    },
+    "MTCH": {
+        "cik_str": 891103,
+        "ticker": "MTCH",
+        "title": "Match Group, Inc.",
+        "sector": "Communication Services"
+    },
+    "PARA": {
+        "cik_str": 813828,
+        "ticker": "PARA",
+        "title": "Paramount Global",
+        "sector": "Communication Services"
+    },
+    "DJT": {
+        "cik_str": 1849635,
+        "ticker": "DJT",
+        "title": "Trump Media & Technology Group Corp.",
+        "sector": "Communication Services"
+    },
+    "TIMB": {
+        "cik_str": 1826168,
+        "ticker": "TIMB",
+        "title": "TIM S.A.",
+        "sector": "Communication Services"
+    },
+    "TKC": {
+        "cik_str": 1071321,
+        "ticker": "TKC",
+        "title": "TURKCELL ILETISIM HIZMETLERI A S",
+        "sector": "Communication Services"
+    },
+    "BZ": {
+        "cik_str": 1842827,
+        "ticker": "BZ",
+        "title": "Kanzhun Ltd",
+        "sector": "Communication Services"
+    },
+    "MSGS": {
+        "cik_str": 1636519,
+        "ticker": "MSGS",
+        "title": "Madison Square Garden Sports Corp.",
+        "sector": "Communication Services"
+    },
+    "USM": {
+        "cik_str": 821130,
+        "ticker": "USM",
+        "title": "UNITED STATES CELLULAR CORP",
+        "sector": "Communication Services"
+    },
+    "NXST": {
+        "cik_str": 1142417,
+        "ticker": "NXST",
+        "title": "NEXSTAR MEDIA GROUP, INC.",
+        "sector": "Communication Services"
+    },
+    "PHI": {
+        "cik_str": 78150,
+        "ticker": "PHI",
+        "title": "PLDT Inc.",
+        "sector": "Communication Services"
+    },
+    "LBTYA": {
+        "cik_str": 1570585,
+        "ticker": "LBTYA",
+        "title": "Liberty Global Ltd.",
+        "sector": "Communication Services"
+    },
+    "TIGO": {
+        "cik_str": 912958,
+        "ticker": "TIGO",
+        "title": "MILLICOM INTERNATIONAL CELLULAR SA",
+        "sector": "Communication Services"
+    },
+    "NBIS": {
+        "cik_str": 1513845,
+        "ticker": "NBIS",
+        "title": "Nebius Group N.V.",
+        "sector": "Communication Services"
+    },
+    "TEO": {
+        "cik_str": 932470,
+        "ticker": "TEO",
+        "title": "TELECOM ARGENTINA SA",
+        "sector": "Communication Services"
+    },
+    "IAC": {
+        "cik_str": 1800227,
+        "ticker": "IAC",
+        "title": "IAC Inc.",
+        "sector": "Communication Services"
+    },
+    "CCOI": {
+        "cik_str": 1158324,
+        "ticker": "CCOI",
+        "title": "COGENT COMMUNICATIONS HOLDINGS, INC.",
+        "sector": "Communication Services"
+    },
+    "CNK": {
+        "cik_str": 1385280,
+        "ticker": "CNK",
+        "title": "Cinemark Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "TDS": {
+        "cik_str": 1051512,
+        "ticker": "TDS",
+        "title": "TELEPHONE & DATA SYSTEMS INC /DE/",
+        "sector": "Communication Services"
+    },
+    "ATHM": {
+        "cik_str": 1527636,
+        "ticker": "ATHM",
+        "title": "Autohome Inc.",
+        "sector": "Communication Services"
+    },
+    "GSAT": {
+        "cik_str": 1366868,
+        "ticker": "GSAT",
+        "title": "Globalstar, Inc.",
+        "sector": "Communication Services"
+    },
+    "IRDM": {
+        "cik_str": 1418819,
+        "ticker": "IRDM",
+        "title": "Iridium Communications Inc.",
+        "sector": "Communication Services"
+    },
+    "PLTK": {
+        "cik_str": 1828016,
+        "ticker": "PLTK",
+        "title": "Playtika Holding Corp.",
+        "sector": "Communication Services"
+    },
+    "TGNA": {
+        "cik_str": 39899,
+        "ticker": "TGNA",
+        "title": "TEGNA INC",
+        "sector": "Communication Services"
+    },
+    "MANU": {
+        "cik_str": 1549107,
+        "ticker": "MANU",
+        "title": "Manchester United plc",
+        "sector": "Communication Services"
+    },
+    "WLY": {
+        "cik_str": 107140,
+        "ticker": "WLY",
+        "title": "JOHN WILEY & SONS, INC.",
+        "sector": "Communication Services"
+    },
+    "BATRA": {
+        "cik_str": 1958140,
+        "ticker": "BATRA",
+        "title": "Atlanta Braves Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "ZD": {
+        "cik_str": 1084048,
+        "ticker": "ZD",
+        "title": "ZIFF DAVIS, INC.",
+        "sector": "Communication Services"
+    },
+    "YELP": {
+        "cik_str": 1345016,
+        "ticker": "YELP",
+        "title": "YELP INC",
+        "sector": "Communication Services"
+    },
+    "VEON": {
+        "cik_str": 1468091,
+        "ticker": "VEON",
+        "title": "VEON Ltd.",
+        "sector": "Communication Services"
+    },
+    "MGNI": {
+        "cik_str": 1595974,
+        "ticker": "MGNI",
+        "title": "MAGNITE, INC.",
+        "sector": "Communication Services"
+    },
+    "CABO": {
+        "cik_str": 1632127,
+        "ticker": "CABO",
+        "title": "Cable One, Inc.",
+        "sector": "Communication Services"
+    },
+    "WB": {
+        "cik_str": 1595761,
+        "ticker": "WB",
+        "title": "WEIBO Corp",
+        "sector": "Communication Services"
+    },
+    "CRTO": {
+        "cik_str": 1576427,
+        "ticker": "CRTO",
+        "title": "Criteo S.A.",
+        "sector": "Communication Services"
+    },
+    "YY": {
+        "cik_str": 1530238,
+        "ticker": "YY",
+        "title": "JOYY Inc.",
+        "sector": "Communication Services"
+    },
+    "STGW": {
+        "cik_str": 876883,
+        "ticker": "STGW",
+        "title": "Stagwell Inc",
+        "sector": "Communication Services"
+    },
+    "UPWK": {
+        "cik_str": 1627475,
+        "ticker": "UPWK",
+        "title": "UPWORK, INC",
+        "sector": "Communication Services"
+    },
+    "GENI": {
+        "cik_str": 1834489,
+        "ticker": "GENI",
+        "title": "Genius Sports Ltd",
+        "sector": "Communication Services"
+    },
+    "IQ": {
+        "cik_str": 1722608,
+        "ticker": "IQ",
+        "title": "iQIYI, Inc.",
+        "sector": "Communication Services"
+    },
+    "IAS": {
+        "cik_str": 1842718,
+        "ticker": "IAS",
+        "title": "INTEGRAL AD SCIENCE HOLDING CORP.",
+        "sector": "Communication Services"
+    },
+    "LGF-A": {
+        "cik_str": 929351,
+        "ticker": "LGF-A",
+        "title": "LIONS GATE ENTERTAINMENT CORP /CN/",
+        "sector": "Communication Services"
+    },
+    "OPRA": {
+        "cik_str": 1737450,
+        "ticker": "OPRA",
+        "title": "Opera Ltd",
+        "sector": "Communication Services"
+    },
+    "AMC": {
+        "cik_str": 1411579,
+        "ticker": "AMC",
+        "title": "AMC ENTERTAINMENT HOLDINGS, INC.",
+        "sector": "Communication Services"
+    },
+    "SPHR": {
+        "cik_str": 1795250,
+        "ticker": "SPHR",
+        "title": "Sphere Entertainment Co.",
+        "sector": "Communication Services"
+    },
+    "LILA": {
+        "cik_str": 1712184,
+        "ticker": "LILA",
+        "title": "Liberty Latin America Ltd.",
+        "sector": "Communication Services"
+    },
+    "PLAY": {
+        "cik_str": 1525769,
+        "ticker": "PLAY",
+        "title": "Dave & Buster's Entertainment, Inc.",
+        "sector": "Communication Services"
+    },
+    "IMAX": {
+        "cik_str": 921582,
+        "ticker": "IMAX",
+        "title": "IMAX CORP",
+        "sector": "Communication Services"
+    },
+    "IDT": {
+        "cik_str": 1005731,
+        "ticker": "IDT",
+        "title": "IDT CORP",
+        "sector": "Communication Services"
+    },
+    "QNST": {
+        "cik_str": 1117297,
+        "ticker": "QNST",
+        "title": "QUINSTREET, INC",
+        "sector": "Communication Services"
+    },
+    "TBLA": {
+        "cik_str": 1840502,
+        "ticker": "TBLA",
+        "title": "Taboola.com Ltd.",
+        "sector": "Communication Services"
+    },
+    "ATUS": {
+        "cik_str": 1702780,
+        "ticker": "ATUS",
+        "title": "Altice USA, Inc.",
+        "sector": "Communication Services"
+    },
+    "GETY": {
+        "cik_str": 1898496,
+        "ticker": "GETY",
+        "title": "Getty Images Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "MOMO": {
+        "cik_str": 1610601,
+        "ticker": "MOMO",
+        "title": "Hello Group Inc.",
+        "sector": "Communication Services"
+    },
+    "SBGI": {
+        "cik_str": 1971213,
+        "ticker": "SBGI",
+        "title": "Sinclair, Inc.",
+        "sector": "Communication Services"
+    },
+    "FVRR": {
+        "cik_str": 1762301,
+        "ticker": "FVRR",
+        "title": "Fiverr International Ltd.",
+        "sector": "Communication Services"
+    },
+    "ADV": {
+        "cik_str": 1776661,
+        "ticker": "ADV",
+        "title": "Advantage Solutions Inc.",
+        "sector": "Communication Services"
+    },
+    "TV": {
+        "cik_str": 912892,
+        "ticker": "TV",
+        "title": "GRUPO TELEVISA, S.A.B.",
+        "sector": "Communication Services"
+    },
+    "PGRU": {
+        "cik_str": 1873331,
+        "ticker": "PGRU",
+        "title": "PROPERTYGURU GROUP LTD",
+        "sector": "Communication Services"
+    },
+    "SSTK": {
+        "cik_str": 1549346,
+        "ticker": "SSTK",
+        "title": "Shutterstock, Inc.",
+        "sector": "Communication Services"
+    },
+    "GOGO": {
+        "cik_str": 1537054,
+        "ticker": "GOGO",
+        "title": "Gogo Inc.",
+        "sector": "Communication Services"
+    },
+    "NRDS": {
+        "cik_str": 1625278,
+        "ticker": "NRDS",
+        "title": "NERDWALLET, INC.",
+        "sector": "Communication Services"
+    },
+    "EEX": {
+        "cik_str": 1579214,
+        "ticker": "EEX",
+        "title": "Emerald Holding, Inc.",
+        "sector": "Communication Services"
+    },
+    "ANGI": {
+        "cik_str": 1705110,
+        "ticker": "ANGI",
+        "title": "Angi Inc.",
+        "sector": "Communication Services"
+    },
+    "KIND": {
+        "cik_str": 1846069,
+        "ticker": "KIND",
+        "title": "Nextdoor Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "IHS": {
+        "cik_str": 1876183,
+        "ticker": "IHS",
+        "title": "IHS Holding Ltd",
+        "sector": "Communication Services"
+    },
+    "TTGT": {
+        "cik_str": 1293282,
+        "ticker": "TTGT",
+        "title": "TechTarget Inc",
+        "sector": "Communication Services"
+    },
+    "MAX": {
+        "cik_str": 1818383,
+        "ticker": "MAX",
+        "title": "MediaAlpha, Inc.",
+        "sector": "Communication Services"
+    },
+    "CCO": {
+        "cik_str": 1334978,
+        "ticker": "CCO",
+        "title": "Clear Channel Outdoor Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "GCI": {
+        "cik_str": 1579684,
+        "ticker": "GCI",
+        "title": "Gannett Co., Inc.",
+        "sector": "Communication Services"
+    },
+    "SEAT": {
+        "cik_str": 1856031,
+        "ticker": "SEAT",
+        "title": "Vivid Seats Inc.",
+        "sector": "Communication Services"
+    },
+    "DDI": {
+        "cik_str": 1799567,
+        "ticker": "DDI",
+        "title": "DoubleDown Interactive Co., Ltd.",
+        "sector": "Communication Services"
+    },
+    "SCHL": {
+        "cik_str": 866729,
+        "ticker": "SCHL",
+        "title": "SCHOLASTIC CORP",
+        "sector": "Communication Services"
+    },
+    "HUYA": {
+        "cik_str": 1728190,
+        "ticker": "HUYA",
+        "title": "HUYA Inc.",
+        "sector": "Communication Services"
+    },
+    "SHEN": {
+        "cik_str": 354963,
+        "ticker": "SHEN",
+        "title": "SHENANDOAH TELECOMMUNICATIONS CO/VA/",
+        "sector": "Communication Services"
+    },
+    "MCS": {
+        "cik_str": 62234,
+        "ticker": "MCS",
+        "title": "MARCUS CORP",
+        "sector": "Communication Services"
+    },
+    "RBBN": {
+        "cik_str": 1708055,
+        "ticker": "RBBN",
+        "title": "Ribbon Communications Inc.",
+        "sector": "Communication Services"
+    },
+    "EVER": {
+        "cik_str": 1640428,
+        "ticker": "EVER",
+        "title": "EverQuote, Inc.",
+        "sector": "Communication Services"
+    },
+    "NEXN": {
+        "cik_str": 1849396,
+        "ticker": "NEXN",
+        "title": "Nexxen International Ltd.",
+        "sector": "Communication Services"
+    },
+    "NCMI": {
+        "cik_str": 1377630,
+        "ticker": "NCMI",
+        "title": "National CineMedia, Inc.",
+        "sector": "Communication Services"
+    },
+    "ATEX": {
+        "cik_str": 1304492,
+        "ticker": "ATEX",
+        "title": "Anterix Inc.",
+        "sector": "Communication Services"
+    },
+    "THRY": {
+        "cik_str": 1556739,
+        "ticker": "THRY",
+        "title": "Thryv Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "RSVR": {
+        "cik_str": 1824403,
+        "ticker": "RSVR",
+        "title": "Reservoir Media, Inc.",
+        "sector": "Communication Services"
+    },
+    "NIPG": {
+        "cik_str": 1966233,
+        "ticker": "NIPG",
+        "title": "NIP Group Inc.",
+        "sector": "Communication Services"
+    },
+    "CNSL": {
+        "cik_str": 1304421,
+        "ticker": "CNSL",
+        "title": "Consolidated Communications Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "FUBO": {
+        "cik_str": 1484769,
+        "ticker": "FUBO",
+        "title": "fuboTV Inc. /FL",
+        "sector": "Communication Services"
+    },
+    "GTN": {
+        "cik_str": 43196,
+        "ticker": "GTN",
+        "title": "GRAY TELEVISION INC",
+        "sector": "Communication Services"
+    },
+    "GRVY": {
+        "cik_str": 1313310,
+        "ticker": "GRVY",
+        "title": "GRAVITY Co., Ltd.",
+        "sector": "Communication Services"
+    },
+    "GDEV": {
+        "cik_str": 1848739,
+        "ticker": "GDEV",
+        "title": "GDEV Inc.",
+        "sector": "Communication Services"
+    },
+    "CTV": {
+        "cik_str": 1835378,
+        "ticker": "CTV",
+        "title": "Innovid Corp.",
+        "sector": "Communication Services"
+    },
+    "WOW": {
+        "cik_str": 1701051,
+        "ticker": "WOW",
+        "title": "WideOpenWest, Inc.",
+        "sector": "Communication Services"
+    },
+    "AMCX": {
+        "cik_str": 1514991,
+        "ticker": "AMCX",
+        "title": "AMC Networks Inc.",
+        "sector": "Communication Services"
+    },
+    "SOHU": {
+        "cik_str": 1734107,
+        "ticker": "SOHU",
+        "title": "Sohu.com Ltd",
+        "sector": "Communication Services"
+    },
+    "PERI": {
+        "cik_str": 1338940,
+        "ticker": "PERI",
+        "title": "Perion Network Ltd.",
+        "sector": "Communication Services"
+    },
+    "GRPN": {
+        "cik_str": 1490281,
+        "ticker": "GRPN",
+        "title": "Groupon, Inc.",
+        "sector": "Communication Services"
+    },
+    "IHRT": {
+        "cik_str": 1400891,
+        "ticker": "IHRT",
+        "title": "iHeartMedia, Inc.",
+        "sector": "Communication Services"
+    },
+    "GMGI": {
+        "cik_str": 1437925,
+        "ticker": "GMGI",
+        "title": "Golden Matrix Group, Inc.",
+        "sector": "Communication Services"
+    },
+    "TRUE": {
+        "cik_str": 1327318,
+        "ticker": "TRUE",
+        "title": "TrueCar, Inc.",
+        "sector": "Communication Services"
+    },
+    "JFIN": {
+        "cik_str": 1743102,
+        "ticker": "JFIN",
+        "title": "Jiayin Group Inc.",
+        "sector": "Communication Services"
+    },
+    "ATNI": {
+        "cik_str": 879585,
+        "ticker": "ATNI",
+        "title": "ATN International, Inc.",
+        "sector": "Communication Services"
+    },
+    "DOYU": {
+        "cik_str": 1762417,
+        "ticker": "DOYU",
+        "title": "DouYu International Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "ZH": {
+        "cik_str": 1835724,
+        "ticker": "ZH",
+        "title": "Zhihu Inc.",
+        "sector": "Communication Services"
+    },
+    "OB": {
+        "cik_str": 1454938,
+        "ticker": "OB",
+        "title": "Outbrain Inc.",
+        "sector": "Communication Services"
+    },
+    "SIFY": {
+        "cik_str": 1094324,
+        "ticker": "SIFY",
+        "title": "SIFY TECHNOLOGIES LTD",
+        "sector": "Communication Services"
+    },
+    "AENT": {
+        "cik_str": 1823584,
+        "ticker": "AENT",
+        "title": "ALLIANCE ENTERTAINMENT HOLDING CORP",
+        "sector": "Communication Services"
+    },
+    "MYPS": {
+        "cik_str": 1823878,
+        "ticker": "MYPS",
+        "title": "PLAYSTUDIOS, Inc.",
+        "sector": "Communication Services"
+    },
+    "TZOO": {
+        "cik_str": 1133311,
+        "ticker": "TZOO",
+        "title": "TRAVELZOO",
+        "sector": "Communication Services"
+    },
+    "EVC": {
+        "cik_str": 1109116,
+        "ticker": "EVC",
+        "title": "ENTRAVISION COMMUNICATIONS CORP",
+        "sector": "Communication Services"
+    },
+    "CDLX": {
+        "cik_str": 1666071,
+        "ticker": "CDLX",
+        "title": "Cardlytics, Inc.",
+        "sector": "Communication Services"
+    },
+    "AOAO": {
+        "cik_str": 2042320,
+        "ticker": "AOAO",
+        "title": "Alpha One Inc.",
+        "sector": "Communication Services"
+    },
+    "RDCM": {
+        "cik_str": 1016838,
+        "ticker": "RDCM",
+        "title": "RADCOM LTD",
+        "sector": "Communication Services"
+    },
+    "SSP": {
+        "cik_str": 832428,
+        "ticker": "SSP",
+        "title": "E.W. SCRIPPS Co",
+        "sector": "Communication Services"
+    },
+    "TSQ": {
+        "cik_str": 1499832,
+        "ticker": "TSQ",
+        "title": "Townsquare Media, Inc.",
+        "sector": "Communication Services"
+    },
+    "GAIA": {
+        "cik_str": 1089872,
+        "ticker": "GAIA",
+        "title": "GAIA, INC",
+        "sector": "Communication Services"
+    },
+    "CMCM": {
+        "cik_str": 1597835,
+        "ticker": "CMCM",
+        "title": "Cheetah Mobile Inc.",
+        "sector": "Communication Services"
+    },
+    "CXDO": {
+        "cik_str": 1075736,
+        "ticker": "CXDO",
+        "title": "Crexendo, Inc.",
+        "sector": "Communication Services"
+    },
+    "BZFD": {
+        "cik_str": 1828972,
+        "ticker": "BZFD",
+        "title": "BuzzFeed, Inc.",
+        "sector": "Communication Services"
+    },
+    "TRVG": {
+        "cik_str": 1683825,
+        "ticker": "TRVG",
+        "title": "trivago N.V.",
+        "sector": "Communication Services"
+    },
+    "FNGR": {
+        "cik_str": 1602409,
+        "ticker": "FNGR",
+        "title": "FingerMotion, Inc.",
+        "sector": "Communication Services"
+    },
+    "KNIT": {
+        "cik_str": 1696195,
+        "ticker": "KNIT",
+        "title": "KINETIC GROUP INC.",
+        "sector": "Communication Services"
+    },
+    "LEE": {
+        "cik_str": 58361,
+        "ticker": "LEE",
+        "title": "LEE ENTERPRISES, Inc",
+        "sector": "Communication Services"
+    },
+    "TRFE": {
+        "cik_str": 1265521,
+        "ticker": "TRFE",
+        "title": "Polomar Health Services, Inc.",
+        "sector": "Communication Services"
+    },
+    "SKLZ": {
+        "cik_str": 1801661,
+        "ticker": "SKLZ",
+        "title": "Skillz Inc.",
+        "sector": "Communication Services"
+    },
+    "ELRE": {
+        "cik_str": 1438461,
+        "ticker": "ELRE",
+        "title": "Yinfu Gold Corp.",
+        "sector": "Communication Services"
+    },
+    "CURI": {
+        "cik_str": 1776909,
+        "ticker": "CURI",
+        "title": "CuriosityStream Inc.",
+        "sector": "Communication Services"
+    },
+    "SGA": {
+        "cik_str": 886136,
+        "ticker": "SGA",
+        "title": "SAGA COMMUNICATIONS INC",
+        "sector": "Communication Services"
+    },
+    "LVO": {
+        "cik_str": 1491419,
+        "ticker": "LVO",
+        "title": "LiveOne, Inc.",
+        "sector": "Communication Services"
+    },
+    "WIMI": {
+        "cik_str": 1770088,
+        "ticker": "WIMI",
+        "title": "WiMi Hologram Cloud Inc.",
+        "sector": "Communication Services"
+    },
+    "EZOO": {
+        "cik_str": 1752372,
+        "ticker": "EZOO",
+        "title": "Ezagoo Ltd",
+        "sector": "Communication Services"
+    },
+    "MCHX": {
+        "cik_str": 1224133,
+        "ticker": "MCHX",
+        "title": "MARCHEX INC",
+        "sector": "Communication Services"
+    },
+    "AREN": {
+        "cik_str": 894871,
+        "ticker": "AREN",
+        "title": "Arena Group Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "MOBQ": {
+        "cik_str": 1084267,
+        "ticker": "MOBQ",
+        "title": "Mobiquity Technologies, Inc.",
+        "sector": "Communication Services"
+    },
+    "CCG": {
+        "cik_str": 1965473,
+        "ticker": "CCG",
+        "title": "Cheche Group Inc.",
+        "sector": "Communication Services"
+    },
+    "MPU": {
+        "cik_str": 1953021,
+        "ticker": "MPU",
+        "title": "Mega Matrix Inc",
+        "sector": "Communication Services"
+    },
+    "MDIA": {
+        "cik_str": 1784254,
+        "ticker": "MDIA",
+        "title": "Mediaco Holding Inc.",
+        "sector": "Communication Services"
+    },
+    "CNVS": {
+        "cik_str": 1173204,
+        "ticker": "CNVS",
+        "title": "Cineverse Corp.",
+        "sector": "Communication Services"
+    },
+    "STBX": {
+        "cik_str": 1914818,
+        "ticker": "STBX",
+        "title": "Starbox Group Holdings Ltd.",
+        "sector": "Communication Services"
+    },
+    "STFS": {
+        "cik_str": 2003061,
+        "ticker": "STFS",
+        "title": "Star Fashion Culture Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "UONE": {
+        "cik_str": 1041657,
+        "ticker": "UONE",
+        "title": "URBAN ONE, INC.",
+        "sector": "Communication Services"
+    },
+    "ANGH": {
+        "cik_str": 1871983,
+        "ticker": "ANGH",
+        "title": "Anghami Inc",
+        "sector": "Communication Services"
+    },
+    "IZEA": {
+        "cik_str": 1495231,
+        "ticker": "IZEA",
+        "title": "IZEA Worldwide, Inc.",
+        "sector": "Communication Services"
+    },
+    "MNY": {
+        "cik_str": 1974044,
+        "ticker": "MNY",
+        "title": "MoneyHero Ltd",
+        "sector": "Communication Services"
+    },
+    "UCL": {
+        "cik_str": 1775898,
+        "ticker": "UCL",
+        "title": "uCloudlink Group Inc.",
+        "sector": "Communication Services"
+    },
+    "NUVR": {
+        "cik_str": 71557,
+        "ticker": "NUVR",
+        "title": "Nuvera Communications, Inc.",
+        "sector": "Communication Services"
+    },
+    "FLNT": {
+        "cik_str": 1460329,
+        "ticker": "FLNT",
+        "title": "Fluent, Inc.",
+        "sector": "Communication Services"
+    },
+    "PODC": {
+        "cik_str": 1940177,
+        "ticker": "PODC",
+        "title": "PodcastOne, Inc.",
+        "sector": "Communication Services"
+    },
+    "AGAE": {
+        "cik_str": 1708341,
+        "ticker": "AGAE",
+        "title": "Allied Gaming & Entertainment Inc.",
+        "sector": "Communication Services"
+    },
+    "BODI": {
+        "cik_str": 1826889,
+        "ticker": "BODI",
+        "title": "Beachbody Company, Inc.",
+        "sector": "Communication Services"
+    },
+    "WNLV": {
+        "cik_str": 1558740,
+        "ticker": "WNLV",
+        "title": "Winvest Group Ltd",
+        "sector": "Communication Services"
+    },
+    "RDI": {
+        "cik_str": 716634,
+        "ticker": "RDI",
+        "title": "READING INTERNATIONAL INC",
+        "sector": "Communication Services"
+    },
+    "ICLK": {
+        "cik_str": 1697818,
+        "ticker": "ICLK",
+        "title": "iClick Interactive Asia Group Ltd",
+        "sector": "Communication Services"
+    },
+    "ZDGE": {
+        "cik_str": 1667313,
+        "ticker": "ZDGE",
+        "title": "Zedge, Inc.",
+        "sector": "Communication Services"
+    },
+    "LTRPA": {
+        "cik_str": 1606745,
+        "ticker": "LTRPA",
+        "title": "Liberty TripAdvisor Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "TZUP": {
+        "cik_str": 1853825,
+        "ticker": "TZUP",
+        "title": "THUMZUP MEDIA Corp",
+        "sector": "Communication Services"
+    },
+    "SJ": {
+        "cik_str": 1753673,
+        "ticker": "SJ",
+        "title": "Scienjoy Holding Corp",
+        "sector": "Communication Services"
+    },
+    "GIFT": {
+        "cik_str": 1760233,
+        "ticker": "GIFT",
+        "title": "GIFTIFY, INC.",
+        "sector": "Communication Services"
+    },
+    "ABLV": {
+        "cik_str": 1957489,
+        "ticker": "ABLV",
+        "title": "Able View Global Inc.",
+        "sector": "Communication Services"
+    },
+    "CNFN": {
+        "cik_str": 1352952,
+        "ticker": "CNFN",
+        "title": "CFN Enterprises Inc.",
+        "sector": "Communication Services"
+    },
+    "SCOR": {
+        "cik_str": 1158172,
+        "ticker": "SCOR",
+        "title": "COMSCORE, INC.",
+        "sector": "Communication Services"
+    },
+    "SNAL": {
+        "cik_str": 1886894,
+        "ticker": "SNAL",
+        "title": "Snail, Inc.",
+        "sector": "Communication Services"
+    },
+    "KORE": {
+        "cik_str": 1855457,
+        "ticker": "KORE",
+        "title": "KORE Group Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "APHP": {
+        "cik_str": 1771995,
+        "ticker": "APHP",
+        "title": "American Picture House Corp",
+        "sector": "Communication Services"
+    },
+    "GDC": {
+        "cik_str": 1641398,
+        "ticker": "GDC",
+        "title": "GD Culture Group Ltd",
+        "sector": "Communication Services"
+    },
+    "FENG": {
+        "cik_str": 1509646,
+        "ticker": "FENG",
+        "title": "Phoenix New Media Ltd",
+        "sector": "Communication Services"
+    },
+    "TOON": {
+        "cik_str": 1355848,
+        "ticker": "TOON",
+        "title": "Kartoon Studios, Inc.",
+        "sector": "Communication Services"
+    },
+    "IQST": {
+        "cik_str": 1527702,
+        "ticker": "IQST",
+        "title": "iQSTEL Inc",
+        "sector": "Communication Services"
+    },
+    "GAME": {
+        "cik_str": 1714562,
+        "ticker": "GAME",
+        "title": "GameSquare Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "DALN": {
+        "cik_str": 1413898,
+        "ticker": "DALN",
+        "title": "DallasNews Corp",
+        "sector": "Communication Services"
+    },
+    "CHR": {
+        "cik_str": 1738758,
+        "ticker": "CHR",
+        "title": "Cheer Holding, Inc.",
+        "sector": "Communication Services"
+    },
+    "VPLM": {
+        "cik_str": 1410738,
+        "ticker": "VPLM",
+        "title": "Voip-pal.com Inc",
+        "sector": "Communication Services"
+    },
+    "SWAG": {
+        "cik_str": 1872525,
+        "ticker": "SWAG",
+        "title": "Stran & Company, Inc.",
+        "sector": "Communication Services"
+    },
+    "KUKE": {
+        "cik_str": 1809158,
+        "ticker": "KUKE",
+        "title": "Kuke Music Holding Ltd",
+        "sector": "Communication Services"
+    },
+    "DRCT": {
+        "cik_str": 1880613,
+        "ticker": "DRCT",
+        "title": "Direct Digital Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "CPOP": {
+        "cik_str": 1807389,
+        "ticker": "CPOP",
+        "title": "Pop Culture Group Co., Ltd",
+        "sector": "Communication Services"
+    },
+    "GIGM": {
+        "cik_str": 1105101,
+        "ticker": "GIGM",
+        "title": "GIGAMEDIA Ltd",
+        "sector": "Communication Services"
+    },
+    "EDUC": {
+        "cik_str": 31667,
+        "ticker": "EDUC",
+        "title": "EDUCATIONAL DEVELOPMENT CORP",
+        "sector": "Communication Services"
+    },
+    "QYOUF": {
+        "cik_str": 1650287,
+        "ticker": "QYOUF",
+        "title": "QYOU Media Inc.",
+        "sector": "Communication Services"
+    },
+    "KDOZF": {
+        "cik_str": 1318482,
+        "ticker": "KDOZF",
+        "title": "KIDOZ INC.",
+        "sector": "Communication Services"
+    },
+    "BBGI": {
+        "cik_str": 1099160,
+        "ticker": "BBGI",
+        "title": "BEASLEY BROADCAST GROUP INC",
+        "sector": "Communication Services"
+    },
+    "CMLS": {
+        "cik_str": 1058623,
+        "ticker": "CMLS",
+        "title": "CUMULUS MEDIA INC",
+        "sector": "Communication Services"
+    },
+    "MMV": {
+        "cik_str": 1874074,
+        "ticker": "MMV",
+        "title": "MultiMetaVerse Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "DLPN": {
+        "cik_str": 1282224,
+        "ticker": "DLPN",
+        "title": "Dolphin Entertainment, Inc.",
+        "sector": "Communication Services"
+    },
+    "HAO": {
+        "cik_str": 1954594,
+        "ticker": "HAO",
+        "title": "Haoxi Health Technology Ltd",
+        "sector": "Communication Services"
+    },
+    "HRYU": {
+        "cik_str": 1911545,
+        "ticker": "HRYU",
+        "title": "Hanryu Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "QMMM": {
+        "cik_str": 1971542,
+        "ticker": "QMMM",
+        "title": "QMMM Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "LCFY": {
+        "cik_str": 1875547,
+        "ticker": "LCFY",
+        "title": "Locafy Ltd",
+        "sector": "Communication Services"
+    },
+    "BHAT": {
+        "cik_str": 1759136,
+        "ticker": "BHAT",
+        "title": "Blue Hat Interactive Entertainment Technology",
+        "sector": "Communication Services"
+    },
+    "KTEL": {
+        "cik_str": 845819,
+        "ticker": "KTEL",
+        "title": "KonaTel, Inc.",
+        "sector": "Communication Services"
+    },
+    "SOGP": {
+        "cik_str": 1783407,
+        "ticker": "SOGP",
+        "title": "Sound Group Inc.",
+        "sector": "Communication Services"
+    },
+    "BLMZ": {
+        "cik_str": 1984014,
+        "ticker": "BLMZ",
+        "title": "BloomZ Inc.",
+        "sector": "Communication Services"
+    },
+    "VADP": {
+        "cik_str": 1700849,
+        "ticker": "VADP",
+        "title": "Vado Corp.",
+        "sector": "Communication Services"
+    },
+    "FHLD": {
+        "cik_str": 1386044,
+        "ticker": "FHLD",
+        "title": "Freedom Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "BREA": {
+        "cik_str": 1939965,
+        "ticker": "BREA",
+        "title": "Brera Holdings PLC",
+        "sector": "Communication Services"
+    },
+    "SLE": {
+        "cik_str": 1621672,
+        "ticker": "SLE",
+        "title": "Super League Enterprise, Inc.",
+        "sector": "Communication Services"
+    },
+    "ANTE": {
+        "cik_str": 1413745,
+        "ticker": "ANTE",
+        "title": "AIRNET TECHNOLOGY INC.",
+        "sector": "Communication Services"
+    },
+    "LEBGF": {
+        "cik_str": 1935688,
+        "ticker": "LEBGF",
+        "title": "Legible Inc.",
+        "sector": "Communication Services"
+    },
+    "LDWY": {
+        "cik_str": 875355,
+        "ticker": "LDWY",
+        "title": "LENDWAY, INC.",
+        "sector": "Communication Services"
+    },
+    "MGOL": {
+        "cik_str": 1902794,
+        "ticker": "MGOL",
+        "title": "MGO Global Inc.",
+        "sector": "Communication Services"
+    },
+    "XONI": {
+        "cik_str": 2040753,
+        "ticker": "XONI",
+        "title": "Xtreme One Entertainment, Inc.",
+        "sector": "Communication Services"
+    },
+    "ONFO": {
+        "cik_str": 1825452,
+        "ticker": "ONFO",
+        "title": "Onfolio Holdings, Inc",
+        "sector": "Communication Services"
+    },
+    "KRKR": {
+        "cik_str": 1779476,
+        "ticker": "KRKR",
+        "title": "36Kr Holdings Inc.",
+        "sector": "Communication Services"
+    },
+    "BMTM": {
+        "cik_str": 1568385,
+        "ticker": "BMTM",
+        "title": "Bright Mountain Media, Inc.",
+        "sector": "Communication Services"
+    },
+    "TRUG": {
+        "cik_str": 1857086,
+        "ticker": "TRUG",
+        "title": "TruGolf Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "HOFV": {
+        "cik_str": 1708176,
+        "ticker": "HOFV",
+        "title": "Hall of Fame Resort & Entertainment Co",
+        "sector": "Communication Services"
+    },
+    "UPXI": {
+        "cik_str": 1775194,
+        "ticker": "UPXI",
+        "title": "UPEXI, INC.",
+        "sector": "Communication Services"
+    },
+    "MVNC": {
+        "cik_str": 1439264,
+        "ticker": "MVNC",
+        "title": "Marvion Inc.",
+        "sector": "Communication Services"
+    },
+    "NWCN": {
+        "cik_str": 934796,
+        "ticker": "NWCN",
+        "title": "NETWORK CN INC",
+        "sector": "Communication Services"
+    },
+    "LFLY": {
+        "cik_str": 1785592,
+        "ticker": "LFLY",
+        "title": "Leafly Holdings, Inc. /DE",
+        "sector": "Communication Services"
+    },
+    "DGLY": {
+        "cik_str": 1342958,
+        "ticker": "DGLY",
+        "title": "DIGITAL ALLY, INC.",
+        "sector": "Communication Services"
+    },
+    "MSGM": {
+        "cik_str": 1821175,
+        "ticker": "MSGM",
+        "title": "Motorsport Games Inc.",
+        "sector": "Communication Services"
+    },
+    "VSME": {
+        "cik_str": 1951294,
+        "ticker": "VSME",
+        "title": "VS MEDIA Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "LPTV": {
+        "cik_str": 1643988,
+        "ticker": "LPTV",
+        "title": "Loop Media, Inc.",
+        "sector": "Communication Services"
+    },
+    "GXAI": {
+        "cik_str": 1895618,
+        "ticker": "GXAI",
+        "title": "GAXOS.AI INC.",
+        "sector": "Communication Services"
+    },
+    "ADD": {
+        "cik_str": 1747661,
+        "ticker": "ADD",
+        "title": "Color Star Technology Co., Ltd.",
+        "sector": "Communication Services"
+    },
+    "FMHS": {
+        "cik_str": 1811999,
+        "ticker": "FMHS",
+        "title": "FARMHOUSE, INC. /NV",
+        "sector": "Communication Services"
+    },
+    "CCCP": {
+        "cik_str": 1696411,
+        "ticker": "CCCP",
+        "title": "Crona Corp.",
+        "sector": "Communication Services"
+    },
+    "CNET": {
+        "cik_str": 1376321,
+        "ticker": "CNET",
+        "title": "ZW Data Action Technologies Inc.",
+        "sector": "Communication Services"
+    },
+    "CMGR": {
+        "cik_str": 1389518,
+        "ticker": "CMGR",
+        "title": "Clubhouse Media Group, Inc.",
+        "sector": "Communication Services"
+    },
+    "ASST": {
+        "cik_str": 1920406,
+        "ticker": "ASST",
+        "title": "Asset Entities Inc.",
+        "sector": "Communication Services"
+    },
+    "BAOS": {
+        "cik_str": 1811216,
+        "ticker": "BAOS",
+        "title": "Baosheng Media Group Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "CNNN": {
+        "cik_str": 1182731,
+        "ticker": "CNNN",
+        "title": "ConneXionONE Corp.",
+        "sector": "Communication Services"
+    },
+    "LDSN": {
+        "cik_str": 1737193,
+        "ticker": "LDSN",
+        "title": "Luduson G Inc.",
+        "sector": "Communication Services"
+    },
+    "ABQQ": {
+        "cik_str": 1605331,
+        "ticker": "ABQQ",
+        "title": "AB INTERNATIONAL GROUP CORP.",
+        "sector": "Communication Services"
+    },
+    "VRVR": {
+        "cik_str": 1536089,
+        "ticker": "VRVR",
+        "title": "VIRTUAL INTERACTIVE TECHNOLOGIES CORP.",
+        "sector": "Communication Services"
+    },
+    "LBUY": {
+        "cik_str": 1643721,
+        "ticker": "LBUY",
+        "title": "LEAFBUYER TECHNOLOGIES, INC.",
+        "sector": "Communication Services"
+    },
+    "QTTOY": {
+        "cik_str": 1733298,
+        "ticker": "QTTOY",
+        "title": "Qutoutiao Inc.",
+        "sector": "Communication Services"
+    },
+    "MRPT": {
+        "cik_str": 1143994,
+        "ticker": "MRPT",
+        "title": "MACREPORT NET INC",
+        "sector": "Communication Services"
+    },
+    "MMND": {
+        "cik_str": 1088638,
+        "ticker": "MMND",
+        "title": "MASTERMIND, INC.",
+        "sector": "Communication Services"
+    },
+    "TC": {
+        "cik_str": 1743340,
+        "ticker": "TC",
+        "title": "TuanChe Ltd",
+        "sector": "Communication Services"
+    },
+    "MRNJ": {
+        "cik_str": 1607004,
+        "ticker": "MRNJ",
+        "title": "METATRON APPS, INC.",
+        "sector": "Communication Services"
+    },
+    "VNUE": {
+        "cik_str": 1376804,
+        "ticker": "VNUE",
+        "title": "VNUE, Inc.",
+        "sector": "Communication Services"
+    },
+    "HMMR": {
+        "cik_str": 1539680,
+        "ticker": "HMMR",
+        "title": "HAMMER FIBER OPTICS HOLDINGS CORP",
+        "sector": "Communication Services"
+    },
+    "BOTY": {
+        "cik_str": 1407704,
+        "ticker": "BOTY",
+        "title": "LINGERIE FIGHTING CHAMPIONSHIPS, INC.",
+        "sector": "Communication Services"
+    },
+    "CMGO": {
+        "cik_str": 1346655,
+        "ticker": "CMGO",
+        "title": "CMG HOLDINGS GROUP, INC.",
+        "sector": "Communication Services"
+    },
+    "FRZT": {
+        "cik_str": 1485074,
+        "ticker": "FRZT",
+        "title": "Freeze Tag, Inc.",
+        "sector": "Communication Services"
+    },
+    "MEDE": {
+        "cik_str": 1918694,
+        "ticker": "MEDE",
+        "title": "Medies",
+        "sector": "Communication Services"
+    },
+    "SONG": {
+        "cik_str": 1671132,
+        "ticker": "SONG",
+        "title": "Music Licensing Inc.",
+        "sector": "Communication Services"
+    },
+    "DBMM": {
+        "cik_str": 1127475,
+        "ticker": "DBMM",
+        "title": "Digital Brand Media & Marketing Group, Inc.",
+        "sector": "Communication Services"
+    },
+    "GFMH": {
+        "cik_str": 820771,
+        "ticker": "GFMH",
+        "title": "Goliath Film & Media Holdings",
+        "sector": "Communication Services"
+    },
+    "SLDC": {
+        "cik_str": 1427644,
+        "ticker": "SLDC",
+        "title": "Telco Cuba, Inc.",
+        "sector": "Communication Services"
+    },
+    "CBIA": {
+        "cik_str": 1404356,
+        "ticker": "CBIA",
+        "title": "Blue Heaven Coffee, Inc.",
+        "sector": "Communication Services"
+    },
+    "TMGI": {
+        "cik_str": 1434601,
+        "ticker": "TMGI",
+        "title": "Marquie Group, Inc.",
+        "sector": "Communication Services"
+    },
+    "MGAM": {
+        "cik_str": 1886362,
+        "ticker": "MGAM",
+        "title": "Mobile Global Esports, Inc.",
+        "sector": "Communication Services"
+    },
+    "EMDF": {
+        "cik_str": 894552,
+        "ticker": "EMDF",
+        "title": "E Med Future, Inc.",
+        "sector": "Communication Services"
+    },
+    "HMLA": {
+        "cik_str": 1409624,
+        "ticker": "HMLA",
+        "title": "HIMALAYA TECHNOLOGIES, INC",
+        "sector": "Communication Services"
+    },
+    "CSSEQ": {
+        "cik_str": 1679063,
+        "ticker": "CSSEQ",
+        "title": "Chicken Soup for the Soul Entertainment, Inc.",
+        "sector": "Communication Services"
+    },
+    "GROM": {
+        "cik_str": 1662574,
+        "ticker": "GROM",
+        "title": "Grom Social Enterprises, Inc.",
+        "sector": "Communication Services"
+    },
+    "GOOG": {
+        "cik_str": 1652044,
+        "ticker": "GOOG",
+        "title": "Alphabet Inc.",
+        "sector": "Communication Services"
+    },
+    "NTTYY": {
+        "cik_str": 769594,
+        "ticker": "NTTYY",
+        "title": "NIPPON TELEGRAPH & TELEPHONE CORP",
+        "sector": "Communication Services"
+    },
+    "NETTF": {
+        "cik_str": 1110646,
+        "ticker": "NETTF",
+        "title": "NetEase, Inc.",
+        "sector": "Communication Services"
+    },
+    "BAIDF": {
+        "cik_str": 1329099,
+        "ticker": "BAIDF",
+        "title": "Baidu, Inc.",
+        "sector": "Communication Services"
+    },
+    "BECEF": {
+        "cik_str": 718940,
+        "ticker": "BECEF",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "FNCTF": {
+        "cik_str": 1038143,
+        "ticker": "FNCTF",
+        "title": "ORANGE",
+        "sector": "Communication Services"
+    },
+    "TEFOF": {
+        "cik_str": 814052,
+        "ticker": "TEFOF",
+        "title": "TELEFONICA S A",
+        "sector": "Communication Services"
+    },
+    "RCIAF": {
+        "cik_str": 733099,
+        "ticker": "RCIAF",
+        "title": "ROGERS COMMUNICATIONS INC",
+        "sector": "Communication Services"
+    },
+    "VODPF": {
+        "cik_str": 839923,
+        "ticker": "VODPF",
+        "title": "VODAFONE GROUP PUBLIC LTD CO",
+        "sector": "Communication Services"
+    },
+    "FWONK": {
+        "cik_str": 1560385,
+        "ticker": "FWONK",
+        "title": "Liberty Media Corp",
+        "sector": "Communication Services"
+    },
+    "FWONA": {
+        "cik_str": 1560385,
+        "ticker": "FWONA",
+        "title": "Liberty Media Corp",
+        "sector": "Communication Services"
+    },
+    "FOX": {
+        "cik_str": 1754301,
+        "ticker": "FOX",
+        "title": "Fox Corp",
+        "sector": "Communication Services"
+    },
+    "PGPEF": {
+        "cik_str": 1050952,
+        "ticker": "PGPEF",
+        "title": "PUBLICIS GROUPE SA",
+        "sector": "Communication Services"
+    },
+    "Z": {
+        "cik_str": 1617640,
+        "ticker": "Z",
+        "title": "ZILLOW GROUP, INC.",
+        "sector": "Communication Services"
+    },
+    "FWONB": {
+        "cik_str": 1560385,
+        "ticker": "FWONB",
+        "title": "Liberty Media Corp",
+        "sector": "Communication Services"
+    },
+    "NWS": {
+        "cik_str": 1564708,
+        "ticker": "NWS",
+        "title": "NEWS CORP",
+        "sector": "Communication Services"
+    },
+    "KKPNF": {
+        "cik_str": 1001474,
+        "ticker": "KKPNF",
+        "title": "KONINKLIJKE KPN N V",
+        "sector": "Communication Services"
+    },
+    "LBRDB": {
+        "cik_str": 1611983,
+        "ticker": "LBRDB",
+        "title": "Liberty Broadband Corp",
+        "sector": "Communication Services"
+    },
+    "LBRDK": {
+        "cik_str": 1611983,
+        "ticker": "LBRDK",
+        "title": "Liberty Broadband Corp",
+        "sector": "Communication Services"
+    },
+    "WPPGF": {
+        "cik_str": 806968,
+        "ticker": "WPPGF",
+        "title": "WPP plc",
+        "sector": "Communication Services"
+    },
+    "BLBLF": {
+        "cik_str": 1723690,
+        "ticker": "BLBLF",
+        "title": "Bilibili Inc.",
+        "sector": "Communication Services"
+    },
+    "LBTYB": {
+        "cik_str": 1570585,
+        "ticker": "LBTYB",
+        "title": "Liberty Global Ltd.",
+        "sector": "Communication Services"
+    },
+    "PSORF": {
+        "cik_str": 938323,
+        "ticker": "PSORF",
+        "title": "PEARSON PLC",
+        "sector": "Communication Services"
+    },
+    "PARAA": {
+        "cik_str": 813828,
+        "ticker": "PARAA",
+        "title": "Paramount Global",
+        "sector": "Communication Services"
+    },
+    "PHTCF": {
+        "cik_str": 78150,
+        "ticker": "PHTCF",
+        "title": "PLDT Inc.",
+        "sector": "Communication Services"
+    },
+    "QBCRF": {
+        "cik_str": 1156831,
+        "ticker": "QBCRF",
+        "title": "QUEBECOR MEDIA INC",
+        "sector": "Communication Services"
+    },
+    "QBCAF": {
+        "cik_str": 1156831,
+        "ticker": "QBCAF",
+        "title": "QUEBECOR MEDIA INC",
+        "sector": "Communication Services"
+    },
+    "LBTYK": {
+        "cik_str": 1570585,
+        "ticker": "LBTYK",
+        "title": "Liberty Global Ltd.",
+        "sector": "Communication Services"
+    },
+    "TCMFF": {
+        "cik_str": 932470,
+        "ticker": "TCMFF",
+        "title": "TELECOM ARGENTINA SA",
+        "sector": "Communication Services"
+    },
+    "LILAB": {
+        "cik_str": 1712184,
+        "ticker": "LILAB",
+        "title": "Liberty Latin America Ltd.",
+        "sector": "Communication Services"
+    },
+    "BATRK": {
+        "cik_str": 1958140,
+        "ticker": "BATRK",
+        "title": "Atlanta Braves Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "BATRB": {
+        "cik_str": 1958140,
+        "ticker": "BATRB",
+        "title": "Atlanta Braves Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "WLYB": {
+        "cik_str": 107140,
+        "ticker": "WLYB",
+        "title": "JOHN WILEY & SONS, INC.",
+        "sector": "Communication Services"
+    },
+    "LGF-B": {
+        "cik_str": 929351,
+        "ticker": "LGF-B",
+        "title": "LIONS GATE ENTERTAINMENT CORP /CN/",
+        "sector": "Communication Services"
+    },
+    "GRPFF": {
+        "cik_str": 912892,
+        "ticker": "GRPFF",
+        "title": "GRUPO TELEVISA, S.A.B.",
+        "sector": "Communication Services"
+    },
+    "LILAK": {
+        "cik_str": 1712184,
+        "ticker": "LILAK",
+        "title": "Liberty Latin America Ltd.",
+        "sector": "Communication Services"
+    },
+    "GTN-A": {
+        "cik_str": 43196,
+        "ticker": "GTN-A",
+        "title": "GRAY TELEVISION INC",
+        "sector": "Communication Services"
+    },
+    "CELJF": {
+        "cik_str": 1385145,
+        "ticker": "CELJF",
+        "title": "Cellcom Israel Ltd.",
+        "sector": "Communication Services"
+    },
+    "IHRTB": {
+        "cik_str": 1400891,
+        "ticker": "IHRTB",
+        "title": "iHeartMedia, Inc.",
+        "sector": "Communication Services"
+    },
+    "LTRPB": {
+        "cik_str": 1606745,
+        "ticker": "LTRPB",
+        "title": "Liberty TripAdvisor Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "RDIB": {
+        "cik_str": 716634,
+        "ticker": "RDIB",
+        "title": "READING INTERNATIONAL INC",
+        "sector": "Communication Services"
+    },
+    "ILLMF": {
+        "cik_str": 1861233,
+        "ticker": "ILLMF",
+        "title": "illumin Holdings Inc.",
+        "sector": "Communication Services"
+    },
+    "UONEK": {
+        "cik_str": 1041657,
+        "ticker": "UONEK",
+        "title": "URBAN ONE, INC.",
+        "sector": "Communication Services"
+    },
+    "IDWM": {
+        "cik_str": 1463833,
+        "ticker": "IDWM",
+        "title": "IDW MEDIA HOLDINGS, INC.",
+        "sector": "Communication Services"
+    },
+    "EGLXF": {
+        "cik_str": 1854233,
+        "ticker": "EGLXF",
+        "title": "Enthusiast Gaming Holdings Inc. / Canada",
+        "sector": "Communication Services"
+    },
+    "SPTY": {
+        "cik_str": 1840102,
+        "ticker": "SPTY",
+        "title": "SPECIFICITY, INC.",
+        "sector": "Communication Services"
+    },
+    "FULO": {
+        "cik_str": 1092570,
+        "ticker": "FULO",
+        "title": "FULLNET COMMUNICATIONS INC",
+        "sector": "Communication Services"
+    },
+    "SFUNY": {
+        "cik_str": 1294404,
+        "ticker": "SFUNY",
+        "title": "Fang Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "SALM": {
+        "cik_str": 1050606,
+        "ticker": "SALM",
+        "title": "SALEM MEDIA GROUP, INC. /DE/",
+        "sector": "Communication Services"
+    },
+    "EMWPF": {
+        "cik_str": 1532981,
+        "ticker": "EMWPF",
+        "title": "Eros Media World PLC",
+        "sector": "Communication Services"
+    },
+    "TGNT": {
+        "cik_str": 846377,
+        "ticker": "TGNT",
+        "title": "Totaligent, Inc.",
+        "sector": "Communication Services"
+    },
+    "CAPV": {
+        "cik_str": 1127007,
+        "ticker": "CAPV",
+        "title": "CABO VERDE CAPITAL INC.",
+        "sector": "Communication Services"
+    },
+    "LTES": {
+        "cik_str": 1586495,
+        "ticker": "LTES",
+        "title": "Leet Technology Inc.",
+        "sector": "Communication Services"
+    },
+    "DTGI": {
+        "cik_str": 1014052,
+        "ticker": "DTGI",
+        "title": "Digerati Technologies, Inc.",
+        "sector": "Communication Services"
+    },
+    "SNWR": {
+        "cik_str": 1096759,
+        "ticker": "SNWR",
+        "title": "Sanwire Corp",
+        "sector": "Communication Services"
+    },
+    "BYOC": {
+        "cik_str": 1386049,
+        "ticker": "BYOC",
+        "title": "Beyond Commerce, Inc.",
+        "sector": "Communication Services"
+    },
+    "GZIC": {
+        "cik_str": 1286648,
+        "ticker": "GZIC",
+        "title": "GZ6G Technologies Corp.",
+        "sector": "Communication Services"
+    },
+    "COMS": {
+        "cik_str": 1178727,
+        "ticker": "COMS",
+        "title": "COMSovereign Holding Corp.",
+        "sector": "Communication Services"
+    },
+    "CLIS": {
+        "cik_str": 1393548,
+        "ticker": "CLIS",
+        "title": "ClickStream Corp",
+        "sector": "Communication Services"
+    },
+    "AENTW": {
+        "cik_str": 1823584,
+        "ticker": "AENTW",
+        "title": "ALLIANCE ENTERTAINMENT HOLDING CORP",
+        "sector": "Communication Services"
+    },
+    "MYPSW": {
+        "cik_str": 1823878,
+        "ticker": "MYPSW",
+        "title": "PLAYSTUDIOS, Inc.",
+        "sector": "Communication Services"
+    },
+    "BRQL": {
+        "cik_str": 1854526,
+        "ticker": "BRQL",
+        "title": "brooqLy, Inc.",
+        "sector": "Communication Services"
+    },
+    "ONFOW": {
+        "cik_str": 1825452,
+        "ticker": "ONFOW",
+        "title": "Onfolio Holdings, Inc",
+        "sector": "Communication Services"
+    },
+    "MACT": {
+        "cik_str": 1957783,
+        "ticker": "MACT",
+        "title": "MachTen, Inc.",
+        "sector": "Communication Services"
+    },
+    "T-PA": {
+        "cik_str": 732717,
+        "ticker": "T-PA",
+        "title": "AT&T INC.",
+        "sector": "Communication Services"
+    },
+    "T-PC": {
+        "cik_str": 732717,
+        "ticker": "T-PC",
+        "title": "AT&T INC.",
+        "sector": "Communication Services"
+    },
+    "MNYWW": {
+        "cik_str": 1974044,
+        "ticker": "MNYWW",
+        "title": "MoneyHero Ltd",
+        "sector": "Communication Services"
+    },
+    "GLTK": {
+        "cik_str": 1938338,
+        "ticker": "GLTK",
+        "title": "GlobalTech Corp",
+        "sector": "Communication Services"
+    },
+    "ANGHW": {
+        "cik_str": 1871983,
+        "ticker": "ANGHW",
+        "title": "Anghami Inc",
+        "sector": "Communication Services"
+    },
+    "ORANY": {
+        "cik_str": 1038143,
+        "ticker": "ORANY",
+        "title": "ORANGE",
+        "sector": "Communication Services"
+    },
+    "LBRDP": {
+        "cik_str": 1611983,
+        "ticker": "LBRDP",
+        "title": "Liberty Broadband Corp",
+        "sector": "Communication Services"
+    },
+    "ADVWW": {
+        "cik_str": 1776661,
+        "ticker": "ADVWW",
+        "title": "Advantage Solutions Inc.",
+        "sector": "Communication Services"
+    },
+    "ABLVW": {
+        "cik_str": 1957489,
+        "ticker": "ABLVW",
+        "title": "Able View Global Inc.",
+        "sector": "Communication Services"
+    },
+    "LLYVK": {
+        "cik_str": 1560385,
+        "ticker": "LLYVK",
+        "title": "Liberty Media Corp",
+        "sector": "Communication Services"
+    },
+    "LLYVA": {
+        "cik_str": 1560385,
+        "ticker": "LLYVA",
+        "title": "Liberty Media Corp",
+        "sector": "Communication Services"
+    },
+    "BODYW": {
+        "cik_str": 1826889,
+        "ticker": "BODYW",
+        "title": "Beachbody Company, Inc.",
+        "sector": "Communication Services"
+    },
+    "SEATW": {
+        "cik_str": 1856031,
+        "ticker": "SEATW",
+        "title": "Vivid Seats Inc.",
+        "sector": "Communication Services"
+    },
+    "GDEVW": {
+        "cik_str": 1848739,
+        "ticker": "GDEVW",
+        "title": "GDEV Inc.",
+        "sector": "Communication Services"
+    },
+    "BZFDW": {
+        "cik_str": 1828972,
+        "ticker": "BZFDW",
+        "title": "BuzzFeed, Inc.",
+        "sector": "Communication Services"
+    },
+    "TTTPF": {
+        "cik_str": 1849396,
+        "ticker": "TTTPF",
+        "title": "Nexxen International Ltd.",
+        "sector": "Communication Services"
+    },
+    "SWAGW": {
+        "cik_str": 1872525,
+        "ticker": "SWAGW",
+        "title": "Stran & Company, Inc.",
+        "sector": "Communication Services"
+    },
+    "KORGW": {
+        "cik_str": 1855457,
+        "ticker": "KORGW",
+        "title": "KORE Group Holdings, Inc.",
+        "sector": "Communication Services"
+    },
+    "CRTDW": {
+        "cik_str": 1357671,
+        "ticker": "CRTDW",
+        "title": "Creatd, Inc.",
+        "sector": "Communication Services"
+    },
+    "HSCT": {
+        "cik_str": 1721056,
+        "ticker": "HSCT",
+        "title": "HOOPS SCOUTING USA",
+        "sector": "Communication Services"
+    },
+    "RSVRW": {
+        "cik_str": 1824403,
+        "ticker": "RSVRW",
+        "title": "Reservoir Media, Inc.",
+        "sector": "Communication Services"
+    },
+    "HOFVW": {
+        "cik_str": 1708176,
+        "ticker": "HOFVW",
+        "title": "Hall of Fame Resort & Entertainment Co",
+        "sector": "Communication Services"
+    },
+    "KARX": {
+        "cik_str": 1729637,
+        "ticker": "KARX",
+        "title": "Karbon-X Corp.",
+        "sector": "Communication Services"
+    },
+    "GSMGW": {
+        "cik_str": 1738758,
+        "ticker": "GSMGW",
+        "title": "Cheer Holding, Inc.",
+        "sector": "Communication Services"
+    },
+    "BCEFF": {
+        "cik_str": 718940,
+        "ticker": "BCEFF",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "BCEXF": {
+        "cik_str": 718940,
+        "ticker": "BCEXF",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "BCEIF": {
+        "cik_str": 718940,
+        "ticker": "BCEIF",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "BCPPF": {
+        "cik_str": 718940,
+        "ticker": "BCPPF",
+        "title": "BCE INC",
+        "sector": "Communication Services"
+    },
+    "MMVWW": {
+        "cik_str": 1874074,
+        "ticker": "MMVWW",
+        "title": "MultiMetaVerse Holdings Ltd",
+        "sector": "Communication Services"
+    },
+    "DJTWW": {
+        "cik_str": 1849635,
+        "ticker": "DJTWW",
+        "title": "Trump Media & Technology Group Corp.",
+        "sector": "Communication Services"
+    },
+    "VODAF": {
+        "cik_str": 1468608,
+        "ticker": "VODAF",
+        "title": "Vodacom Group Ltd / ADR",
+        "sector": "Communication Services"
+    },
+    "MOBQW": {
+        "cik_str": 1084267,
+        "ticker": "MOBQW",
+        "title": "Mobiquity Technologies, Inc.",
+        "sector": "Communication Services"
+    },
+    "MLCMF": {
+        "cik_str": 912958,
+        "ticker": "MLCMF",
+        "title": "MILLICOM INTERNATIONAL CELLULAR SA",
+        "sector": "Communication Services"
+    },
+    "TDS-PV": {
+        "cik_str": 1051512,
+        "ticker": "TDS-PV",
+        "title": "TELEPHONE & DATA SYSTEMS INC /DE/",
+        "sector": "Communication Services"
+    },
+    "TDS-PU": {
+        "cik_str": 1051512,
+        "ticker": "TDS-PU",
+        "title": "TELEPHONE & DATA SYSTEMS INC /DE/",
+        "sector": "Communication Services"
+    },
+    "LCFYW": {
+        "cik_str": 1875547,
+        "ticker": "LCFYW",
+        "title": "Locafy Ltd",
+        "sector": "Communication Services"
+    },
+    "CCGWW": {
+        "cik_str": 1965473,
+        "ticker": "CCGWW",
+        "title": "Cheche Group Inc.",
+        "sector": "Communication Services"
+    },
+    "TBLAW": {
+        "cik_str": 1840502,
+        "ticker": "TBLAW",
+        "title": "Taboola.com Ltd.",
+        "sector": "Communication Services"
+    },
+    "NPPXF": {
+        "cik_str": 769594,
+        "ticker": "NPPXF",
+        "title": "NIPPON TELEGRAPH & TELEPHONE CORP",
+        "sector": "Communication Services"
+    },
+    "CURIW": {
+        "cik_str": 1776909,
+        "ticker": "CURIW",
+        "title": "CuriosityStream Inc.",
+        "sector": "Communication Services"
+    }
+}

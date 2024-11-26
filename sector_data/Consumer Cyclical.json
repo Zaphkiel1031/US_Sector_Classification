@@ -1,0 +1,4592 @@
+{
+    "AMZN": {
+        "cik_str": 1018724,
+        "ticker": "AMZN",
+        "title": "AMAZON COM INC",
+        "sector": "Consumer Cyclical"
+    },
+    "TSLA": {
+        "cik_str": 1318605,
+        "ticker": "TSLA",
+        "title": "Tesla, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HD": {
+        "cik_str": 354950,
+        "ticker": "HD",
+        "title": "HOME DEPOT, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "TM": {
+        "cik_str": 1094517,
+        "ticker": "TM",
+        "title": "TOYOTA MOTOR CORP/",
+        "sector": "Consumer Cyclical"
+    },
+    "MCD": {
+        "cik_str": 63908,
+        "ticker": "MCD",
+        "title": "MCDONALDS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "BABA": {
+        "cik_str": 1577552,
+        "ticker": "BABA",
+        "title": "Alibaba Group Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "BKNG": {
+        "cik_str": 1075531,
+        "ticker": "BKNG",
+        "title": "Booking Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LOW": {
+        "cik_str": 60667,
+        "ticker": "LOW",
+        "title": "LOWES COMPANIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PDD": {
+        "cik_str": 1737806,
+        "ticker": "PDD",
+        "title": "PDD Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TJX": {
+        "cik_str": 109198,
+        "ticker": "TJX",
+        "title": "TJX COMPANIES INC /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "SBUX": {
+        "cik_str": 829224,
+        "ticker": "SBUX",
+        "title": "STARBUCKS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "NKE": {
+        "cik_str": 320187,
+        "ticker": "NKE",
+        "title": "NIKE, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MELI": {
+        "cik_str": 1099590,
+        "ticker": "MELI",
+        "title": "MERCADOLIBRE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ABNB": {
+        "cik_str": 1559720,
+        "ticker": "ABNB",
+        "title": "Airbnb, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CMG": {
+        "cik_str": 1058090,
+        "ticker": "CMG",
+        "title": "CHIPOTLE MEXICAN GRILL INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MAR": {
+        "cik_str": 1048286,
+        "ticker": "MAR",
+        "title": "MARRIOTT INTERNATIONAL INC /MD/",
+        "sector": "Consumer Cyclical"
+    },
+    "CFRUY": {
+        "cik_str": 948401,
+        "ticker": "CFRUY",
+        "title": "COMPAGNIE FINANCIERE RICHEMONT AG /FI",
+        "sector": "Consumer Cyclical"
+    },
+    "RACE": {
+        "cik_str": 1648416,
+        "ticker": "RACE",
+        "title": "Ferrari N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "ORLY": {
+        "cik_str": 898173,
+        "ticker": "ORLY",
+        "title": "O REILLY AUTOMOTIVE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SE": {
+        "cik_str": 1703399,
+        "ticker": "SE",
+        "title": "Sea Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "RCL": {
+        "cik_str": 884887,
+        "ticker": "RCL",
+        "title": "ROYAL CARIBBEAN CRUISES LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "HLT": {
+        "cik_str": 1585689,
+        "ticker": "HLT",
+        "title": "Hilton Worldwide Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GM": {
+        "cik_str": 1467858,
+        "ticker": "GM",
+        "title": "General Motors Co",
+        "sector": "Consumer Cyclical"
+    },
+    "MBGYY": {
+        "cik_str": 1067318,
+        "ticker": "MBGYY",
+        "title": "DAIMLER AG",
+        "sector": "Consumer Cyclical"
+    },
+    "JD": {
+        "cik_str": 1549802,
+        "ticker": "JD",
+        "title": "JD.com, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DHI": {
+        "cik_str": 882184,
+        "ticker": "DHI",
+        "title": "HORTON D R INC /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "AZO": {
+        "cik_str": 866787,
+        "ticker": "AZO",
+        "title": "AUTOZONE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "FLUT": {
+        "cik_str": 1635327,
+        "ticker": "FLUT",
+        "title": "Flutter Entertainment plc",
+        "sector": "Consumer Cyclical"
+    },
+    "ROST": {
+        "cik_str": 745732,
+        "ticker": "ROST",
+        "title": "ROSS STORES, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "LEN": {
+        "cik_str": 920760,
+        "ticker": "LEN",
+        "title": "LENNAR CORP /NEW/",
+        "sector": "Consumer Cyclical"
+    },
+    "BMWKY": {
+        "cik_str": 1446250,
+        "ticker": "BMWKY",
+        "title": "Bayerische Motoren Werke AG/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "DNZOY": {
+        "cik_str": 1446598,
+        "ticker": "DNZOY",
+        "title": "Denso Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "CPNG": {
+        "cik_str": 1834584,
+        "ticker": "CPNG",
+        "title": "Coupang, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "F": {
+        "cik_str": 37996,
+        "ticker": "F",
+        "title": "FORD MOTOR CO",
+        "sector": "Consumer Cyclical"
+    },
+    "TCOM": {
+        "cik_str": 1269238,
+        "ticker": "TCOM",
+        "title": "Trip.com Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "HMC": {
+        "cik_str": 715153,
+        "ticker": "HMC",
+        "title": "HONDA MOTOR CO LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "LULU": {
+        "cik_str": 1397187,
+        "ticker": "LULU",
+        "title": "lululemon athletica inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "STLA": {
+        "cik_str": 1605484,
+        "ticker": "STLA",
+        "title": "Stellantis N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "OLCLY": {
+        "cik_str": 1545460,
+        "ticker": "OLCLY",
+        "title": "Oriental Land Co., Ltd./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "YUM": {
+        "cik_str": 1041061,
+        "ticker": "YUM",
+        "title": "YUM BRANDS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "LVS": {
+        "cik_str": 1300514,
+        "ticker": "LVS",
+        "title": "LAS VEGAS SANDS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "CCL": {
+        "cik_str": 815097,
+        "ticker": "CCL",
+        "title": "CARNIVAL CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "QSR": {
+        "cik_str": 1618756,
+        "ticker": "QSR",
+        "title": "Restaurant Brands International Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EBAY": {
+        "cik_str": 1065088,
+        "ticker": "EBAY",
+        "title": "EBAY INC",
+        "sector": "Consumer Cyclical"
+    },
+    "TSCO": {
+        "cik_str": 916365,
+        "ticker": "TSCO",
+        "title": "TRACTOR SUPPLY CO /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "CVNA": {
+        "cik_str": 1690820,
+        "ticker": "CVNA",
+        "title": "CARVANA CO.",
+        "sector": "Consumer Cyclical"
+    },
+    "SW": {
+        "cik_str": 2005951,
+        "ticker": "SW",
+        "title": "Smurfit Westrock plc",
+        "sector": "Consumer Cyclical"
+    },
+    "CUK": {
+        "cik_str": 1125259,
+        "ticker": "CUK",
+        "title": "CARNIVAL PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "NVR": {
+        "cik_str": 906163,
+        "ticker": "NVR",
+        "title": "NVR INC",
+        "sector": "Consumer Cyclical"
+    },
+    "DECK": {
+        "cik_str": 910521,
+        "ticker": "DECK",
+        "title": "DECKERS OUTDOOR CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "PPRUY": {
+        "cik_str": 1445465,
+        "ticker": "PPRUY",
+        "title": "Kering",
+        "sector": "Consumer Cyclical"
+    },
+    "PHM": {
+        "cik_str": 822416,
+        "ticker": "PHM",
+        "title": "PULTEGROUP INC/MI/",
+        "sector": "Consumer Cyclical"
+    },
+    "LI": {
+        "cik_str": 1791706,
+        "ticker": "LI",
+        "title": "Li Auto Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ROL": {
+        "cik_str": 84839,
+        "ticker": "ROL",
+        "title": "ROLLINS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "EXPE": {
+        "cik_str": 1324424,
+        "ticker": "EXPE",
+        "title": "Expedia Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PKG": {
+        "cik_str": 75677,
+        "ticker": "PKG",
+        "title": "PACKAGING CORP OF AMERICA",
+        "sector": "Consumer Cyclical"
+    },
+    "DKNG": {
+        "cik_str": 1883685,
+        "ticker": "DKNG",
+        "title": "DraftKings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WSM": {
+        "cik_str": 719955,
+        "ticker": "WSM",
+        "title": "WILLIAMS SONOMA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "IP": {
+        "cik_str": 51434,
+        "ticker": "IP",
+        "title": "INTERNATIONAL PAPER CO /NEW/",
+        "sector": "Consumer Cyclical"
+    },
+    "IHG": {
+        "cik_str": 858446,
+        "ticker": "IHG",
+        "title": "INTERCONTINENTAL HOTELS GROUP PLC /NEW/",
+        "sector": "Consumer Cyclical"
+    },
+    "VIK": {
+        "cik_str": 1745201,
+        "ticker": "VIK",
+        "title": "Viking Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "YAHOY": {
+        "cik_str": 1446437,
+        "ticker": "YAHOY",
+        "title": "Yahoo! Japan Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "DRI": {
+        "cik_str": 940944,
+        "ticker": "DRI",
+        "title": "DARDEN RESTAURANTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BBY": {
+        "cik_str": 764478,
+        "ticker": "BBY",
+        "title": "BEST BUY CO INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ONON": {
+        "cik_str": 1858985,
+        "ticker": "ONON",
+        "title": "On Holding AG",
+        "sector": "Consumer Cyclical"
+    },
+    "BALL": {
+        "cik_str": 9389,
+        "ticker": "BALL",
+        "title": "BALL Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "YUMC": {
+        "cik_str": 1673358,
+        "ticker": "YUMC",
+        "title": "Yum China Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BURL": {
+        "cik_str": 1579298,
+        "ticker": "BURL",
+        "title": "Burlington Stores, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GPC": {
+        "cik_str": 40987,
+        "ticker": "GPC",
+        "title": "GENUINE PARTS CO",
+        "sector": "Consumer Cyclical"
+    },
+    "CAVA": {
+        "cik_str": 1639438,
+        "ticker": "CAVA",
+        "title": "CAVA GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "DKS": {
+        "cik_str": 1089063,
+        "ticker": "DKS",
+        "title": "DICK'S SPORTING GOODS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "AVY": {
+        "cik_str": 8818,
+        "ticker": "AVY",
+        "title": "Avery Dennison Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ULTA": {
+        "cik_str": 1403568,
+        "ticker": "ULTA",
+        "title": "Ulta Beauty, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TOL": {
+        "cik_str": 794170,
+        "ticker": "TOL",
+        "title": "Toll Brothers, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DPZ": {
+        "cik_str": 1286681,
+        "ticker": "DPZ",
+        "title": "DOMINOS PIZZA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CASY": {
+        "cik_str": 726958,
+        "ticker": "CASY",
+        "title": "CASEYS GENERAL STORES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "AMCR": {
+        "cik_str": 1748790,
+        "ticker": "AMCR",
+        "title": "Amcor plc",
+        "sector": "Consumer Cyclical"
+    },
+    "H": {
+        "cik_str": 1468174,
+        "ticker": "H",
+        "title": "Hyatt Hotels Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "CHWY": {
+        "cik_str": 1766502,
+        "ticker": "CHWY",
+        "title": "Chewy, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MBLY": {
+        "cik_str": 1910139,
+        "ticker": "MBLY",
+        "title": "Mobileye Global Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SN": {
+        "cik_str": 1957132,
+        "ticker": "SN",
+        "title": "SharkNinja, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TPR": {
+        "cik_str": 1116132,
+        "ticker": "TPR",
+        "title": "TAPESTRY, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "TXRH": {
+        "cik_str": 1289460,
+        "ticker": "TXRH",
+        "title": "Texas Roadhouse, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "RL": {
+        "cik_str": 1037038,
+        "ticker": "RL",
+        "title": "RALPH LAUREN CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "MGA": {
+        "cik_str": 749098,
+        "ticker": "MGA",
+        "title": "MAGNA INTERNATIONAL INC",
+        "sector": "Consumer Cyclical"
+    },
+    "KMX": {
+        "cik_str": 1170010,
+        "ticker": "KMX",
+        "title": "CARMAX INC",
+        "sector": "Consumer Cyclical"
+    },
+    "APTV": {
+        "cik_str": 1521332,
+        "ticker": "APTV",
+        "title": "Aptiv PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "SCI": {
+        "cik_str": 89089,
+        "ticker": "SCI",
+        "title": "SERVICE CORP INTERNATIONAL",
+        "sector": "Consumer Cyclical"
+    },
+    "GME": {
+        "cik_str": 1326380,
+        "ticker": "GME",
+        "title": "GameStop Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "RKUNY": {
+        "cik_str": 1294591,
+        "ticker": "RKUNY",
+        "title": "Rakuten Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MMYT": {
+        "cik_str": 1495153,
+        "ticker": "MMYT",
+        "title": "MakeMyTrip Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "AS": {
+        "cik_str": 1988894,
+        "ticker": "AS",
+        "title": "Amer Sports, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "XPEV": {
+        "cik_str": 1810997,
+        "ticker": "XPEV",
+        "title": "XPENG INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "NCLH": {
+        "cik_str": 1513761,
+        "ticker": "NCLH",
+        "title": "Norwegian Cruise Line Holdings Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "FND": {
+        "cik_str": 1507079,
+        "ticker": "FND",
+        "title": "Floor & Decor Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MGM": {
+        "cik_str": 789570,
+        "ticker": "MGM",
+        "title": "MGM Resorts International",
+        "sector": "Consumer Cyclical"
+    },
+    "HTHT": {
+        "cik_str": 1483994,
+        "ticker": "HTHT",
+        "title": "H World Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "POAHY": {
+        "cik_str": 1450346,
+        "ticker": "POAHY",
+        "title": "Porsche Automobil Holding SE / ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "CART": {
+        "cik_str": 1579091,
+        "ticker": "CART",
+        "title": "Maplebear Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CCK": {
+        "cik_str": 1219601,
+        "ticker": "CCK",
+        "title": "CROWN HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MUSA": {
+        "cik_str": 1573516,
+        "ticker": "MUSA",
+        "title": "Murphy USA Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PAG": {
+        "cik_str": 1019849,
+        "ticker": "PAG",
+        "title": "PENSKE AUTOMOTIVE GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "RIVN": {
+        "cik_str": 1874178,
+        "ticker": "RIVN",
+        "title": "Rivian Automotive, Inc. / DE",
+        "sector": "Consumer Cyclical"
+    },
+    "CHDN": {
+        "cik_str": 20212,
+        "ticker": "CHDN",
+        "title": "Churchill Downs Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "ALSN": {
+        "cik_str": 1411207,
+        "ticker": "ALSN",
+        "title": "Allison Transmission Holdings Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "LAD": {
+        "cik_str": 1023128,
+        "ticker": "LAD",
+        "title": "LITHIA MOTORS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "WYNN": {
+        "cik_str": 1174922,
+        "ticker": "WYNN",
+        "title": "WYNN RESORTS LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "NIO": {
+        "cik_str": 1736541,
+        "ticker": "NIO",
+        "title": "NIO Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LKQ": {
+        "cik_str": 1065696,
+        "ticker": "LKQ",
+        "title": "LKQ CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "WING": {
+        "cik_str": 1636222,
+        "ticker": "WING",
+        "title": "Wingstop Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TPX": {
+        "cik_str": 1206264,
+        "ticker": "TPX",
+        "title": "TEMPUR SEALY INTERNATIONAL, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "VFS": {
+        "cik_str": 1913510,
+        "ticker": "VFS",
+        "title": "VinFast Auto Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "SKX": {
+        "cik_str": 1065837,
+        "ticker": "SKX",
+        "title": "SKECHERS USA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BIRK": {
+        "cik_str": 1977102,
+        "ticker": "BIRK",
+        "title": "Birkenstock Holding plc",
+        "sector": "Consumer Cyclical"
+    },
+    "MHK": {
+        "cik_str": 851968,
+        "ticker": "MHK",
+        "title": "MOHAWK INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GPK": {
+        "cik_str": 1408075,
+        "ticker": "GPK",
+        "title": "GRAPHIC PACKAGING HOLDING CO",
+        "sector": "Consumer Cyclical"
+    },
+    "HAS": {
+        "cik_str": 46080,
+        "ticker": "HAS",
+        "title": "HASBRO, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "PLNT": {
+        "cik_str": 1637207,
+        "ticker": "PLNT",
+        "title": "Planet Fitness, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LNW": {
+        "cik_str": 750004,
+        "ticker": "LNW",
+        "title": "Light & Wonder, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GLBE": {
+        "cik_str": 1835963,
+        "ticker": "GLBE",
+        "title": "Global-E Online Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "GAP": {
+        "cik_str": 39911,
+        "ticker": "GAP",
+        "title": "GAP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BERY": {
+        "cik_str": 1378992,
+        "ticker": "BERY",
+        "title": "BERRY GLOBAL GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "BROS": {
+        "cik_str": 1866581,
+        "ticker": "BROS",
+        "title": "Dutch Bros Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CZR": {
+        "cik_str": 1590895,
+        "ticker": "CZR",
+        "title": "Caesars Entertainment, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HRB": {
+        "cik_str": 12659,
+        "ticker": "HRB",
+        "title": "H&R BLOCK INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ALV": {
+        "cik_str": 1034670,
+        "ticker": "ALV",
+        "title": "AUTOLIV INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GIL": {
+        "cik_str": 1061894,
+        "ticker": "GIL",
+        "title": "Gildan Activewear Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WH": {
+        "cik_str": 1722684,
+        "ticker": "WH",
+        "title": "WYNDHAM HOTELS & RESORTS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MOD": {
+        "cik_str": 67347,
+        "ticker": "MOD",
+        "title": "MODINE MANUFACTURING CO",
+        "sector": "Consumer Cyclical"
+    },
+    "BWA": {
+        "cik_str": 908255,
+        "ticker": "BWA",
+        "title": "BORGWARNER INC",
+        "sector": "Consumer Cyclical"
+    },
+    "VFC": {
+        "cik_str": 103379,
+        "ticker": "VFC",
+        "title": "V F CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "TMHC": {
+        "cik_str": 1562476,
+        "ticker": "TMHC",
+        "title": "Taylor Morrison Home Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ANF": {
+        "cik_str": 1018840,
+        "ticker": "ANF",
+        "title": "ABERCROMBIE & FITCH CO /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "CHH": {
+        "cik_str": 1046311,
+        "ticker": "CHH",
+        "title": "CHOICE HOTELS INTERNATIONAL INC /DE",
+        "sector": "Consumer Cyclical"
+    },
+    "DDS": {
+        "cik_str": 28917,
+        "ticker": "DDS",
+        "title": "DILLARD'S, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "VIPS": {
+        "cik_str": 1529192,
+        "ticker": "VIPS",
+        "title": "Vipshop Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "AN": {
+        "cik_str": 350698,
+        "ticker": "AN",
+        "title": "AUTONATION, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MTN": {
+        "cik_str": 812011,
+        "ticker": "MTN",
+        "title": "VAIL RESORTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GNTX": {
+        "cik_str": 355811,
+        "ticker": "GNTX",
+        "title": "GENTEX CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "BBWI": {
+        "cik_str": 701985,
+        "ticker": "BBWI",
+        "title": "Bath & Body Works, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MTH": {
+        "cik_str": 833079,
+        "ticker": "MTH",
+        "title": "Meritage Homes CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "BFAM": {
+        "cik_str": 1437578,
+        "ticker": "BFAM",
+        "title": "BRIGHT HORIZONS FAMILY SOLUTIONS INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "LKNCY": {
+        "cik_str": 1767582,
+        "ticker": "LKNCY",
+        "title": "Luckin Coffee Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "RH": {
+        "cik_str": 1528849,
+        "ticker": "RH",
+        "title": "RH",
+        "sector": "Consumer Cyclical"
+    },
+    "BCUCY": {
+        "cik_str": 1581285,
+        "ticker": "BCUCY",
+        "title": "Brunello Cucinelli S.p.A./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "BYD": {
+        "cik_str": 906553,
+        "ticker": "BYD",
+        "title": "BOYD GAMING CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "LEVI": {
+        "cik_str": 94845,
+        "ticker": "LEVI",
+        "title": "LEVI STRAUSS & CO",
+        "sector": "Consumer Cyclical"
+    },
+    "LCID": {
+        "cik_str": 1811210,
+        "ticker": "LCID",
+        "title": "Lucid Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NGKSY": {
+        "cik_str": 1442655,
+        "ticker": "NGKSY",
+        "title": "NGK Spark Plug Co., Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "MAT": {
+        "cik_str": 63276,
+        "ticker": "MAT",
+        "title": "MATTEL INC /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "WHR": {
+        "cik_str": 106640,
+        "ticker": "WHR",
+        "title": "WHIRLPOOL CORP /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "IBP": {
+        "cik_str": 1580905,
+        "ticker": "IBP",
+        "title": "Installed Building Products, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CROX": {
+        "cik_str": 1334036,
+        "ticker": "CROX",
+        "title": "Crocs, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "THO": {
+        "cik_str": 730263,
+        "ticker": "THO",
+        "title": "THOR INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SLGN": {
+        "cik_str": 849869,
+        "ticker": "SLGN",
+        "title": "SILGAN HOLDINGS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "REYN": {
+        "cik_str": 1786431,
+        "ticker": "REYN",
+        "title": "Reynolds Consumer Products Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SKY": {
+        "cik_str": 90896,
+        "ticker": "SKY",
+        "title": "Champion Homes, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ETSY": {
+        "cik_str": 1370637,
+        "ticker": "ETSY",
+        "title": "ETSY INC",
+        "sector": "Consumer Cyclical"
+    },
+    "KBH": {
+        "cik_str": 795266,
+        "ticker": "KBH",
+        "title": "KB HOME",
+        "sector": "Consumer Cyclical"
+    },
+    "DUFRY": {
+        "cik_str": 1546354,
+        "ticker": "DUFRY",
+        "title": "Dufry AG/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "BKGFY": {
+        "cik_str": 1447137,
+        "ticker": "BKGFY",
+        "title": "Berkeley Group Holdings plc",
+        "sector": "Consumer Cyclical"
+    },
+    "PVH": {
+        "cik_str": 78239,
+        "ticker": "PVH",
+        "title": "PVH CORP. /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "ZK": {
+        "cik_str": 1954042,
+        "ticker": "ZK",
+        "title": "ZEEKR Intelligent Technology Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "EAT": {
+        "cik_str": 703351,
+        "ticker": "EAT",
+        "title": "BRINKER INTERNATIONAL, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GPI": {
+        "cik_str": 1031203,
+        "ticker": "GPI",
+        "title": "GROUP 1 AUTOMOTIVE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BC": {
+        "cik_str": 14930,
+        "ticker": "BC",
+        "title": "BRUNSWICK CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "MNSO": {
+        "cik_str": 1815846,
+        "ticker": "MNSO",
+        "title": "MINISO Group Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "W": {
+        "cik_str": 1616707,
+        "ticker": "W",
+        "title": "Wayfair Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LEA": {
+        "cik_str": 842162,
+        "ticker": "LEA",
+        "title": "LEAR CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "RRR": {
+        "cik_str": 1653653,
+        "ticker": "RRR",
+        "title": "Red Rock Resorts, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SHAK": {
+        "cik_str": 1620533,
+        "ticker": "SHAK",
+        "title": "Shake Shack Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SEE": {
+        "cik_str": 1012100,
+        "ticker": "SEE",
+        "title": "SEALED AIR CORP/DE",
+        "sector": "Consumer Cyclical"
+    },
+    "LTH": {
+        "cik_str": 1869198,
+        "ticker": "LTH",
+        "title": "Life Time Group Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ABG": {
+        "cik_str": 1144980,
+        "ticker": "ABG",
+        "title": "ASBURY AUTOMOTIVE GROUP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "WRD": {
+        "cik_str": 1867729,
+        "ticker": "WRD",
+        "title": "WeRide Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VVV": {
+        "cik_str": 1674910,
+        "ticker": "VVV",
+        "title": "VALVOLINE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SON": {
+        "cik_str": 91767,
+        "ticker": "SON",
+        "title": "SONOCO PRODUCTS CO",
+        "sector": "Consumer Cyclical"
+    },
+    "KTB": {
+        "cik_str": 1760965,
+        "ticker": "KTB",
+        "title": "Kontoor Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SG": {
+        "cik_str": 1477815,
+        "ticker": "SG",
+        "title": "Sweetgreen, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "COLM": {
+        "cik_str": 1050797,
+        "ticker": "COLM",
+        "title": "COLUMBIA SPORTSWEAR CO",
+        "sector": "Consumer Cyclical"
+    },
+    "FIVE": {
+        "cik_str": 1177609,
+        "ticker": "FIVE",
+        "title": "FIVE BELOW, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "RUSHA": {
+        "cik_str": 1012019,
+        "ticker": "RUSHA",
+        "title": "RUSH ENTERPRISES INC \\TX\\",
+        "sector": "Consumer Cyclical"
+    },
+    "FUN": {
+        "cik_str": 1999001,
+        "ticker": "FUN",
+        "title": "Six Flags Entertainment Corporation/NEW",
+        "sector": "Consumer Cyclical"
+    },
+    "SIG": {
+        "cik_str": 832988,
+        "ticker": "SIG",
+        "title": "SIGNET JEWELERS LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "FTDR": {
+        "cik_str": 1727263,
+        "ticker": "FTDR",
+        "title": "Frontdoor, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GOLF": {
+        "cik_str": 1672013,
+        "ticker": "GOLF",
+        "title": "Acushnet Holdings Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "MHO": {
+        "cik_str": 799292,
+        "ticker": "MHO",
+        "title": "M/I HOMES, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "HOG": {
+        "cik_str": 793952,
+        "ticker": "HOG",
+        "title": "HARLEY-DAVIDSON, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "BOOT": {
+        "cik_str": 1610250,
+        "ticker": "BOOT",
+        "title": "Boot Barn Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DORM": {
+        "cik_str": 868780,
+        "ticker": "DORM",
+        "title": "Dorman Products, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "M": {
+        "cik_str": 794367,
+        "ticker": "M",
+        "title": "Macy's, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HGV": {
+        "cik_str": 1674168,
+        "ticker": "HGV",
+        "title": "Hilton Grand Vacations Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CVCO": {
+        "cik_str": 278166,
+        "ticker": "CVCO",
+        "title": "CAVCO INDUSTRIES INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "TPH": {
+        "cik_str": 1561680,
+        "ticker": "TPH",
+        "title": "Tri Pointe Homes, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FAURY": {
+        "cik_str": 1559444,
+        "ticker": "FAURY",
+        "title": "FORVIA SE/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "UAA": {
+        "cik_str": 1336917,
+        "ticker": "UAA",
+        "title": "Under Armour, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "IGT": {
+        "cik_str": 1619762,
+        "ticker": "IGT",
+        "title": "International Game Technology PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "PII": {
+        "cik_str": 931015,
+        "ticker": "PII",
+        "title": "Polaris Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CARG": {
+        "cik_str": 1494259,
+        "ticker": "CARG",
+        "title": "CarGurus, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ACVA": {
+        "cik_str": 1637873,
+        "ticker": "ACVA",
+        "title": "ACV Auctions Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TNL": {
+        "cik_str": 1361658,
+        "ticker": "TNL",
+        "title": "Travel & Leisure Co.",
+        "sector": "Consumer Cyclical"
+    },
+    "JWN": {
+        "cik_str": 72333,
+        "ticker": "JWN",
+        "title": "NORDSTROM INC",
+        "sector": "Consumer Cyclical"
+    },
+    "WEN": {
+        "cik_str": 30697,
+        "ticker": "WEN",
+        "title": "Wendy's Co",
+        "sector": "Consumer Cyclical"
+    },
+    "ATAT": {
+        "cik_str": 1853717,
+        "ticker": "ATAT",
+        "title": "Atour Lifestyle Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "DOOO": {
+        "cik_str": 1748797,
+        "ticker": "DOOO",
+        "title": "BRP Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "URBN": {
+        "cik_str": 912615,
+        "ticker": "URBN",
+        "title": "URBAN OUTFITTERS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PTON": {
+        "cik_str": 1639825,
+        "ticker": "PTON",
+        "title": "PELOTON INTERACTIVE, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GEF": {
+        "cik_str": 43920,
+        "ticker": "GEF",
+        "title": "GREIF, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "YETI": {
+        "cik_str": 1670592,
+        "ticker": "YETI",
+        "title": "YETI Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AEO": {
+        "cik_str": 919012,
+        "ticker": "AEO",
+        "title": "AMERICAN EAGLE OUTFITTERS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "VAC": {
+        "cik_str": 1524358,
+        "ticker": "VAC",
+        "title": "MARRIOTT VACATIONS WORLDWIDE Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ASO": {
+        "cik_str": 1817358,
+        "ticker": "ASO",
+        "title": "Academy Sports & Outdoors, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PRKS": {
+        "cik_str": 1564902,
+        "ticker": "PRKS",
+        "title": "United Parks & Resorts Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GRBK": {
+        "cik_str": 1373670,
+        "ticker": "GRBK",
+        "title": "Green Brick Partners, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SHOO": {
+        "cik_str": 913241,
+        "ticker": "SHOO",
+        "title": "STEVEN MADDEN, LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "RSI": {
+        "cik_str": 1793659,
+        "ticker": "RSI",
+        "title": "Rush Street Interactive, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PENN": {
+        "cik_str": 921738,
+        "ticker": "PENN",
+        "title": "PENN Entertainment, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LCII": {
+        "cik_str": 763744,
+        "ticker": "LCII",
+        "title": "LCI INDUSTRIES",
+        "sector": "Consumer Cyclical"
+    },
+    "SGHC": {
+        "cik_str": 1878057,
+        "ticker": "SGHC",
+        "title": "Super Group (SGHC) Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "PATK": {
+        "cik_str": 76605,
+        "ticker": "PATK",
+        "title": "PATRICK INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "HBI": {
+        "cik_str": 1359841,
+        "ticker": "HBI",
+        "title": "Hanesbrands Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DFH": {
+        "cik_str": 1825088,
+        "ticker": "DFH",
+        "title": "Dream Finders Homes, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LOT": {
+        "cik_str": 1962746,
+        "ticker": "LOT",
+        "title": "Lotus Technology Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VSCO": {
+        "cik_str": 1856437,
+        "ticker": "VSCO",
+        "title": "Victoria's Secret & Co.",
+        "sector": "Consumer Cyclical"
+    },
+    "DRVN": {
+        "cik_str": 1804745,
+        "ticker": "DRVN",
+        "title": "Driven Brands Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GT": {
+        "cik_str": 42582,
+        "ticker": "GT",
+        "title": "GOODYEAR TIRE & RUBBER CO /OH/",
+        "sector": "Consumer Cyclical"
+    },
+    "AIN": {
+        "cik_str": 819793,
+        "ticker": "AIN",
+        "title": "ALBANY INTERNATIONAL CORP /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "QS": {
+        "cik_str": 1811414,
+        "ticker": "QS",
+        "title": "QuantumScape Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "VSTO": {
+        "cik_str": 1616318,
+        "ticker": "VSTO",
+        "title": "Vista Outdoor Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MCW": {
+        "cik_str": 1853513,
+        "ticker": "MCW",
+        "title": "Mister Car Wash, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MLCO": {
+        "cik_str": 1381640,
+        "ticker": "MLCO",
+        "title": "Melco Resorts & Entertainment LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "VC": {
+        "cik_str": 1111335,
+        "ticker": "VC",
+        "title": "VISTEON CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "RVLV": {
+        "cik_str": 1746618,
+        "ticker": "RVLV",
+        "title": "Revolve Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LGIH": {
+        "cik_str": 1580670,
+        "ticker": "LGIH",
+        "title": "LGI Homes, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BKE": {
+        "cik_str": 885245,
+        "ticker": "BKE",
+        "title": "BUCKLE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CAKE": {
+        "cik_str": 887596,
+        "ticker": "CAKE",
+        "title": "CHEESECAKE FACTORY INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PTVE": {
+        "cik_str": 1527508,
+        "ticker": "PTVE",
+        "title": "Pactiv Evergreen Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CPRI": {
+        "cik_str": 1530721,
+        "ticker": "CPRI",
+        "title": "Capri Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "AAP": {
+        "cik_str": 1158449,
+        "ticker": "AAP",
+        "title": "ADVANCE AUTO PARTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PHIN": {
+        "cik_str": 1968915,
+        "ticker": "PHIN",
+        "title": "PHINIA INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "PSNY": {
+        "cik_str": 1884082,
+        "ticker": "PSNY",
+        "title": "Polestar Automotive Holding UK PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "AMBP": {
+        "cik_str": 1845097,
+        "ticker": "AMBP",
+        "title": "Ardagh Metal Packaging S.A.",
+        "sector": "Consumer Cyclical"
+    },
+    "SAH": {
+        "cik_str": 1043509,
+        "ticker": "SAH",
+        "title": "SONIC AUTOMOTIVE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "FL": {
+        "cik_str": 850209,
+        "ticker": "FL",
+        "title": "FOOT LOCKER, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MBC": {
+        "cik_str": 1941365,
+        "ticker": "MBC",
+        "title": "MasterBrand, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KAR": {
+        "cik_str": 1395942,
+        "ticker": "KAR",
+        "title": "OPENLANE, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OI": {
+        "cik_str": 812074,
+        "ticker": "OI",
+        "title": "O-I Glass, Inc. /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "OSW": {
+        "cik_str": 1758488,
+        "ticker": "OSW",
+        "title": "ONESPAWORLD HOLDINGS Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "EVGO": {
+        "cik_str": 1821159,
+        "ticker": "EVGO",
+        "title": "EVgo Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ZGN": {
+        "cik_str": 1877787,
+        "ticker": "ZGN",
+        "title": "Ermenegildo Zegna N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "MBUMY": {
+        "cik_str": 1534281,
+        "ticker": "MBUMY",
+        "title": "Mabuchi Motor Co., Ltd./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "CRI": {
+        "cik_str": 1060822,
+        "ticker": "CRI",
+        "title": "CARTERS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "TRIP": {
+        "cik_str": 1526520,
+        "ticker": "TRIP",
+        "title": "TripAdvisor, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WWW": {
+        "cik_str": 110471,
+        "ticker": "WWW",
+        "title": "WOLVERINE WORLD WIDE INC /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "KSS": {
+        "cik_str": 885639,
+        "ticker": "KSS",
+        "title": "KOHLS Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "LZB": {
+        "cik_str": 57131,
+        "ticker": "LZB",
+        "title": "LA-Z-BOY INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MSGE": {
+        "cik_str": 1952073,
+        "ticker": "MSGE",
+        "title": "Madison Square Garden Entertainment Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "ARCO": {
+        "cik_str": 1508478,
+        "ticker": "ARCO",
+        "title": "Arcos Dorados Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GTX": {
+        "cik_str": 1735707,
+        "ticker": "GTX",
+        "title": "Garrett Motion Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BOWL": {
+        "cik_str": 1840572,
+        "ticker": "BOWL",
+        "title": "Bowlero Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "WGO": {
+        "cik_str": 107687,
+        "ticker": "WGO",
+        "title": "WINNEBAGO INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MLKN": {
+        "cik_str": 66382,
+        "ticker": "MLKN",
+        "title": "MILLERKNOLL, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "ADNT": {
+        "cik_str": 1670541,
+        "ticker": "ADNT",
+        "title": "Adient plc",
+        "sector": "Consumer Cyclical"
+    },
+    "DESP": {
+        "cik_str": 1703141,
+        "ticker": "DESP",
+        "title": "Despegar.com, Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "MODG": {
+        "cik_str": 837465,
+        "ticker": "MODG",
+        "title": "Topgolf Callaway Brands Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "PZZA": {
+        "cik_str": 901491,
+        "ticker": "PZZA",
+        "title": "PAPA JOHNS INTERNATIONAL INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MCRI": {
+        "cik_str": 907242,
+        "ticker": "MCRI",
+        "title": "MONARCH CASINO & RESORT INC",
+        "sector": "Consumer Cyclical"
+    },
+    "LEG": {
+        "cik_str": 58492,
+        "ticker": "LEG",
+        "title": "LEGGETT & PLATT INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SCS": {
+        "cik_str": 1050825,
+        "ticker": "SCS",
+        "title": "STEELCASE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "AMWD": {
+        "cik_str": 794619,
+        "ticker": "AMWD",
+        "title": "AMERICAN WOODMARK CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "CWH": {
+        "cik_str": 1669779,
+        "ticker": "CWH",
+        "title": "Camping World Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WINA": {
+        "cik_str": 908315,
+        "ticker": "WINA",
+        "title": "WINMARK CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "SVV": {
+        "cik_str": 1883313,
+        "ticker": "SVV",
+        "title": "Savers Value Village, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ARHS": {
+        "cik_str": 1875444,
+        "ticker": "ARHS",
+        "title": "Arhaus, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FOXF": {
+        "cik_str": 1424929,
+        "ticker": "FOXF",
+        "title": "FOX FACTORY HOLDING CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "SBH": {
+        "cik_str": 1368458,
+        "ticker": "SBH",
+        "title": "Sally Beauty Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "THRM": {
+        "cik_str": 903129,
+        "ticker": "THRM",
+        "title": "GENTHERM Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "CNNE": {
+        "cik_str": 1704720,
+        "ticker": "CNNE",
+        "title": "Cannae Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OLPX": {
+        "cik_str": 1868726,
+        "ticker": "OLPX",
+        "title": "OLAPLEX HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GIII": {
+        "cik_str": 821002,
+        "ticker": "GIII",
+        "title": "G III APPAREL GROUP LTD /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "LVWR": {
+        "cik_str": 1898795,
+        "ticker": "LVWR",
+        "title": "LiveWire Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "XPEL": {
+        "cik_str": 1767258,
+        "ticker": "XPEL",
+        "title": "XPEL, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MSC": {
+        "cik_str": 1713334,
+        "ticker": "MSC",
+        "title": "STUDIO CITY INTERNATIONAL HOLDINGS Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "DAN": {
+        "cik_str": 26780,
+        "ticker": "DAN",
+        "title": "DANA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CARS": {
+        "cik_str": 1683606,
+        "ticker": "CARS",
+        "title": "Cars.com Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OXM": {
+        "cik_str": 75288,
+        "ticker": "OXM",
+        "title": "OXFORD INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PLYA": {
+        "cik_str": 1692412,
+        "ticker": "PLYA",
+        "title": "Playa Hotels & Resorts N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "EVRI": {
+        "cik_str": 1318568,
+        "ticker": "EVRI",
+        "title": "Everi Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WOOF": {
+        "cik_str": 1826470,
+        "ticker": "WOOF",
+        "title": "Petco Health & Wellness Company, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AAPI": {
+        "cik_str": 1134982,
+        "ticker": "AAPI",
+        "title": "Apple iSports Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KRUS": {
+        "cik_str": 1772177,
+        "ticker": "KRUS",
+        "title": "KURA SUSHI USA, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "UXIN": {
+        "cik_str": 1729173,
+        "ticker": "UXIN",
+        "title": "Uxin Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "BLMN": {
+        "cik_str": 1546417,
+        "ticker": "BLMN",
+        "title": "Bloomin' Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TRS": {
+        "cik_str": 842633,
+        "ticker": "TRS",
+        "title": "TRIMAS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "HOV": {
+        "cik_str": 357294,
+        "ticker": "HOV",
+        "title": "HOVNANIAN ENTERPRISES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CAL": {
+        "cik_str": 14707,
+        "ticker": "CAL",
+        "title": "CALERES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "FWRG": {
+        "cik_str": 1789940,
+        "ticker": "FWRG",
+        "title": "First Watch Restaurant Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CBRL": {
+        "cik_str": 1067294,
+        "ticker": "CBRL",
+        "title": "CRACKER BARREL OLD COUNTRY STORE, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BZH": {
+        "cik_str": 915840,
+        "ticker": "BZH",
+        "title": "BEAZER HOMES USA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "HDL": {
+        "cik_str": 1995306,
+        "ticker": "HDL",
+        "title": "SUPER HI INTERNATIONAL HOLDING LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "SDA": {
+        "cik_str": 1936804,
+        "ticker": "SDA",
+        "title": "SunCar Technology Group Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SHCO": {
+        "cik_str": 1846510,
+        "ticker": "SHCO",
+        "title": "Soho House & Co Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ACEL": {
+        "cik_str": 1698991,
+        "ticker": "ACEL",
+        "title": "Accel Entertainment, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GDEN": {
+        "cik_str": 1071255,
+        "ticker": "GDEN",
+        "title": "GOLDEN ENTERTAINMENT, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SCVL": {
+        "cik_str": 895447,
+        "ticker": "SCVL",
+        "title": "SHOE CARNIVAL INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GOOS": {
+        "cik_str": 1690511,
+        "ticker": "GOOS",
+        "title": "Canada Goose Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JACK": {
+        "cik_str": 807882,
+        "ticker": "JACK",
+        "title": "JACK IN THE BOX INC",
+        "sector": "Consumer Cyclical"
+    },
+    "EYE": {
+        "cik_str": 1710155,
+        "ticker": "EYE",
+        "title": "National Vision Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HEPS": {
+        "cik_str": 1850235,
+        "ticker": "HEPS",
+        "title": "D-MARKET Electronic Services & Trading",
+        "sector": "Consumer Cyclical"
+    },
+    "GES": {
+        "cik_str": 912463,
+        "ticker": "GES",
+        "title": "GUESS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MBUU": {
+        "cik_str": 1590976,
+        "ticker": "MBUU",
+        "title": "MALIBU BOATS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "FIGS": {
+        "cik_str": 1846576,
+        "ticker": "FIGS",
+        "title": "FIGS, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MNRO": {
+        "cik_str": 876427,
+        "ticker": "MNRO",
+        "title": "MONRO, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "ODP": {
+        "cik_str": 800240,
+        "ticker": "ODP",
+        "title": "ODP Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ARKO": {
+        "cik_str": 1823794,
+        "ticker": "ARKO",
+        "title": "ARKO Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "BJRI": {
+        "cik_str": 1013488,
+        "ticker": "BJRI",
+        "title": "BJs RESTAURANTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "LQDT": {
+        "cik_str": 1235468,
+        "ticker": "LQDT",
+        "title": "LIQUIDITY SERVICES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MLR": {
+        "cik_str": 924822,
+        "ticker": "MLR",
+        "title": "MILLER INDUSTRIES INC /TN/",
+        "sector": "Consumer Cyclical"
+    },
+    "AXL": {
+        "cik_str": 1062231,
+        "ticker": "AXL",
+        "title": "AMERICAN AXLE & MANUFACTURING HOLDINGS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ETD": {
+        "cik_str": 896156,
+        "ticker": "ETD",
+        "title": "ETHAN ALLEN INTERIORS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BALY": {
+        "cik_str": 1747079,
+        "ticker": "BALY",
+        "title": "Bally's Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "LIND": {
+        "cik_str": 1512499,
+        "ticker": "LIND",
+        "title": "LINDBLAD EXPEDITIONS HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SMP": {
+        "cik_str": 93389,
+        "ticker": "SMP",
+        "title": "STANDARD MOTOR PRODUCTS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "XPOF": {
+        "cik_str": 1802156,
+        "ticker": "XPOF",
+        "title": "Xponential Fitness, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PTLO": {
+        "cik_str": 1871509,
+        "ticker": "PTLO",
+        "title": "Portillo's Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HZO": {
+        "cik_str": 1057060,
+        "ticker": "HZO",
+        "title": "MARINEMAX INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BH-A": {
+        "cik_str": 1726173,
+        "ticker": "BH-A",
+        "title": "Biglari Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "RERE": {
+        "cik_str": 1838957,
+        "ticker": "RERE",
+        "title": "ATRenew Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EXTO": {
+        "cik_str": 1957146,
+        "ticker": "EXTO",
+        "title": "Almacenes Exito S.A.",
+        "sector": "Consumer Cyclical"
+    },
+    "HYLN": {
+        "cik_str": 1759631,
+        "ticker": "HYLN",
+        "title": "Hyliion Holdings Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "LEGH": {
+        "cik_str": 1436208,
+        "ticker": "LEGH",
+        "title": "Legacy Housing Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "PACK": {
+        "cik_str": 1712463,
+        "ticker": "PACK",
+        "title": "Ranpak Holdings Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "ZKH": {
+        "cik_str": 1862044,
+        "ticker": "ZKH",
+        "title": "ZKH Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "CSV": {
+        "cik_str": 1016281,
+        "ticker": "CSV",
+        "title": "CARRIAGE SERVICES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MYTE": {
+        "cik_str": 1831907,
+        "ticker": "MYTE",
+        "title": "MYT Netherlands Parent B.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "KRT": {
+        "cik_str": 1758021,
+        "ticker": "KRT",
+        "title": "Karat Packaging Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HSAI": {
+        "cik_str": 1861737,
+        "ticker": "HSAI",
+        "title": "Hesai Group",
+        "sector": "Consumer Cyclical"
+    },
+    "PLOW": {
+        "cik_str": 1287213,
+        "ticker": "PLOW",
+        "title": "DOUGLAS DYNAMICS, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ECX": {
+        "cik_str": 1861974,
+        "ticker": "ECX",
+        "title": "ECARX Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DOGZ": {
+        "cik_str": 1707303,
+        "ticker": "DOGZ",
+        "title": "Dogness (International) Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "FNKO": {
+        "cik_str": 1704711,
+        "ticker": "FNKO",
+        "title": "Funko, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LOVE": {
+        "cik_str": 1701758,
+        "ticker": "LOVE",
+        "title": "Lovesac Co",
+        "sector": "Consumer Cyclical"
+    },
+    "SFIX": {
+        "cik_str": 1576942,
+        "ticker": "SFIX",
+        "title": "Stitch Fix, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LESL": {
+        "cik_str": 1821806,
+        "ticker": "LESL",
+        "title": "Leslie's, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DIN": {
+        "cik_str": 49754,
+        "ticker": "DIN",
+        "title": "Dine Brands Global, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CHPT": {
+        "cik_str": 1777393,
+        "ticker": "CHPT",
+        "title": "ChargePoint Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BBW": {
+        "cik_str": 1113809,
+        "ticker": "BBW",
+        "title": "BUILD-A-BEAR WORKSHOP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "FLWS": {
+        "cik_str": 1084869,
+        "ticker": "FLWS",
+        "title": "1 800 FLOWERS COM INC",
+        "sector": "Consumer Cyclical"
+    },
+    "REAL": {
+        "cik_str": 1573221,
+        "ticker": "REAL",
+        "title": "TheRealReal, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FTEL": {
+        "cik_str": 1928581,
+        "ticker": "FTEL",
+        "title": "Fitell Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "AGS": {
+        "cik_str": 1593548,
+        "ticker": "AGS",
+        "title": "PlayAGS, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LE": {
+        "cik_str": 799288,
+        "ticker": "LE",
+        "title": "LANDS' END, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GAMB": {
+        "cik_str": 1839799,
+        "ticker": "GAMB",
+        "title": "Gambling.com Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "RICK": {
+        "cik_str": 935419,
+        "ticker": "RICK",
+        "title": "RCI HOSPITALITY HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "JMIA": {
+        "cik_str": 1756708,
+        "ticker": "JMIA",
+        "title": "Jumia Technologies AG",
+        "sector": "Consumer Cyclical"
+    },
+    "BWMX": {
+        "cik_str": 1788257,
+        "ticker": "BWMX",
+        "title": "BETTERWARE DE MEXICO, S.A.P.I. DE C.V",
+        "sector": "Consumer Cyclical"
+    },
+    "MOV": {
+        "cik_str": 72573,
+        "ticker": "MOV",
+        "title": "MOVADO GROUP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ZUMZ": {
+        "cik_str": 1318008,
+        "ticker": "ZUMZ",
+        "title": "Zumiez Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "MYE": {
+        "cik_str": 69488,
+        "ticker": "MYE",
+        "title": "MYERS INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CANG": {
+        "cik_str": 1725123,
+        "ticker": "CANG",
+        "title": "Cango Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CURV": {
+        "cik_str": 1792781,
+        "ticker": "CURV",
+        "title": "Torrid Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JILL": {
+        "cik_str": 1687932,
+        "ticker": "JILL",
+        "title": "J.Jill, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HVT": {
+        "cik_str": 216085,
+        "ticker": "HVT",
+        "title": "HAVERTY FURNITURE COMPANIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "COOK": {
+        "cik_str": 1857853,
+        "ticker": "COOK",
+        "title": "Traeger, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LOCO": {
+        "cik_str": 1606366,
+        "ticker": "LOCO",
+        "title": "El Pollo Loco Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LAZR": {
+        "cik_str": 1758057,
+        "ticker": "LAZR",
+        "title": "Luminar Technologies, Inc./DE",
+        "sector": "Consumer Cyclical"
+    },
+    "DADA": {
+        "cik_str": 1793862,
+        "ticker": "DADA",
+        "title": "Dada Nexus Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "CRMT": {
+        "cik_str": 799850,
+        "ticker": "CRMT",
+        "title": "AMERICAS CARMART INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MCFT": {
+        "cik_str": 1638290,
+        "ticker": "MCFT",
+        "title": "MasterCraft Boat Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CYD": {
+        "cik_str": 932695,
+        "ticker": "CYD",
+        "title": "CHINA YUCHAI INTERNATIONAL LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "NATH": {
+        "cik_str": 69733,
+        "ticker": "NATH",
+        "title": "NATHANS FAMOUS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "WEYS": {
+        "cik_str": 106532,
+        "ticker": "WEYS",
+        "title": "WEYCO GROUP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "NWTN": {
+        "cik_str": 1932737,
+        "ticker": "NWTN",
+        "title": "NWTN, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MPX": {
+        "cik_str": 1129155,
+        "ticker": "MPX",
+        "title": "MARINE PRODUCTS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "JOUT": {
+        "cik_str": 788329,
+        "ticker": "JOUT",
+        "title": "JOHNSON OUTDOORS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CDRO": {
+        "cik_str": 1866782,
+        "ticker": "CDRO",
+        "title": "Codere Online Luxembourg, S.A.",
+        "sector": "Consumer Cyclical"
+    },
+    "CVEO": {
+        "cik_str": 1590584,
+        "ticker": "CVEO",
+        "title": "Civeo Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "GCO": {
+        "cik_str": 18498,
+        "ticker": "GCO",
+        "title": "GENESCO INC",
+        "sector": "Consumer Cyclical"
+    },
+    "DENN": {
+        "cik_str": 852772,
+        "ticker": "DENN",
+        "title": "DENNY'S Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "HLLY": {
+        "cik_str": 1822928,
+        "ticker": "HLLY",
+        "title": "Holley Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ONEW": {
+        "cik_str": 1772921,
+        "ticker": "ONEW",
+        "title": "OneWater Marine Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FLXS": {
+        "cik_str": 37472,
+        "ticker": "FLXS",
+        "title": "FLEXSTEEL INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "JAKK": {
+        "cik_str": 1009829,
+        "ticker": "JAKK",
+        "title": "JAKKS PACIFIC INC",
+        "sector": "Consumer Cyclical"
+    },
+    "PBPB": {
+        "cik_str": 1195734,
+        "ticker": "PBPB",
+        "title": "POTBELLY CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "UHG": {
+        "cik_str": 1830188,
+        "ticker": "UHG",
+        "title": "United Homes Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BARK": {
+        "cik_str": 1819574,
+        "ticker": "BARK",
+        "title": "Bark, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TTSH": {
+        "cik_str": 1552800,
+        "ticker": "TTSH",
+        "title": "TILE SHOP HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SNBR": {
+        "cik_str": 827187,
+        "ticker": "SNBR",
+        "title": "Sleep Number Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "GHG": {
+        "cik_str": 1724755,
+        "ticker": "GHG",
+        "title": "GreenTree Hospitality Group Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "BNED": {
+        "cik_str": 1634117,
+        "ticker": "BNED",
+        "title": "Barnes & Noble Education, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SGC": {
+        "cik_str": 95574,
+        "ticker": "SGC",
+        "title": "SUPERIOR GROUP OF COMPANIES, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "AZI": {
+        "cik_str": 1959726,
+        "ticker": "AZI",
+        "title": "Autozi Internet Technology (Global) Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "DBI": {
+        "cik_str": 1319947,
+        "ticker": "DBI",
+        "title": "Designer Brands Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BYON": {
+        "cik_str": 1130713,
+        "ticker": "BYON",
+        "title": "BEYOND, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "HBB": {
+        "cik_str": 1709164,
+        "ticker": "HBB",
+        "title": "Hamilton Beach Brands Holding Co",
+        "sector": "Consumer Cyclical"
+    },
+    "INSE": {
+        "cik_str": 1615063,
+        "ticker": "INSE",
+        "title": "Inspired Entertainment, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VIRC": {
+        "cik_str": 751365,
+        "ticker": "VIRC",
+        "title": "VIRCO MFG CORPORATION",
+        "sector": "Consumer Cyclical"
+    },
+    "GENK": {
+        "cik_str": 1891856,
+        "ticker": "GENK",
+        "title": "GEN Restaurant Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KFS": {
+        "cik_str": 1072627,
+        "ticker": "KFS",
+        "title": "KINGSWAY FINANCIAL SERVICES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CPS": {
+        "cik_str": 1320461,
+        "ticker": "CPS",
+        "title": "Cooper-Standard Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "IOCJY": {
+        "cik_str": 922357,
+        "ticker": "IOCJY",
+        "title": "IOCHPE-MAXION SA /FI",
+        "sector": "Consumer Cyclical"
+    },
+    "NEGG": {
+        "cik_str": 1474627,
+        "ticker": "NEGG",
+        "title": "Newegg Commerce, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "IRBT": {
+        "cik_str": 1159167,
+        "ticker": "IRBT",
+        "title": "IROBOT CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "RMBL": {
+        "cik_str": 1596961,
+        "ticker": "RMBL",
+        "title": "RumbleOn, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ESCA": {
+        "cik_str": 33488,
+        "ticker": "ESCA",
+        "title": "ESCALADE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "AKA": {
+        "cik_str": 1865107,
+        "ticker": "AKA",
+        "title": "A.K.A. BRANDS HOLDING CORP.",
+        "sector": "Consumer Cyclical"
+    },
+    "PLCE": {
+        "cik_str": 1041859,
+        "ticker": "PLCE",
+        "title": "Childrens Place, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HOFT": {
+        "cik_str": 1077688,
+        "ticker": "HOFT",
+        "title": "HOOKER FURNISHINGS Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "MED": {
+        "cik_str": 910329,
+        "ticker": "MED",
+        "title": "MEDIFAST INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SLDP": {
+        "cik_str": 1844862,
+        "ticker": "SLDP",
+        "title": "Solid Power, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EM": {
+        "cik_str": 1834253,
+        "ticker": "EM",
+        "title": "Smart Share Global Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "LOGC": {
+        "cik_str": 1822250,
+        "ticker": "LOGC",
+        "title": "ContextLogic Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FLL": {
+        "cik_str": 891482,
+        "ticker": "FLL",
+        "title": "FULL HOUSE RESORTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SRI": {
+        "cik_str": 1043337,
+        "ticker": "SRI",
+        "title": "STONERIDGE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "LANV": {
+        "cik_str": 1922097,
+        "ticker": "LANV",
+        "title": "Lanvin Group Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "STRT": {
+        "cik_str": 933034,
+        "ticker": "STRT",
+        "title": "STRATTEC SECURITY CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "QRTEA": {
+        "cik_str": 1355096,
+        "ticker": "QRTEA",
+        "title": "Qurate Retail, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CLAR": {
+        "cik_str": 913277,
+        "ticker": "CLAR",
+        "title": "Clarus Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ELA": {
+        "cik_str": 701719,
+        "ticker": "ELA",
+        "title": "Envela Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "LAKE": {
+        "cik_str": 798081,
+        "ticker": "LAKE",
+        "title": "LAKELAND INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BRLT": {
+        "cik_str": 1866757,
+        "ticker": "BRLT",
+        "title": "Brilliant Earth Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "THCH": {
+        "cik_str": 1877333,
+        "ticker": "THCH",
+        "title": "TH International Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "RCKY": {
+        "cik_str": 895456,
+        "ticker": "RCKY",
+        "title": "ROCKY BRANDS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "CTRN": {
+        "cik_str": 1318484,
+        "ticker": "CTRN",
+        "title": "Citi Trends Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "DXLG": {
+        "cik_str": 813298,
+        "ticker": "DXLG",
+        "title": "DESTINATION XL GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "VRA": {
+        "cik_str": 1495320,
+        "ticker": "VRA",
+        "title": "Vera Bradley, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TDUP": {
+        "cik_str": 1484778,
+        "ticker": "TDUP",
+        "title": "ThredUp Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CHSN": {
+        "cik_str": 1825349,
+        "ticker": "CHSN",
+        "title": "Chanson International Holding",
+        "sector": "Consumer Cyclical"
+    },
+    "DIBS": {
+        "cik_str": 1600641,
+        "ticker": "DIBS",
+        "title": "1stdibs.com, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GGR": {
+        "cik_str": 1886190,
+        "ticker": "GGR",
+        "title": "Gogoro Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BZUN": {
+        "cik_str": 1625414,
+        "ticker": "BZUN",
+        "title": "Baozun Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NIU": {
+        "cik_str": 1744781,
+        "ticker": "NIU",
+        "title": "Niu Technologies",
+        "sector": "Consumer Cyclical"
+    },
+    "VGES": {
+        "cik_str": 1746119,
+        "ticker": "VGES",
+        "title": "Vanguard Green Investment Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "MPAA": {
+        "cik_str": 918251,
+        "ticker": "MPAA",
+        "title": "MOTORCAR PARTS OF AMERICA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CNTY": {
+        "cik_str": 911147,
+        "ticker": "CNTY",
+        "title": "CENTURY CASINOS INC /CO/",
+        "sector": "Consumer Cyclical"
+    },
+    "CAAS": {
+        "cik_str": 1157762,
+        "ticker": "CAAS",
+        "title": "CHINA AUTOMOTIVE SYSTEMS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "HFUS": {
+        "cik_str": 1482554,
+        "ticker": "HFUS",
+        "title": "Hartford Creative Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "REE": {
+        "cik_str": 1843588,
+        "ticker": "REE",
+        "title": "REE Automotive Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "DLTH": {
+        "cik_str": 1649744,
+        "ticker": "DLTH",
+        "title": "DULUTH HOLDINGS INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "TOUR": {
+        "cik_str": 1597095,
+        "ticker": "TOUR",
+        "title": "Tuniu Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "BSET": {
+        "cik_str": 10329,
+        "ticker": "BSET",
+        "title": "BASSETT FURNITURE INDUSTRIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "KEQU": {
+        "cik_str": 55529,
+        "ticker": "KEQU",
+        "title": "KEWAUNEE SCIENTIFIC CORP /DE/",
+        "sector": "Consumer Cyclical"
+    },
+    "LCUT": {
+        "cik_str": 874396,
+        "ticker": "LCUT",
+        "title": "LIFETIME BRANDS, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "AOUT": {
+        "cik_str": 1808997,
+        "ticker": "AOUT",
+        "title": "American Outdoor Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MAMO": {
+        "cik_str": 1952853,
+        "ticker": "MAMO",
+        "title": "Massimo Group",
+        "sector": "Consumer Cyclical"
+    },
+    "TLYS": {
+        "cik_str": 1524025,
+        "ticker": "TLYS",
+        "title": "TILLY'S, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GRWG": {
+        "cik_str": 1604868,
+        "ticker": "GRWG",
+        "title": "GrowGeneration Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SES": {
+        "cik_str": 1819142,
+        "ticker": "SES",
+        "title": "SES AI Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "UFI": {
+        "cik_str": 100726,
+        "ticker": "UFI",
+        "title": "UNIFI INC",
+        "sector": "Consumer Cyclical"
+    },
+    "VIOT": {
+        "cik_str": 1742770,
+        "ticker": "VIOT",
+        "title": "Viomi Technology Co., Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "PLBY": {
+        "cik_str": 1803914,
+        "ticker": "PLBY",
+        "title": "PLBY Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CPHC": {
+        "cik_str": 1672909,
+        "ticker": "CPHC",
+        "title": "Canterbury Park Holding Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "CATO": {
+        "cik_str": 18255,
+        "ticker": "CATO",
+        "title": "CATO CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "MHGU": {
+        "cik_str": 808219,
+        "ticker": "MHGU",
+        "title": "MERITAGE HOSPITALITY GROUP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "STKS": {
+        "cik_str": 1399520,
+        "ticker": "STKS",
+        "title": "ONE Group Hospitality, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NOBH": {
+        "cik_str": 72205,
+        "ticker": "NOBH",
+        "title": "NOBILITY HOMES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "KNDI": {
+        "cik_str": 1720250,
+        "ticker": "KNDI",
+        "title": "Kandi Technologies Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FAT": {
+        "cik_str": 1705012,
+        "ticker": "FAT",
+        "title": "Fat Brands, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "PRPL": {
+        "cik_str": 1643953,
+        "ticker": "PRPL",
+        "title": "Purple Innovation, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VNJA": {
+        "cik_str": 1532383,
+        "ticker": "VNJA",
+        "title": "VANJIA CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "INVZ": {
+        "cik_str": 1835654,
+        "ticker": "INVZ",
+        "title": "Innoviz Technologies Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "MOND": {
+        "cik_str": 1828852,
+        "ticker": "MOND",
+        "title": "Mondee Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "YTRA": {
+        "cik_str": 1516899,
+        "ticker": "YTRA",
+        "title": "Yatra Online, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CVGI": {
+        "cik_str": 1290900,
+        "ticker": "CVGI",
+        "title": "Commercial Vehicle Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GAN": {
+        "cik_str": 1799332,
+        "ticker": "GAN",
+        "title": "GAN Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "BRAG": {
+        "cik_str": 1867834,
+        "ticker": "BRAG",
+        "title": "Bragg Gaming Group Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SPWH": {
+        "cik_str": 1132105,
+        "ticker": "SPWH",
+        "title": "SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "PTZH": {
+        "cik_str": 1627469,
+        "ticker": "PTZH",
+        "title": "Photozou Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WW": {
+        "cik_str": 105319,
+        "ticker": "WW",
+        "title": "WW INTERNATIONAL, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "RRGB": {
+        "cik_str": 1171759,
+        "ticker": "RRGB",
+        "title": "RED ROBIN GOURMET BURGERS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SCTH": {
+        "cik_str": 1703157,
+        "ticker": "SCTH",
+        "title": "Securetech Innovations, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WPRT": {
+        "cik_str": 1370416,
+        "ticker": "WPRT",
+        "title": "WESTPORT FUEL SYSTEMS INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SUP": {
+        "cik_str": 95552,
+        "ticker": "SUP",
+        "title": "SUPERIOR INDUSTRIES INTERNATIONAL INC",
+        "sector": "Consumer Cyclical"
+    },
+    "DTC": {
+        "cik_str": 1870600,
+        "ticker": "DTC",
+        "title": "Solo Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GLXZ": {
+        "cik_str": 13156,
+        "ticker": "GLXZ",
+        "title": "Galaxy Gaming, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FFIE": {
+        "cik_str": 1805521,
+        "ticker": "FFIE",
+        "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "YYGH": {
+        "cik_str": 1985337,
+        "ticker": "YYGH",
+        "title": "YY Group Holding Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "NHTC": {
+        "cik_str": 912061,
+        "ticker": "NHTC",
+        "title": "NATURAL HEALTH TRENDS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "BIRD": {
+        "cik_str": 1653909,
+        "ticker": "BIRD",
+        "title": "Allbirds, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CULP": {
+        "cik_str": 723603,
+        "ticker": "CULP",
+        "title": "CULP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "FOSL": {
+        "cik_str": 883569,
+        "ticker": "FOSL",
+        "title": "Fossil Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PRTS": {
+        "cik_str": 1378950,
+        "ticker": "PRTS",
+        "title": "CarParts.com, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GORV": {
+        "cik_str": 1721741,
+        "ticker": "GORV",
+        "title": "Lazydays Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VIPZ": {
+        "cik_str": 1832161,
+        "ticker": "VIPZ",
+        "title": "VIP Play, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SPHL": {
+        "cik_str": 2002236,
+        "ticker": "SPHL",
+        "title": "SPRINGVIEW HOLDINGS LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "HOUR": {
+        "cik_str": 1874875,
+        "ticker": "HOUR",
+        "title": "Hour Loop, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "YCQH": {
+        "cik_str": 1794276,
+        "ticker": "YCQH",
+        "title": "YCQH Agricultural Technology Co. Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "RECT": {
+        "cik_str": 1995116,
+        "ticker": "RECT",
+        "title": "Rectitude Holdings Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "LVLU": {
+        "cik_str": 1780201,
+        "ticker": "LVLU",
+        "title": "Lulu's Fashion Lounge Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VIVC": {
+        "cik_str": 1703073,
+        "ticker": "VIVC",
+        "title": "VIVIC CORP.",
+        "sector": "Consumer Cyclical"
+    },
+    "ROLR": {
+        "cik_str": 1947210,
+        "ticker": "ROLR",
+        "title": "High Roller Technologies, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "RGS": {
+        "cik_str": 716643,
+        "ticker": "RGS",
+        "title": "REGIS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "NTZ": {
+        "cik_str": 900391,
+        "ticker": "NTZ",
+        "title": "NATUZZI S P A",
+        "sector": "Consumer Cyclical"
+    },
+    "CRWS": {
+        "cik_str": 25895,
+        "ticker": "CRWS",
+        "title": "CROWN CRAFTS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "BDL": {
+        "cik_str": 12040,
+        "ticker": "BDL",
+        "title": "FLANIGANS ENTERPRISES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "GOEV": {
+        "cik_str": 1750153,
+        "ticker": "GOEV",
+        "title": "Canoo Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LEAT": {
+        "cik_str": 1456189,
+        "ticker": "LEAT",
+        "title": "Leatt Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "KPEA": {
+        "cik_str": 1502557,
+        "ticker": "KPEA",
+        "title": "Kun Peng International Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "NAAS": {
+        "cik_str": 1712178,
+        "ticker": "NAAS",
+        "title": "NaaS Technology Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LNBY": {
+        "cik_str": 1672572,
+        "ticker": "LNBY",
+        "title": "Landbay Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "RAVE": {
+        "cik_str": 718332,
+        "ticker": "RAVE",
+        "title": "RAVE RESTAURANT GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SOND": {
+        "cik_str": 1819395,
+        "ticker": "SOND",
+        "title": "Sonder Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JRSH": {
+        "cik_str": 1696558,
+        "ticker": "JRSH",
+        "title": "Jerash Holdings (US), Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ISPO": {
+        "cik_str": 1820566,
+        "ticker": "ISPO",
+        "title": "Inspirato Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "CENN": {
+        "cik_str": 1707919,
+        "ticker": "CENN",
+        "title": "Cenntro Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BGFV": {
+        "cik_str": 1156388,
+        "ticker": "BGFV",
+        "title": "BIG 5 SPORTING GOODS Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "LITB": {
+        "cik_str": 1523836,
+        "ticker": "LITB",
+        "title": "LightInTheBox Holding Co., Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "RENT": {
+        "cik_str": 1468327,
+        "ticker": "RENT",
+        "title": "Rent the Runway, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ARKR": {
+        "cik_str": 779544,
+        "ticker": "ARKR",
+        "title": "ARK RESTAURANTS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "TLF": {
+        "cik_str": 909724,
+        "ticker": "TLF",
+        "title": "TANDY LEATHER FACTORY INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ECDA": {
+        "cik_str": 1922858,
+        "ticker": "ECDA",
+        "title": "ECD Automotive Design, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PNST": {
+        "cik_str": 1852633,
+        "ticker": "PNST",
+        "title": "Pinstripes Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ZOOZ": {
+        "cik_str": 1992818,
+        "ticker": "ZOOZ",
+        "title": "ZOOZ Power Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "NDLS": {
+        "cik_str": 1275158,
+        "ticker": "NDLS",
+        "title": "NOODLES & Co",
+        "sector": "Consumer Cyclical"
+    },
+    "PRKA": {
+        "cik_str": 1297937,
+        "ticker": "PRKA",
+        "title": "PARKS AMERICA, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "SYPR": {
+        "cik_str": 864240,
+        "ticker": "SYPR",
+        "title": "SYPRIS SOLUTIONS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "LIVE": {
+        "cik_str": 1045742,
+        "ticker": "LIVE",
+        "title": "LIVE VENTURES Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "BGI": {
+        "cik_str": 1179821,
+        "ticker": "BGI",
+        "title": "BIRKS GROUP INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "YYAI": {
+        "cik_str": 1674440,
+        "ticker": "YYAI",
+        "title": "Connexa Sports Technologies Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "INTG": {
+        "cik_str": 69422,
+        "ticker": "INTG",
+        "title": "INTERGROUP CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "AAQL": {
+        "cik_str": 1672571,
+        "ticker": "AAQL",
+        "title": "Antiaging Quantum Living Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GTIM": {
+        "cik_str": 825324,
+        "ticker": "GTIM",
+        "title": "Good Times Restaurants Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OESX": {
+        "cik_str": 1409375,
+        "ticker": "OESX",
+        "title": "ORION ENERGY SYSTEMS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "EVTV": {
+        "cik_str": 1563568,
+        "ticker": "EVTV",
+        "title": "Envirotech Vehicles, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MULN": {
+        "cik_str": 1499961,
+        "ticker": "MULN",
+        "title": "MULLEN AUTOMOTIVE INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SAG": {
+        "cik_str": 1933951,
+        "ticker": "SAG",
+        "title": "SAG Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "WNW": {
+        "cik_str": 1787803,
+        "ticker": "WNW",
+        "title": "Meiwu Technology Co Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "OCG": {
+        "cik_str": 1776067,
+        "ticker": "OCG",
+        "title": "Oriental Culture Holding LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "NCNC": {
+        "cik_str": 1964021,
+        "ticker": "NCNC",
+        "title": "noco-noco Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "WKHS": {
+        "cik_str": 1425287,
+        "ticker": "WKHS",
+        "title": "Workhorse Group Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NRDE": {
+        "cik_str": 1759546,
+        "ticker": "NRDE",
+        "title": "NU RIDE INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "IPW": {
+        "cik_str": 1830072,
+        "ticker": "IPW",
+        "title": "iPower Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KENS": {
+        "cik_str": 55234,
+        "ticker": "KENS",
+        "title": "KENILWORTH SYSTEMS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "UCAR": {
+        "cik_str": 1939780,
+        "ticker": "UCAR",
+        "title": "U Power Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "VNCE": {
+        "cik_str": 1579157,
+        "ticker": "VNCE",
+        "title": "VINCE HOLDING CORP.",
+        "sector": "Consumer Cyclical"
+    },
+    "MMA": {
+        "cik_str": 1981519,
+        "ticker": "MMA",
+        "title": "ALTA GLOBAL GROUP LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "KIRK": {
+        "cik_str": 1056285,
+        "ticker": "KIRK",
+        "title": "KIRKLAND'S, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ATER": {
+        "cik_str": 1757715,
+        "ticker": "ATER",
+        "title": "Aterian, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "QSJC": {
+        "cik_str": 1753391,
+        "ticker": "QSJC",
+        "title": "TANCHENG GROUP CO., LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "TBTC": {
+        "cik_str": 1090396,
+        "ticker": "TBTC",
+        "title": "TABLE TRAC INC",
+        "sector": "Consumer Cyclical"
+    },
+    "WKSP": {
+        "cik_str": 1096275,
+        "ticker": "WKSP",
+        "title": "Worksport Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "AVNI": {
+        "cik_str": 1113313,
+        "ticker": "AVNI",
+        "title": "ARVANA INC",
+        "sector": "Consumer Cyclical"
+    },
+    "MGIH": {
+        "cik_str": 1903995,
+        "ticker": "MGIH",
+        "title": "Millennium Group International Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "YHGJ": {
+        "cik_str": 1042187,
+        "ticker": "YHGJ",
+        "title": "YUNHONG GREEN CTI LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "WBUY": {
+        "cik_str": 1946703,
+        "ticker": "WBUY",
+        "title": "WEBUY GLOBAL LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "LOBO": {
+        "cik_str": 1932072,
+        "ticker": "LOBO",
+        "title": "LOBO EV TECHNOLOGIES LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "XELB": {
+        "cik_str": 1083220,
+        "ticker": "XELB",
+        "title": "XCel Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MOGU": {
+        "cik_str": 1743971,
+        "ticker": "MOGU",
+        "title": "MOGU Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GHST": {
+        "cik_str": 1121795,
+        "ticker": "GHST",
+        "title": "GHST World Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TKLF": {
+        "cik_str": 1836242,
+        "ticker": "TKLF",
+        "title": "Tokyo Lifestyle Co., Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "HWH": {
+        "cik_str": 1897245,
+        "ticker": "HWH",
+        "title": "HWH International Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "MRM": {
+        "cik_str": 1819704,
+        "ticker": "MRM",
+        "title": "Medirom Healthcare Technologies Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AIEV": {
+        "cik_str": 1912582,
+        "ticker": "AIEV",
+        "title": "Thunder Power Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TCS": {
+        "cik_str": 1411688,
+        "ticker": "TCS",
+        "title": "Container Store Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HYZN": {
+        "cik_str": 1716583,
+        "ticker": "HYZN",
+        "title": "Hyzon Motors Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SVMH": {
+        "cik_str": 1973368,
+        "ticker": "SVMH",
+        "title": "SRIVARU Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "MI": {
+        "cik_str": 1958713,
+        "ticker": "MI",
+        "title": "NFT Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "JBDI": {
+        "cik_str": 1964314,
+        "ticker": "JBDI",
+        "title": "JBDI Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "JZXN": {
+        "cik_str": 1816172,
+        "ticker": "JZXN",
+        "title": "Jiuzi Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PEV": {
+        "cik_str": 1879848,
+        "ticker": "PEV",
+        "title": "PHOENIX MOTOR INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "PETZ": {
+        "cik_str": 1684425,
+        "ticker": "PETZ",
+        "title": "TDH Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NCI": {
+        "cik_str": 1916331,
+        "ticker": "NCI",
+        "title": "Neo-Concept International Group Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "PMNT": {
+        "cik_str": 1849221,
+        "ticker": "PMNT",
+        "title": "Perfect Moment Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "FLYE": {
+        "cik_str": 1975940,
+        "ticker": "FLYE",
+        "title": "Fly-E Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DXYN": {
+        "cik_str": 29332,
+        "ticker": "DXYN",
+        "title": "DIXIE GROUP INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CJET": {
+        "cik_str": 1957413,
+        "ticker": "CJET",
+        "title": "Chijet Motor Company, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VRM": {
+        "cik_str": 1580864,
+        "ticker": "VRM",
+        "title": "Vroom, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FRSX": {
+        "cik_str": 1691221,
+        "ticker": "FRSX",
+        "title": "Foresight Autonomous Holdings Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "BTBD": {
+        "cik_str": 1718224,
+        "ticker": "BTBD",
+        "title": "BT Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SRM": {
+        "cik_str": 1956744,
+        "ticker": "SRM",
+        "title": "SRM Entertainment, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JL": {
+        "cik_str": 1948436,
+        "ticker": "JL",
+        "title": "J-Long Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "JPOTF": {
+        "cik_str": 1061612,
+        "ticker": "JPOTF",
+        "title": "Jackpot Digital Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "YJ": {
+        "cik_str": 1759614,
+        "ticker": "YJ",
+        "title": "Yunji Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ZAPP": {
+        "cik_str": 1955104,
+        "ticker": "ZAPP",
+        "title": "Zapp Electric Vehicles Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "NROM": {
+        "cik_str": 709005,
+        "ticker": "NROM",
+        "title": "NOBLE ROMANS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "NCL": {
+        "cik_str": 1923780,
+        "ticker": "NCL",
+        "title": "Northann Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SEVCF": {
+        "cik_str": 1840416,
+        "ticker": "SEVCF",
+        "title": "Sono Group N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "DROR": {
+        "cik_str": 1282980,
+        "ticker": "DROR",
+        "title": "Dror Ortho-Design, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FGI": {
+        "cik_str": 1864943,
+        "ticker": "FGI",
+        "title": "FGI Industries Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "DSS": {
+        "cik_str": 771999,
+        "ticker": "DSS",
+        "title": "DSS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "JXJT": {
+        "cik_str": 1546383,
+        "ticker": "JXJT",
+        "title": "JX Luxventure Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "IVP": {
+        "cik_str": 1939365,
+        "ticker": "IVP",
+        "title": "INSPIRE VETERINARY PARTNERS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "JWEL": {
+        "cik_str": 1805594,
+        "ticker": "JWEL",
+        "title": "Jowell Global Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "EFOI": {
+        "cik_str": 924168,
+        "ticker": "EFOI",
+        "title": "ENERGY FOCUS, INC/DE",
+        "sector": "Consumer Cyclical"
+    },
+    "FFLO": {
+        "cik_str": 1543652,
+        "ticker": "FFLO",
+        "title": "Free Flow USA, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EJH": {
+        "cik_str": 1769768,
+        "ticker": "EJH",
+        "title": "E-Home Household Service Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "GDHG": {
+        "cik_str": 1928340,
+        "ticker": "GDHG",
+        "title": "GOLDEN HEAVEN GROUP HOLDINGS LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "VEST": {
+        "cik_str": 1594968,
+        "ticker": "VEST",
+        "title": "Vestiage, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AHRO": {
+        "cik_str": 1338929,
+        "ticker": "AHRO",
+        "title": "Authentic Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DBGI": {
+        "cik_str": 1668010,
+        "ticker": "DBGI",
+        "title": "Digital Brands Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "REBN": {
+        "cik_str": 1707910,
+        "ticker": "REBN",
+        "title": "Reborn Coffee, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BQ": {
+        "cik_str": 1815021,
+        "ticker": "BQ",
+        "title": "Boqii Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "AYRO": {
+        "cik_str": 1086745,
+        "ticker": "AYRO",
+        "title": "AYRO, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CREV": {
+        "cik_str": 1960208,
+        "ticker": "CREV",
+        "title": "Carbon Revolution Public Ltd Co",
+        "sector": "Consumer Cyclical"
+    },
+    "LGCB": {
+        "cik_str": 1969401,
+        "ticker": "LGCB",
+        "title": "Linkage Global Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "PIK": {
+        "cik_str": 1861522,
+        "ticker": "PIK",
+        "title": "KIDPIK CORP.",
+        "sector": "Consumer Cyclical"
+    },
+    "SHMY": {
+        "cik_str": 1766267,
+        "ticker": "SHMY",
+        "title": "Synergy Empire Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "YOSH": {
+        "cik_str": 1898604,
+        "ticker": "YOSH",
+        "title": "Yoshiharu Global Co.",
+        "sector": "Consumer Cyclical"
+    },
+    "CTNT": {
+        "cik_str": 1951667,
+        "ticker": "CTNT",
+        "title": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "BWMG": {
+        "cik_str": 1166708,
+        "ticker": "BWMG",
+        "title": "Brownie's Marine Group, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "MDCE": {
+        "cik_str": 1404593,
+        "ticker": "MDCE",
+        "title": "Medical Care Technologies Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KXIN": {
+        "cik_str": 1713539,
+        "ticker": "KXIN",
+        "title": "Kaixin Holdings",
+        "sector": "Consumer Cyclical"
+    },
+    "FORD": {
+        "cik_str": 38264,
+        "ticker": "FORD",
+        "title": "Forward Industries, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VEEE": {
+        "cik_str": 1855509,
+        "ticker": "VEEE",
+        "title": "Twin Vee PowerCats, Co.",
+        "sector": "Consumer Cyclical"
+    },
+    "NVFY": {
+        "cik_str": 1473334,
+        "ticker": "NVFY",
+        "title": "Nova Lifestyle, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CTHR": {
+        "cik_str": 1015155,
+        "ticker": "CTHR",
+        "title": "CHARLES & COLVARD LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "LUVU": {
+        "cik_str": 1374567,
+        "ticker": "LUVU",
+        "title": "Luvu Brands, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OCTO": {
+        "cik_str": 1892492,
+        "ticker": "OCTO",
+        "title": "Eightco Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AREB": {
+        "cik_str": 1648087,
+        "ticker": "AREB",
+        "title": "AMERICAN REBEL HOLDINGS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "HCNWF": {
+        "cik_str": 1887603,
+        "ticker": "HCNWF",
+        "title": "Hypercharge Networks Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "LTRY": {
+        "cik_str": 1673481,
+        "ticker": "LTRY",
+        "title": "Lottery.com Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VEVMQ": {
+        "cik_str": 1834975,
+        "ticker": "VEVMQ",
+        "title": "VICINITY MOTOR CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "FRZA": {
+        "cik_str": 1901305,
+        "ticker": "FRZA",
+        "title": "Forza X1, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SPGC": {
+        "cik_str": 1934245,
+        "ticker": "SPGC",
+        "title": "Sacks Parente Golf, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NVVE": {
+        "cik_str": 1836875,
+        "ticker": "NVVE",
+        "title": "Nuvve Holding Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "FCCI": {
+        "cik_str": 1807689,
+        "ticker": "FCCI",
+        "title": "FAST CASUAL CONCEPTS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "LUXH": {
+        "cik_str": 1893311,
+        "ticker": "LUXH",
+        "title": "LUXURBAN HOTELS INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "VLCN": {
+        "cik_str": 1829794,
+        "ticker": "VLCN",
+        "title": "Volcon, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "VMAR": {
+        "cik_str": 1813783,
+        "ticker": "VMAR",
+        "title": "Vision Marine Technologies Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EZGO": {
+        "cik_str": 1806904,
+        "ticker": "EZGO",
+        "title": "EZGO Technologies Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "TRNR": {
+        "cik_str": 1785056,
+        "ticker": "TRNR",
+        "title": "Interactive Strength, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SBET": {
+        "cik_str": 1981535,
+        "ticker": "SBET",
+        "title": "SharpLink Gaming, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NTRP": {
+        "cik_str": 788611,
+        "ticker": "NTRP",
+        "title": "NextTrip, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JFBR": {
+        "cik_str": 1885408,
+        "ticker": "JFBR",
+        "title": "Jeffs' Brands Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "BRVO": {
+        "cik_str": 1444839,
+        "ticker": "BRVO",
+        "title": "Bravo Multinational Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JEWL": {
+        "cik_str": 1884072,
+        "ticker": "JEWL",
+        "title": "Adamas One Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SAML": {
+        "cik_str": 1530163,
+        "ticker": "SAML",
+        "title": "Samsara Luggage, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GMER": {
+        "cik_str": 1454742,
+        "ticker": "GMER",
+        "title": "GOOD GAMING, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "SPEV": {
+        "cik_str": 764630,
+        "ticker": "SPEV",
+        "title": "SHOREPOWER TECHNOLOGIES INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MCOM": {
+        "cik_str": 1788841,
+        "ticker": "MCOM",
+        "title": "micromobility.com Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ARVLF": {
+        "cik_str": 1835059,
+        "ticker": "ARVLF",
+        "title": "Arrival",
+        "sector": "Consumer Cyclical"
+    },
+    "PRSI": {
+        "cik_str": 79661,
+        "ticker": "PRSI",
+        "title": "PORTSMOUTH SQUARE INC",
+        "sector": "Consumer Cyclical"
+    },
+    "VIRA": {
+        "cik_str": 1130781,
+        "ticker": "VIRA",
+        "title": "NEURALBASE AI LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "SSOK": {
+        "cik_str": 1559157,
+        "ticker": "SSOK",
+        "title": "Sunstock, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "IVDN": {
+        "cik_str": 1190370,
+        "ticker": "IVDN",
+        "title": "INNOVATIVE DESIGNS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "RWGI": {
+        "cik_str": 1867589,
+        "ticker": "RWGI",
+        "title": "Rodedawg International Industries, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "USLG": {
+        "cik_str": 1536394,
+        "ticker": "USLG",
+        "title": "U.S. Lighting Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "TLIF": {
+        "cik_str": 1633273,
+        "ticker": "TLIF",
+        "title": "TOCCA LIFE HOLDINGS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "DREM": {
+        "cik_str": 1518336,
+        "ticker": "DREM",
+        "title": "Dream Homes & Development Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "NNAX": {
+        "cik_str": 1132509,
+        "ticker": "NNAX",
+        "title": "New Momentum Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SKFG": {
+        "cik_str": 1794942,
+        "ticker": "SKFG",
+        "title": "Stark Focus Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "KITL": {
+        "cik_str": 1608092,
+        "ticker": "KITL",
+        "title": "Kisses From Italy Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BRGO": {
+        "cik_str": 1431074,
+        "ticker": "BRGO",
+        "title": "Bergio International, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "OMTK": {
+        "cik_str": 1404804,
+        "ticker": "OMTK",
+        "title": "Omnitek Engineering Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "VMHG": {
+        "cik_str": 895287,
+        "ticker": "VMHG",
+        "title": "VICTORY MARINE HOLDINGS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "TUPBQ": {
+        "cik_str": 1008654,
+        "ticker": "TUPBQ",
+        "title": "TUPPERWARE BRANDS CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "EBET": {
+        "cik_str": 1829966,
+        "ticker": "EBET",
+        "title": "EBET, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ELYS": {
+        "cik_str": 1080319,
+        "ticker": "ELYS",
+        "title": "Elys BMG Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LLFLQ": {
+        "cik_str": 1396033,
+        "ticker": "LLFLQ",
+        "title": "LL Flooring Holdings, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BBIG": {
+        "cik_str": 1717556,
+        "ticker": "BBIG",
+        "title": "Vinco Ventures, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FUVV": {
+        "cik_str": 1558583,
+        "ticker": "FUVV",
+        "title": "Arcimoto Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "BFICQ": {
+        "cik_str": 1723580,
+        "ticker": "BFICQ",
+        "title": "BurgerFi International, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SECOY": {
+        "cik_str": 1633441,
+        "ticker": "SECOY",
+        "title": "Secoo Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "CGTL": {
+        "cik_str": 1967822,
+        "ticker": "CGTL",
+        "title": "Creative Global Technology Holdings Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "DLAPQ": {
+        "cik_str": 1101396,
+        "ticker": "DLAPQ",
+        "title": "DELTA APPAREL, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "NICH": {
+        "cik_str": 772263,
+        "ticker": "NICH",
+        "title": "NITCHES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "VENU": {
+        "cik_str": 1770501,
+        "ticker": "VENU",
+        "title": "Venu Holding Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "TOYOF": {
+        "cik_str": 1094517,
+        "ticker": "TOYOF",
+        "title": "TOYOTA MOTOR CORP/",
+        "sector": "Consumer Cyclical"
+    },
+    "BABAF": {
+        "cik_str": 1577552,
+        "ticker": "BABAF",
+        "title": "Alibaba Group Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "CFRHF": {
+        "cik_str": 948401,
+        "ticker": "CFRHF",
+        "title": "COMPAGNIE FINANCIERE RICHEMONT AG /FI",
+        "sector": "Consumer Cyclical"
+    },
+    "MBGAF": {
+        "cik_str": 1067318,
+        "ticker": "MBGAF",
+        "title": "DAIMLER AG",
+        "sector": "Consumer Cyclical"
+    },
+    "PPRUF": {
+        "cik_str": 1445465,
+        "ticker": "PPRUF",
+        "title": "Kering",
+        "sector": "Consumer Cyclical"
+    },
+    "JDCMF": {
+        "cik_str": 1549802,
+        "ticker": "JDCMF",
+        "title": "JD.com, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BYMOF": {
+        "cik_str": 1446250,
+        "ticker": "BYMOF",
+        "title": "Bayerische Motoren Werke AG/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "BAMXF": {
+        "cik_str": 1446250,
+        "ticker": "BAMXF",
+        "title": "Bayerische Motoren Werke AG/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "DNZOF": {
+        "cik_str": 1446598,
+        "ticker": "DNZOF",
+        "title": "Denso Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "HNDAF": {
+        "cik_str": 715153,
+        "ticker": "HNDAF",
+        "title": "HONDA MOTOR CO LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "LEN-B": {
+        "cik_str": 920760,
+        "ticker": "LEN-B",
+        "title": "LENNAR CORP /NEW/",
+        "sector": "Consumer Cyclical"
+    },
+    "RSTRF": {
+        "cik_str": 1618755,
+        "ticker": "RSTRF",
+        "title": "Restaurant Brands International Limited Partnership",
+        "sector": "Consumer Cyclical"
+    },
+    "YAHOF": {
+        "cik_str": 1446437,
+        "ticker": "YAHOF",
+        "title": "Yahoo! Japan Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "TRPCF": {
+        "cik_str": 1269238,
+        "ticker": "TRPCF",
+        "title": "Trip.com Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "NIOIF": {
+        "cik_str": 1736541,
+        "ticker": "NIOIF",
+        "title": "NIO Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "POAHF": {
+        "cik_str": 1450346,
+        "ticker": "POAHF",
+        "title": "Porsche Automobil Holding SE / ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "AMCCF": {
+        "cik_str": 1748790,
+        "ticker": "AMCCF",
+        "title": "Amcor plc",
+        "sector": "Consumer Cyclical"
+    },
+    "OLCLF": {
+        "cik_str": 1545460,
+        "ticker": "OLCLF",
+        "title": "Oriental Land Co., Ltd./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "CUKPF": {
+        "cik_str": 1125259,
+        "ticker": "CUKPF",
+        "title": "CARNIVAL PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "YAMHF": {
+        "cik_str": 1447100,
+        "ticker": "YAMHF",
+        "title": "Yamaha Motor Co., Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "PSNYW": {
+        "cik_str": 1884082,
+        "ticker": "PSNYW",
+        "title": "Polestar Automotive Holding UK PLC",
+        "sector": "Consumer Cyclical"
+    },
+    "RKUNF": {
+        "cik_str": 1294591,
+        "ticker": "RKUNF",
+        "title": "Rakuten Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BCUCF": {
+        "cik_str": 1581285,
+        "ticker": "BCUCF",
+        "title": "Brunello Cucinelli S.p.A./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "BKGFF": {
+        "cik_str": 1447137,
+        "ticker": "BKGFF",
+        "title": "Berkeley Group Holdings plc",
+        "sector": "Consumer Cyclical"
+    },
+    "RUSHB": {
+        "cik_str": 1012019,
+        "ticker": "RUSHB",
+        "title": "RUSH ENTERPRISES INC \\TX\\",
+        "sector": "Consumer Cyclical"
+    },
+    "TKAYF": {
+        "cik_str": 1792627,
+        "ticker": "TKAYF",
+        "title": "Just Eat Takeaway.com N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "FURCF": {
+        "cik_str": 1559444,
+        "ticker": "FURCF",
+        "title": "FORVIA SE/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "DFRYF": {
+        "cik_str": 1546354,
+        "ticker": "DFRYF",
+        "title": "Dufry AG/ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "UA": {
+        "cik_str": 1336917,
+        "ticker": "UA",
+        "title": "Under Armour, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JTKWY": {
+        "cik_str": 1792627,
+        "ticker": "JTKWY",
+        "title": "Just Eat Takeaway.com N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "GEF-B": {
+        "cik_str": 43920,
+        "ticker": "GEF-B",
+        "title": "GREIF, INC",
+        "sector": "Consumer Cyclical"
+    },
+    "ALTB": {
+        "cik_str": 1642365,
+        "ticker": "ALTB",
+        "title": "Alpine Auto Brokers Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "BH": {
+        "cik_str": 1726173,
+        "ticker": "BH",
+        "title": "Biglari Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "HVT-A": {
+        "cik_str": 216085,
+        "ticker": "HVT-A",
+        "title": "HAVERTY FURNITURE COMPANIES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "HOVVB": {
+        "cik_str": 357294,
+        "ticker": "HOVVB",
+        "title": "HOVNANIAN ENTERPRISES INC",
+        "sector": "Consumer Cyclical"
+    },
+    "QRTEB": {
+        "cik_str": 1355096,
+        "ticker": "QRTEB",
+        "title": "Qurate Retail, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FATBB": {
+        "cik_str": 1705012,
+        "ticker": "FATBB",
+        "title": "Fat Brands, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "GFASY": {
+        "cik_str": 1389207,
+        "ticker": "GFASY",
+        "title": "Gafisa S.A.",
+        "sector": "Consumer Cyclical"
+    },
+    "DSHK": {
+        "cik_str": 1175483,
+        "ticker": "DSHK",
+        "title": "Drive Shack Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ODDAF": {
+        "cik_str": 1949766,
+        "ticker": "ODDAF",
+        "title": "Odd Burger Corp",
+        "sector": "Consumer Cyclical"
+    },
+    "ZKGCF": {
+        "cik_str": 1896511,
+        "ticker": "ZKGCF",
+        "title": "ZKGC New Energy Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "EVTK": {
+        "cik_str": 1816554,
+        "ticker": "EVTK",
+        "title": "EVENTIKO INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "NEXCF": {
+        "cik_str": 1737270,
+        "ticker": "NEXCF",
+        "title": "Nextech3D.AI Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "FXLV": {
+        "cik_str": 1788717,
+        "ticker": "FXLV",
+        "title": "F45 Training Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CMOT": {
+        "cik_str": 1346346,
+        "ticker": "CMOT",
+        "title": "Curtiss Motorcycle Company, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AMTY": {
+        "cik_str": 945828,
+        "ticker": "AMTY",
+        "title": "AMERITYRE CORP",
+        "sector": "Consumer Cyclical"
+    },
+    "SPQS": {
+        "cik_str": 803097,
+        "ticker": "SPQS",
+        "title": "SportsQuest, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "ELRA": {
+        "cik_str": 1402371,
+        "ticker": "ELRA",
+        "title": "ELRAY RESOURCES, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GMBL": {
+        "cik_str": 1451448,
+        "ticker": "GMBL",
+        "title": "ESPORTS ENTERTAINMENT GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "MASN": {
+        "cik_str": 1486452,
+        "ticker": "MASN",
+        "title": "Maison Luxe, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AMIH": {
+        "cik_str": 1300524,
+        "ticker": "AMIH",
+        "title": "AMERICAN INTERNATIONAL HOLDINGS CORP.",
+        "sector": "Consumer Cyclical"
+    },
+    "EGOXF": {
+        "cik_str": 1942808,
+        "ticker": "EGOXF",
+        "title": "Next.e.GO N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "FLES": {
+        "cik_str": 1438901,
+        "ticker": "FLES",
+        "title": "Auto Parts 4Less Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CONNQ": {
+        "cik_str": 1223389,
+        "ticker": "CONNQ",
+        "title": "CONNS INC",
+        "sector": "Consumer Cyclical"
+    },
+    "CZOOF": {
+        "cik_str": 1859639,
+        "ticker": "CZOOF",
+        "title": "Cazoo Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "ASAPQ": {
+        "cik_str": 1653247,
+        "ticker": "ASAPQ",
+        "title": "Waitr Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "AUVIQ": {
+        "cik_str": 1811109,
+        "ticker": "AUVIQ",
+        "title": "Applied UV, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "EXPRQ": {
+        "cik_str": 1483510,
+        "ticker": "EXPRQ",
+        "title": "EXPRESS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GMBLP": {
+        "cik_str": 1451448,
+        "ticker": "GMBLP",
+        "title": "ESPORTS ENTERTAINMENT GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GMBLW": {
+        "cik_str": 1451448,
+        "ticker": "GMBLW",
+        "title": "ESPORTS ENTERTAINMENT GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "GMBLZ": {
+        "cik_str": 1451448,
+        "ticker": "GMBLZ",
+        "title": "ESPORTS ENTERTAINMENT GROUP, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "ARKOW": {
+        "cik_str": 1823794,
+        "ticker": "ARKOW",
+        "title": "ARKO Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SVMHW": {
+        "cik_str": 1973368,
+        "ticker": "SVMHW",
+        "title": "SRIVARU Holding Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "ZOOZW": {
+        "cik_str": 1992818,
+        "ticker": "ZOOZW",
+        "title": "ZOOZ Power Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "DBGIW": {
+        "cik_str": 1668010,
+        "ticker": "DBGIW",
+        "title": "Digital Brands Group, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JFBRW": {
+        "cik_str": 1885408,
+        "ticker": "JFBRW",
+        "title": "Jeffs' Brands Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "CDROW": {
+        "cik_str": 1866782,
+        "ticker": "CDROW",
+        "title": "Codere Online Luxembourg, S.A.",
+        "sector": "Consumer Cyclical"
+    },
+    "DESLF": {
+        "cik_str": 1340476,
+        "ticker": "DESLF",
+        "title": "DIRTT ENVIRONMENTAL SOLUTIONS LTD",
+        "sector": "Consumer Cyclical"
+    },
+    "ISPOW": {
+        "cik_str": 1820566,
+        "ticker": "ISPOW",
+        "title": "Inspirato Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "ECXWW": {
+        "cik_str": 1861974,
+        "ticker": "ECXWW",
+        "title": "ECARX Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "PSPX": {
+        "cik_str": 1765651,
+        "ticker": "PSPX",
+        "title": "Pacific Sports Exchange Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "CREVW": {
+        "cik_str": 1960208,
+        "ticker": "CREVW",
+        "title": "Carbon Revolution Public Ltd Co",
+        "sector": "Consumer Cyclical"
+    },
+    "VFSWW": {
+        "cik_str": 1913510,
+        "ticker": "VFSWW",
+        "title": "VinFast Auto Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "SLDPW": {
+        "cik_str": 1844862,
+        "ticker": "SLDPW",
+        "title": "Solid Power, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LUXHP": {
+        "cik_str": 1893311,
+        "ticker": "LUXHP",
+        "title": "LUXURBAN HOTELS INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "NWTNW": {
+        "cik_str": 1932737,
+        "ticker": "NWTNW",
+        "title": "NWTN, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DSHKN": {
+        "cik_str": 1175483,
+        "ticker": "DSHKN",
+        "title": "Drive Shack Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DSHKO": {
+        "cik_str": 1175483,
+        "ticker": "DSHKO",
+        "title": "Drive Shack Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "DSHKP": {
+        "cik_str": 1175483,
+        "ticker": "DSHKP",
+        "title": "Drive Shack Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SONDW": {
+        "cik_str": 1819395,
+        "ticker": "SONDW",
+        "title": "Sonder Holdings Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NVVEW": {
+        "cik_str": 1836875,
+        "ticker": "NVVEW",
+        "title": "Nuvve Holding Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "SSUNF": {
+        "cik_str": 1869858,
+        "ticker": "SSUNF",
+        "title": "SIGNA Sports United N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "HYZNW": {
+        "cik_str": 1716583,
+        "ticker": "HYZNW",
+        "title": "Hyzon Motors Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LAAOF": {
+        "cik_str": 1791706,
+        "ticker": "LAAOF",
+        "title": "Li Auto Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "NCNCW": {
+        "cik_str": 1964021,
+        "ticker": "NCNCW",
+        "title": "noco-noco Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "INVZW": {
+        "cik_str": 1835654,
+        "ticker": "INVZW",
+        "title": "Innoviz Technologies Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "RECX": {
+        "cik_str": 1467505,
+        "ticker": "RECX",
+        "title": "Planet Resource Recovery, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "QRTEP": {
+        "cik_str": 1355096,
+        "ticker": "QRTEP",
+        "title": "Qurate Retail, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "SPHIF": {
+        "cik_str": 1995306,
+        "ticker": "SPHIF",
+        "title": "SUPER HI INTERNATIONAL HOLDING LTD.",
+        "sector": "Consumer Cyclical"
+    },
+    "KMFG": {
+        "cik_str": 1935033,
+        "ticker": "KMFG",
+        "title": "KEEMO Fashion Group Ltd",
+        "sector": "Consumer Cyclical"
+    },
+    "MBUMF": {
+        "cik_str": 1534281,
+        "ticker": "MBUMF",
+        "title": "Mabuchi Motor Co., Ltd./ADR",
+        "sector": "Consumer Cyclical"
+    },
+    "YMHAY": {
+        "cik_str": 1447100,
+        "ticker": "YMHAY",
+        "title": "Yamaha Motor Co., Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "LOTWW": {
+        "cik_str": 1962746,
+        "ticker": "LOTWW",
+        "title": "Lotus Technology Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GOEVW": {
+        "cik_str": 1750153,
+        "ticker": "GOEVW",
+        "title": "Canoo Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "JAGL": {
+        "cik_str": 1951051,
+        "ticker": "JAGL",
+        "title": "JAAG Enterprises Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "FGIWW": {
+        "cik_str": 1864943,
+        "ticker": "FGIWW",
+        "title": "FGI Industries Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "FCCID": {
+        "cik_str": 1807689,
+        "ticker": "FCCID",
+        "title": "FAST CASUAL CONCEPTS, INC.",
+        "sector": "Consumer Cyclical"
+    },
+    "ALLGF": {
+        "cik_str": 1874474,
+        "ticker": "ALLGF",
+        "title": "Allego N.V.",
+        "sector": "Consumer Cyclical"
+    },
+    "EVGOW": {
+        "cik_str": 1821159,
+        "ticker": "EVGOW",
+        "title": "EVgo Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FATBP": {
+        "cik_str": 1705012,
+        "ticker": "FATBP",
+        "title": "Fat Brands, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "FATBW": {
+        "cik_str": 1705012,
+        "ticker": "FATBW",
+        "title": "Fat Brands, Inc",
+        "sector": "Consumer Cyclical"
+    },
+    "CBDBY": {
+        "cik_str": 1038572,
+        "ticker": "CBDBY",
+        "title": "BRAZILIAN DISTRIBUTION CO COMPANHIA BRASILEIRA DE DISTR CBD",
+        "sector": "Consumer Cyclical"
+    },
+    "ECDAW": {
+        "cik_str": 1922858,
+        "ticker": "ECDAW",
+        "title": "ECD Automotive Design, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "LSEB": {
+        "cik_str": 1888740,
+        "ticker": "LSEB",
+        "title": "LSEB Creative Corp.",
+        "sector": "Consumer Cyclical"
+    },
+    "GRBK-PA": {
+        "cik_str": 1373670,
+        "ticker": "GRBK-PA",
+        "title": "Green Brick Partners, Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "GGROW": {
+        "cik_str": 1886190,
+        "ticker": "GGROW",
+        "title": "Gogoro Inc.",
+        "sector": "Consumer Cyclical"
+    },
+    "FCUL": {
+        "cik_str": 1076262,
+        "ticker": "FCUL",
+        "title": "Golden Star Enterprises Ltd.",
+        "sector": "Consumer Cyclical"
+    },
+    "FTCHQ": {
+        "cik_str": 1740915,
+        "ticker": "FTCHQ",
+        "title": "Farfetch Ltd",
+        "sector": "Consumer Cyclical"
+    }
+}

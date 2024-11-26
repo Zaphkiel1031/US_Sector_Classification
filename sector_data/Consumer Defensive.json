@@ -1,0 +1,2348 @@
+{
+    "WMT": {
+        "cik_str": 104169,
+        "ticker": "WMT",
+        "title": "Walmart Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "COST": {
+        "cik_str": 909832,
+        "ticker": "COST",
+        "title": "COSTCO WHOLESALE CORP /NEW",
+        "sector": "Consumer Defensive"
+    },
+    "PG": {
+        "cik_str": 80424,
+        "ticker": "PG",
+        "title": "PROCTER & GAMBLE Co",
+        "sector": "Consumer Defensive"
+    },
+    "KO": {
+        "cik_str": 21344,
+        "ticker": "KO",
+        "title": "COCA COLA CO",
+        "sector": "Consumer Defensive"
+    },
+    "PEP": {
+        "cik_str": 77476,
+        "ticker": "PEP",
+        "title": "PEPSICO INC",
+        "sector": "Consumer Defensive"
+    },
+    "PM": {
+        "cik_str": 1413329,
+        "ticker": "PM",
+        "title": "Philip Morris International Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FMX": {
+        "cik_str": 1061736,
+        "ticker": "FMX",
+        "title": "MEXICAN ECONOMIC DEVELOPMENT INC",
+        "sector": "Consumer Defensive"
+    },
+    "UL": {
+        "cik_str": 217410,
+        "ticker": "UL",
+        "title": "UNILEVER PLC",
+        "sector": "Consumer Defensive"
+    },
+    "BUD": {
+        "cik_str": 1668717,
+        "ticker": "BUD",
+        "title": "Anheuser-Busch InBev SA/NV",
+        "sector": "Consumer Defensive"
+    },
+    "MO": {
+        "cik_str": 764180,
+        "ticker": "MO",
+        "title": "ALTRIA GROUP, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "MDLZ": {
+        "cik_str": 1103982,
+        "ticker": "MDLZ",
+        "title": "Mondelez International, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BTI": {
+        "cik_str": 1303523,
+        "ticker": "BTI",
+        "title": "British American Tobacco p.l.c.",
+        "sector": "Consumer Defensive"
+    },
+    "CL": {
+        "cik_str": 21665,
+        "ticker": "CL",
+        "title": "COLGATE PALMOLIVE CO",
+        "sector": "Consumer Defensive"
+    },
+    "DEO": {
+        "cik_str": 835403,
+        "ticker": "DEO",
+        "title": "DIAGEO PLC",
+        "sector": "Consumer Defensive"
+    },
+    "TGT": {
+        "cik_str": 27419,
+        "ticker": "TGT",
+        "title": "TARGET CORP",
+        "sector": "Consumer Defensive"
+    },
+    "MNST": {
+        "cik_str": 865752,
+        "ticker": "MNST",
+        "title": "Monster Beverage Corp",
+        "sector": "Consumer Defensive"
+    },
+    "KVUE": {
+        "cik_str": 1944048,
+        "ticker": "KVUE",
+        "title": "Kenvue Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "KMB": {
+        "cik_str": 55785,
+        "ticker": "KMB",
+        "title": "KIMBERLY CLARK CORP",
+        "sector": "Consumer Defensive"
+    },
+    "KDP": {
+        "cik_str": 1418135,
+        "ticker": "KDP",
+        "title": "Keurig Dr Pepper Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "STZ": {
+        "cik_str": 16918,
+        "ticker": "STZ",
+        "title": "CONSTELLATION BRANDS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "SVNDY": {
+        "cik_str": 1359519,
+        "ticker": "SVNDY",
+        "title": "SEVEN & I HOLDINGS CO LTD",
+        "sector": "Consumer Defensive"
+    },
+    "KR": {
+        "cik_str": 56873,
+        "ticker": "KR",
+        "title": "KROGER CO",
+        "sector": "Consumer Defensive"
+    },
+    "KHC": {
+        "cik_str": 1637459,
+        "ticker": "KHC",
+        "title": "Kraft Heinz Co",
+        "sector": "Consumer Defensive"
+    },
+    "SYY": {
+        "cik_str": 96021,
+        "ticker": "SYY",
+        "title": "SYSCO CORP",
+        "sector": "Consumer Defensive"
+    },
+    "CCEP": {
+        "cik_str": 1650107,
+        "ticker": "CCEP",
+        "title": "COCA-COLA EUROPACIFIC PARTNERS plc",
+        "sector": "Consumer Defensive"
+    },
+    "HSY": {
+        "cik_str": 47111,
+        "ticker": "HSY",
+        "title": "HERSHEY CO",
+        "sector": "Consumer Defensive"
+    },
+    "GIS": {
+        "cik_str": 40704,
+        "ticker": "GIS",
+        "title": "GENERAL MILLS INC",
+        "sector": "Consumer Defensive"
+    },
+    "ABEV": {
+        "cik_str": 1565025,
+        "ticker": "ABEV",
+        "title": "AMBEV S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "K": {
+        "cik_str": 55067,
+        "ticker": "K",
+        "title": "KELLANOVA",
+        "sector": "Consumer Defensive"
+    },
+    "CHD": {
+        "cik_str": 313927,
+        "ticker": "CHD",
+        "title": "CHURCH & DWIGHT CO INC /DE/",
+        "sector": "Consumer Defensive"
+    },
+    "ADM": {
+        "cik_str": 7084,
+        "ticker": "ADM",
+        "title": "Archer-Daniels-Midland Co",
+        "sector": "Consumer Defensive"
+    },
+    "EL": {
+        "cik_str": 1001250,
+        "ticker": "EL",
+        "title": "ESTEE LAUDER COMPANIES INC",
+        "sector": "Consumer Defensive"
+    },
+    "TSN": {
+        "cik_str": 100493,
+        "ticker": "TSN",
+        "title": "TYSON FOODS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CLX": {
+        "cik_str": 21076,
+        "ticker": "CLX",
+        "title": "CLOROX CO /DE/",
+        "sector": "Consumer Defensive"
+    },
+    "MKC": {
+        "cik_str": 63754,
+        "ticker": "MKC",
+        "title": "MCCORMICK & CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "BF-A": {
+        "cik_str": 14693,
+        "ticker": "BF-A",
+        "title": "BROWN FORMAN CORP",
+        "sector": "Consumer Defensive"
+    },
+    "KOF": {
+        "cik_str": 910631,
+        "ticker": "KOF",
+        "title": "COCA COLA FEMSA SAB DE CV",
+        "sector": "Consumer Defensive"
+    },
+    "HRL": {
+        "cik_str": 48465,
+        "ticker": "HRL",
+        "title": "HORMEL FOODS CORP /DE/",
+        "sector": "Consumer Defensive"
+    },
+    "DG": {
+        "cik_str": 29534,
+        "ticker": "DG",
+        "title": "DOLLAR GENERAL CORP",
+        "sector": "Consumer Defensive"
+    },
+    "USFD": {
+        "cik_str": 1665918,
+        "ticker": "USFD",
+        "title": "US Foods Holding Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "BZLFY": {
+        "cik_str": 1072397,
+        "ticker": "BZLFY",
+        "title": "BUNZL PLC",
+        "sector": "Consumer Defensive"
+    },
+    "SFM": {
+        "cik_str": 1575515,
+        "ticker": "SFM",
+        "title": "Sprouts Farmers Market, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "WLMIY": {
+        "cik_str": 1449566,
+        "ticker": "WLMIY",
+        "title": "Wilmar International Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "DLTR": {
+        "cik_str": 935703,
+        "ticker": "DLTR",
+        "title": "DOLLAR TREE, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "PFGC": {
+        "cik_str": 1618673,
+        "ticker": "PFGC",
+        "title": "Performance Food Group Co",
+        "sector": "Consumer Defensive"
+    },
+    "JBSAY": {
+        "cik_str": 1450123,
+        "ticker": "JBSAY",
+        "title": "JBS S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "CPB": {
+        "cik_str": 16732,
+        "ticker": "CPB",
+        "title": "CAMPBELL'S Co",
+        "sector": "Consumer Defensive"
+    },
+    "CAG": {
+        "cik_str": 23217,
+        "ticker": "CAG",
+        "title": "CONAGRA BRANDS INC.",
+        "sector": "Consumer Defensive"
+    },
+    "TAP": {
+        "cik_str": 24545,
+        "ticker": "TAP",
+        "title": "MOLSON COORS BEVERAGE CO",
+        "sector": "Consumer Defensive"
+    },
+    "PPC": {
+        "cik_str": 802481,
+        "ticker": "PPC",
+        "title": "PILGRIMS PRIDE CORP",
+        "sector": "Consumer Defensive"
+    },
+    "BJ": {
+        "cik_str": 1531152,
+        "ticker": "BJ",
+        "title": "BJ's Wholesale Club Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BG": {
+        "cik_str": 1996862,
+        "ticker": "BG",
+        "title": "Bunge Global SA",
+        "sector": "Consumer Defensive"
+    },
+    "SJM": {
+        "cik_str": 91419,
+        "ticker": "SJM",
+        "title": "J M SMUCKER Co",
+        "sector": "Consumer Defensive"
+    },
+    "ACI": {
+        "cik_str": 1646972,
+        "ticker": "ACI",
+        "title": "Albertsons Companies, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "COKE": {
+        "cik_str": 317540,
+        "ticker": "COKE",
+        "title": "Coca-Cola Consolidated, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LW": {
+        "cik_str": 1679273,
+        "ticker": "LW",
+        "title": "Lamb Weston Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "KIKOY": {
+        "cik_str": 1446656,
+        "ticker": "KIKOY",
+        "title": "Kikkoman Corp",
+        "sector": "Consumer Defensive"
+    },
+    "CRRFY": {
+        "cik_str": 1078642,
+        "ticker": "CRRFY",
+        "title": "CARREFOUR SA",
+        "sector": "Consumer Defensive"
+    },
+    "BRBR": {
+        "cik_str": 1772016,
+        "ticker": "BRBR",
+        "title": "BELLRING BRANDS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "EDU": {
+        "cik_str": 1372920,
+        "ticker": "EDU",
+        "title": "New Oriental Education & Technology Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "INGR": {
+        "cik_str": 1046257,
+        "ticker": "INGR",
+        "title": "Ingredion Inc",
+        "sector": "Consumer Defensive"
+    },
+    "BRRLY": {
+        "cik_str": 1706795,
+        "ticker": "BRRLY",
+        "title": "Barry Callebaut AG/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "FRPT": {
+        "cik_str": 1611647,
+        "ticker": "FRPT",
+        "title": "Freshpet, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BRFS": {
+        "cik_str": 1122491,
+        "ticker": "BRFS",
+        "title": "BRF S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "CELH": {
+        "cik_str": 1341766,
+        "ticker": "CELH",
+        "title": "Celsius Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "ELF": {
+        "cik_str": 1600033,
+        "ticker": "ELF",
+        "title": "e.l.f. Beauty, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "POST": {
+        "cik_str": 1530950,
+        "ticker": "POST",
+        "title": "Post Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "DAR": {
+        "cik_str": 916540,
+        "ticker": "DAR",
+        "title": "DARLING INGREDIENTS INC.",
+        "sector": "Consumer Defensive"
+    },
+    "COTY": {
+        "cik_str": 1024305,
+        "ticker": "COTY",
+        "title": "COTY INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CUYTY": {
+        "cik_str": 1437153,
+        "ticker": "CUYTY",
+        "title": "Colruyt SA",
+        "sector": "Consumer Defensive"
+    },
+    "MEJHY": {
+        "cik_str": 1558812,
+        "ticker": "MEJHY",
+        "title": "MEIJI Holdings Co Ltd/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "TAL": {
+        "cik_str": 1499620,
+        "ticker": "TAL",
+        "title": "TAL Education Group",
+        "sector": "Consumer Defensive"
+    },
+    "YKLTY": {
+        "cik_str": 1538118,
+        "ticker": "YKLTY",
+        "title": "Yakult Honsha Co., LTD/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "OLLI": {
+        "cik_str": 1639300,
+        "ticker": "OLLI",
+        "title": "Ollie's Bargain Outlet Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LANC": {
+        "cik_str": 57515,
+        "ticker": "LANC",
+        "title": "LANCASTER COLONY CORP",
+        "sector": "Consumer Defensive"
+    },
+    "HIMS": {
+        "cik_str": 1773751,
+        "ticker": "HIMS",
+        "title": "Hims & Hers Health, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LOPE": {
+        "cik_str": 1434588,
+        "ticker": "LOPE",
+        "title": "Grand Canyon Education, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "CALM": {
+        "cik_str": 16160,
+        "ticker": "CALM",
+        "title": "CAL-MAINE FOODS INC",
+        "sector": "Consumer Defensive"
+    },
+    "FLO": {
+        "cik_str": 1128928,
+        "ticker": "FLO",
+        "title": "FLOWERS FOODS INC",
+        "sector": "Consumer Defensive"
+    },
+    "LRN": {
+        "cik_str": 1157408,
+        "ticker": "LRN",
+        "title": "Stride, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FIZZ": {
+        "cik_str": 69891,
+        "ticker": "FIZZ",
+        "title": "NATIONAL BEVERAGE CORP",
+        "sector": "Consumer Defensive"
+    },
+    "IPAR": {
+        "cik_str": 822663,
+        "ticker": "IPAR",
+        "title": "INTERPARFUMS INC",
+        "sector": "Consumer Defensive"
+    },
+    "GHC": {
+        "cik_str": 104889,
+        "ticker": "GHC",
+        "title": "Graham Holdings Co",
+        "sector": "Consumer Defensive"
+    },
+    "SMPL": {
+        "cik_str": 1702744,
+        "ticker": "SMPL",
+        "title": "Simply Good Foods Co",
+        "sector": "Consumer Defensive"
+    },
+    "TBBB": {
+        "cik_str": 1978954,
+        "ticker": "TBBB",
+        "title": "BBB FOODS INC",
+        "sector": "Consumer Defensive"
+    },
+    "NWL": {
+        "cik_str": 814453,
+        "ticker": "NWL",
+        "title": "NEWELL BRANDS INC.",
+        "sector": "Consumer Defensive"
+    },
+    "SAM": {
+        "cik_str": 949870,
+        "ticker": "SAM",
+        "title": "BOSTON BEER CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "ATGE": {
+        "cik_str": 730464,
+        "ticker": "ATGE",
+        "title": "Adtalem Global Education Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "JJSF": {
+        "cik_str": 785956,
+        "ticker": "JJSF",
+        "title": "J&J SNACK FOODS CORP",
+        "sector": "Consumer Defensive"
+    },
+    "LAUR": {
+        "cik_str": 912766,
+        "ticker": "LAUR",
+        "title": "LAUREATE EDUCATION, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "RLX": {
+        "cik_str": 1828365,
+        "ticker": "RLX",
+        "title": "RLX Technology Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "NOMD": {
+        "cik_str": 1651717,
+        "ticker": "NOMD",
+        "title": "Nomad Foods Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "PSMT": {
+        "cik_str": 1041803,
+        "ticker": "PSMT",
+        "title": "PRICESMART INC",
+        "sector": "Consumer Defensive"
+    },
+    "MRRTY": {
+        "cik_str": 1496919,
+        "ticker": "MRRTY",
+        "title": "MARFRIG GLOBAL FOODS S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "SPB": {
+        "cik_str": 109177,
+        "ticker": "SPB",
+        "title": "Spectrum Brands Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "AKO-A": {
+        "cik_str": 925261,
+        "ticker": "AKO-A",
+        "title": "ANDINA BOTTLING CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "STRA": {
+        "cik_str": 1013934,
+        "ticker": "STRA",
+        "title": "Strategic Education, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "TR": {
+        "cik_str": 98677,
+        "ticker": "TR",
+        "title": "TOOTSIE ROLL INDUSTRIES INC",
+        "sector": "Consumer Defensive"
+    },
+    "KLC": {
+        "cik_str": 1873529,
+        "ticker": "KLC",
+        "title": "KinderCare Learning Companies, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "CENT": {
+        "cik_str": 887733,
+        "ticker": "CENT",
+        "title": "CENTRAL GARDEN & PET CO",
+        "sector": "Consumer Defensive"
+    },
+    "COCO": {
+        "cik_str": 1482981,
+        "ticker": "COCO",
+        "title": "Vita Coco Company, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "CCU": {
+        "cik_str": 888746,
+        "ticker": "CCU",
+        "title": "UNITED BREWERIES CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "WMK": {
+        "cik_str": 105418,
+        "ticker": "WMK",
+        "title": "WEIS MARKETS INC",
+        "sector": "Consumer Defensive"
+    },
+    "DNUT": {
+        "cik_str": 1857154,
+        "ticker": "DNUT",
+        "title": "Krispy Kreme, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "GO": {
+        "cik_str": 1771515,
+        "ticker": "GO",
+        "title": "Grocery Outlet Holding Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "THS": {
+        "cik_str": 1320695,
+        "ticker": "THS",
+        "title": "TreeHouse Foods, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "PRDO": {
+        "cik_str": 1046568,
+        "ticker": "PRDO",
+        "title": "PERDOCEO EDUCATION Corp",
+        "sector": "Consumer Defensive"
+    },
+    "CHEF": {
+        "cik_str": 1517175,
+        "ticker": "CHEF",
+        "title": "Chefs' Warehouse, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EPC": {
+        "cik_str": 1096752,
+        "ticker": "EPC",
+        "title": "EDGEWELL PERSONAL CARE Co",
+        "sector": "Consumer Defensive"
+    },
+    "ASAI": {
+        "cik_str": 1834048,
+        "ticker": "ASAI",
+        "title": "Sendas Distributor S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "ANDE": {
+        "cik_str": 821026,
+        "ticker": "ANDE",
+        "title": "Andersons, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "NAPA": {
+        "cik_str": 1835256,
+        "ticker": "NAPA",
+        "title": "Duckhorn Portfolio, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FDP": {
+        "cik_str": 1047340,
+        "ticker": "FDP",
+        "title": "FRESH DEL MONTE PRODUCE INC",
+        "sector": "Consumer Defensive"
+    },
+    "HELE": {
+        "cik_str": 916789,
+        "ticker": "HELE",
+        "title": "HELEN OF TROY LTD",
+        "sector": "Consumer Defensive"
+    },
+    "KLG": {
+        "cik_str": 1959348,
+        "ticker": "KLG",
+        "title": "WK Kellogg Co",
+        "sector": "Consumer Defensive"
+    },
+    "AFYA": {
+        "cik_str": 1771007,
+        "ticker": "AFYA",
+        "title": "Afya Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "DOLE": {
+        "cik_str": 1857475,
+        "ticker": "DOLE",
+        "title": "Dole plc",
+        "sector": "Consumer Defensive"
+    },
+    "UNFI": {
+        "cik_str": 1020859,
+        "ticker": "UNFI",
+        "title": "UNITED NATURAL FOODS INC",
+        "sector": "Consumer Defensive"
+    },
+    "UTZ": {
+        "cik_str": 1739566,
+        "ticker": "UTZ",
+        "title": "Utz Brands, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "UVV": {
+        "cik_str": 102037,
+        "ticker": "UVV",
+        "title": "UNIVERSAL CORP /VA/",
+        "sector": "Consumer Defensive"
+    },
+    "VITL": {
+        "cik_str": 1579733,
+        "ticker": "VITL",
+        "title": "Vital Farms, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "IMKTA": {
+        "cik_str": 50493,
+        "ticker": "IMKTA",
+        "title": "INGLES MARKETS INC",
+        "sector": "Consumer Defensive"
+    },
+    "NISUY": {
+        "cik_str": 110095,
+        "ticker": "NISUY",
+        "title": "NIPPON SUISAN KAISHA LTD /ADR/",
+        "sector": "Consumer Defensive"
+    },
+    "UTI": {
+        "cik_str": 1261654,
+        "ticker": "UTI",
+        "title": "UNIVERSAL TECHNICAL INSTITUTE INC",
+        "sector": "Consumer Defensive"
+    },
+    "AGRO": {
+        "cik_str": 1499505,
+        "ticker": "AGRO",
+        "title": "Adecoagro S.A.",
+        "sector": "Consumer Defensive"
+    },
+    "COUR": {
+        "cik_str": 1651562,
+        "ticker": "COUR",
+        "title": "Coursera, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "UDMY": {
+        "cik_str": 1607939,
+        "ticker": "UDMY",
+        "title": "Udemy, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "TPB": {
+        "cik_str": 1290677,
+        "ticker": "TPB",
+        "title": "Turning Point Brands, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "MGPI": {
+        "cik_str": 835011,
+        "ticker": "MGPI",
+        "title": "MGP INGREDIENTS INC",
+        "sector": "Consumer Defensive"
+    },
+    "JBSS": {
+        "cik_str": 880117,
+        "ticker": "JBSS",
+        "title": "SANFILIPPO JOHN B & SON INC",
+        "sector": "Consumer Defensive"
+    },
+    "AVO": {
+        "cik_str": 1802974,
+        "ticker": "AVO",
+        "title": "Mission Produce, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "STKL": {
+        "cik_str": 351834,
+        "ticker": "STKL",
+        "title": "SunOpta Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "DDL": {
+        "cik_str": 1854545,
+        "ticker": "DDL",
+        "title": "Dingdong (Cayman) Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "HLF": {
+        "cik_str": 1180262,
+        "ticker": "HLF",
+        "title": "HERBALIFE LTD.",
+        "sector": "Consumer Defensive"
+    },
+    "NGVC": {
+        "cik_str": 1547459,
+        "ticker": "NGVC",
+        "title": "Natural Grocers by Vitamin Cottage, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "HNST": {
+        "cik_str": 1530979,
+        "ticker": "HNST",
+        "title": "Honest Company, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "USNA": {
+        "cik_str": 896264,
+        "ticker": "USNA",
+        "title": "USANA HEALTH SCIENCES INC",
+        "sector": "Consumer Defensive"
+    },
+    "HAIN": {
+        "cik_str": 910406,
+        "ticker": "HAIN",
+        "title": "HAIN CELESTIAL GROUP INC",
+        "sector": "Consumer Defensive"
+    },
+    "WEST": {
+        "cik_str": 1806347,
+        "ticker": "WEST",
+        "title": "Westrock Coffee Co",
+        "sector": "Consumer Defensive"
+    },
+    "GOTU": {
+        "cik_str": 1768259,
+        "ticker": "GOTU",
+        "title": "Gaotu Techedu Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "DAO": {
+        "cik_str": 1781753,
+        "ticker": "DAO",
+        "title": "Youdao, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SPTN": {
+        "cik_str": 877422,
+        "ticker": "SPTN",
+        "title": "SpartanNash Co",
+        "sector": "Consumer Defensive"
+    },
+    "KUBR": {
+        "cik_str": 1081834,
+        "ticker": "KUBR",
+        "title": "Kuber Resources Corp",
+        "sector": "Consumer Defensive"
+    },
+    "CDXC": {
+        "cik_str": 1386570,
+        "ticker": "CDXC",
+        "title": "ChromaDex Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "SNDL": {
+        "cik_str": 1766600,
+        "ticker": "SNDL",
+        "title": "SNDL Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BGS": {
+        "cik_str": 1278027,
+        "ticker": "BGS",
+        "title": "B&G Foods, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SENEA": {
+        "cik_str": 88948,
+        "ticker": "SENEA",
+        "title": "Seneca Foods Corp",
+        "sector": "Consumer Defensive"
+    },
+    "LMNR": {
+        "cik_str": 1342423,
+        "ticker": "LMNR",
+        "title": "Limoneira CO",
+        "sector": "Consumer Defensive"
+    },
+    "LINC": {
+        "cik_str": 1286613,
+        "ticker": "LINC",
+        "title": "LINCOLN EDUCATIONAL SERVICES CORP",
+        "sector": "Consumer Defensive"
+    },
+    "CVGW": {
+        "cik_str": 1133470,
+        "ticker": "CVGW",
+        "title": "CALAVO GROWERS INC",
+        "sector": "Consumer Defensive"
+    },
+    "FC": {
+        "cik_str": 886206,
+        "ticker": "FC",
+        "title": "FRANKLIN COVEY CO",
+        "sector": "Consumer Defensive"
+    },
+    "VLGEA": {
+        "cik_str": 103595,
+        "ticker": "VLGEA",
+        "title": "VILLAGE SUPER MARKET INC",
+        "sector": "Consumer Defensive"
+    },
+    "YSG": {
+        "cik_str": 1819580,
+        "ticker": "YSG",
+        "title": "Yatsen Holding Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "WALD": {
+        "cik_str": 1840199,
+        "ticker": "WALD",
+        "title": "Waldencast plc",
+        "sector": "Consumer Defensive"
+    },
+    "LND": {
+        "cik_str": 1499849,
+        "ticker": "LND",
+        "title": "BrasilAgro - Brazilian Agricultural Real Estate Co",
+        "sector": "Consumer Defensive"
+    },
+    "OTLY": {
+        "cik_str": 1843586,
+        "ticker": "OTLY",
+        "title": "Oatly Group AB",
+        "sector": "Consumer Defensive"
+    },
+    "NUS": {
+        "cik_str": 1021561,
+        "ticker": "NUS",
+        "title": "NU SKIN ENTERPRISES, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "LWAY": {
+        "cik_str": 814586,
+        "ticker": "LWAY",
+        "title": "Lifeway Foods, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "APEI": {
+        "cik_str": 1201792,
+        "ticker": "APEI",
+        "title": "AMERICAN PUBLIC EDUCATION INC",
+        "sector": "Consumer Defensive"
+    },
+    "ISPR": {
+        "cik_str": 1948455,
+        "ticker": "ISPR",
+        "title": "Ispire Technology Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EWCZ": {
+        "cik_str": 1856236,
+        "ticker": "EWCZ",
+        "title": "European Wax Center, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BYND": {
+        "cik_str": 1655210,
+        "ticker": "BYND",
+        "title": "BEYOND MEAT, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "MAMA": {
+        "cik_str": 1520358,
+        "ticker": "MAMA",
+        "title": "Mama's Creations, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "NATR": {
+        "cik_str": 275053,
+        "ticker": "NATR",
+        "title": "NATURES SUNSHINE PRODUCTS INC",
+        "sector": "Consumer Defensive"
+    },
+    "SDSYA": {
+        "cik_str": 1163609,
+        "ticker": "SDSYA",
+        "title": "SOUTH DAKOTA SOYBEAN PROCESSORS LLC",
+        "sector": "Consumer Defensive"
+    },
+    "AFRI": {
+        "cik_str": 1903870,
+        "ticker": "AFRI",
+        "title": "Forafric Global PLC",
+        "sector": "Consumer Defensive"
+    },
+    "BRCC": {
+        "cik_str": 1891101,
+        "ticker": "BRCC",
+        "title": "BRC Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "VSTA": {
+        "cik_str": 1792829,
+        "ticker": "VSTA",
+        "title": "Vasta Platform Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "ALCO": {
+        "cik_str": 3545,
+        "ticker": "ALCO",
+        "title": "ALICO, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "WILC": {
+        "cik_str": 1030997,
+        "ticker": "WILC",
+        "title": "G WILLI FOOD INTERNATIONAL LTD",
+        "sector": "Consumer Defensive"
+    },
+    "CHGG": {
+        "cik_str": 1364954,
+        "ticker": "CHGG",
+        "title": "CHEGG, INC",
+        "sector": "Consumer Defensive"
+    },
+    "HFFG": {
+        "cik_str": 1680873,
+        "ticker": "HFFG",
+        "title": "HF Foods Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SKIN": {
+        "cik_str": 1818093,
+        "ticker": "SKIN",
+        "title": "Beauty Health Co",
+        "sector": "Consumer Defensive"
+    },
+    "LFVN": {
+        "cik_str": 849146,
+        "ticker": "LFVN",
+        "title": "Lifevantage Corp",
+        "sector": "Consumer Defensive"
+    },
+    "ACU": {
+        "cik_str": 2098,
+        "ticker": "ACU",
+        "title": "ACME UNITED CORP",
+        "sector": "Consumer Defensive"
+    },
+    "FTLF": {
+        "cik_str": 1374328,
+        "ticker": "FTLF",
+        "title": "FITLIFE BRANDS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "QSG": {
+        "cik_str": 1932770,
+        "ticker": "QSG",
+        "title": "QuantaSing Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "ORIS": {
+        "cik_str": 1964664,
+        "ticker": "ORIS",
+        "title": "ORIENTAL RISE HOLDINGS Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "ZVIA": {
+        "cik_str": 1854139,
+        "ticker": "ZVIA",
+        "title": "Zevia PBC",
+        "sector": "Consumer Defensive"
+    },
+    "DSY": {
+        "cik_str": 1999297,
+        "ticker": "DSY",
+        "title": "Big Tree Cloud Holdings Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "CWGL": {
+        "cik_str": 1562151,
+        "ticker": "CWGL",
+        "title": "Crimson Wine Group, Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "BRLS": {
+        "cik_str": 1852973,
+        "ticker": "BRLS",
+        "title": "Borealis Foods Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SKIL": {
+        "cik_str": 1774675,
+        "ticker": "SKIL",
+        "title": "Skillsoft Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "STG": {
+        "cik_str": 1723935,
+        "ticker": "STG",
+        "title": "Sunlands Technology Group",
+        "sector": "Consumer Defensive"
+    },
+    "LGCY": {
+        "cik_str": 1836754,
+        "ticker": "LGCY",
+        "title": "Legacy Education Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "COE": {
+        "cik_str": 1659494,
+        "ticker": "COE",
+        "title": "51Talk Online Education Group",
+        "sector": "Consumer Defensive"
+    },
+    "VFF": {
+        "cik_str": 1584549,
+        "ticker": "VFF",
+        "title": "Village Farms International, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "IVFH": {
+        "cik_str": 312257,
+        "ticker": "IVFH",
+        "title": "INNOVATIVE FOOD HOLDINGS INC",
+        "sector": "Consumer Defensive"
+    },
+    "BRID": {
+        "cik_str": 14177,
+        "ticker": "BRID",
+        "title": "BRIDGFORD FOODS CORP",
+        "sector": "Consumer Defensive"
+    },
+    "IH": {
+        "cik_str": 1814423,
+        "ticker": "IH",
+        "title": "iHuman Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LSF": {
+        "cik_str": 1650696,
+        "ticker": "LSF",
+        "title": "Laird Superfood, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "DIT": {
+        "cik_str": 928465,
+        "ticker": "DIT",
+        "title": "AMCON DISTRIBUTING CO",
+        "sector": "Consumer Defensive"
+    },
+    "MYND": {
+        "cik_str": 1708441,
+        "ticker": "MYND",
+        "title": "Mynd.ai, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "GGROU": {
+        "cik_str": 1489874,
+        "ticker": "GGROU",
+        "title": "Golden Growers Cooperative",
+        "sector": "Consumer Defensive"
+    },
+    "PAVS": {
+        "cik_str": 1751876,
+        "ticker": "PAVS",
+        "title": "Paranovus Entertainment Technology Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "PYYX": {
+        "cik_str": 939930,
+        "ticker": "PYYX",
+        "title": "PYXUS INTERNATIONAL, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CLEU": {
+        "cik_str": 1775085,
+        "ticker": "CLEU",
+        "title": "China Liberal Education Holdings Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "BEDU": {
+        "cik_str": 1696355,
+        "ticker": "BEDU",
+        "title": "Bright Scholar Education Holdings Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "GROV": {
+        "cik_str": 1841761,
+        "ticker": "GROV",
+        "title": "Grove Collaborative Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SHOT": {
+        "cik_str": 1760903,
+        "ticker": "SHOT",
+        "title": "Safety Shot, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "HCMC": {
+        "cik_str": 844856,
+        "ticker": "HCMC",
+        "title": "Healthier Choices Management Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "UG": {
+        "cik_str": 101295,
+        "ticker": "UG",
+        "title": "UNITED GUARDIAN INC",
+        "sector": "Consumer Defensive"
+    },
+    "FARM": {
+        "cik_str": 34563,
+        "ticker": "FARM",
+        "title": "FARMER BROTHERS CO",
+        "sector": "Consumer Defensive"
+    },
+    "UMEWF": {
+        "cik_str": 1114936,
+        "ticker": "UMEWF",
+        "title": "UMeWorld Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "GCEH": {
+        "cik_str": 748790,
+        "ticker": "GCEH",
+        "title": "Global Clean Energy Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BRFH": {
+        "cik_str": 1487197,
+        "ticker": "BRFH",
+        "title": "BARFRESH FOOD GROUP INC.",
+        "sector": "Consumer Defensive"
+    },
+    "SOWG": {
+        "cik_str": 1490161,
+        "ticker": "SOWG",
+        "title": "Sow Good Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "STCB": {
+        "cik_str": 1539850,
+        "ticker": "STCB",
+        "title": "Starco Brands, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BDPT": {
+        "cik_str": 1575142,
+        "ticker": "BDPT",
+        "title": "BIOADAPTIVES, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "MALG": {
+        "cik_str": 1309251,
+        "ticker": "MALG",
+        "title": "MICROALLIANCE GROUP INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CLNN": {
+        "cik_str": 1822791,
+        "ticker": "CLNN",
+        "title": "Clene Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "AACG": {
+        "cik_str": 1420529,
+        "ticker": "AACG",
+        "title": "ATA Creativity Global",
+        "sector": "Consumer Defensive"
+    },
+    "PCSV": {
+        "cik_str": 1122020,
+        "ticker": "PCSV",
+        "title": "PCS Edventures!, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "RAY": {
+        "cik_str": 1948443,
+        "ticker": "RAY",
+        "title": "Raytech Holding Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "NAII": {
+        "cik_str": 787253,
+        "ticker": "NAII",
+        "title": "NATURAL ALTERNATIVES INTERNATIONAL INC",
+        "sector": "Consumer Defensive"
+    },
+    "ESGH": {
+        "cik_str": 1883835,
+        "ticker": "ESGH",
+        "title": "ESG Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FEDU": {
+        "cik_str": 1709819,
+        "ticker": "FEDU",
+        "title": "Four Seasons Education (Cayman) Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "DTCK": {
+        "cik_str": 1949478,
+        "ticker": "DTCK",
+        "title": "DAVIS COMMODITIES Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "JZ": {
+        "cik_str": 1852440,
+        "ticker": "JZ",
+        "title": "Jianzhi Education Technology Group Co Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "JSDA": {
+        "cik_str": 1083522,
+        "ticker": "JSDA",
+        "title": "JONES SODA CO",
+        "sector": "Consumer Defensive"
+    },
+    "GNS": {
+        "cik_str": 1847806,
+        "ticker": "GNS",
+        "title": "Genius Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "CHUC": {
+        "cik_str": 1134765,
+        "ticker": "CHUC",
+        "title": "Charlie's Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "JVA": {
+        "cik_str": 1007019,
+        "ticker": "JVA",
+        "title": "COFFEE HOLDING CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "BFNH": {
+        "cik_str": 1310488,
+        "ticker": "BFNH",
+        "title": "BIOFORCE NANOSCIENCES HOLDINGS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "RMCF": {
+        "cik_str": 1616262,
+        "ticker": "RMCF",
+        "title": "Rocky Mountain Chocolate Factory, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FVTI": {
+        "cik_str": 1626745,
+        "ticker": "FVTI",
+        "title": "Fortune Valley Treasures, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SDOT": {
+        "cik_str": 1701756,
+        "ticker": "SDOT",
+        "title": "Sadot Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "MSS": {
+        "cik_str": 1892292,
+        "ticker": "MSS",
+        "title": "Maison Solutions Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "PCST": {
+        "cik_str": 1406434,
+        "ticker": "PCST",
+        "title": "PURE CAPITAL SOLUTIONS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "ABVE": {
+        "cik_str": 1979484,
+        "ticker": "ABVE",
+        "title": "Above Food Ingredients Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "WVVI": {
+        "cik_str": 838875,
+        "ticker": "WVVI",
+        "title": "WILLAMETTE VALLEY VINEYARDS INC",
+        "sector": "Consumer Defensive"
+    },
+    "EDTK": {
+        "cik_str": 1782309,
+        "ticker": "EDTK",
+        "title": "Skillful Craftsman Education Technology Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "HCWC": {
+        "cik_str": 1948864,
+        "ticker": "HCWC",
+        "title": "HEALTHY CHOICE WELLNESS CORP.",
+        "sector": "Consumer Defensive"
+    },
+    "MTEX": {
+        "cik_str": 1056358,
+        "ticker": "MTEX",
+        "title": "MANNATECH INC",
+        "sector": "Consumer Defensive"
+    },
+    "CFOO": {
+        "cik_str": 1310630,
+        "ticker": "CFOO",
+        "title": "China Foods Holdings Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "TWG": {
+        "cik_str": 1978057,
+        "ticker": "TWG",
+        "title": "Top Wealth Group Holding Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "DQWS": {
+        "cik_str": 1652561,
+        "ticker": "DQWS",
+        "title": "DSwiss Inc",
+        "sector": "Consumer Defensive"
+    },
+    "PURE": {
+        "cik_str": 1006028,
+        "ticker": "PURE",
+        "title": "PURE BIOSCIENCE, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "LOCL": {
+        "cik_str": 1840780,
+        "ticker": "LOCL",
+        "title": "Local Bounti Corporation/DE",
+        "sector": "Consumer Defensive"
+    },
+    "NCRA": {
+        "cik_str": 1756180,
+        "ticker": "NCRA",
+        "title": "NOCERA, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "BOF": {
+        "cik_str": 1962481,
+        "ticker": "BOF",
+        "title": "BranchOut Food Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "YQ": {
+        "cik_str": 1821468,
+        "ticker": "YQ",
+        "title": "17 Education & Technology Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EEIQ": {
+        "cik_str": 1781397,
+        "ticker": "EEIQ",
+        "title": "EpicQuest Education Group International Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "PGID": {
+        "cik_str": 1061164,
+        "ticker": "PGID",
+        "title": "PEREGRINE INDUSTRIES INC",
+        "sector": "Consumer Defensive"
+    },
+    "AIXN": {
+        "cik_str": 835662,
+        "ticker": "AIXN",
+        "title": "AiXin Life International, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SBEV": {
+        "cik_str": 1553788,
+        "ticker": "SBEV",
+        "title": "SPLASH BEVERAGE GROUP, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "SANW": {
+        "cik_str": 1477246,
+        "ticker": "SANW",
+        "title": "S&W Seed Co",
+        "sector": "Consumer Defensive"
+    },
+    "MOJO": {
+        "cik_str": 1414953,
+        "ticker": "MOJO",
+        "title": "EQUATOR Beverage Co",
+        "sector": "Consumer Defensive"
+    },
+    "GRAM": {
+        "cik_str": 1876945,
+        "ticker": "GRAM",
+        "title": "Gold Flora Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "VINE": {
+        "cik_str": 1880343,
+        "ticker": "VINE",
+        "title": "Fresh Vine Wine, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EXDW": {
+        "cik_str": 1634293,
+        "ticker": "EXDW",
+        "title": "Exceed World, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "VGFCQ": {
+        "cik_str": 1878835,
+        "ticker": "VGFCQ",
+        "title": "Very Good Food Co Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "IBG": {
+        "cik_str": 1924482,
+        "ticker": "IBG",
+        "title": "Innovation Beverage Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "YERBF": {
+        "cik_str": 1978133,
+        "ticker": "YERBF",
+        "title": "YERBAE BRANDS CORP.",
+        "sector": "Consumer Defensive"
+    },
+    "INBP": {
+        "cik_str": 1016504,
+        "ticker": "INBP",
+        "title": "INTEGRATED BIOPHARMA INC",
+        "sector": "Consumer Defensive"
+    },
+    "TCTM": {
+        "cik_str": 1592560,
+        "ticker": "TCTM",
+        "title": "TCTM Kids IT Education Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LQR": {
+        "cik_str": 1843165,
+        "ticker": "LQR",
+        "title": "LQR House Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "REED": {
+        "cik_str": 1140215,
+        "ticker": "REED",
+        "title": "REED'S, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "RGF": {
+        "cik_str": 1871149,
+        "ticker": "RGF",
+        "title": "Real Good Food Company, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "WAFU": {
+        "cik_str": 1716770,
+        "ticker": "WAFU",
+        "title": "Wah Fu Education Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "STKH": {
+        "cik_str": 1828098,
+        "ticker": "STKH",
+        "title": "Steakholder Foods Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "SHMP": {
+        "cik_str": 1465470,
+        "ticker": "SHMP",
+        "title": "NaturalShrimp Inc",
+        "sector": "Consumer Defensive"
+    },
+    "GSUN": {
+        "cik_str": 1826376,
+        "ticker": "GSUN",
+        "title": "Golden Sun Health Technology Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "BABB": {
+        "cik_str": 1123596,
+        "ticker": "BABB",
+        "title": "BAB, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "ATPC": {
+        "cik_str": 1713210,
+        "ticker": "ATPC",
+        "title": "Agape ATP Corp",
+        "sector": "Consumer Defensive"
+    },
+    "GV": {
+        "cik_str": 1892274,
+        "ticker": "GV",
+        "title": "Visionary Holdings Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EOSS": {
+        "cik_str": 1651958,
+        "ticker": "EOSS",
+        "title": "EOS INC.",
+        "sector": "Consumer Defensive"
+    },
+    "DDC": {
+        "cik_str": 1808110,
+        "ticker": "DDC",
+        "title": "DDC Enterprise Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "KAVL": {
+        "cik_str": 1762239,
+        "ticker": "KAVL",
+        "title": "Kaival Brands Innovations Group, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BMXC": {
+        "cik_str": 1613895,
+        "ticker": "BMXC",
+        "title": "Bemax, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BRZL": {
+        "cik_str": 1167376,
+        "ticker": "BRZL",
+        "title": "Scepter Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SNBH": {
+        "cik_str": 1358633,
+        "ticker": "SNBH",
+        "title": "SENTIENT BRANDS HOLDINGS INC.",
+        "sector": "Consumer Defensive"
+    },
+    "PSYCF": {
+        "cik_str": 1847706,
+        "ticker": "PSYCF",
+        "title": "Psyched Wellness Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "CTCX": {
+        "cik_str": 1842939,
+        "ticker": "CTCX",
+        "title": "Carmell Corp",
+        "sector": "Consumer Defensive"
+    },
+    "IMG": {
+        "cik_str": 1527613,
+        "ticker": "IMG",
+        "title": "CIMG Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "AGRI": {
+        "cik_str": 1826397,
+        "ticker": "AGRI",
+        "title": "AGRIFORCE GROWING SYSTEMS LTD.",
+        "sector": "Consumer Defensive"
+    },
+    "XXII": {
+        "cik_str": 1347858,
+        "ticker": "XXII",
+        "title": "22nd Century Group, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SISI": {
+        "cik_str": 1300734,
+        "ticker": "SISI",
+        "title": "SHINECO, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "AMBO": {
+        "cik_str": 1494558,
+        "ticker": "AMBO",
+        "title": "Ambow Education Holding Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "VPRB": {
+        "cik_str": 1376231,
+        "ticker": "VPRB",
+        "title": "VPR Brands, LP.",
+        "sector": "Consumer Defensive"
+    },
+    "TOFB": {
+        "cik_str": 730349,
+        "ticker": "TOFB",
+        "title": "TOFUTTI BRANDS INC",
+        "sector": "Consumer Defensive"
+    },
+    "AVRW": {
+        "cik_str": 1643301,
+        "ticker": "AVRW",
+        "title": "Avenir Wellness Solutions, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "AQB": {
+        "cik_str": 1603978,
+        "ticker": "AQB",
+        "title": "AQUABOUNTY TECHNOLOGIES INC",
+        "sector": "Consumer Defensive"
+    },
+    "SNAX": {
+        "cik_str": 1691936,
+        "ticker": "SNAX",
+        "title": "STRYVE FOODS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "RKDA": {
+        "cik_str": 1469443,
+        "ticker": "RKDA",
+        "title": "Arcadia Biosciences, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "INKW": {
+        "cik_str": 1585380,
+        "ticker": "INKW",
+        "title": "Greene Concepts, Inc",
+        "sector": "Consumer Defensive"
+    },
+    "BTTR": {
+        "cik_str": 1471727,
+        "ticker": "BTTR",
+        "title": "Better Choice Co Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "FAMI": {
+        "cik_str": 1701261,
+        "ticker": "FAMI",
+        "title": "Farmmi, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "EDBL": {
+        "cik_str": 1809750,
+        "ticker": "EDBL",
+        "title": "Edible Garden AG Inc",
+        "sector": "Consumer Defensive"
+    },
+    "BIGGQ": {
+        "cik_str": 768835,
+        "ticker": "BIGGQ",
+        "title": "BIG LOTS INC",
+        "sector": "Consumer Defensive"
+    },
+    "EAST": {
+        "cik_str": 1534708,
+        "ticker": "EAST",
+        "title": "Eastside Distilling, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SRSG": {
+        "cik_str": 1434737,
+        "ticker": "SRSG",
+        "title": "SPIRITS TIME INTERNATIONAL, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "LIMX": {
+        "cik_str": 1803977,
+        "ticker": "LIMX",
+        "title": "Limitless X Holdings Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SKVI": {
+        "cik_str": 1085277,
+        "ticker": "SKVI",
+        "title": "SKINVISIBLE, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CYAN": {
+        "cik_str": 768408,
+        "ticker": "CYAN",
+        "title": "CYANOTECH CORP",
+        "sector": "Consumer Defensive"
+    },
+    "GNLN": {
+        "cik_str": 1743745,
+        "ticker": "GNLN",
+        "title": "Greenlane Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "LXEH": {
+        "cik_str": 1814067,
+        "ticker": "LXEH",
+        "title": "Lixiang Education Holding Co. Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "FHSEY": {
+        "cik_str": 1786182,
+        "ticker": "FHSEY",
+        "title": "First High-School Education Group Co., Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "BRWC": {
+        "cik_str": 1873213,
+        "ticker": "BRWC",
+        "title": "Birdie Win Corp",
+        "sector": "Consumer Defensive"
+    },
+    "TLCC": {
+        "cik_str": 1590695,
+        "ticker": "TLCC",
+        "title": "TWINLAB CONSOLIDATED HOLDINGS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "BSFC": {
+        "cik_str": 1730773,
+        "ticker": "BSFC",
+        "title": "Blue Star Foods Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "HIGR": {
+        "cik_str": 1807616,
+        "ticker": "HIGR",
+        "title": "Hi-Great Group Holding Co",
+        "sector": "Consumer Defensive"
+    },
+    "NGTF": {
+        "cik_str": 1593001,
+        "ticker": "NGTF",
+        "title": "NightFood Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "TANH": {
+        "cik_str": 1588084,
+        "ticker": "TANH",
+        "title": "TANTECH HOLDINGS LTD",
+        "sector": "Consumer Defensive"
+    },
+    "GRLF": {
+        "cik_str": 915661,
+        "ticker": "GRLF",
+        "title": "GREEN LEAF INNOVATIONS INC",
+        "sector": "Consumer Defensive"
+    },
+    "ASII": {
+        "cik_str": 1464865,
+        "ticker": "ASII",
+        "title": "Accredited Solutions, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "ARRT": {
+        "cik_str": 1530425,
+        "ticker": "ARRT",
+        "title": "Artisan Consumer Goods, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "CBDW": {
+        "cik_str": 1877461,
+        "ticker": "CBDW",
+        "title": "1606 CORP.",
+        "sector": "Consumer Defensive"
+    },
+    "NBND": {
+        "cik_str": 1725911,
+        "ticker": "NBND",
+        "title": "NetBrands Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "YCRM": {
+        "cik_str": 1624517,
+        "ticker": "YCRM",
+        "title": "Yuenglings Ice Cream Corp",
+        "sector": "Consumer Defensive"
+    },
+    "PDPG": {
+        "cik_str": 1902930,
+        "ticker": "PDPG",
+        "title": "Performance Drink Group, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BRSHF": {
+        "cik_str": 1913210,
+        "ticker": "BRSHF",
+        "title": "Bruush Oral Care Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SHRG": {
+        "cik_str": 1644488,
+        "ticker": "SHRG",
+        "title": "SHARING SERVICES GLOBAL Corp",
+        "sector": "Consumer Defensive"
+    },
+    "AMMJ": {
+        "cik_str": 945617,
+        "ticker": "AMMJ",
+        "title": "American Cannabis Company, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "TTCFQ": {
+        "cik_str": 1741231,
+        "ticker": "TTCFQ",
+        "title": "Tattooed Chef, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "RIBT": {
+        "cik_str": 1063537,
+        "ticker": "RIBT",
+        "title": "RiceBran Technologies",
+        "sector": "Consumer Defensive"
+    },
+    "AAGR": {
+        "cik_str": 1848898,
+        "ticker": "AAGR",
+        "title": "African Agriculture Holdings Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SMFL": {
+        "cik_str": 1851860,
+        "ticker": "SMFL",
+        "title": "SMART FOR LIFE, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "CHSCP": {
+        "cik_str": 823277,
+        "ticker": "CHSCP",
+        "title": "CHS INC",
+        "sector": "Consumer Defensive"
+    },
+    "CASK": {
+        "cik_str": 1788230,
+        "ticker": "CASK",
+        "title": "Heritage Distilling Holding Company, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "USIC": {
+        "cik_str": 1940366,
+        "ticker": "USIC",
+        "title": "Uncle's Ice Cream",
+        "sector": "Consumer Defensive"
+    },
+    "UNLYF": {
+        "cik_str": 217410,
+        "ticker": "UNLYF",
+        "title": "UNILEVER PLC",
+        "sector": "Consumer Defensive"
+    },
+    "BUDFF": {
+        "cik_str": 1668717,
+        "ticker": "BUDFF",
+        "title": "Anheuser-Busch InBev SA/NV",
+        "sector": "Consumer Defensive"
+    },
+    "BTAFF": {
+        "cik_str": 1303523,
+        "ticker": "BTAFF",
+        "title": "British American Tobacco p.l.c.",
+        "sector": "Consumer Defensive"
+    },
+    "DGEAF": {
+        "cik_str": 835403,
+        "ticker": "DGEAF",
+        "title": "DIAGEO PLC",
+        "sector": "Consumer Defensive"
+    },
+    "SVNDF": {
+        "cik_str": 1359519,
+        "ticker": "SVNDF",
+        "title": "SEVEN & I HOLDINGS CO LTD",
+        "sector": "Consumer Defensive"
+    },
+    "MKC-V": {
+        "cik_str": 63754,
+        "ticker": "MKC-V",
+        "title": "MCCORMICK & CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "COCSF": {
+        "cik_str": 910631,
+        "ticker": "COCSF",
+        "title": "COCA COLA FEMSA SAB DE CV",
+        "sector": "Consumer Defensive"
+    },
+    "BF-B": {
+        "cik_str": 14693,
+        "ticker": "BF-B",
+        "title": "BROWN FORMAN CORP",
+        "sector": "Consumer Defensive"
+    },
+    "WLMIF": {
+        "cik_str": 1449566,
+        "ticker": "WLMIF",
+        "title": "Wilmar International Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "CRERF": {
+        "cik_str": 1078642,
+        "ticker": "CRERF",
+        "title": "CARREFOUR SA",
+        "sector": "Consumer Defensive"
+    },
+    "BZLFF": {
+        "cik_str": 1072397,
+        "ticker": "BZLFF",
+        "title": "BUNZL PLC",
+        "sector": "Consumer Defensive"
+    },
+    "TAP-A": {
+        "cik_str": 24545,
+        "ticker": "TAP-A",
+        "title": "MOLSON COORS BEVERAGE CO",
+        "sector": "Consumer Defensive"
+    },
+    "KIKOF": {
+        "cik_str": 1446656,
+        "ticker": "KIKOF",
+        "title": "Kikkoman Corp",
+        "sector": "Consumer Defensive"
+    },
+    "MEJHF": {
+        "cik_str": 1558812,
+        "ticker": "MEJHF",
+        "title": "MEIJI Holdings Co Ltd/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "AKO-B": {
+        "cik_str": 925261,
+        "ticker": "AKO-B",
+        "title": "ANDINA BOTTLING CO INC",
+        "sector": "Consumer Defensive"
+    },
+    "CENTA": {
+        "cik_str": 887733,
+        "ticker": "CENTA",
+        "title": "CENTRAL GARDEN & PET CO",
+        "sector": "Consumer Defensive"
+    },
+    "TROLB": {
+        "cik_str": 98677,
+        "ticker": "TROLB",
+        "title": "TOOTSIE ROLL INDUSTRIES INC",
+        "sector": "Consumer Defensive"
+    },
+    "TKCM": {
+        "cik_str": 1683252,
+        "ticker": "TKCM",
+        "title": "TOKEN COMMUNITIES LTD.",
+        "sector": "Consumer Defensive"
+    },
+    "SENEB": {
+        "cik_str": 88948,
+        "ticker": "SENEB",
+        "title": "Seneca Foods Corp",
+        "sector": "Consumer Defensive"
+    },
+    "CNVCF": {
+        "cik_str": 1723464,
+        "ticker": "CNVCF",
+        "title": "BIOHARVEST SCIENCES INC.",
+        "sector": "Consumer Defensive"
+    },
+    "ZHYBF": {
+        "cik_str": 1672886,
+        "ticker": "ZHYBF",
+        "title": "Zhong Yuan Bio-Technology Holdings Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "GWLL": {
+        "cik_str": 1800373,
+        "ticker": "GWLL",
+        "title": "GOLDENWELL BIOTECH, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "WVVIP": {
+        "cik_str": 838875,
+        "ticker": "WVVIP",
+        "title": "WILLAMETTE VALLEY VINEYARDS INC",
+        "sector": "Consumer Defensive"
+    },
+    "NPLS": {
+        "cik_str": 1781726,
+        "ticker": "NPLS",
+        "title": "NP Life Sciences Health Industry Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "BRCNF": {
+        "cik_str": 1158399,
+        "ticker": "BRCNF",
+        "title": "Burcon NutraScience Corp",
+        "sector": "Consumer Defensive"
+    },
+    "QOEG": {
+        "cik_str": 1439237,
+        "ticker": "QOEG",
+        "title": "Quality Online Education Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "MCLE": {
+        "cik_str": 1827855,
+        "ticker": "MCLE",
+        "title": "Medicale Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "ARMC": {
+        "cik_str": 1415813,
+        "ticker": "ARMC",
+        "title": "Un Monde International Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "GLUC": {
+        "cik_str": 1420108,
+        "ticker": "GLUC",
+        "title": "Glucose Health, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "NXMH": {
+        "cik_str": 1811530,
+        "ticker": "NXMH",
+        "title": "Next Meats Holdings, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "MTTCF": {
+        "cik_str": 1828098,
+        "ticker": "MTTCF",
+        "title": "Steakholder Foods Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "LMDCF": {
+        "cik_str": 1177167,
+        "ticker": "LMDCF",
+        "title": "LINGO MEDIA CORP",
+        "sector": "Consumer Defensive"
+    },
+    "RTON": {
+        "cik_str": 1580262,
+        "ticker": "RTON",
+        "title": "Right On Brands, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "RAYT": {
+        "cik_str": 1539778,
+        "ticker": "RAYT",
+        "title": "RAYONT INC.",
+        "sector": "Consumer Defensive"
+    },
+    "FKST": {
+        "cik_str": 1458023,
+        "ticker": "FKST",
+        "title": "Flowerkist Skin Care & Cosmetics, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "HPCO": {
+        "cik_str": 1892480,
+        "ticker": "HPCO",
+        "title": "Hempacco Co., Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "VWESQ": {
+        "cik_str": 1834045,
+        "ticker": "VWESQ",
+        "title": "Vintage Wine Estates, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "HVCW": {
+        "cik_str": 1472847,
+        "ticker": "HVCW",
+        "title": "HARRISON VICKERS & WATERMAN INC",
+        "sector": "Consumer Defensive"
+    },
+    "WNBD": {
+        "cik_str": 1114898,
+        "ticker": "WNBD",
+        "title": "Winning Brands Corp",
+        "sector": "Consumer Defensive"
+    },
+    "ASPU": {
+        "cik_str": 1487198,
+        "ticker": "ASPU",
+        "title": "ASPEN GROUP, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "PACV": {
+        "cik_str": 882800,
+        "ticker": "PACV",
+        "title": "Pacific Ventures Group, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "VRUS": {
+        "cik_str": 1430523,
+        "ticker": "VRUS",
+        "title": "VERUS INTERNATIONAL, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "WTER": {
+        "cik_str": 1532390,
+        "ticker": "WTER",
+        "title": "ALKALINE WATER Co INC",
+        "sector": "Consumer Defensive"
+    },
+    "WALDW": {
+        "cik_str": 1840199,
+        "ticker": "WALDW",
+        "title": "Waldencast plc",
+        "sector": "Consumer Defensive"
+    },
+    "BYCBF": {
+        "cik_str": 1706795,
+        "ticker": "BYCBF",
+        "title": "Barry Callebaut AG/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "DSYWW": {
+        "cik_str": 1999297,
+        "ticker": "DSYWW",
+        "title": "Big Tree Cloud Holdings Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "LOCLW": {
+        "cik_str": 1840780,
+        "ticker": "LOCLW",
+        "title": "Local Bounti Corporation/DE",
+        "sector": "Consumer Defensive"
+    },
+    "LMMY": {
+        "cik_str": 1939937,
+        "ticker": "LMMY",
+        "title": "LAMY",
+        "sector": "Consumer Defensive"
+    },
+    "RAJAF": {
+        "cik_str": 1885680,
+        "ticker": "RAJAF",
+        "title": "Cordyceps Sunshine Biotech Holdings Co., Ltd.",
+        "sector": "Consumer Defensive"
+    },
+    "CLNNW": {
+        "cik_str": 1822791,
+        "ticker": "CLNNW",
+        "title": "Clene Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "GRAMW": {
+        "cik_str": 1876945,
+        "ticker": "GRAMW",
+        "title": "Gold Flora Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "BRLSW": {
+        "cik_str": 1852973,
+        "ticker": "BRLSW",
+        "title": "Borealis Foods Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "ITOR": {
+        "cik_str": 1852536,
+        "ticker": "ITOR",
+        "title": "Intorio, Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "DTEAF": {
+        "cik_str": 1627606,
+        "ticker": "DTEAF",
+        "title": "DAVIDsTEA Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "HHEGF": {
+        "cik_str": 1680935,
+        "ticker": "HHEGF",
+        "title": "Huahui Education Group Ltd",
+        "sector": "Consumer Defensive"
+    },
+    "EDBLW": {
+        "cik_str": 1809750,
+        "ticker": "EDBLW",
+        "title": "Edible Garden AG Inc",
+        "sector": "Consumer Defensive"
+    },
+    "VWEWQ": {
+        "cik_str": 1834045,
+        "ticker": "VWEWQ",
+        "title": "Vintage Wine Estates, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "AFRIW": {
+        "cik_str": 1903870,
+        "ticker": "AFRIW",
+        "title": "Forafric Global PLC",
+        "sector": "Consumer Defensive"
+    },
+    "CUYTF": {
+        "cik_str": 1437153,
+        "ticker": "CUYTF",
+        "title": "Colruyt SA",
+        "sector": "Consumer Defensive"
+    },
+    "SHOTW": {
+        "cik_str": 1760903,
+        "ticker": "SHOTW",
+        "title": "Safety Shot, Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "ABVEW": {
+        "cik_str": 1979484,
+        "ticker": "ABVEW",
+        "title": "Above Food Ingredients Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "NWOEF": {
+        "cik_str": 1372920,
+        "ticker": "NWOEF",
+        "title": "New Oriental Education & Technology Group Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "SKILW": {
+        "cik_str": 1774675,
+        "ticker": "SKILW",
+        "title": "Skillsoft Corp.",
+        "sector": "Consumer Defensive"
+    },
+    "YKLTF": {
+        "cik_str": 1538118,
+        "ticker": "YKLTF",
+        "title": "Yakult Honsha Co., LTD/ADR",
+        "sector": "Consumer Defensive"
+    },
+    "SNAXW": {
+        "cik_str": 1691936,
+        "ticker": "SNAXW",
+        "title": "STRYVE FOODS, INC.",
+        "sector": "Consumer Defensive"
+    },
+    "RPDL": {
+        "cik_str": 1910975,
+        "ticker": "RPDL",
+        "title": "Rapid Line Inc.",
+        "sector": "Consumer Defensive"
+    },
+    "CHSCL": {
+        "cik_str": 823277,
+        "ticker": "CHSCL",
+        "title": "CHS INC",
+        "sector": "Consumer Defensive"
+    },
+    "CHSCM": {
+        "cik_str": 823277,
+        "ticker": "CHSCM",
+        "title": "CHS INC",
+        "sector": "Consumer Defensive"
+    },
+    "CHSCN": {
+        "cik_str": 823277,
+        "ticker": "CHSCN",
+        "title": "CHS INC",
+        "sector": "Consumer Defensive"
+    },
+    "CHSCO": {
+        "cik_str": 823277,
+        "ticker": "CHSCO",
+        "title": "CHS INC",
+        "sector": "Consumer Defensive"
+    }
+}

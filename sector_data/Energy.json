@@ -1,0 +1,2216 @@
+{
+    "XOM": {
+        "cik_str": 34088,
+        "ticker": "XOM",
+        "title": "EXXON MOBIL CORP",
+        "sector": "Energy"
+    },
+    "CVX": {
+        "cik_str": 93410,
+        "ticker": "CVX",
+        "title": "CHEVRON CORP",
+        "sector": "Energy"
+    },
+    "SHEL": {
+        "cik_str": 1306965,
+        "ticker": "SHEL",
+        "title": "Shell plc",
+        "sector": "Energy"
+    },
+    "TTE": {
+        "cik_str": 879764,
+        "ticker": "TTE",
+        "title": "TotalEnergies SE",
+        "sector": "Energy"
+    },
+    "COP": {
+        "cik_str": 1163165,
+        "ticker": "COP",
+        "title": "CONOCOPHILLIPS",
+        "sector": "Energy"
+    },
+    "ENB": {
+        "cik_str": 895728,
+        "ticker": "ENB",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "PBR": {
+        "cik_str": 1119639,
+        "ticker": "PBR",
+        "title": "PETROBRAS - PETROLEO BRASILEIRO SA",
+        "sector": "Energy"
+    },
+    "BP": {
+        "cik_str": 313807,
+        "ticker": "BP",
+        "title": "BP PLC",
+        "sector": "Energy"
+    },
+    "EOG": {
+        "cik_str": 821189,
+        "ticker": "EOG",
+        "title": "EOG RESOURCES INC",
+        "sector": "Energy"
+    },
+    "CNQ": {
+        "cik_str": 1017413,
+        "ticker": "CNQ",
+        "title": "CANADIAN NATURAL RESOURCES LTD",
+        "sector": "Energy"
+    },
+    "WMB": {
+        "cik_str": 107263,
+        "ticker": "WMB",
+        "title": "WILLIAMS COMPANIES, INC.",
+        "sector": "Energy"
+    },
+    "EPD": {
+        "cik_str": 1061219,
+        "ticker": "EPD",
+        "title": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+        "sector": "Energy"
+    },
+    "EQNR": {
+        "cik_str": 1140625,
+        "ticker": "EQNR",
+        "title": "EQUINOR ASA",
+        "sector": "Energy"
+    },
+    "OKE": {
+        "cik_str": 1039684,
+        "ticker": "OKE",
+        "title": "ONEOK INC /NEW/",
+        "sector": "Energy"
+    },
+    "ET": {
+        "cik_str": 1276187,
+        "ticker": "ET",
+        "title": "Energy Transfer LP",
+        "sector": "Energy"
+    },
+    "KMI": {
+        "cik_str": 1506307,
+        "ticker": "KMI",
+        "title": "KINDER MORGAN, INC.",
+        "sector": "Energy"
+    },
+    "SLB": {
+        "cik_str": 87347,
+        "ticker": "SLB",
+        "title": "SCHLUMBERGER LIMITED/NV",
+        "sector": "Energy"
+    },
+    "PSX": {
+        "cik_str": 1534701,
+        "ticker": "PSX",
+        "title": "Phillips 66",
+        "sector": "Energy"
+    },
+    "FANG": {
+        "cik_str": 1539838,
+        "ticker": "FANG",
+        "title": "Diamondback Energy, Inc.",
+        "sector": "Energy"
+    },
+    "TRP": {
+        "cik_str": 1232384,
+        "ticker": "TRP",
+        "title": "TC ENERGY CORP",
+        "sector": "Energy"
+    },
+    "SU": {
+        "cik_str": 311337,
+        "ticker": "SU",
+        "title": "SUNCOR ENERGY INC",
+        "sector": "Energy"
+    },
+    "MPC": {
+        "cik_str": 1510295,
+        "ticker": "MPC",
+        "title": "Marathon Petroleum Corp",
+        "sector": "Energy"
+    },
+    "LNG": {
+        "cik_str": 3570,
+        "ticker": "LNG",
+        "title": "Cheniere Energy, Inc.",
+        "sector": "Energy"
+    },
+    "MPLX": {
+        "cik_str": 1552000,
+        "ticker": "MPLX",
+        "title": "MPLX LP",
+        "sector": "Energy"
+    },
+    "OXY": {
+        "cik_str": 797468,
+        "ticker": "OXY",
+        "title": "OCCIDENTAL PETROLEUM CORP /DE/",
+        "sector": "Energy"
+    },
+    "HES": {
+        "cik_str": 4447,
+        "ticker": "HES",
+        "title": "HESS CORP",
+        "sector": "Energy"
+    },
+    "E": {
+        "cik_str": 1002242,
+        "ticker": "E",
+        "title": "ENI SPA",
+        "sector": "Energy"
+    },
+    "TRGP": {
+        "cik_str": 1389170,
+        "ticker": "TRGP",
+        "title": "Targa Resources Corp.",
+        "sector": "Energy"
+    },
+    "VLO": {
+        "cik_str": 1035002,
+        "ticker": "VLO",
+        "title": "VALERO ENERGY CORP/TX",
+        "sector": "Energy"
+    },
+    "BKR": {
+        "cik_str": 1701605,
+        "ticker": "BKR",
+        "title": "Baker Hughes Co",
+        "sector": "Energy"
+    },
+    "IMO": {
+        "cik_str": 49938,
+        "ticker": "IMO",
+        "title": "IMPERIAL OIL LTD",
+        "sector": "Energy"
+    },
+    "TPL": {
+        "cik_str": 1811074,
+        "ticker": "TPL",
+        "title": "Texas Pacific Land Corp",
+        "sector": "Energy"
+    },
+    "WDS": {
+        "cik_str": 844551,
+        "ticker": "WDS",
+        "title": "WOODSIDE ENERGY GROUP LTD",
+        "sector": "Energy"
+    },
+    "CVE": {
+        "cik_str": 1475260,
+        "ticker": "CVE",
+        "title": "CENOVUS ENERGY INC.",
+        "sector": "Energy"
+    },
+    "HAL": {
+        "cik_str": 45012,
+        "ticker": "HAL",
+        "title": "HALLIBURTON CO",
+        "sector": "Energy"
+    },
+    "EQT": {
+        "cik_str": 33213,
+        "ticker": "EQT",
+        "title": "EQT Corp",
+        "sector": "Energy"
+    },
+    "CCJ": {
+        "cik_str": 1009001,
+        "ticker": "CCJ",
+        "title": "CAMECO CORP",
+        "sector": "Energy"
+    },
+    "CQP": {
+        "cik_str": 1383650,
+        "ticker": "CQP",
+        "title": "Cheniere Energy Partners, L.P.",
+        "sector": "Energy"
+    },
+    "DVN": {
+        "cik_str": 1090012,
+        "ticker": "DVN",
+        "title": "DEVON ENERGY CORP/DE",
+        "sector": "Energy"
+    },
+    "PBA": {
+        "cik_str": 1546066,
+        "ticker": "PBA",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Energy"
+    },
+    "EXE": {
+        "cik_str": 895126,
+        "ticker": "EXE",
+        "title": "EXPAND ENERGY Corp",
+        "sector": "Energy"
+    },
+    "TS": {
+        "cik_str": 1190723,
+        "ticker": "TS",
+        "title": "TENARIS SA",
+        "sector": "Energy"
+    },
+    "CTRA": {
+        "cik_str": 858470,
+        "ticker": "CTRA",
+        "title": "Coterra Energy Inc.",
+        "sector": "Energy"
+    },
+    "EC": {
+        "cik_str": 1444406,
+        "ticker": "EC",
+        "title": "ECOPETROL S.A.",
+        "sector": "Energy"
+    },
+    "MRO": {
+        "cik_str": 101778,
+        "ticker": "MRO",
+        "title": "MARATHON OIL CORP",
+        "sector": "Energy"
+    },
+    "YPF": {
+        "cik_str": 904851,
+        "ticker": "YPF",
+        "title": "YPF SOCIEDAD ANONIMA",
+        "sector": "Energy"
+    },
+    "WES": {
+        "cik_str": 1423902,
+        "ticker": "WES",
+        "title": "Western Midstream Partners, LP",
+        "sector": "Energy"
+    },
+    "OMVKY": {
+        "cik_str": 882602,
+        "ticker": "OMVKY",
+        "title": "OMV AKTIENGESELLSCHAFT /FI",
+        "sector": "Energy"
+    },
+    "PR": {
+        "cik_str": 1658566,
+        "ticker": "PR",
+        "title": "Permian Resources Corp",
+        "sector": "Energy"
+    },
+    "FTI": {
+        "cik_str": 1681459,
+        "ticker": "FTI",
+        "title": "TechnipFMC plc",
+        "sector": "Energy"
+    },
+    "PAA": {
+        "cik_str": 1070423,
+        "ticker": "PAA",
+        "title": "PLAINS ALL AMERICAN PIPELINE LP",
+        "sector": "Energy"
+    },
+    "OVV": {
+        "cik_str": 1792580,
+        "ticker": "OVV",
+        "title": "Ovintiv Inc.",
+        "sector": "Energy"
+    },
+    "DTM": {
+        "cik_str": 1842022,
+        "ticker": "DTM",
+        "title": "DT Midstream, Inc.",
+        "sector": "Energy"
+    },
+    "AR": {
+        "cik_str": 1433270,
+        "ticker": "AR",
+        "title": "ANTERO RESOURCES Corp",
+        "sector": "Energy"
+    },
+    "VNOM": {
+        "cik_str": 1602065,
+        "ticker": "VNOM",
+        "title": "Viper Energy, Inc.",
+        "sector": "Energy"
+    },
+    "IDKOY": {
+        "cik_str": 1380365,
+        "ticker": "IDKOY",
+        "title": "IDEMITSU KOSAN CO., LTD",
+        "sector": "Energy"
+    },
+    "RRC": {
+        "cik_str": 315852,
+        "ticker": "RRC",
+        "title": "RANGE RESOURCES CORP",
+        "sector": "Energy"
+    },
+    "APA": {
+        "cik_str": 1841666,
+        "ticker": "APA",
+        "title": "APA Corp",
+        "sector": "Energy"
+    },
+    "CHRD": {
+        "cik_str": 1486159,
+        "ticker": "CHRD",
+        "title": "Chord Energy Corp",
+        "sector": "Energy"
+    },
+    "HESM": {
+        "cik_str": 1789832,
+        "ticker": "HESM",
+        "title": "Hess Midstream LP",
+        "sector": "Energy"
+    },
+    "DINO": {
+        "cik_str": 1915657,
+        "ticker": "DINO",
+        "title": "HF Sinclair Corp",
+        "sector": "Energy"
+    },
+    "AM": {
+        "cik_str": 1623925,
+        "ticker": "AM",
+        "title": "Antero Midstream Corp",
+        "sector": "Energy"
+    },
+    "MTDR": {
+        "cik_str": 1520006,
+        "ticker": "MTDR",
+        "title": "Matador Resources Co",
+        "sector": "Energy"
+    },
+    "SUN": {
+        "cik_str": 1552275,
+        "ticker": "SUN",
+        "title": "Sunoco LP",
+        "sector": "Energy"
+    },
+    "ENLC": {
+        "cik_str": 1592000,
+        "ticker": "ENLC",
+        "title": "EnLink Midstream, LLC",
+        "sector": "Energy"
+    },
+    "NOV": {
+        "cik_str": 1021860,
+        "ticker": "NOV",
+        "title": "NOV Inc.",
+        "sector": "Energy"
+    },
+    "WFRD": {
+        "cik_str": 1603923,
+        "ticker": "WFRD",
+        "title": "Weatherford International plc",
+        "sector": "Energy"
+    },
+    "CNX": {
+        "cik_str": 1070412,
+        "ticker": "CNX",
+        "title": "CNX Resources Corp",
+        "sector": "Energy"
+    },
+    "CHX": {
+        "cik_str": 1723089,
+        "ticker": "CHX",
+        "title": "ChampionX Corp",
+        "sector": "Energy"
+    },
+    "NFG": {
+        "cik_str": 70145,
+        "ticker": "NFG",
+        "title": "NATIONAL FUEL GAS CO",
+        "sector": "Energy"
+    },
+    "NE": {
+        "cik_str": 1895262,
+        "ticker": "NE",
+        "title": "Noble Corp plc",
+        "sector": "Energy"
+    },
+    "IEP": {
+        "cik_str": 813762,
+        "ticker": "IEP",
+        "title": "ICAHN ENTERPRISES L.P.",
+        "sector": "Energy"
+    },
+    "MGY": {
+        "cik_str": 1698990,
+        "ticker": "MGY",
+        "title": "Magnolia Oil & Gas Corp",
+        "sector": "Energy"
+    },
+    "CRC": {
+        "cik_str": 1609253,
+        "ticker": "CRC",
+        "title": "California Resources Corp",
+        "sector": "Energy"
+    },
+    "SM": {
+        "cik_str": 893538,
+        "ticker": "SM",
+        "title": "SM Energy Co",
+        "sector": "Energy"
+    },
+    "CIVI": {
+        "cik_str": 1509589,
+        "ticker": "CIVI",
+        "title": "CIVITAS RESOURCES, INC.",
+        "sector": "Energy"
+    },
+    "SMBMY": {
+        "cik_str": 1448978,
+        "ticker": "SMBMY",
+        "title": "SembCorp Marine Ltd.",
+        "sector": "Energy"
+    },
+    "NXE": {
+        "cik_str": 1698535,
+        "ticker": "NXE",
+        "title": "NexGen Energy Ltd.",
+        "sector": "Energy"
+    },
+    "LB": {
+        "cik_str": 1995807,
+        "ticker": "LB",
+        "title": "LandBridge Co LLC",
+        "sector": "Energy"
+    },
+    "MUR": {
+        "cik_str": 717423,
+        "ticker": "MUR",
+        "title": "MURPHY OIL CORP",
+        "sector": "Energy"
+    },
+    "TGS": {
+        "cik_str": 931427,
+        "ticker": "TGS",
+        "title": "GAS TRANSPORTER OF THE SOUTH INC",
+        "sector": "Energy"
+    },
+    "WHD": {
+        "cik_str": 1699136,
+        "ticker": "WHD",
+        "title": "Cactus, Inc.",
+        "sector": "Energy"
+    },
+    "CRK": {
+        "cik_str": 23194,
+        "ticker": "CRK",
+        "title": "COMSTOCK RESOURCES INC",
+        "sector": "Energy"
+    },
+    "AROC": {
+        "cik_str": 1389050,
+        "ticker": "AROC",
+        "title": "Archrock, Inc.",
+        "sector": "Energy"
+    },
+    "PAGP": {
+        "cik_str": 1581990,
+        "ticker": "PAGP",
+        "title": "PLAINS GP HOLDINGS LP",
+        "sector": "Energy"
+    },
+    "FRO": {
+        "cik_str": 913290,
+        "ticker": "FRO",
+        "title": "Frontline plc",
+        "sector": "Energy"
+    },
+    "NOG": {
+        "cik_str": 1104485,
+        "ticker": "NOG",
+        "title": "NORTHERN OIL & GAS, INC.",
+        "sector": "Energy"
+    },
+    "CEIX": {
+        "cik_str": 1710366,
+        "ticker": "CEIX",
+        "title": "CONSOL Energy Inc.",
+        "sector": "Energy"
+    },
+    "RIG": {
+        "cik_str": 1451505,
+        "ticker": "RIG",
+        "title": "Transocean Ltd.",
+        "sector": "Energy"
+    },
+    "STR": {
+        "cik_str": 1949543,
+        "ticker": "STR",
+        "title": "Sitio Royalties Corp.",
+        "sector": "Energy"
+    },
+    "GLNG": {
+        "cik_str": 1207179,
+        "ticker": "GLNG",
+        "title": "GOLAR LNG LTD",
+        "sector": "Energy"
+    },
+    "PBF": {
+        "cik_str": 1534504,
+        "ticker": "PBF",
+        "title": "PBF Energy Inc.",
+        "sector": "Energy"
+    },
+    "KNTK": {
+        "cik_str": 1692787,
+        "ticker": "KNTK",
+        "title": "Kinetik Holdings Inc.",
+        "sector": "Energy"
+    },
+    "ARLP": {
+        "cik_str": 1086600,
+        "ticker": "ARLP",
+        "title": "ALLIANCE RESOURCE PARTNERS LP",
+        "sector": "Energy"
+    },
+    "KGS": {
+        "cik_str": 1767042,
+        "ticker": "KGS",
+        "title": "Kodiak Gas Services, Inc.",
+        "sector": "Energy"
+    },
+    "CRGY": {
+        "cik_str": 1866175,
+        "ticker": "CRGY",
+        "title": "Crescent Energy Co",
+        "sector": "Energy"
+    },
+    "UGP": {
+        "cik_str": 1094972,
+        "ticker": "UGP",
+        "title": "ULTRAPAR HOLDINGS INC",
+        "sector": "Energy"
+    },
+    "HP": {
+        "cik_str": 46765,
+        "ticker": "HP",
+        "title": "Helmerich & Payne, Inc.",
+        "sector": "Energy"
+    },
+    "UEC": {
+        "cik_str": 1334933,
+        "ticker": "UEC",
+        "title": "URANIUM ENERGY CORP",
+        "sector": "Energy"
+    },
+    "BTU": {
+        "cik_str": 1064728,
+        "ticker": "BTU",
+        "title": "PEABODY ENERGY CORP",
+        "sector": "Energy"
+    },
+    "VAL": {
+        "cik_str": 314808,
+        "ticker": "VAL",
+        "title": "Valaris Ltd",
+        "sector": "Energy"
+    },
+    "CSAN": {
+        "cik_str": 1430162,
+        "ticker": "CSAN",
+        "title": "Cosan S.A.",
+        "sector": "Energy"
+    },
+    "VRN": {
+        "cik_str": 1545851,
+        "ticker": "VRN",
+        "title": "Veren Inc.",
+        "sector": "Energy"
+    },
+    "AESI": {
+        "cik_str": 1984060,
+        "ticker": "AESI",
+        "title": "Atlas Energy Solutions Inc.",
+        "sector": "Energy"
+    },
+    "PTEN": {
+        "cik_str": 889900,
+        "ticker": "PTEN",
+        "title": "PATTERSON UTI ENERGY INC",
+        "sector": "Energy"
+    },
+    "BSM": {
+        "cik_str": 1621434,
+        "ticker": "BSM",
+        "title": "Black Stone Minerals, L.P.",
+        "sector": "Energy"
+    },
+    "EE": {
+        "cik_str": 1888447,
+        "ticker": "EE",
+        "title": "Excelerate Energy, Inc.",
+        "sector": "Energy"
+    },
+    "GPOR": {
+        "cik_str": 874499,
+        "ticker": "GPOR",
+        "title": "GULFPORT ENERGY CORP",
+        "sector": "Energy"
+    },
+    "LBRT": {
+        "cik_str": 1694028,
+        "ticker": "LBRT",
+        "title": "Liberty Energy Inc.",
+        "sector": "Energy"
+    },
+    "OII": {
+        "cik_str": 73756,
+        "ticker": "OII",
+        "title": "OCEANEERING INTERNATIONAL INC",
+        "sector": "Energy"
+    },
+    "USAC": {
+        "cik_str": 1522727,
+        "ticker": "USAC",
+        "title": "USA Compression Partners, LP",
+        "sector": "Energy"
+    },
+    "TDW": {
+        "cik_str": 98222,
+        "ticker": "TDW",
+        "title": "TIDEWATER INC",
+        "sector": "Energy"
+    },
+    "STNG": {
+        "cik_str": 1483934,
+        "ticker": "STNG",
+        "title": "Scorpio Tankers Inc.",
+        "sector": "Energy"
+    },
+    "SDRL": {
+        "cik_str": 1737706,
+        "ticker": "SDRL",
+        "title": "Seadrill Ltd",
+        "sector": "Energy"
+    },
+    "BTE": {
+        "cik_str": 1279495,
+        "ticker": "BTE",
+        "title": "BAYTEX ENERGY CORP.",
+        "sector": "Energy"
+    },
+    "CMBT": {
+        "cik_str": 1604481,
+        "ticker": "CMBT",
+        "title": "CMB.TECH NV",
+        "sector": "Energy"
+    },
+    "DNN": {
+        "cik_str": 1063259,
+        "ticker": "DNN",
+        "title": "DENISON MINES CORP.",
+        "sector": "Energy"
+    },
+    "TALO": {
+        "cik_str": 1724965,
+        "ticker": "TALO",
+        "title": "TALOS ENERGY INC.",
+        "sector": "Energy"
+    },
+    "TRMD": {
+        "cik_str": 1655891,
+        "ticker": "TRMD",
+        "title": "TORM plc",
+        "sector": "Energy"
+    },
+    "SOC": {
+        "cik_str": 1831481,
+        "ticker": "SOC",
+        "title": "Sable Offshore Corp.",
+        "sector": "Energy"
+    },
+    "DKL": {
+        "cik_str": 1552797,
+        "ticker": "DKL",
+        "title": "Delek Logistics Partners, LP",
+        "sector": "Energy"
+    },
+    "INSW": {
+        "cik_str": 1679049,
+        "ticker": "INSW",
+        "title": "International Seaways, Inc.",
+        "sector": "Energy"
+    },
+    "HPK": {
+        "cik_str": 1792849,
+        "ticker": "HPK",
+        "title": "HighPeak Energy, Inc.",
+        "sector": "Energy"
+    },
+    "NEXT": {
+        "cik_str": 1612720,
+        "ticker": "NEXT",
+        "title": "NextDecade Corp.",
+        "sector": "Energy"
+    },
+    "CVI": {
+        "cik_str": 1376139,
+        "ticker": "CVI",
+        "title": "CVR ENERGY INC",
+        "sector": "Energy"
+    },
+    "KOS": {
+        "cik_str": 1509991,
+        "ticker": "KOS",
+        "title": "Kosmos Energy Ltd.",
+        "sector": "Energy"
+    },
+    "CLMT": {
+        "cik_str": 2013745,
+        "ticker": "CLMT",
+        "title": "Calumet, Inc. /DE",
+        "sector": "Energy"
+    },
+    "BKV": {
+        "cik_str": 1838406,
+        "ticker": "BKV",
+        "title": "BKV Corp",
+        "sector": "Energy"
+    },
+    "GLP": {
+        "cik_str": 1323468,
+        "ticker": "GLP",
+        "title": "GLOBAL PARTNERS LP",
+        "sector": "Energy"
+    },
+    "WTTR": {
+        "cik_str": 1693256,
+        "ticker": "WTTR",
+        "title": "Select Water Solutions, Inc.",
+        "sector": "Energy"
+    },
+    "MNR": {
+        "cik_str": 1980088,
+        "ticker": "MNR",
+        "title": "MACH NATURAL RESOURCES LP",
+        "sector": "Energy"
+    },
+    "HLX": {
+        "cik_str": 866829,
+        "ticker": "HLX",
+        "title": "HELIX ENERGY SOLUTIONS GROUP INC",
+        "sector": "Energy"
+    },
+    "VET": {
+        "cik_str": 1293135,
+        "ticker": "VET",
+        "title": "VERMILION ENERGY INC.",
+        "sector": "Energy"
+    },
+    "DHT": {
+        "cik_str": 1331284,
+        "ticker": "DHT",
+        "title": "DHT Holdings, Inc.",
+        "sector": "Energy"
+    },
+    "WKC": {
+        "cik_str": 789460,
+        "ticker": "WKC",
+        "title": "WORLD KINECT CORP",
+        "sector": "Energy"
+    },
+    "XPRO": {
+        "cik_str": 1575828,
+        "ticker": "XPRO",
+        "title": "EXPRO GROUP HOLDINGS N.V.",
+        "sector": "Energy"
+    },
+    "DMLP": {
+        "cik_str": 1172358,
+        "ticker": "DMLP",
+        "title": "DORCHESTER MINERALS, L.P.",
+        "sector": "Energy"
+    },
+    "KRP": {
+        "cik_str": 1657788,
+        "ticker": "KRP",
+        "title": "Kimbell Royalty Partners, LP",
+        "sector": "Energy"
+    },
+    "TNK": {
+        "cik_str": 1419945,
+        "ticker": "TNK",
+        "title": "TEEKAY TANKERS LTD.",
+        "sector": "Energy"
+    },
+    "FLNG": {
+        "cik_str": 1772253,
+        "ticker": "FLNG",
+        "title": "Flex LNG Ltd.",
+        "sector": "Energy"
+    },
+    "GEL": {
+        "cik_str": 1022321,
+        "ticker": "GEL",
+        "title": "GENESIS ENERGY LP",
+        "sector": "Energy"
+    },
+    "UUUU": {
+        "cik_str": 1385849,
+        "ticker": "UUUU",
+        "title": "ENERGY FUELS INC",
+        "sector": "Energy"
+    },
+    "NRP": {
+        "cik_str": 1171486,
+        "ticker": "NRP",
+        "title": "NATURAL RESOURCE PARTNERS LP",
+        "sector": "Energy"
+    },
+    "RES": {
+        "cik_str": 742278,
+        "ticker": "RES",
+        "title": "RPC INC",
+        "sector": "Energy"
+    },
+    "LEU": {
+        "cik_str": 1065059,
+        "ticker": "LEU",
+        "title": "CENTRUS ENERGY CORP",
+        "sector": "Energy"
+    },
+    "VTLE": {
+        "cik_str": 1528129,
+        "ticker": "VTLE",
+        "title": "Vital Energy, Inc.",
+        "sector": "Energy"
+    },
+    "ACDC": {
+        "cik_str": 1881487,
+        "ticker": "ACDC",
+        "title": "ProFrac Holding Corp.",
+        "sector": "Energy"
+    },
+    "DK": {
+        "cik_str": 1694426,
+        "ticker": "DK",
+        "title": "Delek US Holdings, Inc.",
+        "sector": "Energy"
+    },
+    "MRC": {
+        "cik_str": 1439095,
+        "ticker": "MRC",
+        "title": "MRC GLOBAL INC.",
+        "sector": "Energy"
+    },
+    "INVX": {
+        "cik_str": 1042893,
+        "ticker": "INVX",
+        "title": "Innovex International, Inc.",
+        "sector": "Energy"
+    },
+    "EFXT": {
+        "cik_str": 1904856,
+        "ticker": "EFXT",
+        "title": "Enerflex Ltd.",
+        "sector": "Energy"
+    },
+    "NVGS": {
+        "cik_str": 1581804,
+        "ticker": "NVGS",
+        "title": "Navigator Holdings Ltd.",
+        "sector": "Energy"
+    },
+    "LPG": {
+        "cik_str": 1596993,
+        "ticker": "LPG",
+        "title": "DORIAN LPG LTD.",
+        "sector": "Energy"
+    },
+    "VTOL": {
+        "cik_str": 1525221,
+        "ticker": "VTOL",
+        "title": "Bristow Group Inc.",
+        "sector": "Energy"
+    },
+    "BORR": {
+        "cik_str": 1715497,
+        "ticker": "BORR",
+        "title": "Borr Drilling Ltd",
+        "sector": "Energy"
+    },
+    "CLB": {
+        "cik_str": 1958086,
+        "ticker": "CLB",
+        "title": "Core Laboratories Inc. /DE/",
+        "sector": "Energy"
+    },
+    "PARR": {
+        "cik_str": 821483,
+        "ticker": "PARR",
+        "title": "PAR PACIFIC HOLDINGS, INC.",
+        "sector": "Energy"
+    },
+    "SEI": {
+        "cik_str": 1697500,
+        "ticker": "SEI",
+        "title": "Solaris Energy Infrastructure, Inc.",
+        "sector": "Energy"
+    },
+    "PDS": {
+        "cik_str": 1013605,
+        "ticker": "PDS",
+        "title": "PRECISION DRILLING Corp",
+        "sector": "Energy"
+    },
+    "SBR": {
+        "cik_str": 710752,
+        "ticker": "SBR",
+        "title": "SABINE ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "GRNT": {
+        "cik_str": 1928446,
+        "ticker": "GRNT",
+        "title": "Granite Ridge Resources, Inc.",
+        "sector": "Energy"
+    },
+    "PUMP": {
+        "cik_str": 1680247,
+        "ticker": "PUMP",
+        "title": "ProPetro Holding Corp.",
+        "sector": "Energy"
+    },
+    "DEC": {
+        "cik_str": 1922446,
+        "ticker": "DEC",
+        "title": "Diversified Energy Co PLC",
+        "sector": "Energy"
+    },
+    "VTS": {
+        "cik_str": 1944558,
+        "ticker": "VTS",
+        "title": "Vitesse Energy, Inc.",
+        "sector": "Energy"
+    },
+    "NESR": {
+        "cik_str": 1698514,
+        "ticker": "NESR",
+        "title": "National Energy Services Reunited Corp.",
+        "sector": "Energy"
+    },
+    "REPX": {
+        "cik_str": 1001614,
+        "ticker": "REPX",
+        "title": "Riley Exploration Permian, Inc.",
+        "sector": "Energy"
+    },
+    "CAPL": {
+        "cik_str": 1538849,
+        "ticker": "CAPL",
+        "title": "CrossAmerica Partners LP",
+        "sector": "Energy"
+    },
+    "TXO": {
+        "cik_str": 1559432,
+        "ticker": "TXO",
+        "title": "TXO Partners, L.P.",
+        "sector": "Energy"
+    },
+    "EU": {
+        "cik_str": 1500881,
+        "ticker": "EU",
+        "title": "enCore Energy Corp.",
+        "sector": "Energy"
+    },
+    "NBR": {
+        "cik_str": 1163739,
+        "ticker": "NBR",
+        "title": "NABORS INDUSTRIES LTD",
+        "sector": "Energy"
+    },
+    "TK": {
+        "cik_str": 911971,
+        "ticker": "TK",
+        "title": "TEEKAY CORP LTD",
+        "sector": "Energy"
+    },
+    "NR": {
+        "cik_str": 71829,
+        "ticker": "NR",
+        "title": "NEWPARK RESOURCES INC",
+        "sector": "Energy"
+    },
+    "PBT": {
+        "cik_str": 319654,
+        "ticker": "PBT",
+        "title": "PERMIAN BASIN ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "NAT": {
+        "cik_str": 1000177,
+        "ticker": "NAT",
+        "title": "NORDIC AMERICAN TANKERS Ltd",
+        "sector": "Energy"
+    },
+    "CLNE": {
+        "cik_str": 1368265,
+        "ticker": "CLNE",
+        "title": "Clean Energy Fuels Corp.",
+        "sector": "Energy"
+    },
+    "NGL": {
+        "cik_str": 1504461,
+        "ticker": "NGL",
+        "title": "NGL Energy Partners LP",
+        "sector": "Energy"
+    },
+    "TEN": {
+        "cik_str": 1166663,
+        "ticker": "TEN",
+        "title": "TSAKOS ENERGY NAVIGATION LTD",
+        "sector": "Energy"
+    },
+    "EGY": {
+        "cik_str": 894627,
+        "ticker": "EGY",
+        "title": "VAALCO ENERGY INC /DE/",
+        "sector": "Energy"
+    },
+    "HNRG": {
+        "cik_str": 788965,
+        "ticker": "HNRG",
+        "title": "HALLADOR ENERGY CO",
+        "sector": "Energy"
+    },
+    "NOA": {
+        "cik_str": 1368519,
+        "ticker": "NOA",
+        "title": "North American Construction Group Ltd.",
+        "sector": "Energy"
+    },
+    "TTI": {
+        "cik_str": 844965,
+        "ticker": "TTI",
+        "title": "TETRA TECHNOLOGIES INC",
+        "sector": "Energy"
+    },
+    "GFR": {
+        "cik_str": 1966287,
+        "ticker": "GFR",
+        "title": "Greenfire Resources Ltd.",
+        "sector": "Energy"
+    },
+    "CLCO": {
+        "cik_str": 1944057,
+        "ticker": "CLCO",
+        "title": "Cool Co Ltd.",
+        "sector": "Energy"
+    },
+    "URG": {
+        "cik_str": 1375205,
+        "ticker": "URG",
+        "title": "UR-ENERGY INC",
+        "sector": "Energy"
+    },
+    "CYRB": {
+        "cik_str": 1851048,
+        "ticker": "CYRB",
+        "title": "Cyber App Solutions Corp.",
+        "sector": "Energy"
+    },
+    "SD": {
+        "cik_str": 1349436,
+        "ticker": "SD",
+        "title": "SANDRIDGE ENERGY INC",
+        "sector": "Energy"
+    },
+    "OBE": {
+        "cik_str": 1334388,
+        "ticker": "OBE",
+        "title": "OBSIDIAN ENERGY LTD.",
+        "sector": "Energy"
+    },
+    "SGU": {
+        "cik_str": 1002590,
+        "ticker": "SGU",
+        "title": "STAR GROUP, L.P.",
+        "sector": "Energy"
+    },
+    "GPRK": {
+        "cik_str": 1464591,
+        "ticker": "GPRK",
+        "title": "GeoPark Ltd",
+        "sector": "Energy"
+    },
+    "SMC": {
+        "cik_str": 2024218,
+        "ticker": "SMC",
+        "title": "Summit Midstream Corp",
+        "sector": "Energy"
+    },
+    "RNGR": {
+        "cik_str": 1699039,
+        "ticker": "RNGR",
+        "title": "Ranger Energy Services, Inc.",
+        "sector": "Energy"
+    },
+    "PNRG": {
+        "cik_str": 56868,
+        "ticker": "PNRG",
+        "title": "PRIMEENERGY RESOURCES CORP",
+        "sector": "Energy"
+    },
+    "OIS": {
+        "cik_str": 1121484,
+        "ticker": "OIS",
+        "title": "OIL STATES INTERNATIONAL, INC",
+        "sector": "Energy"
+    },
+    "NGS": {
+        "cik_str": 1084991,
+        "ticker": "NGS",
+        "title": "NATURAL GAS SERVICES GROUP INC",
+        "sector": "Energy"
+    },
+    "UROY": {
+        "cik_str": 1711570,
+        "ticker": "UROY",
+        "title": "Uranium Royalty Corp.",
+        "sector": "Energy"
+    },
+    "BRY": {
+        "cik_str": 1705873,
+        "ticker": "BRY",
+        "title": "Berry Corp (bry)",
+        "sector": "Energy"
+    },
+    "REI": {
+        "cik_str": 1384195,
+        "ticker": "REI",
+        "title": "RING ENERGY, INC.",
+        "sector": "Energy"
+    },
+    "UNTC": {
+        "cik_str": 798949,
+        "ticker": "UNTC",
+        "title": "UNIT CORP",
+        "sector": "Energy"
+    },
+    "WTI": {
+        "cik_str": 1288403,
+        "ticker": "WTI",
+        "title": "W&T OFFSHORE INC",
+        "sector": "Energy"
+    },
+    "TBN": {
+        "cik_str": 1997652,
+        "ticker": "TBN",
+        "title": "Tamboran Resources Corp",
+        "sector": "Energy"
+    },
+    "AMPY": {
+        "cik_str": 1533924,
+        "ticker": "AMPY",
+        "title": "Amplify Energy Corp.",
+        "sector": "Energy"
+    },
+    "FGPR": {
+        "cik_str": 922358,
+        "ticker": "FGPR",
+        "title": "FERRELLGAS PARTNERS L P",
+        "sector": "Energy"
+    },
+    "FTK": {
+        "cik_str": 928054,
+        "ticker": "FTK",
+        "title": "FLOTEK INDUSTRIES INC/CN/",
+        "sector": "Energy"
+    },
+    "GTE": {
+        "cik_str": 1273441,
+        "ticker": "GTE",
+        "title": "GRAN TIERRA ENERGY INC.",
+        "sector": "Energy"
+    },
+    "NC": {
+        "cik_str": 789933,
+        "ticker": "NC",
+        "title": "NACCO INDUSTRIES INC",
+        "sector": "Energy"
+    },
+    "AMTX": {
+        "cik_str": 738214,
+        "ticker": "AMTX",
+        "title": "AEMETIS, INC",
+        "sector": "Energy"
+    },
+    "EPM": {
+        "cik_str": 1006655,
+        "ticker": "EPM",
+        "title": "EVOLUTION PETROLEUM CORP",
+        "sector": "Energy"
+    },
+    "EP": {
+        "cik_str": 887396,
+        "ticker": "EP",
+        "title": "EMPIRE PETROLEUM CORP",
+        "sector": "Energy"
+    },
+    "SJT": {
+        "cik_str": 319655,
+        "ticker": "SJT",
+        "title": "SAN JUAN BASIN ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "PROP": {
+        "cik_str": 1162896,
+        "ticker": "PROP",
+        "title": "Prairie Operating Co.",
+        "sector": "Energy"
+    },
+    "FET": {
+        "cik_str": 1401257,
+        "ticker": "FET",
+        "title": "FORUM ENERGY TECHNOLOGIES, INC.",
+        "sector": "Energy"
+    },
+    "GEOS": {
+        "cik_str": 1001115,
+        "ticker": "GEOS",
+        "title": "GEOSPACE TECHNOLOGIES CORP",
+        "sector": "Energy"
+    },
+    "VYEY": {
+        "cik_str": 700764,
+        "ticker": "VYEY",
+        "title": "VICTORY CLEAN ENERGY, INC.",
+        "sector": "Energy"
+    },
+    "DLNG": {
+        "cik_str": 1578453,
+        "ticker": "DLNG",
+        "title": "Dynagas LNG Partners LP",
+        "sector": "Energy"
+    },
+    "MMLP": {
+        "cik_str": 1176334,
+        "ticker": "MMLP",
+        "title": "MARTIN MIDSTREAM PARTNERS L.P.",
+        "sector": "Energy"
+    },
+    "BROG": {
+        "cik_str": 1774983,
+        "ticker": "BROG",
+        "title": "Brooge Energy Ltd",
+        "sector": "Energy"
+    },
+    "KGEI": {
+        "cik_str": 1477081,
+        "ticker": "KGEI",
+        "title": "Kolibri Global Energy Inc.",
+        "sector": "Energy"
+    },
+    "PHX": {
+        "cik_str": 315131,
+        "ticker": "PHX",
+        "title": "PHX MINERALS INC.",
+        "sector": "Energy"
+    },
+    "EPSN": {
+        "cik_str": 1726126,
+        "ticker": "EPSN",
+        "title": "Epsilon Energy Ltd.",
+        "sector": "Energy"
+    },
+    "DTI": {
+        "cik_str": 1884516,
+        "ticker": "DTI",
+        "title": "Drilling Tools International Corp",
+        "sector": "Energy"
+    },
+    "PFIE": {
+        "cik_str": 1289636,
+        "ticker": "PFIE",
+        "title": "PROFIRE ENERGY INC",
+        "sector": "Energy"
+    },
+    "IMPP": {
+        "cik_str": 1876581,
+        "ticker": "IMPP",
+        "title": "Imperial Petroleum Inc./Marshall Islands",
+        "sector": "Energy"
+    },
+    "MVO": {
+        "cik_str": 1371782,
+        "ticker": "MVO",
+        "title": "MV Oil Trust",
+        "sector": "Energy"
+    },
+    "KLXE": {
+        "cik_str": 1738827,
+        "ticker": "KLXE",
+        "title": "KLX Energy Services Holdings, Inc.",
+        "sector": "Energy"
+    },
+    "ZNOG": {
+        "cik_str": 1131312,
+        "ticker": "ZNOG",
+        "title": "ZION OIL & GAS INC",
+        "sector": "Energy"
+    },
+    "SND": {
+        "cik_str": 1529628,
+        "ticker": "SND",
+        "title": "Smart Sand, Inc.",
+        "sector": "Energy"
+    },
+    "AE": {
+        "cik_str": 2178,
+        "ticker": "AE",
+        "title": "ADAMS RESOURCES & ENERGY, INC.",
+        "sector": "Energy"
+    },
+    "ANLDF": {
+        "cik_str": 1519469,
+        "ticker": "ANLDF",
+        "title": "ANFIELD ENERGY INC.",
+        "sector": "Energy"
+    },
+    "VOC": {
+        "cik_str": 1505413,
+        "ticker": "VOC",
+        "title": "VOC Energy Trust",
+        "sector": "Energy"
+    },
+    "MPIR": {
+        "cik_str": 815577,
+        "ticker": "MPIR",
+        "title": "Empire Diversified Energy Inc",
+        "sector": "Energy"
+    },
+    "WTRV": {
+        "cik_str": 1589361,
+        "ticker": "WTRV",
+        "title": "White River Energy Corp.",
+        "sector": "Energy"
+    },
+    "SLNG": {
+        "cik_str": 1043186,
+        "ticker": "SLNG",
+        "title": "Stabilis Solutions, Inc.",
+        "sector": "Energy"
+    },
+    "PED": {
+        "cik_str": 1141197,
+        "ticker": "PED",
+        "title": "PEDEVCO CORP",
+        "sector": "Energy"
+    },
+    "CRT": {
+        "cik_str": 881787,
+        "ticker": "CRT",
+        "title": "CROSS TIMBERS ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "RCON": {
+        "cik_str": 1442620,
+        "ticker": "RCON",
+        "title": "Recon Technology, Ltd",
+        "sector": "Energy"
+    },
+    "NCSM": {
+        "cik_str": 1692427,
+        "ticker": "NCSM",
+        "title": "NCS Multistage Holdings, Inc.",
+        "sector": "Energy"
+    },
+    "BATL": {
+        "cik_str": 1282648,
+        "ticker": "BATL",
+        "title": "BATTALION OIL CORP",
+        "sector": "Energy"
+    },
+    "USEG": {
+        "cik_str": 101594,
+        "ticker": "USEG",
+        "title": "US ENERGY CORP",
+        "sector": "Energy"
+    },
+    "PVL": {
+        "cik_str": 1520048,
+        "ticker": "PVL",
+        "title": "Permianville Royalty Trust",
+        "sector": "Energy"
+    },
+    "WSTRF": {
+        "cik_str": 1621906,
+        "ticker": "WSTRF",
+        "title": "Western Uranium & Vanadium Corp.",
+        "sector": "Energy"
+    },
+    "NINE": {
+        "cik_str": 1532286,
+        "ticker": "NINE",
+        "title": "Nine Energy Service, Inc.",
+        "sector": "Energy"
+    },
+    "BDCO": {
+        "cik_str": 793306,
+        "ticker": "BDCO",
+        "title": "BLUE DOLPHIN ENERGY CO",
+        "sector": "Energy"
+    },
+    "VIVK": {
+        "cik_str": 1450704,
+        "ticker": "VIVK",
+        "title": "Vivakor, Inc.",
+        "sector": "Energy"
+    },
+    "PRT": {
+        "cik_str": 1724009,
+        "ticker": "PRT",
+        "title": "PermRock Royalty Trust",
+        "sector": "Energy"
+    },
+    "INDO": {
+        "cik_str": 1757840,
+        "ticker": "INDO",
+        "title": "Indonesia Energy Corp Ltd",
+        "sector": "Energy"
+    },
+    "PXS": {
+        "cik_str": 1640043,
+        "ticker": "PXS",
+        "title": "Pyxis Tankers Inc.",
+        "sector": "Energy"
+    },
+    "DWSN": {
+        "cik_str": 799165,
+        "ticker": "DWSN",
+        "title": "DAWSON GEOPHYSICAL CO",
+        "sector": "Energy"
+    },
+    "QSEP": {
+        "cik_str": 1103795,
+        "ticker": "QSEP",
+        "title": "QS Energy, Inc.",
+        "sector": "Energy"
+    },
+    "GVXXF": {
+        "cik_str": 1490596,
+        "ticker": "GVXXF",
+        "title": "GoviEx Uranium Inc.",
+        "sector": "Energy"
+    },
+    "NRT": {
+        "cik_str": 72633,
+        "ticker": "NRT",
+        "title": "NORTH EUROPEAN OIL ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "TOPS": {
+        "cik_str": 1296484,
+        "ticker": "TOPS",
+        "title": "TOP SHIPS INC.",
+        "sector": "Energy"
+    },
+    "LRDC": {
+        "cik_str": 1442492,
+        "ticker": "LRDC",
+        "title": "Laredo Oil, Inc.",
+        "sector": "Energy"
+    },
+    "BANL": {
+        "cik_str": 1914805,
+        "ticker": "BANL",
+        "title": "CBL International Ltd",
+        "sector": "Energy"
+    },
+    "CKX": {
+        "cik_str": 352955,
+        "ticker": "CKX",
+        "title": "CKX LANDS, INC.",
+        "sector": "Energy"
+    },
+    "MXC": {
+        "cik_str": 66418,
+        "ticker": "MXC",
+        "title": "MEXCO ENERGY CORP",
+        "sector": "Energy"
+    },
+    "RSRV": {
+        "cik_str": 83350,
+        "ticker": "RSRV",
+        "title": "RESERVE PETROLEUM CO",
+        "sector": "Energy"
+    },
+    "BPT": {
+        "cik_str": 850033,
+        "ticker": "BPT",
+        "title": "BP PRUDHOE BAY ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "KLNG": {
+        "cik_str": 1110607,
+        "ticker": "KLNG",
+        "title": "Koil Energy Solutions, Inc.",
+        "sector": "Energy"
+    },
+    "CGBS": {
+        "cik_str": 1991946,
+        "ticker": "CGBS",
+        "title": "Crown LNG Holdings Ltd",
+        "sector": "Energy"
+    },
+    "SKYQ": {
+        "cik_str": 1812447,
+        "ticker": "SKYQ",
+        "title": "Sky Quarry Inc.",
+        "sector": "Energy"
+    },
+    "CWPE": {
+        "cik_str": 1741220,
+        "ticker": "CWPE",
+        "title": "CW Petroleum Corp",
+        "sector": "Energy"
+    },
+    "CHKR": {
+        "cik_str": 1524769,
+        "ticker": "CHKR",
+        "title": "CHESAPEAKE GRANITE WASH TRUST",
+        "sector": "Energy"
+    },
+    "SPND": {
+        "cik_str": 867038,
+        "ticker": "SPND",
+        "title": "SPINDLETOP OIL & GAS CO",
+        "sector": "Energy"
+    },
+    "HGTXU": {
+        "cik_str": 862022,
+        "ticker": "HGTXU",
+        "title": "HUGOTON ROYALTY TRUST",
+        "sector": "Energy"
+    },
+    "HUSA": {
+        "cik_str": 1156041,
+        "ticker": "HUSA",
+        "title": "HOUSTON AMERICAN ENERGY CORP",
+        "sector": "Energy"
+    },
+    "BRN": {
+        "cik_str": 10048,
+        "ticker": "BRN",
+        "title": "BARNWELL INDUSTRIES INC",
+        "sector": "Energy"
+    },
+    "MTR": {
+        "cik_str": 313364,
+        "ticker": "MTR",
+        "title": "MESA ROYALTY TRUST/TX",
+        "sector": "Energy"
+    },
+    "QREE": {
+        "cik_str": 1295961,
+        "ticker": "QREE",
+        "title": "QUANTUM ENERGY INC.",
+        "sector": "Energy"
+    },
+    "BKUCF": {
+        "cik_str": 1463978,
+        "ticker": "BKUCF",
+        "title": "BLUE SKY URANIUM CORP.",
+        "sector": "Energy"
+    },
+    "GWTI": {
+        "cik_str": 1572386,
+        "ticker": "GWTI",
+        "title": "GREENWAY TECHNOLOGIES INC",
+        "sector": "Energy"
+    },
+    "TRLEF": {
+        "cik_str": 1648636,
+        "ticker": "TRLEF",
+        "title": "Trillion Energy International Inc.",
+        "sector": "Energy"
+    },
+    "EONR": {
+        "cik_str": 1842556,
+        "ticker": "EONR",
+        "title": "EON Resources Inc.",
+        "sector": "Energy"
+    },
+    "NSFDF": {
+        "cik_str": 1009922,
+        "ticker": "NSFDF",
+        "title": "NXT Energy Solutions Inc.",
+        "sector": "Energy"
+    },
+    "GNOLF": {
+        "cik_str": 1261002,
+        "ticker": "GNOLF",
+        "title": "GENOIL INC",
+        "sector": "Energy"
+    },
+    "MARPS": {
+        "cik_str": 62362,
+        "ticker": "MARPS",
+        "title": "MARINE PETROLEUM TRUST",
+        "sector": "Energy"
+    },
+    "ECTM": {
+        "cik_str": 1487798,
+        "ticker": "ECTM",
+        "title": "ECA Marcellus Trust I",
+        "sector": "Energy"
+    },
+    "VTNRQ": {
+        "cik_str": 890447,
+        "ticker": "VTNRQ",
+        "title": "Vertex Energy Inc.",
+        "sector": "Energy"
+    },
+    "NZERF": {
+        "cik_str": 1509705,
+        "ticker": "NZERF",
+        "title": "New Zealand Energy Corp.",
+        "sector": "Energy"
+    },
+    "EGYF": {
+        "cik_str": 876235,
+        "ticker": "EGYF",
+        "title": "ENERGY FINDERS INC",
+        "sector": "Energy"
+    },
+    "ROYL": {
+        "cik_str": 1694617,
+        "ticker": "ROYL",
+        "title": "Royale Energy, Inc.",
+        "sector": "Energy"
+    },
+    "FOMI": {
+        "cik_str": 1885336,
+        "ticker": "FOMI",
+        "title": "FORMATION MINERALS, INC.",
+        "sector": "Energy"
+    },
+    "GULTU": {
+        "cik_str": 1565146,
+        "ticker": "GULTU",
+        "title": "Gulf Coast Ultra Deep Royalty Trust",
+        "sector": "Energy"
+    },
+    "TPET": {
+        "cik_str": 1898766,
+        "ticker": "TPET",
+        "title": "Trio Petroleum Corp.",
+        "sector": "Energy"
+    },
+    "STTDF": {
+        "cik_str": 1815128,
+        "ticker": "STTDF",
+        "title": "Standard Uranium Ltd.",
+        "sector": "Energy"
+    },
+    "ALTX": {
+        "cik_str": 775057,
+        "ticker": "ALTX",
+        "title": "ALTEX INDUSTRIES INC",
+        "sector": "Energy"
+    },
+    "GLFH": {
+        "cik_str": 1574676,
+        "ticker": "GLFH",
+        "title": "Galenfeha, Inc.",
+        "sector": "Energy"
+    },
+    "ENSV": {
+        "cik_str": 319458,
+        "ticker": "ENSV",
+        "title": "Enservco Corp",
+        "sector": "Energy"
+    },
+    "ICDI": {
+        "cik_str": 1537028,
+        "ticker": "ICDI",
+        "title": "Independence Contract Drilling, Inc.",
+        "sector": "Energy"
+    },
+    "NRIS": {
+        "cik_str": 1603793,
+        "ticker": "NRIS",
+        "title": "Norris Industries, Inc.",
+        "sector": "Energy"
+    },
+    "OILCF": {
+        "cik_str": 1922639,
+        "ticker": "OILCF",
+        "title": "Permex Petroleum Corp",
+        "sector": "Energy"
+    },
+    "CRCE": {
+        "cik_str": 1911467,
+        "ticker": "CRCE",
+        "title": "Circle Energy, Inc./NV",
+        "sector": "Energy"
+    },
+    "REOS": {
+        "cik_str": 1335288,
+        "ticker": "REOS",
+        "title": "ReoStar Energy CORP",
+        "sector": "Energy"
+    },
+    "FECOF": {
+        "cik_str": 849997,
+        "ticker": "FECOF",
+        "title": "FEC Resources Inc.",
+        "sector": "Energy"
+    },
+    "PTCO": {
+        "cik_str": 1609258,
+        "ticker": "PTCO",
+        "title": "PetroGas Co",
+        "sector": "Energy"
+    },
+    "MMEX": {
+        "cik_str": 1440799,
+        "ticker": "MMEX",
+        "title": "MMEX Resources Corp",
+        "sector": "Energy"
+    },
+    "SPOWF": {
+        "cik_str": 1227282,
+        "ticker": "SPOWF",
+        "title": "Strata Power Corp",
+        "sector": "Energy"
+    },
+    "GRVE": {
+        "cik_str": 918573,
+        "ticker": "GRVE",
+        "title": "GROOVE BOTANICALS INC.",
+        "sector": "Energy"
+    },
+    "NXMR": {
+        "cik_str": 1088005,
+        "ticker": "NXMR",
+        "title": "NextMart Inc.",
+        "sector": "Energy"
+    },
+    "DBRM": {
+        "cik_str": 1164256,
+        "ticker": "DBRM",
+        "title": "DAYBREAK OIL & GAS, INC.",
+        "sector": "Energy"
+    },
+    "RYDAF": {
+        "cik_str": 1306965,
+        "ticker": "RYDAF",
+        "title": "Shell plc",
+        "sector": "Energy"
+    },
+    "PCCYF": {
+        "cik_str": 1108329,
+        "ticker": "PCCYF",
+        "title": "PETROCHINA CO LTD",
+        "sector": "Energy"
+    },
+    "TTFNF": {
+        "cik_str": 879764,
+        "ticker": "TTFNF",
+        "title": "TotalEnergies SE",
+        "sector": "Energy"
+    },
+    "BPAQF": {
+        "cik_str": 313807,
+        "ticker": "BPAQF",
+        "title": "BP PLC",
+        "sector": "Energy"
+    },
+    "STOHF": {
+        "cik_str": 1140625,
+        "ticker": "STOHF",
+        "title": "EQUINOR ASA",
+        "sector": "Energy"
+    },
+    "SNPMF": {
+        "cik_str": 1123658,
+        "ticker": "SNPMF",
+        "title": "CHINA PETROLEUM & CHEMICAL CORP",
+        "sector": "Energy"
+    },
+    "EBBNF": {
+        "cik_str": 895728,
+        "ticker": "EBBNF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "PBR-A": {
+        "cik_str": 1119639,
+        "ticker": "PBR-A",
+        "title": "PETROBRAS - PETROLEO BRASILEIRO SA",
+        "sector": "Energy"
+    },
+    "EIPAF": {
+        "cik_str": 1002242,
+        "ticker": "EIPAF",
+        "title": "ENI SPA",
+        "sector": "Energy"
+    },
+    "TNCAF": {
+        "cik_str": 1232384,
+        "ticker": "TNCAF",
+        "title": "TC ENERGY CORP",
+        "sector": "Energy"
+    },
+    "WOPEF": {
+        "cik_str": 844551,
+        "ticker": "WOPEF",
+        "title": "WOODSIDE ENERGY GROUP LTD",
+        "sector": "Energy"
+    },
+    "TCANF": {
+        "cik_str": 1232384,
+        "ticker": "TCANF",
+        "title": "TC ENERGY CORP",
+        "sector": "Energy"
+    },
+    "TNRSF": {
+        "cik_str": 1190723,
+        "ticker": "TNRSF",
+        "title": "TENARIS SA",
+        "sector": "Energy"
+    },
+    "OMVJF": {
+        "cik_str": 882602,
+        "ticker": "OMVJF",
+        "title": "OMV AKTIENGESELLSCHAFT /FI",
+        "sector": "Energy"
+    },
+    "VIST": {
+        "cik_str": 1762506,
+        "ticker": "VIST",
+        "title": "Vista Energy, S.A.B. de C.V.",
+        "sector": "Energy"
+    },
+    "ATGFF": {
+        "cik_str": 1695519,
+        "ticker": "ATGFF",
+        "title": "AltaGas Ltd.",
+        "sector": "Energy"
+    },
+    "THNPY": {
+        "cik_str": 1792045,
+        "ticker": "THNPY",
+        "title": "Technip Energies N.V.",
+        "sector": "Energy"
+    },
+    "THNPF": {
+        "cik_str": 1792045,
+        "ticker": "THNPF",
+        "title": "Technip Energies N.V.",
+        "sector": "Energy"
+    },
+    "SPTJF": {
+        "cik_str": 908732,
+        "ticker": "SPTJF",
+        "title": "SINOPEC SHANGHAI PETROCHEMICAL CO LTD",
+        "sector": "Energy"
+    },
+    "NGL-PB": {
+        "cik_str": 1504461,
+        "ticker": "NGL-PB",
+        "title": "NGL Energy Partners LP",
+        "sector": "Energy"
+    },
+    "NGL-PC": {
+        "cik_str": 1504461,
+        "ticker": "NGL-PC",
+        "title": "NGL Energy Partners LP",
+        "sector": "Energy"
+    },
+    "GLOP-PB": {
+        "cik_str": 1598655,
+        "ticker": "GLOP-PB",
+        "title": "GasLog Partners LP",
+        "sector": "Energy"
+    },
+    "GLOP-PC": {
+        "cik_str": 1598655,
+        "ticker": "GLOP-PC",
+        "title": "GasLog Partners LP",
+        "sector": "Energy"
+    },
+    "GLOP-PA": {
+        "cik_str": 1598655,
+        "ticker": "GLOP-PA",
+        "title": "GasLog Partners LP",
+        "sector": "Energy"
+    },
+    "SMBMF": {
+        "cik_str": 1448978,
+        "ticker": "SMBMF",
+        "title": "SembCorp Marine Ltd.",
+        "sector": "Energy"
+    },
+    "FGPRB": {
+        "cik_str": 922358,
+        "ticker": "FGPRB",
+        "title": "FERRELLGAS PARTNERS L P",
+        "sector": "Energy"
+    },
+    "DLNG-PB": {
+        "cik_str": 1578453,
+        "ticker": "DLNG-PB",
+        "title": "Dynagas LNG Partners LP",
+        "sector": "Energy"
+    },
+    "NZEOF": {
+        "cik_str": 1445654,
+        "ticker": "NZEOF",
+        "title": "New Zealand Oil & Gas Ltd/ADR",
+        "sector": "Energy"
+    },
+    "CJAX": {
+        "cik_str": 1763925,
+        "ticker": "CJAX",
+        "title": "CoJax Oil & Gas Corp",
+        "sector": "Energy"
+    },
+    "PQEFF": {
+        "cik_str": 1561180,
+        "ticker": "PQEFF",
+        "title": "PETROTEQ ENERGY INC.",
+        "sector": "Energy"
+    },
+    "MRGE": {
+        "cik_str": 1623360,
+        "ticker": "MRGE",
+        "title": "Mirage Energy Corp",
+        "sector": "Energy"
+    },
+    "BRLL": {
+        "cik_str": 1631463,
+        "ticker": "BRLL",
+        "title": "Barrel Energy Inc.",
+        "sector": "Energy"
+    },
+    "PGAS": {
+        "cik_str": 1558465,
+        "ticker": "PGAS",
+        "title": "PETROGRESS, INC",
+        "sector": "Energy"
+    },
+    "TBNRL": {
+        "cik_str": 1997652,
+        "ticker": "TBNRL",
+        "title": "Tamboran Resources Corp",
+        "sector": "Energy"
+    },
+    "OKMN": {
+        "cik_str": 1848334,
+        "ticker": "OKMN",
+        "title": "OKMIN RESOURCES, INC.",
+        "sector": "Energy"
+    },
+    "TEN-PE": {
+        "cik_str": 1166663,
+        "ticker": "TEN-PE",
+        "title": "TSAKOS ENERGY NAVIGATION LTD",
+        "sector": "Energy"
+    },
+    "TEN-PF": {
+        "cik_str": 1166663,
+        "ticker": "TEN-PF",
+        "title": "TSAKOS ENERGY NAVIGATION LTD",
+        "sector": "Energy"
+    },
+    "CGBSW": {
+        "cik_str": 1991946,
+        "ticker": "CGBSW",
+        "title": "Crown LNG Holdings Ltd",
+        "sector": "Energy"
+    },
+    "IDKOF": {
+        "cik_str": 1380365,
+        "ticker": "IDKOF",
+        "title": "IDEMITSU KOSAN CO., LTD",
+        "sector": "Energy"
+    },
+    "WLLBW": {
+        "cik_str": 1486159,
+        "ticker": "WLLBW",
+        "title": "Chord Energy Corp",
+        "sector": "Energy"
+    },
+    "OASPW": {
+        "cik_str": 1486159,
+        "ticker": "OASPW",
+        "title": "Chord Energy Corp",
+        "sector": "Energy"
+    },
+    "URCWF": {
+        "cik_str": 1711570,
+        "ticker": "URCWF",
+        "title": "Uranium Royalty Corp.",
+        "sector": "Energy"
+    },
+    "TCEYF": {
+        "cik_str": 1232384,
+        "ticker": "TCEYF",
+        "title": "TC ENERGY CORP",
+        "sector": "Energy"
+    },
+    "TRPEF": {
+        "cik_str": 1232384,
+        "ticker": "TRPEF",
+        "title": "TC ENERGY CORP",
+        "sector": "Energy"
+    },
+    "ZNOGW": {
+        "cik_str": 1131312,
+        "ticker": "ZNOGW",
+        "title": "ZION OIL & GAS INC",
+        "sector": "Energy"
+    },
+    "CNVEF": {
+        "cik_str": 1475260,
+        "ticker": "CNVEF",
+        "title": "CENOVUS ENERGY INC.",
+        "sector": "Energy"
+    },
+    "UNTCW": {
+        "cik_str": 798949,
+        "ticker": "UNTCW",
+        "title": "UNIT CORP",
+        "sector": "Energy"
+    },
+    "NBLWF": {
+        "cik_str": 1895262,
+        "ticker": "NBLWF",
+        "title": "Noble Corp plc",
+        "sector": "Energy"
+    },
+    "EXEEL": {
+        "cik_str": 895126,
+        "ticker": "EXEEL",
+        "title": "EXPAND ENERGY Corp",
+        "sector": "Energy"
+    },
+    "EXEEZ": {
+        "cik_str": 895126,
+        "ticker": "EXEEZ",
+        "title": "EXPAND ENERGY Corp",
+        "sector": "Energy"
+    },
+    "EXEEW": {
+        "cik_str": 895126,
+        "ticker": "EXEEW",
+        "title": "EXPAND ENERGY Corp",
+        "sector": "Energy"
+    },
+    "IMPPP": {
+        "cik_str": 1876581,
+        "ticker": "IMPPP",
+        "title": "Imperial Petroleum Inc./Marshall Islands",
+        "sector": "Energy"
+    },
+    "BROGW": {
+        "cik_str": 1774983,
+        "ticker": "BROGW",
+        "title": "Brooge Energy Ltd",
+        "sector": "Energy"
+    },
+    "NBRWF": {
+        "cik_str": 1163739,
+        "ticker": "NBRWF",
+        "title": "NABORS INDUSTRIES LTD",
+        "sector": "Energy"
+    },
+    "PXSAW": {
+        "cik_str": 1640043,
+        "ticker": "PXSAW",
+        "title": "Pyxis Tankers Inc.",
+        "sector": "Energy"
+    },
+    "SEAL-PA": {
+        "cik_str": 1308106,
+        "ticker": "SEAL-PA",
+        "title": "Seapeak LLC",
+        "sector": "Energy"
+    },
+    "SEAL-PB": {
+        "cik_str": 1308106,
+        "ticker": "SEAL-PB",
+        "title": "Seapeak LLC",
+        "sector": "Energy"
+    },
+    "PPLAF": {
+        "cik_str": 1546066,
+        "ticker": "PPLAF",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Energy"
+    },
+    "PBNAF": {
+        "cik_str": 1546066,
+        "ticker": "PBNAF",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Energy"
+    },
+    "HPKEW": {
+        "cik_str": 1792849,
+        "ticker": "HPKEW",
+        "title": "HighPeak Energy, Inc.",
+        "sector": "Energy"
+    },
+    "MPLXP": {
+        "cik_str": 1552000,
+        "ticker": "MPLXP",
+        "title": "MPLX LP",
+        "sector": "Energy"
+    },
+    "GLP-PB": {
+        "cik_str": 1323468,
+        "ticker": "GLP-PB",
+        "title": "GLOBAL PARTNERS LP",
+        "sector": "Energy"
+    },
+    "ET-PI": {
+        "cik_str": 1276187,
+        "ticker": "ET-PI",
+        "title": "Energy Transfer LP",
+        "sector": "Energy"
+    },
+    "ATGPF": {
+        "cik_str": 1695519,
+        "ticker": "ATGPF",
+        "title": "AltaGas Ltd.",
+        "sector": "Energy"
+    },
+    "EBGEF": {
+        "cik_str": 895728,
+        "ticker": "EBGEF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "ENBHF": {
+        "cik_str": 895728,
+        "ticker": "ENBHF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "EBRZF": {
+        "cik_str": 895728,
+        "ticker": "EBRZF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "ENBFF": {
+        "cik_str": 895728,
+        "ticker": "ENBFF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "ENBRF": {
+        "cik_str": 895728,
+        "ticker": "ENBRF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    },
+    "EBBGF": {
+        "cik_str": 895728,
+        "ticker": "EBBGF",
+        "title": "ENBRIDGE INC",
+        "sector": "Energy"
+    }
+}

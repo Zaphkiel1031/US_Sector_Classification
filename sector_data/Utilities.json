@@ -1,0 +1,1196 @@
+{
+    "NEE": {
+        "cik_str": 753308,
+        "ticker": "NEE",
+        "title": "NEXTERA ENERGY INC",
+        "sector": "Utilities"
+    },
+    "SO": {
+        "cik_str": 92122,
+        "ticker": "SO",
+        "title": "SOUTHERN CO",
+        "sector": "Utilities"
+    },
+    "GEV": {
+        "cik_str": 1996810,
+        "ticker": "GEV",
+        "title": "GE Vernova Inc.",
+        "sector": "Utilities"
+    },
+    "DUK": {
+        "cik_str": 1326160,
+        "ticker": "DUK",
+        "title": "Duke Energy CORP",
+        "sector": "Utilities"
+    },
+    "CEG": {
+        "cik_str": 1868275,
+        "ticker": "CEG",
+        "title": "Constellation Energy Corp",
+        "sector": "Utilities"
+    },
+    "NGG": {
+        "cik_str": 1004315,
+        "ticker": "NGG",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Utilities"
+    },
+    "SRE": {
+        "cik_str": 1032208,
+        "ticker": "SRE",
+        "title": "SEMPRA",
+        "sector": "Utilities"
+    },
+    "VST": {
+        "cik_str": 1692819,
+        "ticker": "VST",
+        "title": "Vistra Corp.",
+        "sector": "Utilities"
+    },
+    "PCG": {
+        "cik_str": 1004980,
+        "ticker": "PCG",
+        "title": "PG&E Corp",
+        "sector": "Utilities"
+    },
+    "AEP": {
+        "cik_str": 4904,
+        "ticker": "AEP",
+        "title": "AMERICAN ELECTRIC POWER CO INC",
+        "sector": "Utilities"
+    },
+    "D": {
+        "cik_str": 715957,
+        "ticker": "D",
+        "title": "DOMINION ENERGY, INC",
+        "sector": "Utilities"
+    },
+    "PEG": {
+        "cik_str": 788784,
+        "ticker": "PEG",
+        "title": "PUBLIC SERVICE ENTERPRISE GROUP INC",
+        "sector": "Utilities"
+    },
+    "XEL": {
+        "cik_str": 72903,
+        "ticker": "XEL",
+        "title": "XCEL ENERGY INC",
+        "sector": "Utilities"
+    },
+    "EXC": {
+        "cik_str": 1109357,
+        "ticker": "EXC",
+        "title": "EXELON CORP",
+        "sector": "Utilities"
+    },
+    "ED": {
+        "cik_str": 1047862,
+        "ticker": "ED",
+        "title": "CONSOLIDATED EDISON INC",
+        "sector": "Utilities"
+    },
+    "EIX": {
+        "cik_str": 827052,
+        "ticker": "EIX",
+        "title": "EDISON INTERNATIONAL",
+        "sector": "Utilities"
+    },
+    "ETR": {
+        "cik_str": 65984,
+        "ticker": "ETR",
+        "title": "ENTERGY CORP /DE/",
+        "sector": "Utilities"
+    },
+    "WEC": {
+        "cik_str": 783325,
+        "ticker": "WEC",
+        "title": "WEC ENERGY GROUP, INC.",
+        "sector": "Utilities"
+    },
+    "AWK": {
+        "cik_str": 1410636,
+        "ticker": "AWK",
+        "title": "American Water Works Company, Inc.",
+        "sector": "Utilities"
+    },
+    "OEZVY": {
+        "cik_str": 1021020,
+        "ticker": "OEZVY",
+        "title": "OSTERREICHISCHE ELEKTRIZITATSWIRTSCHAFTS /FI",
+        "sector": "Utilities"
+    },
+    "PPL": {
+        "cik_str": 922224,
+        "ticker": "PPL",
+        "title": "PPL Corp",
+        "sector": "Utilities"
+    },
+    "DTE": {
+        "cik_str": 936340,
+        "ticker": "DTE",
+        "title": "DTE ENERGY CO",
+        "sector": "Utilities"
+    },
+    "AEE": {
+        "cik_str": 1002910,
+        "ticker": "AEE",
+        "title": "AMEREN CORP",
+        "sector": "Utilities"
+    },
+    "FE": {
+        "cik_str": 1031296,
+        "ticker": "FE",
+        "title": "FIRSTENERGY CORP",
+        "sector": "Utilities"
+    },
+    "ATO": {
+        "cik_str": 731802,
+        "ticker": "ATO",
+        "title": "ATMOS ENERGY CORP",
+        "sector": "Utilities"
+    },
+    "ES": {
+        "cik_str": 72741,
+        "ticker": "ES",
+        "title": "EVERSOURCE ENERGY",
+        "sector": "Utilities"
+    },
+    "FTS": {
+        "cik_str": 1666175,
+        "ticker": "FTS",
+        "title": "Fortis Inc.",
+        "sector": "Utilities"
+    },
+    "CMS": {
+        "cik_str": 811156,
+        "ticker": "CMS",
+        "title": "CMS ENERGY CORP",
+        "sector": "Utilities"
+    },
+    "CNP": {
+        "cik_str": 1130310,
+        "ticker": "CNP",
+        "title": "CENTERPOINT ENERGY INC",
+        "sector": "Utilities"
+    },
+    "NRG": {
+        "cik_str": 1013871,
+        "ticker": "NRG",
+        "title": "NRG ENERGY, INC.",
+        "sector": "Utilities"
+    },
+    "NI": {
+        "cik_str": 1111711,
+        "ticker": "NI",
+        "title": "NISOURCE INC.",
+        "sector": "Utilities"
+    },
+    "BEP": {
+        "cik_str": 1533232,
+        "ticker": "BEP",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Utilities"
+    },
+    "LNT": {
+        "cik_str": 352541,
+        "ticker": "LNT",
+        "title": "ALLIANT ENERGY CORP",
+        "sector": "Utilities"
+    },
+    "BIP": {
+        "cik_str": 1406234,
+        "ticker": "BIP",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Utilities"
+    },
+    "EDPFY": {
+        "cik_str": 1039610,
+        "ticker": "EDPFY",
+        "title": "EDP ENERGIAS DE PORTUGAL SA",
+        "sector": "Utilities"
+    },
+    "EVRG": {
+        "cik_str": 1711269,
+        "ticker": "EVRG",
+        "title": "Evergy, Inc.",
+        "sector": "Utilities"
+    },
+    "AGR": {
+        "cik_str": 1634997,
+        "ticker": "AGR",
+        "title": "Avangrid, Inc.",
+        "sector": "Utilities"
+    },
+    "EBR": {
+        "cik_str": 1439124,
+        "ticker": "EBR",
+        "title": "BRAZILIAN ELECTRIC POWER CO",
+        "sector": "Utilities"
+    },
+    "SBS": {
+        "cik_str": 1170858,
+        "ticker": "SBS",
+        "title": "COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO-SABESP",
+        "sector": "Utilities"
+    },
+    "TLN": {
+        "cik_str": 1622536,
+        "ticker": "TLN",
+        "title": "Talen Energy Corp",
+        "sector": "Utilities"
+    },
+    "KEP": {
+        "cik_str": 887225,
+        "ticker": "KEP",
+        "title": "KOREA ELECTRIC POWER CORP",
+        "sector": "Utilities"
+    },
+    "EMRAF": {
+        "cik_str": 1127248,
+        "ticker": "EMRAF",
+        "title": "EMERA INC",
+        "sector": "Utilities"
+    },
+    "WTRG": {
+        "cik_str": 78128,
+        "ticker": "WTRG",
+        "title": "Essential Utilities, Inc.",
+        "sector": "Utilities"
+    },
+    "PNW": {
+        "cik_str": 764622,
+        "ticker": "PNW",
+        "title": "PINNACLE WEST CAPITAL CORP",
+        "sector": "Utilities"
+    },
+    "UUGRY": {
+        "cik_str": 1440130,
+        "ticker": "UUGRY",
+        "title": "United Utilities Group plc",
+        "sector": "Utilities"
+    },
+    "RDEIY": {
+        "cik_str": 1438654,
+        "ticker": "RDEIY",
+        "title": "Red Electrica Corporacion SA/ADR",
+        "sector": "Utilities"
+    },
+    "AES": {
+        "cik_str": 874761,
+        "ticker": "AES",
+        "title": "AES CORP",
+        "sector": "Utilities"
+    },
+    "OGE": {
+        "cik_str": 1021635,
+        "ticker": "OGE",
+        "title": "OGE ENERGY CORP.",
+        "sector": "Utilities"
+    },
+    "CMS-PB": {
+        "cik_str": 201533,
+        "ticker": "CMS-PB",
+        "title": "CONSUMERS ENERGY CO",
+        "sector": "Utilities"
+    },
+    "UELMO": {
+        "cik_str": 100826,
+        "ticker": "UELMO",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "IDA": {
+        "cik_str": 1057877,
+        "ticker": "IDA",
+        "title": "IDACORP INC",
+        "sector": "Utilities"
+    },
+    "CIG": {
+        "cik_str": 1157557,
+        "ticker": "CIG",
+        "title": "ENERGY CO OF MINAS GERAIS",
+        "sector": "Utilities"
+    },
+    "BIPC": {
+        "cik_str": 1788348,
+        "ticker": "BIPC",
+        "title": "Brookfield Infrastructure Corp",
+        "sector": "Utilities"
+    },
+    "BEPC": {
+        "cik_str": 1791863,
+        "ticker": "BEPC",
+        "title": "Brookfield Renewable Corp",
+        "sector": "Utilities"
+    },
+    "CWEN": {
+        "cik_str": 1567683,
+        "ticker": "CWEN",
+        "title": "Clearway Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "SWX": {
+        "cik_str": 1692115,
+        "ticker": "SWX",
+        "title": "Southwest Gas Holdings, Inc.",
+        "sector": "Utilities"
+    },
+    "UGI": {
+        "cik_str": 884614,
+        "ticker": "UGI",
+        "title": "UGI CORP /PA/",
+        "sector": "Utilities"
+    },
+    "POR": {
+        "cik_str": 784977,
+        "ticker": "POR",
+        "title": "PORTLAND GENERAL ELECTRIC CO /OR/",
+        "sector": "Utilities"
+    },
+    "NJR": {
+        "cik_str": 356309,
+        "ticker": "NJR",
+        "title": "NEW JERSEY RESOURCES CORP",
+        "sector": "Utilities"
+    },
+    "ORA": {
+        "cik_str": 1296445,
+        "ticker": "ORA",
+        "title": "ORMAT TECHNOLOGIES, INC.",
+        "sector": "Utilities"
+    },
+    "PAM": {
+        "cik_str": 1469395,
+        "ticker": "PAM",
+        "title": "Pampa Energy Inc.",
+        "sector": "Utilities"
+    },
+    "MYTHY": {
+        "cik_str": 1437470,
+        "ticker": "MYTHY",
+        "title": "Mytilineos Holdings S.A.",
+        "sector": "Utilities"
+    },
+    "BKH": {
+        "cik_str": 1130464,
+        "ticker": "BKH",
+        "title": "BLACK HILLS CORP /SD/",
+        "sector": "Utilities"
+    },
+    "TXNM": {
+        "cik_str": 1108426,
+        "ticker": "TXNM",
+        "title": "TXNM ENERGY INC",
+        "sector": "Utilities"
+    },
+    "OGS": {
+        "cik_str": 1587732,
+        "ticker": "OGS",
+        "title": "ONE Gas, Inc.",
+        "sector": "Utilities"
+    },
+    "SR": {
+        "cik_str": 1126956,
+        "ticker": "SR",
+        "title": "SPIRE INC",
+        "sector": "Utilities"
+    },
+    "FLNC": {
+        "cik_str": 1868941,
+        "ticker": "FLNC",
+        "title": "Fluence Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "ENIC": {
+        "cik_str": 1659939,
+        "ticker": "ENIC",
+        "title": "Enel Chile S.A.",
+        "sector": "Utilities"
+    },
+    "MGEE": {
+        "cik_str": 1161728,
+        "ticker": "MGEE",
+        "title": "MGE ENERGY INC",
+        "sector": "Utilities"
+    },
+    "ALE": {
+        "cik_str": 66756,
+        "ticker": "ALE",
+        "title": "ALLETE INC",
+        "sector": "Utilities"
+    },
+    "AQN": {
+        "cik_str": 1174169,
+        "ticker": "AQN",
+        "title": "ALGONQUIN POWER & UTILITIES CORP.",
+        "sector": "Utilities"
+    },
+    "NWE": {
+        "cik_str": 1993004,
+        "ticker": "NWE",
+        "title": "NorthWestern Energy Group, Inc.",
+        "sector": "Utilities"
+    },
+    "OTTR": {
+        "cik_str": 1466593,
+        "ticker": "OTTR",
+        "title": "Otter Tail Corp",
+        "sector": "Utilities"
+    },
+    "TAC": {
+        "cik_str": 1144800,
+        "ticker": "TAC",
+        "title": "TRANSALTA CORP",
+        "sector": "Utilities"
+    },
+    "AWR": {
+        "cik_str": 1056903,
+        "ticker": "AWR",
+        "title": "AMERICAN STATES WATER CO",
+        "sector": "Utilities"
+    },
+    "AVA": {
+        "cik_str": 104918,
+        "ticker": "AVA",
+        "title": "AVISTA CORP",
+        "sector": "Utilities"
+    },
+    "CWT": {
+        "cik_str": 1035201,
+        "ticker": "CWT",
+        "title": "CALIFORNIA WATER SERVICE GROUP",
+        "sector": "Utilities"
+    },
+    "OKLO": {
+        "cik_str": 1849056,
+        "ticker": "OKLO",
+        "title": "Oklo Inc.",
+        "sector": "Utilities"
+    },
+    "CPK": {
+        "cik_str": 19745,
+        "ticker": "CPK",
+        "title": "CHESAPEAKE UTILITIES CORP",
+        "sector": "Utilities"
+    },
+    "ELP": {
+        "cik_str": 1041792,
+        "ticker": "ELP",
+        "title": "ENERGY CO OF PARANA",
+        "sector": "Utilities"
+    },
+    "AY": {
+        "cik_str": 1601072,
+        "ticker": "AY",
+        "title": "Atlantica Sustainable Infrastructure plc",
+        "sector": "Utilities"
+    },
+    "NFE": {
+        "cik_str": 1749723,
+        "ticker": "NFE",
+        "title": "New Fortress Energy Inc.",
+        "sector": "Utilities"
+    },
+    "PEGRY": {
+        "cik_str": 1455633,
+        "ticker": "PEGRY",
+        "title": "Pennon Group Plc / ADR",
+        "sector": "Utilities"
+    },
+    "CEPU": {
+        "cik_str": 1717161,
+        "ticker": "CEPU",
+        "title": "CENTRAL PUERTO S.A.",
+        "sector": "Utilities"
+    },
+    "RNW": {
+        "cik_str": 1848763,
+        "ticker": "RNW",
+        "title": "ReNew Energy Global plc",
+        "sector": "Utilities"
+    },
+    "CTRI": {
+        "cik_str": 1981599,
+        "ticker": "CTRI",
+        "title": "Centuri Holdings, Inc.",
+        "sector": "Utilities"
+    },
+    "ENLT": {
+        "cik_str": 1922641,
+        "ticker": "ENLT",
+        "title": "Enlight Renewable Energy Ltd.",
+        "sector": "Utilities"
+    },
+    "SJW": {
+        "cik_str": 766829,
+        "ticker": "SJW",
+        "title": "SJW GROUP",
+        "sector": "Utilities"
+    },
+    "HE": {
+        "cik_str": 354707,
+        "ticker": "HE",
+        "title": "HAWAIIAN ELECTRIC INDUSTRIES INC",
+        "sector": "Utilities"
+    },
+    "NWN": {
+        "cik_str": 1733998,
+        "ticker": "NWN",
+        "title": "Northwest Natural Holding Co",
+        "sector": "Utilities"
+    },
+    "EDN": {
+        "cik_str": 1395213,
+        "ticker": "EDN",
+        "title": "EDENOR",
+        "sector": "Utilities"
+    },
+    "AILIH": {
+        "cik_str": 18654,
+        "ticker": "AILIH",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "ARIS": {
+        "cik_str": 1865187,
+        "ticker": "ARIS",
+        "title": "Aris Water Solutions, Inc.",
+        "sector": "Utilities"
+    },
+    "NEP": {
+        "cik_str": 1603145,
+        "ticker": "NEP",
+        "title": "NEXTERA ENERGY PARTNERS, LP",
+        "sector": "Utilities"
+    },
+    "KEN": {
+        "cik_str": 1611005,
+        "ticker": "KEN",
+        "title": "Kenon Holdings Ltd.",
+        "sector": "Utilities"
+    },
+    "MSEX": {
+        "cik_str": 66004,
+        "ticker": "MSEX",
+        "title": "MIDDLESEX WATER CO",
+        "sector": "Utilities"
+    },
+    "SPH": {
+        "cik_str": 1005210,
+        "ticker": "SPH",
+        "title": "SUBURBAN PROPANE PARTNERS LP",
+        "sector": "Utilities"
+    },
+    "UTL": {
+        "cik_str": 755001,
+        "ticker": "UTL",
+        "title": "UNITIL CORP",
+        "sector": "Utilities"
+    },
+    "AMPS": {
+        "cik_str": 1828723,
+        "ticker": "AMPS",
+        "title": "Altus Power, Inc.",
+        "sector": "Utilities"
+    },
+    "OPAL": {
+        "cik_str": 1842279,
+        "ticker": "OPAL",
+        "title": "OPAL Fuels Inc.",
+        "sector": "Utilities"
+    },
+    "MNTK": {
+        "cik_str": 1826600,
+        "ticker": "MNTK",
+        "title": "Montauk Renewables, Inc.",
+        "sector": "Utilities"
+    },
+    "YORW": {
+        "cik_str": 108985,
+        "ticker": "YORW",
+        "title": "YORK WATER CO",
+        "sector": "Utilities"
+    },
+    "GNE": {
+        "cik_str": 1528356,
+        "ticker": "GNE",
+        "title": "Genie Energy Ltd.",
+        "sector": "Utilities"
+    },
+    "CWCO": {
+        "cik_str": 928340,
+        "ticker": "CWCO",
+        "title": "Consolidated Water Co. Ltd.",
+        "sector": "Utilities"
+    },
+    "ARTNA": {
+        "cik_str": 863110,
+        "ticker": "ARTNA",
+        "title": "ARTESIAN RESOURCES CORP",
+        "sector": "Utilities"
+    },
+    "PCYO": {
+        "cik_str": 276720,
+        "ticker": "PCYO",
+        "title": "PURE CYCLE CORP",
+        "sector": "Utilities"
+    },
+    "GWRS": {
+        "cik_str": 1434728,
+        "ticker": "GWRS",
+        "title": "Global Water Resources, Inc.",
+        "sector": "Utilities"
+    },
+    "CDZI": {
+        "cik_str": 727273,
+        "ticker": "CDZI",
+        "title": "CADIZ INC",
+        "sector": "Utilities"
+    },
+    "NRGV": {
+        "cik_str": 1828536,
+        "ticker": "NRGV",
+        "title": "Energy Vault Holdings, Inc.",
+        "sector": "Utilities"
+    },
+    "ELLO": {
+        "cik_str": 946394,
+        "ticker": "ELLO",
+        "title": "Ellomay Capital Ltd.",
+        "sector": "Utilities"
+    },
+    "RGCO": {
+        "cik_str": 1069533,
+        "ticker": "RGCO",
+        "title": "RGC RESOURCES INC",
+        "sector": "Utilities"
+    },
+    "VGAS": {
+        "cik_str": 1841425,
+        "ticker": "VGAS",
+        "title": "Verde Clean Fuels, Inc.",
+        "sector": "Utilities"
+    },
+    "SUUN": {
+        "cik_str": 2011053,
+        "ticker": "SUUN",
+        "title": "SolarBank Corp",
+        "sector": "Utilities"
+    },
+    "STEM": {
+        "cik_str": 1758766,
+        "ticker": "STEM",
+        "title": "STEM, INC.",
+        "sector": "Utilities"
+    },
+    "WAVE": {
+        "cik_str": 1846715,
+        "ticker": "WAVE",
+        "title": "Eco Wave Power Global AB (publ)",
+        "sector": "Utilities"
+    },
+    "CETI": {
+        "cik_str": 1935092,
+        "ticker": "CETI",
+        "title": "Cyber Enviro-Tech, Inc.",
+        "sector": "Utilities"
+    },
+    "WNDW": {
+        "cik_str": 1071840,
+        "ticker": "WNDW",
+        "title": "SolarWindow Technologies, Inc.",
+        "sector": "Utilities"
+    },
+    "GEBRF": {
+        "cik_str": 1570843,
+        "ticker": "GEBRF",
+        "title": "Greenbriar Sustainable Living Inc.",
+        "sector": "Utilities"
+    },
+    "ADN": {
+        "cik_str": 1744494,
+        "ticker": "ADN",
+        "title": "ADVENT TECHNOLOGIES HOLDINGS, INC.",
+        "sector": "Utilities"
+    },
+    "CLNV": {
+        "cik_str": 1391426,
+        "ticker": "CLNV",
+        "title": "Clean Vision Corp",
+        "sector": "Utilities"
+    },
+    "HLGN": {
+        "cik_str": 1840292,
+        "ticker": "HLGN",
+        "title": "Heliogen, Inc.",
+        "sector": "Utilities"
+    },
+    "ASRE": {
+        "cik_str": 1231339,
+        "ticker": "ASRE",
+        "title": "Astra Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "CREG": {
+        "cik_str": 721693,
+        "ticker": "CREG",
+        "title": "Smart Powerr Corp.",
+        "sector": "Utilities"
+    },
+    "HTOO": {
+        "cik_str": 1819794,
+        "ticker": "HTOO",
+        "title": "Fusion Fuel Green PLC",
+        "sector": "Utilities"
+    },
+    "BNRG": {
+        "cik_str": 1901215,
+        "ticker": "BNRG",
+        "title": "Brenmiller Energy Ltd.",
+        "sector": "Utilities"
+    },
+    "ALCE": {
+        "cik_str": 1883984,
+        "ticker": "ALCE",
+        "title": "Alternus Clean Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "ELIQQ": {
+        "cik_str": 1827871,
+        "ticker": "ELIQQ",
+        "title": "Electriq Power Holdings, Inc.",
+        "sector": "Utilities"
+    },
+    "VENG": {
+        "cik_str": 1676580,
+        "ticker": "VENG",
+        "title": "VISION ENERGY Corp",
+        "sector": "Utilities"
+    },
+    "ETI-P": {
+        "cik_str": 1427437,
+        "ticker": "ETI-P",
+        "title": "ENTERGY TEXAS, INC.",
+        "sector": "Utilities"
+    },
+    "ITRE": {
+        "cik_str": 1861448,
+        "ticker": "ITRE",
+        "title": "IntriEnergy, Inc.",
+        "sector": "Utilities"
+    },
+    "DUK-PA": {
+        "cik_str": 1326160,
+        "ticker": "DUK-PA",
+        "title": "Duke Energy CORP",
+        "sector": "Utilities"
+    },
+    "OEZVF": {
+        "cik_str": 1021020,
+        "ticker": "OEZVF",
+        "title": "OSTERREICHISCHE ELEKTRIZITATSWIRTSCHAFTS /FI",
+        "sector": "Utilities"
+    },
+    "PPWLM": {
+        "cik_str": 75594,
+        "ticker": "PPWLM",
+        "title": "PACIFICORP /OR/",
+        "sector": "Utilities"
+    },
+    "NGGTF": {
+        "cik_str": 1004315,
+        "ticker": "NGGTF",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Utilities"
+    },
+    "PPWLO": {
+        "cik_str": 75594,
+        "ticker": "PPWLO",
+        "title": "PACIFICORP /OR/",
+        "sector": "Utilities"
+    },
+    "HRNNF": {
+        "cik_str": 1712356,
+        "ticker": "HRNNF",
+        "title": "Hydro One Ltd",
+        "sector": "Utilities"
+    },
+    "HUNGF": {
+        "cik_str": 929058,
+        "ticker": "HUNGF",
+        "title": "HUANENG POWER INTERNATIONAL INC",
+        "sector": "Utilities"
+    },
+    "ERRAF": {
+        "cik_str": 1127248,
+        "ticker": "ERRAF",
+        "title": "EMERA INC",
+        "sector": "Utilities"
+    },
+    "RDEIF": {
+        "cik_str": 1438654,
+        "ticker": "RDEIF",
+        "title": "Red Electrica Corporacion SA/ADR",
+        "sector": "Utilities"
+    },
+    "UEPCN": {
+        "cik_str": 100826,
+        "ticker": "UEPCN",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "UEPEO": {
+        "cik_str": 100826,
+        "ticker": "UEPEO",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "UEPEP": {
+        "cik_str": 100826,
+        "ticker": "UEPEP",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "UEPCP": {
+        "cik_str": 100826,
+        "ticker": "UEPCP",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "UEPEM": {
+        "cik_str": 100826,
+        "ticker": "UEPEM",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "UEPEN": {
+        "cik_str": 100826,
+        "ticker": "UEPEN",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "CIG-C": {
+        "cik_str": 1157557,
+        "ticker": "CIG-C",
+        "title": "ENERGY CO OF MINAS GERAIS",
+        "sector": "Utilities"
+    },
+    "CWEN-A": {
+        "cik_str": 1567683,
+        "ticker": "CWEN-A",
+        "title": "Clearway Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "PPENF": {
+        "cik_str": 1469395,
+        "ticker": "PPENF",
+        "title": "Pampa Energy Inc.",
+        "sector": "Utilities"
+    },
+    "SR-PA": {
+        "cik_str": 1126956,
+        "ticker": "SR-PA",
+        "title": "SPIRE INC",
+        "sector": "Utilities"
+    },
+    "MYTHF": {
+        "cik_str": 1437470,
+        "ticker": "MYTHF",
+        "title": "Mytilineos Holdings S.A.",
+        "sector": "Utilities"
+    },
+    "PEGRF": {
+        "cik_str": 1455633,
+        "ticker": "PEGRF",
+        "title": "Pennon Group Plc / ADR",
+        "sector": "Utilities"
+    },
+    "AILLI": {
+        "cik_str": 18654,
+        "ticker": "AILLI",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "AILLM": {
+        "cik_str": 18654,
+        "ticker": "AILLM",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "AILLN": {
+        "cik_str": 18654,
+        "ticker": "AILLN",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "AILIM": {
+        "cik_str": 18654,
+        "ticker": "AILIM",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "AILLO": {
+        "cik_str": 18654,
+        "ticker": "AILLO",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "AILIN": {
+        "cik_str": 18654,
+        "ticker": "AILIN",
+        "title": "Ameren Illinois Co",
+        "sector": "Utilities"
+    },
+    "EBR-B": {
+        "cik_str": 1439124,
+        "ticker": "EBR-B",
+        "title": "BRAZILIAN ELECTRIC POWER CO",
+        "sector": "Utilities"
+    },
+    "ARTNB": {
+        "cik_str": 863110,
+        "ticker": "ARTNB",
+        "title": "ARTESIAN RESOURCES CORP",
+        "sector": "Utilities"
+    },
+    "CNTHP": {
+        "cik_str": 23426,
+        "ticker": "CNTHP",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLPL": {
+        "cik_str": 23426,
+        "ticker": "CNLPL",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNTHO": {
+        "cik_str": 23426,
+        "ticker": "CNTHO",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNTHN": {
+        "cik_str": 23426,
+        "ticker": "CNTHN",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLHO": {
+        "cik_str": 23426,
+        "ticker": "CNLHO",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLHP": {
+        "cik_str": 23426,
+        "ticker": "CNLHP",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLTP": {
+        "cik_str": 23426,
+        "ticker": "CNLTP",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLTL": {
+        "cik_str": 23426,
+        "ticker": "CNLTL",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNPWM": {
+        "cik_str": 23426,
+        "ticker": "CNPWM",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNPWP": {
+        "cik_str": 23426,
+        "ticker": "CNPWP",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLPM": {
+        "cik_str": 23426,
+        "ticker": "CNLPM",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLTN": {
+        "cik_str": 23426,
+        "ticker": "CNLTN",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "CNLHN": {
+        "cik_str": 23426,
+        "ticker": "CNLHN",
+        "title": "CONNECTICUT LIGHT & POWER CO",
+        "sector": "Utilities"
+    },
+    "AZREF": {
+        "cik_str": 1633438,
+        "ticker": "AZREF",
+        "title": "Azure Power Global Ltd",
+        "sector": "Utilities"
+    },
+    "PWCO": {
+        "cik_str": 733337,
+        "ticker": "PWCO",
+        "title": "PwrCor, Inc.",
+        "sector": "Utilities"
+    },
+    "CPWR": {
+        "cik_str": 827099,
+        "ticker": "CPWR",
+        "title": "Ocean Thermal Energy Corp",
+        "sector": "Utilities"
+    },
+    "MMMW": {
+        "cik_str": 1117228,
+        "ticker": "MMMW",
+        "title": "MASS MEGAWATTS WIND POWER INC",
+        "sector": "Utilities"
+    },
+    "BIP-PA": {
+        "cik_str": 1406234,
+        "ticker": "BIP-PA",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Utilities"
+    },
+    "BIP-PB": {
+        "cik_str": 1406234,
+        "ticker": "BIP-PB",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Utilities"
+    },
+    "VIASP": {
+        "cik_str": 1606268,
+        "ticker": "VIASP",
+        "title": "Via Renewables, Inc.",
+        "sector": "Utilities"
+    },
+    "HLGNW": {
+        "cik_str": 1840292,
+        "ticker": "HLGNW",
+        "title": "Heliogen, Inc.",
+        "sector": "Utilities"
+    },
+    "CMS-PC": {
+        "cik_str": 811156,
+        "ticker": "CMS-PC",
+        "title": "CMS ENERGY CORP",
+        "sector": "Utilities"
+    },
+    "ADNWW": {
+        "cik_str": 1744494,
+        "ticker": "ADNWW",
+        "title": "ADVENT TECHNOLOGIES HOLDINGS, INC.",
+        "sector": "Utilities"
+    },
+    "ACLEW": {
+        "cik_str": 1883984,
+        "ticker": "ACLEW",
+        "title": "Alternus Clean Energy, Inc.",
+        "sector": "Utilities"
+    },
+    "HTOOW": {
+        "cik_str": 1819794,
+        "ticker": "HTOOW",
+        "title": "Fusion Fuel Green PLC",
+        "sector": "Utilities"
+    },
+    "NEE-PR": {
+        "cik_str": 753308,
+        "ticker": "NEE-PR",
+        "title": "NEXTERA ENERGY INC",
+        "sector": "Utilities"
+    },
+    "NEE-PS": {
+        "cik_str": 753308,
+        "ticker": "NEE-PS",
+        "title": "NEXTERA ENERGY INC",
+        "sector": "Utilities"
+    },
+    "NEE-PT": {
+        "cik_str": 753308,
+        "ticker": "NEE-PT",
+        "title": "NEXTERA ENERGY INC",
+        "sector": "Utilities"
+    },
+    "UEPCO": {
+        "cik_str": 100826,
+        "ticker": "UEPCO",
+        "title": "UNION ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "ELCPF": {
+        "cik_str": 1039610,
+        "ticker": "ELCPF",
+        "title": "EDP ENERGIAS DE PORTUGAL SA",
+        "sector": "Utilities"
+    },
+    "RNWWW": {
+        "cik_str": 1848763,
+        "ticker": "RNWWW",
+        "title": "ReNew Energy Global plc",
+        "sector": "Utilities"
+    },
+    "FORFF": {
+        "cik_str": 1666175,
+        "ticker": "FORFF",
+        "title": "Fortis Inc.",
+        "sector": "Utilities"
+    },
+    "FTRSF": {
+        "cik_str": 1666175,
+        "ticker": "FTRSF",
+        "title": "Fortis Inc.",
+        "sector": "Utilities"
+    },
+    "ELPC": {
+        "cik_str": 1041792,
+        "ticker": "ELPC",
+        "title": "ENERGY CO OF PARANA",
+        "sector": "Utilities"
+    },
+    "WELPM": {
+        "cik_str": 107815,
+        "ticker": "WELPM",
+        "title": "WISCONSIN ELECTRIC POWER CO",
+        "sector": "Utilities"
+    },
+    "UUGWF": {
+        "cik_str": 1440130,
+        "ticker": "UUGWF",
+        "title": "United Utilities Group plc",
+        "sector": "Utilities"
+    },
+    "NSARO": {
+        "cik_str": 13372,
+        "ticker": "NSARO",
+        "title": "NSTAR ELECTRIC CO",
+        "sector": "Utilities"
+    },
+    "CDZIP": {
+        "cik_str": 727273,
+        "ticker": "CDZIP",
+        "title": "CADIZ INC",
+        "sector": "Utilities"
+    },
+    "BEP-PA": {
+        "cik_str": 1533232,
+        "ticker": "BEP-PA",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Utilities"
+    },
+    "BRENF": {
+        "cik_str": 1533232,
+        "ticker": "BRENF",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Utilities"
+    }
+}

@@ -1,0 +1,7296 @@
+{
+    "SPY": {
+        "cik_str": 884394,
+        "ticker": "SPY",
+        "title": "SPDR S&P 500 ETF TRUST",
+        "sector": "Unknown"
+    },
+    "QQQ": {
+        "cik_str": 1067839,
+        "ticker": "QQQ",
+        "title": "INVESCO QQQ TRUST, SERIES 1",
+        "sector": "Unknown"
+    },
+    "GLD": {
+        "cik_str": 1222333,
+        "ticker": "GLD",
+        "title": "SPDR GOLD TRUST",
+        "sector": "Unknown"
+    },
+    "GBTC": {
+        "cik_str": 1588489,
+        "ticker": "GBTC",
+        "title": "Grayscale Bitcoin Trust ETF",
+        "sector": "Unknown"
+    },
+    "IAU": {
+        "cik_str": 1278680,
+        "ticker": "IAU",
+        "title": "ISHARES GOLD TRUST",
+        "sector": "Unknown"
+    },
+    "DIA": {
+        "cik_str": 1041130,
+        "ticker": "DIA",
+        "title": "SPDR DOW JONES INDUSTRIAL AVERAGE ETF TRUST",
+        "sector": "Unknown"
+    },
+    "MDY": {
+        "cik_str": 936958,
+        "ticker": "MDY",
+        "title": "SPDR S&P MIDCAP 400 ETF TRUST",
+        "sector": "Unknown"
+    },
+    "GNRC": {
+        "cik_str": 1474735,
+        "ticker": "GNRC",
+        "title": "GENERAC HOLDINGS INC."
+    },
+    "TTEK": {
+        "cik_str": 831641,
+        "ticker": "TTEK",
+        "title": "TETRA TECH INC"
+    },
+    "PRMB": {
+        "cik_str": 2042694,
+        "ticker": "PRMB",
+        "title": "Primo Brands Corp",
+        "sector": "Unknown"
+    },
+    "SMKUY": {
+        "cik_str": 1555812,
+        "ticker": "SMKUY",
+        "title": "Siam Makro Public Co Limited/ADR",
+        "sector": "Unknown"
+    },
+    "SLV": {
+        "cik_str": 1330568,
+        "ticker": "SLV",
+        "title": "iShares Silver Trust",
+        "sector": "Unknown"
+    },
+    "USO": {
+        "cik_str": 1327068,
+        "ticker": "USO",
+        "title": "United States Oil Fund, LP",
+        "sector": "Unknown"
+    },
+    "PHYS": {
+        "cik_str": 1477049,
+        "ticker": "PHYS",
+        "title": "Sprott Physical Gold Trust",
+        "sector": "Unknown"
+    },
+    "SOBO": {
+        "cik_str": 2019061,
+        "ticker": "SOBO",
+        "title": "South Bow Corp",
+        "sector": "Unknown"
+    },
+    "PSLV": {
+        "cik_str": 1494728,
+        "ticker": "PSLV",
+        "title": "Sprott Physical Silver Trust",
+        "sector": "Unknown"
+    },
+    "CEF": {
+        "cik_str": 1726122,
+        "ticker": "CEF",
+        "title": "Sprott Physical Gold & Silver Trust",
+        "sector": "Unknown"
+    },
+    "SNRE": {
+        "cik_str": 2021938,
+        "ticker": "SNRE",
+        "title": "Sunrise Communications AG",
+        "sector": "Unknown"
+    },
+    "DBC": {
+        "cik_str": 1328237,
+        "ticker": "DBC",
+        "title": "Invesco DB Commodity Index Tracking Fund",
+        "sector": "Unknown"
+    },
+    "AYR": {
+        "cik_str": 1362988,
+        "ticker": "AYR",
+        "title": "Aircastle LTD",
+        "sector": "Unknown"
+    },
+    "LION": {
+        "cik_str": 2006191,
+        "ticker": "LION",
+        "title": "Lionsgate Studios Corp.",
+        "sector": "Unknown"
+    },
+    "MSDL": {
+        "cik_str": 1782524,
+        "ticker": "MSDL",
+        "title": "Morgan Stanley Direct Lending Fund",
+        "sector": "Unknown"
+    },
+    "OBDE": {
+        "cik_str": 1807427,
+        "ticker": "OBDE",
+        "title": "Blue Owl Capital Corp III",
+        "sector": "Unknown"
+    },
+    "JAG": {
+        "cik_str": 2009460,
+        "ticker": "JAG",
+        "title": "Job Aire Group Inc.",
+        "sector": "Unknown"
+    },
+    "ECAT": {
+        "cik_str": 1864843,
+        "ticker": "ECAT",
+        "title": "BlackRock ESG Capital Allocation Term Trust",
+        "sector": "Unknown"
+    },
+    "BCAT": {
+        "cik_str": 1809541,
+        "ticker": "BCAT",
+        "title": "BlackRock Capital Allocation Term Trust",
+        "sector": "Unknown"
+    },
+    "BMEZ": {
+        "cik_str": 1785971,
+        "ticker": "BMEZ",
+        "title": "BlackRock Health Sciences Term Trust",
+        "sector": "Unknown"
+    },
+    "GSG": {
+        "cik_str": 1332174,
+        "ticker": "GSG",
+        "title": "iShares S&P GSCI Commodity-Indexed Trust",
+        "sector": "Unknown"
+    },
+    "PDX": {
+        "cik_str": 1756908,
+        "ticker": "PDX",
+        "title": "PIMCO Dynamic Income Strategy Fund",
+        "sector": "Unknown"
+    },
+    "KBDC": {
+        "cik_str": 1747172,
+        "ticker": "KBDC",
+        "title": "Kayne Anderson BDC, Inc.",
+        "sector": "Unknown"
+    },
+    "EAI": {
+        "cik_str": 7323,
+        "ticker": "EAI",
+        "title": "ENTERGY ARKANSAS, LLC",
+        "sector": "Unknown"
+    },
+    "NBXG": {
+        "cik_str": 1843181,
+        "ticker": "NBXG",
+        "title": "Neuberger Berman Next Generation Connectivity Fund Inc.",
+        "sector": "Unknown"
+    },
+    "NCDL": {
+        "cik_str": 1737924,
+        "ticker": "NCDL",
+        "title": "Nuveen Churchill Direct Lending Corp.",
+        "sector": "Unknown"
+    },
+    "AIO": {
+        "cik_str": 1778114,
+        "ticker": "AIO",
+        "title": "Virtus Artificial Intelligence & Technology Opportunities Fund",
+        "sector": "Unknown"
+    },
+    "DLY": {
+        "cik_str": 1788399,
+        "ticker": "DLY",
+        "title": "DoubleLine Yield Opportunities Fund",
+        "sector": "Unknown"
+    },
+    "WDI": {
+        "cik_str": 1819559,
+        "ticker": "WDI",
+        "title": "Western Asset Diversified Income Fund (WDI)",
+        "sector": "Unknown"
+    },
+    "ORKA": {
+        "cik_str": 907654,
+        "ticker": "ORKA",
+        "title": "Oruka Therapeutics, Inc.",
+        "sector": "Unknown"
+    },
+    "DBA": {
+        "cik_str": 1383082,
+        "ticker": "DBA",
+        "title": "INVESCO DB AGRICULTURE FUND",
+        "sector": "Unknown"
+    },
+    "MEGI": {
+        "cik_str": 1855066,
+        "ticker": "MEGI",
+        "title": "NYLI CBRE Global Infrastructure Megatrends Term Fund",
+        "sector": "Unknown"
+    },
+    "MAGN": {
+        "cik_str": 41719,
+        "ticker": "MAGN",
+        "title": "Magnera Corp",
+        "sector": "Unknown"
+    },
+    "SVA": {
+        "cik_str": 1084201,
+        "ticker": "SVA",
+        "title": "SINOVAC BIOTECH LTD",
+        "sector": "Unknown"
+    },
+    "GDLC": {
+        "cik_str": 1729997,
+        "ticker": "GDLC",
+        "title": "Grayscale Digital Large Cap Fund LLC",
+        "sector": "Unknown"
+    },
+    "NDMO": {
+        "cik_str": 1793129,
+        "ticker": "NDMO",
+        "title": "Nuveen Dynamic Municipal Opportunities Fund",
+        "sector": "Unknown"
+    },
+    "LDP": {
+        "cik_str": 1548717,
+        "ticker": "LDP",
+        "title": "Cohen & Steers Ltd Duration Preferred & Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "FTHY": {
+        "cik_str": 1810523,
+        "ticker": "FTHY",
+        "title": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
+        "sector": "Unknown"
+    },
+    "TBLD": {
+        "cik_str": 1820378,
+        "ticker": "TBLD",
+        "title": "Thornburg Income Builder Opportunities Trust",
+        "sector": "Unknown"
+    },
+    "GUG": {
+        "cik_str": 1864208,
+        "ticker": "GUG",
+        "title": "Guggenheim Active Allocation Fund",
+        "sector": "Unknown"
+    },
+    "PSBD": {
+        "cik_str": 1794776,
+        "ticker": "PSBD",
+        "title": "Palmer Square Capital BDC Inc.",
+        "sector": "Unknown"
+    },
+    "ASGI": {
+        "cik_str": 1793855,
+        "ticker": "ASGI",
+        "title": "abrdn Global Infrastructure Income Fund",
+        "sector": "Unknown"
+    },
+    "SCGY": {
+        "cik_str": 1276531,
+        "ticker": "SCGY",
+        "title": "SCIENTIFIC ENERGY, INC",
+        "sector": "Unknown"
+    },
+    "EQV": {
+        "cik_str": 2021042,
+        "ticker": "EQV",
+        "title": "EQV Ventures Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "AAM": {
+        "cik_str": 2012964,
+        "ticker": "AAM",
+        "title": "AA Mission Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "DXYZ": {
+        "cik_str": 1843974,
+        "ticker": "DXYZ",
+        "title": "Destiny Tech100 Inc.",
+        "sector": "Unknown"
+    },
+    "NMAI": {
+        "cik_str": 1861115,
+        "ticker": "NMAI",
+        "title": "Nuveen Multi-Asset Income Fund",
+        "sector": "Unknown"
+    },
+    "DBO": {
+        "cik_str": 1383058,
+        "ticker": "DBO",
+        "title": "Invesco DB Oil Fund",
+        "sector": "Unknown"
+    },
+    "SDHY": {
+        "cik_str": 1812923,
+        "ticker": "SDHY",
+        "title": "PGIM Short Duration High Yield Opportunities Fund",
+        "sector": "Unknown"
+    },
+    "XFLT": {
+        "cik_str": 1703079,
+        "ticker": "XFLT",
+        "title": "XAI Octagon Floating Rate & Alternative Income Trust",
+        "sector": "Unknown"
+    },
+    "CCIX": {
+        "cik_str": 2006291,
+        "ticker": "CCIX",
+        "title": "Churchill Capital Corp IX/Cayman",
+        "sector": "Unknown"
+    },
+    "VCIC": {
+        "cik_str": 2025396,
+        "ticker": "VCIC",
+        "title": "Vine Hill Capital Investment Corp.",
+        "sector": "Unknown"
+    },
+    "ALF": {
+        "cik_str": 2010930,
+        "ticker": "ALF",
+        "title": "Centurion Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "MBAV": {
+        "cik_str": 2016072,
+        "ticker": "MBAV",
+        "title": "M3-Brigade Acquisition V Corp.",
+        "sector": "Unknown"
+    },
+    "RFMZ": {
+        "cik_str": 1817159,
+        "ticker": "RFMZ",
+        "title": "RiverNorth Flexible Municipal Income Fund II, Inc.",
+        "sector": "Unknown"
+    },
+    "GIG": {
+        "cik_str": 2023730,
+        "ticker": "GIG",
+        "title": "GigCapital7 Corp.",
+        "sector": "Unknown"
+    },
+    "ZJK": {
+        "cik_str": 1941506,
+        "ticker": "ZJK",
+        "title": "ZJK Industrial Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "VACH": {
+        "cik_str": 2006815,
+        "ticker": "VACH",
+        "title": "Voyager Acquisition Corp./Cayman Islands",
+        "sector": "Unknown"
+    },
+    "CUB": {
+        "cik_str": 2015955,
+        "ticker": "CUB",
+        "title": "Lionheart Holdings",
+        "sector": "Unknown"
+    },
+    "SIMA": {
+        "cik_str": 2014982,
+        "ticker": "SIMA",
+        "title": "SIM Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "CPZ": {
+        "cik_str": 1717457,
+        "ticker": "CPZ",
+        "title": "Calamos Long/Short Equity & Dynamic Income Trust",
+        "sector": "Unknown"
+    },
+    "POLE": {
+        "cik_str": 2025341,
+        "ticker": "POLE",
+        "title": "Andretti Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "LPAA": {
+        "cik_str": 2015502,
+        "ticker": "LPAA",
+        "title": "Launch One Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "HOND": {
+        "cik_str": 2019804,
+        "ticker": "HOND",
+        "title": "HCM II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "ZTR": {
+        "cik_str": 836412,
+        "ticker": "ZTR",
+        "title": "Virtus Total Return Fund Inc.",
+        "sector": "Unknown"
+    },
+    "SSCC": {
+        "cik_str": 1881767,
+        "ticker": "SSCC",
+        "title": "Spirits Capital Corp",
+        "sector": "Unknown"
+    },
+    "LTCN": {
+        "cik_str": 1732406,
+        "ticker": "LTCN",
+        "title": "Grayscale Litecoin Trust (LTC)",
+        "sector": "Unknown"
+    },
+    "EBFI": {
+        "cik_str": 1919182,
+        "ticker": "EBFI",
+        "title": "Eco Bright Future, Inc.",
+        "sector": "Unknown"
+    },
+    "BCHG": {
+        "cik_str": 1732409,
+        "ticker": "BCHG",
+        "title": "Grayscale Bitcoin Cash Trust (BCH)",
+        "sector": "Unknown"
+    },
+    "AGD": {
+        "cik_str": 1362481,
+        "ticker": "AGD",
+        "title": "abrdn Global Dynamic Dividend Fund",
+        "sector": "Unknown"
+    },
+    "HAWEL": {
+        "cik_str": 46207,
+        "ticker": "HAWEL",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "CLBR": {
+        "cik_str": 1995413,
+        "ticker": "CLBR",
+        "title": "COLOMBIER ACQUISITION CORP. II",
+        "sector": "Unknown"
+    },
+    "MACI": {
+        "cik_str": 2016221,
+        "ticker": "MACI",
+        "title": "Melar Acquisition Corp. I/Cayman",
+        "sector": "Unknown"
+    },
+    "DBB": {
+        "cik_str": 1383084,
+        "ticker": "DBB",
+        "title": "INVESCO DB BASE METALS FUND",
+        "sector": "Unknown"
+    },
+    "GPJA": {
+        "cik_str": 41091,
+        "ticker": "GPJA",
+        "title": "GEORGIA POWER CO",
+        "sector": "Unknown"
+    },
+    "DBP": {
+        "cik_str": 1383057,
+        "ticker": "DBP",
+        "title": "Invesco DB Precious Metals Fund",
+        "sector": "Unknown"
+    },
+    "MIO": {
+        "cik_str": 1864290,
+        "ticker": "MIO",
+        "title": "Pioneer Municipal High Income Opportunities Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "ASPC": {
+        "cik_str": 1890361,
+        "ticker": "ASPC",
+        "title": "ASPAC III Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "KGNR": {
+        "cik_str": 1593773,
+        "ticker": "KGNR",
+        "title": "AMJ Global Technology",
+        "sector": "Unknown"
+    },
+    "FXE": {
+        "cik_str": 1328598,
+        "ticker": "FXE",
+        "title": "Invesco CurrencyShares Euro Trust",
+        "sector": "Unknown"
+    },
+    "ENJ": {
+        "cik_str": 71508,
+        "ticker": "ENJ",
+        "title": "ENTERGY NEW ORLEANS, LLC",
+        "sector": "Unknown"
+    },
+    "EMP": {
+        "cik_str": 66901,
+        "ticker": "EMP",
+        "title": "ENTERGY MISSISSIPPI, LLC",
+        "sector": "Unknown"
+    },
+    "BSII": {
+        "cik_str": 2025065,
+        "ticker": "BSII",
+        "title": "Black Spade Acquisition II Co",
+        "sector": "Unknown"
+    },
+    "UNG": {
+        "cik_str": 1376227,
+        "ticker": "UNG",
+        "title": "United States Natural Gas Fund, LP",
+        "sector": "Unknown"
+    },
+    "HGLB": {
+        "cik_str": 1622148,
+        "ticker": "HGLB",
+        "title": "HIGHLAND GLOBAL ALLOCATION FUND",
+        "sector": "Unknown"
+    },
+    "TDAC": {
+        "cik_str": 1926599,
+        "ticker": "TDAC",
+        "title": "Translational Development Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "FACT": {
+        "cik_str": 2028935,
+        "ticker": "FACT",
+        "title": "FACT II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "RFAI": {
+        "cik_str": 2012807,
+        "ticker": "RFAI",
+        "title": "RF Acquisition Corp II",
+        "sector": "Unknown"
+    },
+    "SPPP": {
+        "cik_str": 1539190,
+        "ticker": "SPPP",
+        "title": "SPROTT PHYSICAL PLATINUM & PALLADIUM TRUST",
+        "sector": "Unknown"
+    },
+    "HURA": {
+        "cik_str": 1498382,
+        "ticker": "HURA",
+        "title": "TuHURA Biosciences, Inc./NV",
+        "sector": "Unknown"
+    },
+    "PDCC": {
+        "cik_str": 1998043,
+        "ticker": "PDCC",
+        "title": "Pearl Diver Credit Co Inc.",
+        "sector": "Unknown"
+    },
+    "RMMZ": {
+        "cik_str": 1870833,
+        "ticker": "RMMZ",
+        "title": "RiverNorth Managed Duration Municipal Income Fund II, Inc.",
+        "sector": "Unknown"
+    },
+    "DBE": {
+        "cik_str": 1383062,
+        "ticker": "DBE",
+        "title": "Invesco DB Energy Fund",
+        "sector": "Unknown"
+    },
+    "FXY": {
+        "cik_str": 1353613,
+        "ticker": "FXY",
+        "title": "Invesco CurrencyShares Japanese Yen Trust",
+        "sector": "Unknown"
+    },
+    "ASFH": {
+        "cik_str": 1828748,
+        "ticker": "ASFH",
+        "title": "ASIAFIN HOLDINGS CORP.",
+        "sector": "Unknown"
+    },
+    "HCIL": {
+        "cik_str": 1086303,
+        "ticker": "HCIL",
+        "title": "Hongchang International Co., Ltd",
+        "sector": "Unknown"
+    },
+    "CHEB": {
+        "cik_str": 2016420,
+        "ticker": "CHEB",
+        "title": "Chenghe Acquisition II Co.",
+        "sector": "Unknown"
+    },
+    "PCSC": {
+        "cik_str": 2017526,
+        "ticker": "PCSC",
+        "title": "Perceptive Capital Solutions Corp",
+        "sector": "Unknown"
+    },
+    "RMI": {
+        "cik_str": 1746967,
+        "ticker": "RMI",
+        "title": "RiverNorth Opportunistic Municipal Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "PHCI": {
+        "cik_str": 1620749,
+        "ticker": "PHCI",
+        "title": "Panamera Holdings Corp",
+        "sector": "Unknown"
+    },
+    "RFM": {
+        "cik_str": 1790177,
+        "ticker": "RFM",
+        "title": "RiverNorth Flexible Municipal Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "CURR": {
+        "cik_str": 1862935,
+        "ticker": "CURR",
+        "title": "Currenc Group Inc.",
+        "sector": "Unknown"
+    },
+    "YHNA": {
+        "cik_str": 2020987,
+        "ticker": "YHNA",
+        "title": "YHN Acquisition I Ltd",
+        "sector": "Unknown"
+    },
+    "CAPN": {
+        "cik_str": 2024203,
+        "ticker": "CAPN",
+        "title": "Cayson Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "FVN": {
+        "cik_str": 2010653,
+        "ticker": "FVN",
+        "title": "Future Vision II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "IHTA": {
+        "cik_str": 1698508,
+        "ticker": "IHTA",
+        "title": "Invesco High Income 2024 Target Term Fund",
+        "sector": "Unknown"
+    },
+    "RSF": {
+        "cik_str": 1644771,
+        "ticker": "RSF",
+        "title": "RiverNorth Capital & Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "HTLM": {
+        "cik_str": 2023153,
+        "ticker": "HTLM",
+        "title": "HomesToLife Ltd",
+        "sector": "Unknown"
+    },
+    "PTLE": {
+        "cik_str": 2016337,
+        "ticker": "PTLE",
+        "title": "PTL Ltd",
+        "sector": "Unknown"
+    },
+    "PITA": {
+        "cik_str": 1995194,
+        "ticker": "PITA",
+        "title": "Heramba Electric plc",
+        "sector": "Unknown"
+    },
+    "MLAC": {
+        "cik_str": 2029492,
+        "ticker": "MLAC",
+        "title": "Mountain Lake Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "FGL": {
+        "cik_str": 1989930,
+        "ticker": "FGL",
+        "title": "Founder Group Ltd",
+        "sector": "Unknown"
+    },
+    "ACOG": {
+        "cik_str": 1655923,
+        "ticker": "ACOG",
+        "title": "Alpha Cognition Inc.",
+        "sector": "Unknown"
+    },
+    "RMSG": {
+        "cik_str": 1983324,
+        "ticker": "RMSG",
+        "title": "Real Messenger Corp",
+        "sector": "Unknown"
+    },
+    "SFCO": {
+        "cik_str": 1831523,
+        "ticker": "SFCO",
+        "title": "Southern Financial Corp",
+        "sector": "Unknown"
+    },
+    "DMN": {
+        "cik_str": 2000640,
+        "ticker": "DMN",
+        "title": "Damon Inc.",
+        "sector": "Unknown"
+    },
+    "MDCX": {
+        "cik_str": 1997296,
+        "ticker": "MDCX",
+        "title": "Medicus Pharma Ltd.",
+        "sector": "Unknown"
+    },
+    "COOT": {
+        "cik_str": 1959994,
+        "ticker": "COOT",
+        "title": "Australian Oilseeds Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "CLIK": {
+        "cik_str": 2020027,
+        "ticker": "CLIK",
+        "title": "Click Holdings Ltd.",
+        "sector": "Unknown"
+    },
+    "UPYY": {
+        "cik_str": 1677897,
+        "ticker": "UPYY",
+        "title": "UPAY",
+        "sector": "Unknown"
+    },
+    "MKDW": {
+        "cik_str": 1991332,
+        "ticker": "MKDW",
+        "title": "MKDWELL Tech Inc.",
+        "sector": "Unknown"
+    },
+    "SNTW": {
+        "cik_str": 1619096,
+        "ticker": "SNTW",
+        "title": "Summit Networks Inc.",
+        "sector": "Unknown"
+    },
+    "PGFF": {
+        "cik_str": 1902700,
+        "ticker": "PGFF",
+        "title": "Pioneer Green Farms, Inc.",
+        "sector": "Unknown"
+    },
+    "ICDX": {
+        "cik_str": 1818550,
+        "ticker": "ICDX",
+        "title": "Incordex Corp.",
+        "sector": "Unknown"
+    },
+    "NIVF": {
+        "cik_str": 1981662,
+        "ticker": "NIVF",
+        "title": "NewGenIvf Group Ltd",
+        "sector": "Unknown"
+    },
+    "SUNE": {
+        "cik_str": 22701,
+        "ticker": "SUNE",
+        "title": "Pineapple Energy Inc.",
+        "sector": "Unknown"
+    },
+    "NAYA": {
+        "cik_str": 1417926,
+        "ticker": "NAYA",
+        "title": "NAYA Biosciences, Inc.",
+        "sector": "Unknown"
+    },
+    "PNYG": {
+        "cik_str": 1784058,
+        "ticker": "PNYG",
+        "title": "Pony Group Inc.",
+        "sector": "Unknown"
+    },
+    "PMVC": {
+        "cik_str": 1807765,
+        "ticker": "PMVC",
+        "title": "PMV Consumer Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "EQOSQ": {
+        "cik_str": 1790515,
+        "ticker": "EQOSQ",
+        "title": "EQONEX Ltd",
+        "sector": "Unknown"
+    },
+    "MMATQ": {
+        "cik_str": 1431959,
+        "ticker": "MMATQ",
+        "title": "META MATERIALS INC.",
+        "sector": "Unknown"
+    },
+    "BEAG": {
+        "cik_str": 1852207,
+        "ticker": "BEAG",
+        "title": "Bold Eagle Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "MKDTY": {
+        "cik_str": 1758736,
+        "ticker": "MKDTY",
+        "title": "Molecular Data Inc.",
+        "sector": "Unknown"
+    },
+    "STAI": {
+        "cik_str": 1994624,
+        "ticker": "STAI",
+        "title": "ScanTech AI Systems Inc.",
+        "sector": "Unknown"
+    },
+    "BRIA": {
+        "cik_str": 2000230,
+        "ticker": "BRIA",
+        "title": "BrilliA Inc",
+        "sector": "Unknown"
+    },
+    "LEC": {
+        "cik_str": 1936031,
+        "ticker": "LEC",
+        "title": "LAFAYETTE ENERGY CORP.",
+        "sector": "Unknown"
+    },
+    "LNKS": {
+        "cik_str": 1972074,
+        "ticker": "LNKS",
+        "title": "Linkers Industries Ltd",
+        "sector": "Unknown"
+    },
+    "CNCL": {
+        "cik_str": 1130889,
+        "ticker": "CNCL",
+        "title": "CANCER CAPITAL CORP",
+        "sector": "Unknown"
+    },
+    "AAAU": {
+        "cik_str": 1708646,
+        "ticker": "AAAU",
+        "title": "Goldman Sachs Physical Gold ETF",
+        "sector": "Unknown"
+    },
+    "AIMA": {
+        "cik_str": 1903464,
+        "ticker": "AIMA",
+        "title": "Aimfinity Investment Corp. I",
+        "sector": "Unknown"
+    },
+    "BTC": {
+        "cik_str": 2015034,
+        "ticker": "BTC",
+        "title": "Grayscale Bitcoin Mini Trust ETF",
+        "sector": "Unknown"
+    },
+    "AIDG": {
+        "cik_str": 1702015,
+        "ticker": "AIDG",
+        "title": "AIS Holdings Group, Inc.",
+        "sector": "Unknown"
+    },
+    "DIMR": {
+        "cik_str": 1621459,
+        "ticker": "DIMR",
+        "title": "DIAMIR BIOSCIENCES CORP.",
+        "sector": "Unknown"
+    },
+    "ETCG": {
+        "cik_str": 1705181,
+        "ticker": "ETCG",
+        "title": "Grayscale Ethereum Classic Trust (ETC)",
+        "sector": "Unknown"
+    },
+    "IBIT": {
+        "cik_str": 1980994,
+        "ticker": "IBIT",
+        "title": "iShares Bitcoin Trust ETF",
+        "sector": "Unknown"
+    },
+    "LIMN": {
+        "cik_str": 1971387,
+        "ticker": "LIMN",
+        "title": "Iris Parent Holding Corp.",
+        "sector": "Unknown"
+    },
+    "OHHH": {
+        "cik_str": 1878371,
+        "ticker": "OHHH",
+        "title": "Orion Haus Homes & Hotels Inc.",
+        "sector": "Unknown"
+    },
+    "GJO": {
+        "cik_str": 1340909,
+        "ticker": "GJO",
+        "title": "STRATS SM TRUST FOR WAL-MART STORES, INC. SECURITIES, SERIES 2005-4",
+        "sector": "Unknown"
+    },
+    "GLNS": {
+        "cik_str": 1375348,
+        "ticker": "GLNS",
+        "title": "Golden Star Resource Corp.",
+        "sector": "Unknown"
+    },
+    "ELC": {
+        "cik_str": 1348952,
+        "ticker": "ELC",
+        "title": "ENTERGY LOUISIANA, LLC",
+        "sector": "Unknown"
+    },
+    "NCT": {
+        "cik_str": 2018529,
+        "ticker": "NCT",
+        "title": "Intercont (Cayman) Ltd",
+        "sector": "Unknown"
+    },
+    "TLIH": {
+        "cik_str": 1982012,
+        "ticker": "TLIH",
+        "title": "Ten-League International Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "JACS": {
+        "cik_str": 2039058,
+        "ticker": "JACS",
+        "title": "Jackson Acquisition Co II",
+        "sector": "Unknown"
+    },
+    "OCAC": {
+        "cik_str": 1926314,
+        "ticker": "OCAC",
+        "title": "Ocean Capital Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "STAK": {
+        "cik_str": 2002453,
+        "ticker": "STAK",
+        "title": "STAK Inc.",
+        "sector": "Unknown"
+    },
+    "COLA": {
+        "cik_str": 2028201,
+        "ticker": "COLA",
+        "title": "Columbus Acquisition Corp/Cayman Islands",
+        "sector": "Unknown"
+    },
+    "CNCK": {
+        "cik_str": 1913847,
+        "ticker": "CNCK",
+        "title": "Coincheck Group B.V.",
+        "sector": "Unknown"
+    },
+    "RCT": {
+        "cik_str": 2027360,
+        "ticker": "RCT",
+        "title": "RedCloud Holdings plc",
+        "sector": "Unknown"
+    },
+    "FGO": {
+        "cik_str": 2004385,
+        "ticker": "FGO",
+        "title": "FG Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "GJH": {
+        "cik_str": 1286405,
+        "ticker": "GJH",
+        "title": "STRATS SM TRUST FOR U S CELL CORP SEC SERIES 2004 6",
+        "sector": "Unknown"
+    },
+    "OMSE": {
+        "cik_str": 2012219,
+        "ticker": "OMSE",
+        "title": "OMS Energy Technologies Inc.",
+        "sector": "Unknown"
+    },
+    "YB": {
+        "cik_str": 1995520,
+        "ticker": "YB",
+        "title": "Yuanbao Inc.",
+        "sector": "Unknown"
+    },
+    "LBRJ": {
+        "cik_str": 1999119,
+        "ticker": "LBRJ",
+        "title": "Libera Gaming Operations, Inc",
+        "sector": "Unknown"
+    },
+    "MCTR": {
+        "cik_str": 1969928,
+        "ticker": "MCTR",
+        "title": "CTRL GROUP Ltd",
+        "sector": "Unknown"
+    },
+    "KYTFY": {
+        "cik_str": 2042187,
+        "ticker": "KYTFY",
+        "title": "Kyoto Financial Group Inc/ADR",
+        "sector": "Unknown"
+    },
+    "FBTC": {
+        "cik_str": 1852317,
+        "ticker": "FBTC",
+        "title": "Fidelity Wise Origin Bitcoin Fund",
+        "sector": "Unknown"
+    },
+    "GLTR": {
+        "cik_str": 1483386,
+        "ticker": "GLTR",
+        "title": "abrdn Precious Metals Basket ETF Trust",
+        "sector": "Unknown"
+    },
+    "BAR": {
+        "cik_str": 1690437,
+        "ticker": "BAR",
+        "title": "GraniteShares Gold Trust",
+        "sector": "Unknown"
+    },
+    "ALDF": {
+        "cik_str": 2031561,
+        "ticker": "ALDF",
+        "title": "Aldel Financial II Inc.",
+        "sector": "Unknown"
+    },
+    "AURS": {
+        "cik_str": 2025049,
+        "ticker": "AURS",
+        "title": "Aurous Resources",
+        "sector": "Unknown"
+    },
+    "HMHW": {
+        "cik_str": 2021880,
+        "ticker": "HMHW",
+        "title": "HMH Holding Inc",
+        "sector": "Unknown"
+    },
+    "GEHDF": {
+        "cik_str": 1291313,
+        "ticker": "GEHDF",
+        "title": "Great Eastern Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "NAMI": {
+        "cik_str": 1967631,
+        "ticker": "NAMI",
+        "title": "Jinxin Technology Holding Co",
+        "sector": "Unknown"
+    },
+    "YSXT": {
+        "cik_str": 1993463,
+        "ticker": "YSXT",
+        "title": "YSX Tech Co., Ltd",
+        "sector": "Unknown"
+    },
+    "NRUC": {
+        "cik_str": 70502,
+        "ticker": "NRUC",
+        "title": "NATIONAL RURAL UTILITIES COOPERATIVE FINANCE CORP /DC/",
+        "sector": "Unknown"
+    },
+    "WLAC": {
+        "cik_str": 2032379,
+        "ticker": "WLAC",
+        "title": "Willow Lane Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SGOL": {
+        "cik_str": 1450923,
+        "ticker": "SGOL",
+        "title": "abrdn Gold ETF Trust",
+        "sector": "Unknown"
+    },
+    "USL": {
+        "cik_str": 1405528,
+        "ticker": "USL",
+        "title": "United States 12 Month Oil Fund, LP",
+        "sector": "Unknown"
+    },
+    "OUNZ": {
+        "cik_str": 1546652,
+        "ticker": "OUNZ",
+        "title": "VanEck Merk Gold ETF",
+        "sector": "Unknown"
+    },
+    "FXB": {
+        "cik_str": 1353611,
+        "ticker": "FXB",
+        "title": "Invesco CurrencyShares British Pound Sterling Trust",
+        "sector": "Unknown"
+    },
+    "NOEM": {
+        "cik_str": 1956648,
+        "ticker": "NOEM",
+        "title": "CO2 Energy Transition Corp.",
+        "sector": "Unknown"
+    },
+    "LUD": {
+        "cik_str": 1984124,
+        "ticker": "LUD",
+        "title": "Luda Technology Group Ltd",
+        "sector": "Unknown"
+    },
+    "UNL": {
+        "cik_str": 1405513,
+        "ticker": "UNL",
+        "title": "United States 12 Month Natural Gas Fund, LP",
+        "sector": "Unknown"
+    },
+    "CGGJ": {
+        "cik_str": 2028891,
+        "ticker": "CGGJ",
+        "title": "Guo Jin Sheng Shi Gold Jewelry Group Holding Ltd",
+        "sector": "Unknown"
+    },
+    "TMGX": {
+        "cik_str": 1991879,
+        "ticker": "TMGX",
+        "title": "Thoughtful Media Group Inc.",
+        "sector": "Unknown"
+    },
+    "ZYBT": {
+        "cik_str": 1975641,
+        "ticker": "ZYBT",
+        "title": "Zhengye Biotechnology Holding Ltd",
+        "sector": "Unknown"
+    },
+    "YTTA": {
+        "cik_str": 2042648,
+        "ticker": "YTTA",
+        "title": "Nidar Infrastructure Ltd",
+        "sector": "Unknown"
+    },
+    "CSAI": {
+        "cik_str": 1709628,
+        "ticker": "CSAI",
+        "title": "CLOUDASTRUCTURE, INC.",
+        "sector": "Unknown"
+    },
+    "BITB": {
+        "cik_str": 1763415,
+        "ticker": "BITB",
+        "title": "Bitwise Bitcoin ETF",
+        "sector": "Unknown"
+    },
+    "BRRR": {
+        "cik_str": 1841175,
+        "ticker": "BRRR",
+        "title": "CoinShares Valkyrie Bitcoin Fund",
+        "sector": "Unknown"
+    },
+    "EZBC": {
+        "cik_str": 1992870,
+        "ticker": "EZBC",
+        "title": "Franklin Templeton Digital Holdings Trust",
+        "sector": "Unknown"
+    },
+    "FLAI": {
+        "cik_str": 1864776,
+        "ticker": "FLAI",
+        "title": "Flewber Global Inc.",
+        "sector": "Unknown"
+    },
+    "DDCIU": {
+        "cik_str": 1867506,
+        "ticker": "DDCIU",
+        "title": "Diffuse Digital 30, LP",
+        "sector": "Unknown"
+    },
+    "MGRT": {
+        "cik_str": 2033377,
+        "ticker": "MGRT",
+        "title": "Mega Fortune Co Ltd",
+        "sector": "Unknown"
+    },
+    "RYET": {
+        "cik_str": 1873454,
+        "ticker": "RYET",
+        "title": "Ruanyun Edai Technology Inc.",
+        "sector": "Unknown"
+    },
+    "UDN": {
+        "cik_str": 1383149,
+        "ticker": "UDN",
+        "title": "INVESCO DB US DOLLAR INDEX BEARISH FUND",
+        "sector": "Unknown"
+    },
+    "CETH": {
+        "cik_str": 1992508,
+        "ticker": "CETH",
+        "title": "21Shares Core Ethereum ETF",
+        "sector": "Unknown"
+    },
+    "NCG": {
+        "cik_str": 2021364,
+        "ticker": "NCG",
+        "title": "HTL Capital Ltd.",
+        "sector": "Unknown"
+    },
+    "OACC": {
+        "cik_str": 2029769,
+        "ticker": "OACC",
+        "title": "Oaktree Acquisition Corp. III Life Sciences",
+        "sector": "Unknown"
+    },
+    "FTRK": {
+        "cik_str": 2027262,
+        "ticker": "FTRK",
+        "title": "Fast Track Group",
+        "sector": "Unknown"
+    },
+    "SKBL": {
+        "cik_str": 2031009,
+        "ticker": "SKBL",
+        "title": "Skyline Builders Group Holding Ltd",
+        "sector": "Unknown"
+    },
+    "FCHL": {
+        "cik_str": 2023796,
+        "ticker": "FCHL",
+        "title": "Fitness Champs Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "PRGY": {
+        "cik_str": 1997698,
+        "ticker": "PRGY",
+        "title": "IGTA Merger Sub Ltd",
+        "sector": "Unknown"
+    },
+    "KFII": {
+        "cik_str": 2029976,
+        "ticker": "KFII",
+        "title": "K&F GROWTH ACQUISITION CORP. II",
+        "sector": "Unknown"
+    },
+    "JFB": {
+        "cik_str": 2024306,
+        "ticker": "JFB",
+        "title": "JFB Construction Holdings",
+        "sector": "Unknown"
+    },
+    "WYHG": {
+        "cik_str": 1999860,
+        "ticker": "WYHG",
+        "title": "Wing Yip Food Holdings Group Ltd",
+        "sector": "Unknown"
+    },
+    "BELR": {
+        "cik_str": 1980034,
+        "ticker": "BELR",
+        "title": "Bell Rose Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "GJR": {
+        "cik_str": 1353226,
+        "ticker": "GJR",
+        "title": "STRATS(SM) Trust for Procter & Gamble Securities, Series 2006-1",
+        "sector": "Unknown"
+    },
+    "DXST": {
+        "cik_str": 1958133,
+        "ticker": "DXST",
+        "title": "Decent Holding Inc.",
+        "sector": "Unknown"
+    },
+    "LHAI": {
+        "cik_str": 2017758,
+        "ticker": "LHAI",
+        "title": "Linkhome Holdings Inc.",
+        "sector": "Unknown"
+    },
+    "KNRX": {
+        "cik_str": 1982960,
+        "ticker": "KNRX",
+        "title": "KNOREX LTD.",
+        "sector": "Unknown"
+    },
+    "MDER": {
+        "cik_str": 2037646,
+        "ticker": "MDER",
+        "title": "KVAC (Cayman) Ltd",
+        "sector": "Unknown"
+    },
+    "HKPD": {
+        "cik_str": 2007702,
+        "ticker": "HKPD",
+        "title": "Hong Kong Pharma Digital Technology Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "CIGL": {
+        "cik_str": 2001794,
+        "ticker": "CIGL",
+        "title": "Concorde International Group Ltd.",
+        "sector": "Unknown"
+    },
+    "DYNX": {
+        "cik_str": 2028699,
+        "ticker": "DYNX",
+        "title": "Dynamix Corp",
+        "sector": "Unknown"
+    },
+    "FFFZ": {
+        "cik_str": 1954705,
+        "ticker": "FFFZ",
+        "title": "Fuxing China Group Ltd",
+        "sector": "Unknown"
+    },
+    "WGRX": {
+        "cik_str": 2030763,
+        "ticker": "WGRX",
+        "title": "Wellgistics Health, Inc.",
+        "sector": "Unknown"
+    },
+    "CBRS": {
+        "cik_str": 2021728,
+        "ticker": "CBRS",
+        "title": "Cerebras Systems Inc.",
+        "sector": "Unknown"
+    },
+    "CJMB": {
+        "cik_str": 2032545,
+        "ticker": "CJMB",
+        "title": "CALLAN JMB INC.",
+        "sector": "Unknown"
+    },
+    "GFTTY": {
+        "cik_str": 2023719,
+        "ticker": "GFTTY",
+        "title": "GFT Technologies SE/ADR",
+        "sector": "Unknown"
+    },
+    "XHLD": {
+        "cik_str": 2030954,
+        "ticker": "XHLD",
+        "title": "TEN Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "OCP": {
+        "cik_str": 1998180,
+        "ticker": "OCP",
+        "title": "Huge Amount Group Ltd",
+        "sector": "Unknown"
+    },
+    "CEPO": {
+        "cik_str": 2027708,
+        "ticker": "CEPO",
+        "title": "Cantor Equity Partners I, Inc.",
+        "sector": "Unknown"
+    },
+    "DLXY": {
+        "cik_str": 2025218,
+        "ticker": "DLXY",
+        "title": "Delixy Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "SPHA": {
+        "cik_str": 2030829,
+        "ticker": "SPHA",
+        "title": "Shepherd Ave Capital Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "MAMK": {
+        "cik_str": 2008007,
+        "ticker": "MAMK",
+        "title": "MaxsMaking Inc.",
+        "sector": "Unknown"
+    },
+    "DGNX": {
+        "cik_str": 2010499,
+        "ticker": "DGNX",
+        "title": "Diginex Ltd",
+        "sector": "Unknown"
+    },
+    "ATII": {
+        "cik_str": 2028516,
+        "ticker": "ATII",
+        "title": "Archimedes Tech SPAC Partners II Co.",
+        "sector": "Unknown"
+    },
+    "SYNSY": {
+        "cik_str": 2004340,
+        "ticker": "SYNSY",
+        "title": "Syensqo SA/ADR",
+        "sector": "Unknown"
+    },
+    "LSE": {
+        "cik_str": 1985139,
+        "ticker": "LSE",
+        "title": "Leishen Energy Holding Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "GSRT": {
+        "cik_str": 2029023,
+        "ticker": "GSRT",
+        "title": "GSR III Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SEPS": {
+        "cik_str": 1969766,
+        "ticker": "SEPS",
+        "title": "Asep Medical Holdings Inc.",
+        "sector": "Unknown"
+    },
+    "PHH": {
+        "cik_str": 1986247,
+        "ticker": "PHH",
+        "title": "Park Ha Biological Technology Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "RIBB": {
+        "cik_str": 2035016,
+        "ticker": "RIBB",
+        "title": "Ribbon Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "KTN": {
+        "cik_str": 1283337,
+        "ticker": "KTN",
+        "title": "STRUCTURED PRODUCTS CORP CRED ENHANCE CORTS TR FOR AON CAP A",
+        "sector": "Unknown"
+    },
+    "ZSPC": {
+        "cik_str": 1637147,
+        "ticker": "ZSPC",
+        "title": "zSpace, Inc.",
+        "sector": "Unknown"
+    },
+    "QETH": {
+        "cik_str": 1995569,
+        "ticker": "QETH",
+        "title": "Invesco Galaxy Ethereum ETF",
+        "sector": "Unknown"
+    },
+    "GLDM": {
+        "cik_str": 1618181,
+        "ticker": "GLDM",
+        "title": "World Gold Trust",
+        "sector": "Unknown"
+    },
+    "GXLM": {
+        "cik_str": 1761325,
+        "ticker": "GXLM",
+        "title": "Grayscale Stellar Lumens Trust (XLM)",
+        "sector": "Unknown"
+    },
+    "GPLB": {
+        "cik_str": 1392449,
+        "ticker": "GPLB",
+        "title": "Green Planet Bio Engineering Co. Ltd.",
+        "sector": "Unknown"
+    },
+    "KMYGY": {
+        "cik_str": 2003770,
+        "ticker": "KMYGY",
+        "title": "Kumyang Co., Ltd./ADR",
+        "sector": "Unknown"
+    },
+    "IPB": {
+        "cik_str": 1267332,
+        "ticker": "IPB",
+        "title": "MERRILL LYNCH DEPOSITOR INC INDEXPLUS TRUST SERIES 2003-1",
+        "sector": "Unknown"
+    },
+    "UNFL": {
+        "cik_str": 1965671,
+        "ticker": "UNFL",
+        "title": "Unifoil Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "ONEG": {
+        "cik_str": 2030834,
+        "ticker": "ONEG",
+        "title": "OneConstruction Group Ltd",
+        "sector": "Unknown"
+    },
+    "MIMI": {
+        "cik_str": 1998560,
+        "ticker": "MIMI",
+        "title": "Mint Inc Ltd",
+        "sector": "Unknown"
+    },
+    "YMAT": {
+        "cik_str": 1875016,
+        "ticker": "YMAT",
+        "title": "J-Star Holding Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "DMNT": {
+        "cik_str": 1996450,
+        "ticker": "DMNT",
+        "title": "DMINT, Inc.",
+        "sector": "Unknown"
+    },
+    "SLGB": {
+        "cik_str": 1987189,
+        "ticker": "SLGB",
+        "title": "Smart Logistics Global Ltd",
+        "sector": "Unknown"
+    },
+    "GJS": {
+        "cik_str": 1356284,
+        "ticker": "GJS",
+        "title": "STRATS(SM) Trust for Goldman Sachs Group Securities, Series 2006-2",
+        "sector": "Unknown"
+    },
+    "FUPEY": {
+        "cik_str": 1534043,
+        "ticker": "FUPEY",
+        "title": "Fuchs Petrolub SE/ADR",
+        "sector": "Unknown"
+    },
+    "MKR": {
+        "cik_str": 2018222,
+        "ticker": "MKR",
+        "title": "707 Cayman Holdings Ltd.",
+        "sector": "Unknown"
+    },
+    "GACW": {
+        "cik_str": 1872421,
+        "ticker": "GACW",
+        "title": "GACW Inc",
+        "sector": "Unknown"
+    },
+    "PCLA": {
+        "cik_str": 2018462,
+        "ticker": "PCLA",
+        "title": "PicoCELA Inc.",
+        "sector": "Unknown"
+    },
+    "NTCL": {
+        "cik_str": 1927578,
+        "ticker": "NTCL",
+        "title": "NetClass Technology Inc",
+        "sector": "Unknown"
+    },
+    "MJID": {
+        "cik_str": 1897532,
+        "ticker": "MJID",
+        "title": "Majestic Ideal Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "ELPW": {
+        "cik_str": 2015691,
+        "ticker": "ELPW",
+        "title": "Elong Power Holding Ltd.",
+        "sector": "Unknown"
+    },
+    "GMCG": {
+        "cik_str": 1983897,
+        "ticker": "GMCG",
+        "title": "GLAMOORE Capital Group Co Ltd.",
+        "sector": "Unknown"
+    },
+    "AGH": {
+        "cik_str": 2009312,
+        "ticker": "AGH",
+        "title": "Aureus Greenway Holdings Inc",
+        "sector": "Unknown"
+    },
+    "TFSA": {
+        "cik_str": 1577134,
+        "ticker": "TFSA",
+        "title": "Terra Income Fund 6, LLC",
+        "sector": "Unknown"
+    },
+    "JTGEY": {
+        "cik_str": 1472033,
+        "ticker": "JTGEY",
+        "title": "Citibank,N.A./ADR",
+        "sector": "Unknown"
+    },
+    "SUNH": {
+        "cik_str": 1946025,
+        "ticker": "SUNH",
+        "title": "Xuhang Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "CHAR": {
+        "cik_str": 2024459,
+        "ticker": "CHAR",
+        "title": "Charlton Aria Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "MSGY": {
+        "cik_str": 2020228,
+        "ticker": "MSGY",
+        "title": "Masonglory Ltd",
+        "sector": "Unknown"
+    },
+    "CFND": {
+        "cik_str": 2044327,
+        "ticker": "CFND",
+        "title": "C1 Fund Inc.",
+        "sector": "Unknown"
+    },
+    "GJT": {
+        "cik_str": 1357660,
+        "ticker": "GJT",
+        "title": "STRATS(SM) Trust for Allstate Corp Securities, Series 2006-3",
+        "sector": "Unknown"
+    },
+    "GJP": {
+        "cik_str": 1343491,
+        "ticker": "GJP",
+        "title": "STRATS(SM) TRUST FOR DOMINION RESOURCES, INC. SECURITIES, SERIES 2005-6",
+        "sector": "Unknown"
+    },
+    "FPAQ": {
+        "cik_str": 1946485,
+        "ticker": "FPAQ",
+        "title": "FPA ENERGY ACQUISITION CORP.",
+        "sector": "Unknown"
+    },
+    "GCL": {
+        "cik_str": 2002045,
+        "ticker": "GCL",
+        "title": "GCL Global Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "GLNK": {
+        "cik_str": 1852025,
+        "ticker": "GLNK",
+        "title": "Grayscale Chainlink Trust (LINK)",
+        "sector": "Unknown"
+    },
+    "ODRS": {
+        "cik_str": 1610718,
+        "ticker": "ODRS",
+        "title": "Outdoor Specialty Products, Inc.",
+        "sector": "Unknown"
+    },
+    "PLTM": {
+        "cik_str": 1690842,
+        "ticker": "PLTM",
+        "title": "GraniteShares Platinum Trust",
+        "sector": "Unknown"
+    },
+    "APUS": {
+        "cik_str": 1894525,
+        "ticker": "APUS",
+        "title": "Apimeds Pharmaceuticals US, Inc.",
+        "sector": "Unknown"
+    },
+    "MANA": {
+        "cik_str": 1852023,
+        "ticker": "MANA",
+        "title": "Grayscale Decentraland Trust (MANA)",
+        "sector": "Unknown"
+    },
+    "HVII": {
+        "cik_str": 1846416,
+        "ticker": "HVII",
+        "title": "Hennessy Capital Investment Corp. VII",
+        "sector": "Unknown"
+    },
+    "CABI": {
+        "cik_str": 1987101,
+        "ticker": "CABI",
+        "title": "EL-0713 Fund I, a series of Roll Up Vehicles, LP",
+        "sector": "Unknown"
+    },
+    "BACQ": {
+        "cik_str": 2028707,
+        "ticker": "BACQ",
+        "title": "Bleichroeder Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "VTRO": {
+        "cik_str": 793171,
+        "ticker": "VTRO",
+        "title": "Vitro Biopharma, Inc.",
+        "sector": "Unknown"
+    },
+    "EIIA": {
+        "cik_str": 1896036,
+        "ticker": "EIIA",
+        "title": "Eagle Point Institutional Income Fund",
+        "sector": "Unknown"
+    },
+    "PYRO": {
+        "cik_str": 2005376,
+        "ticker": "PYRO",
+        "title": "Pyro AI Inc.",
+        "sector": "Unknown"
+    },
+    "TWNP": {
+        "cik_str": 2011954,
+        "ticker": "TWNP",
+        "title": "Twin Hospitality Group Inc.",
+        "sector": "Unknown"
+    },
+    "BHST": {
+        "cik_str": 1723464,
+        "ticker": "BHST",
+        "title": "BIOHARVEST SCIENCES INC.",
+        "sector": "Unknown"
+    },
+    "TTG": {
+        "cik_str": 2018836,
+        "ticker": "TTG",
+        "title": "Transten Global Group Ltd",
+        "sector": "Unknown"
+    },
+    "GSOL": {
+        "cik_str": 1896677,
+        "ticker": "GSOL",
+        "title": "Grayscale Solana Trust (SOL)",
+        "sector": "Unknown"
+    },
+    "ELOG": {
+        "cik_str": 2013320,
+        "ticker": "ELOG",
+        "title": "Eastern International Ltd.",
+        "sector": "Unknown"
+    },
+    "BLIV": {
+        "cik_str": 1982448,
+        "ticker": "BLIV",
+        "title": "BeLive Holdings",
+        "sector": "Unknown"
+    },
+    "PHTB": {
+        "cik_str": 2034526,
+        "ticker": "PHTB",
+        "title": "Pharma Two B Ltd.",
+        "sector": "Unknown"
+    },
+    "TGHL": {
+        "cik_str": 2024114,
+        "ticker": "TGHL",
+        "title": "GrowHub Ltd",
+        "sector": "Unknown"
+    },
+    "ESPA": {
+        "cik_str": 1861371,
+        "ticker": "ESPA",
+        "title": "Expectation Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "LZIG": {
+        "cik_str": 1985488,
+        "ticker": "LZIG",
+        "title": "Leizig Thermal Management Co., Ltd",
+        "sector": "Unknown"
+    },
+    "ALEH": {
+        "cik_str": 1806905,
+        "ticker": "ALEH",
+        "title": "ALE Group Holding Ltd",
+        "sector": "Unknown"
+    },
+    "ETHA": {
+        "cik_str": 2000638,
+        "ticker": "ETHA",
+        "title": "iShares Ethereum Trust ETF",
+        "sector": "Unknown"
+    },
+    "PIF": {
+        "cik_str": 1851322,
+        "ticker": "PIF",
+        "title": "North Haven Private Income Fund LLC",
+        "sector": "Unknown"
+    },
+    "TIC": {
+        "cik_str": 2032966,
+        "ticker": "TIC",
+        "title": "ACUREN CORP",
+        "sector": "Unknown"
+    },
+    "BABY": {
+        "cik_str": 1611282,
+        "ticker": "BABY",
+        "title": "PishPosh, Inc.",
+        "sector": "Unknown"
+    },
+    "BNO": {
+        "cik_str": 1472494,
+        "ticker": "BNO",
+        "title": "United States Brent Oil Fund, LP",
+        "sector": "Unknown"
+    },
+    "ARKB": {
+        "cik_str": 1869699,
+        "ticker": "ARKB",
+        "title": "Ark 21Shares Bitcoin ETF",
+        "sector": "Unknown"
+    },
+    "VISTA": {
+        "cik_str": 1762506,
+        "ticker": "VISTA",
+        "title": "Vista Energy, S.A.B. de C.V.",
+        "sector": "Unknown"
+    },
+    "SIVR": {
+        "cik_str": 1450922,
+        "ticker": "SIVR",
+        "title": "abrdn Silver ETF Trust",
+        "sector": "Unknown"
+    },
+    "XPTFX": {
+        "cik_str": 1677615,
+        "ticker": "XPTFX",
+        "title": "Federated Hermes Project & Trade Finance Tender Fund",
+        "sector": "Unknown"
+    },
+    "IVHI": {
+        "cik_str": 1009919,
+        "ticker": "IVHI",
+        "title": "Invech Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "IAUM": {
+        "cik_str": 1759124,
+        "ticker": "IAUM",
+        "title": "iShares Gold Trust Micro",
+        "sector": "Unknown"
+    },
+    "MMCP": {
+        "cik_str": 1879293,
+        "ticker": "MMCP",
+        "title": "Mag Mile Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "DEFI": {
+        "cik_str": 1985840,
+        "ticker": "DEFI",
+        "title": "Tidal Commodities Trust I",
+        "sector": "Unknown"
+    },
+    "FXF": {
+        "cik_str": 1353615,
+        "ticker": "FXF",
+        "title": "Invesco CurrencyShares Swiss Franc Trust",
+        "sector": "Unknown"
+    },
+    "CTBB": {
+        "cik_str": 68622,
+        "ticker": "CTBB",
+        "title": "QWEST CORP",
+        "sector": "Unknown"
+    },
+    "PPLT": {
+        "cik_str": 1460235,
+        "ticker": "PPLT",
+        "title": "abrdn Platinum ETF Trust",
+        "sector": "Unknown"
+    },
+    "MTRS": {
+        "cik_str": 1984076,
+        "ticker": "MTRS",
+        "title": "Metros Development Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "JUNS": {
+        "cik_str": 1679628,
+        "ticker": "JUNS",
+        "title": "JUPITER NEUROSCIENCES, INC.",
+        "sector": "Unknown"
+    },
+    "EZET": {
+        "cik_str": 2011535,
+        "ticker": "EZET",
+        "title": "Franklin Ethereum Trust",
+        "sector": "Unknown"
+    },
+    "XSIAX": {
+        "cik_str": 1124959,
+        "ticker": "XSIAX",
+        "title": "VOYA CREDIT INCOME FUND",
+        "sector": "Unknown"
+    },
+    "FGDL": {
+        "cik_str": 1858258,
+        "ticker": "FGDL",
+        "title": "Franklin Templeton Holdings Trust",
+        "sector": "Unknown"
+    },
+    "QVCD": {
+        "cik_str": 1254699,
+        "ticker": "QVCD",
+        "title": "QVC INC",
+        "sector": "Unknown"
+    },
+    "PALL": {
+        "cik_str": 1459862,
+        "ticker": "PALL",
+        "title": "abrdn Palladium ETF Trust",
+        "sector": "Unknown"
+    },
+    "ETHV": {
+        "cik_str": 1860788,
+        "ticker": "ETHV",
+        "title": "VanEck Ethereum ETF",
+        "sector": "Unknown"
+    },
+    "NTWO": {
+        "cik_str": 2028027,
+        "ticker": "NTWO",
+        "title": "Newbury Street II Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "BYLT": {
+        "cik_str": 1753681,
+        "ticker": "BYLT",
+        "title": "Elite Performance Holding Corp",
+        "sector": "Unknown"
+    },
+    "WEIX": {
+        "cik_str": 1771951,
+        "ticker": "WEIX",
+        "title": "Dynamic Shares Trust",
+        "sector": "Unknown"
+    },
+    "PDSRX": {
+        "cik_str": 1756404,
+        "ticker": "PDSRX",
+        "title": "Principal Real Asset Fund",
+        "sector": "Unknown"
+    },
+    "HZEN": {
+        "cik_str": 1748945,
+        "ticker": "HZEN",
+        "title": "Grayscale Horizen Trust (ZEN)",
+        "sector": "Unknown"
+    },
+    "LVDW": {
+        "cik_str": 1503658,
+        "ticker": "LVDW",
+        "title": "LiquidValue Development Inc.",
+        "sector": "Unknown"
+    },
+    "ETHW": {
+        "cik_str": 2013744,
+        "ticker": "ETHW",
+        "title": "Bitwise Ethereum ETF",
+        "sector": "Unknown"
+    },
+    "ETHE": {
+        "cik_str": 1725210,
+        "ticker": "ETHE",
+        "title": "Grayscale Ethereum Trust ETF",
+        "sector": "Unknown"
+    },
+    "ZLME": {
+        "cik_str": 1489300,
+        "ticker": "ZLME",
+        "title": "Zhanling International Ltd",
+        "sector": "Unknown"
+    },
+    "BTCO": {
+        "cik_str": 1855781,
+        "ticker": "BTCO",
+        "title": "Invesco Galaxy Bitcoin ETF",
+        "sector": "Unknown"
+    },
+    "WDSP": {
+        "cik_str": 1813744,
+        "ticker": "WDSP",
+        "title": "World Scan Project, Inc.",
+        "sector": "Unknown"
+    },
+    "FETH": {
+        "cik_str": 2000046,
+        "ticker": "FETH",
+        "title": "Fidelity Ethereum Fund",
+        "sector": "Unknown"
+    },
+    "CDRPB": {
+        "cik_str": 761648,
+        "ticker": "CDRPB",
+        "title": "CEDAR REALTY TRUST, INC.",
+        "sector": "Unknown"
+    },
+    "RDAC": {
+        "cik_str": 2018145,
+        "ticker": "RDAC",
+        "title": "Rising Dragon Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "FXA": {
+        "cik_str": 1353614,
+        "ticker": "FXA",
+        "title": "Invesco CurrencyShares Australian Dollar Trust",
+        "sector": "Unknown"
+    },
+    "BITW": {
+        "cik_str": 1723788,
+        "ticker": "BITW",
+        "title": "Bitwise 10 Crypto Index Fund",
+        "sector": "Unknown"
+    },
+    "TPTA": {
+        "cik_str": 1674356,
+        "ticker": "TPTA",
+        "title": "Terra Property Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "CCIR": {
+        "cik_str": 1894176,
+        "ticker": "CCIR",
+        "title": "Cohen Circle Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "UUP": {
+        "cik_str": 1383151,
+        "ticker": "UUP",
+        "title": "Invesco DB US Dollar Index Bullish Fund",
+        "sector": "Unknown"
+    },
+    "OAK-PA": {
+        "cik_str": 1403528,
+        "ticker": "OAK-PA",
+        "title": "Brookfield Oaktree Holdings, LLC",
+        "sector": "Unknown"
+    },
+    "BTCW": {
+        "cik_str": 1850391,
+        "ticker": "BTCW",
+        "title": "WisdomTree Bitcoin Fund",
+        "sector": "Unknown"
+    },
+    "ETH": {
+        "cik_str": 2020455,
+        "ticker": "ETH",
+        "title": "Grayscale Ethereum Mini Trust ETF",
+        "sector": "Unknown"
+    },
+    "EWSB": {
+        "cik_str": 2013792,
+        "ticker": "EWSB",
+        "title": "EWSB Bancorp, Inc. /MD/",
+        "sector": "Unknown"
+    },
+    "SPMC": {
+        "cik_str": 1930147,
+        "ticker": "SPMC",
+        "title": "Sound Point Meridian Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "FXC": {
+        "cik_str": 1353612,
+        "ticker": "FXC",
+        "title": "Invesco CurrencyShares Canadian Dollar Trust",
+        "sector": "Unknown"
+    },
+    "HODL": {
+        "cik_str": 1838028,
+        "ticker": "HODL",
+        "title": "VanEck Bitcoin ETF",
+        "sector": "Unknown"
+    },
+    "SLRA": {
+        "cik_str": 1880189,
+        "ticker": "SLRA",
+        "title": "SOLERA CORP.",
+        "sector": "Unknown"
+    },
+    "TOPP": {
+        "cik_str": 1960847,
+        "ticker": "TOPP",
+        "title": "Toppoint Holdings Inc.",
+        "sector": "Unknown"
+    },
+    "TREO": {
+        "cik_str": 2041208,
+        "ticker": "TREO",
+        "title": "Plum III Merger Corp.",
+        "sector": "Unknown"
+    },
+    "WETO": {
+        "cik_str": 1941158,
+        "ticker": "WETO",
+        "title": "Webus International Ltd.",
+        "sector": "Unknown"
+    },
+    "CUNO": {
+        "cik_str": 2009342,
+        "ticker": "CUNO",
+        "title": "Specialty Copper Listco Plc",
+        "sector": "Unknown"
+    },
+    "MGN": {
+        "cik_str": 1995075,
+        "ticker": "MGN",
+        "title": "Megan Holdings Ltd.",
+        "sector": "Unknown"
+    },
+    "JBK": {
+        "cik_str": 1284143,
+        "ticker": "JBK",
+        "title": "LEHMAN ABS CORP GOLDMAN SACHS CAP 1 SEC BACKED SER 2004-6",
+        "sector": "Unknown"
+    },
+    "LPBB": {
+        "cik_str": 2023676,
+        "ticker": "LPBB",
+        "title": "Launch Two Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "PN": {
+        "cik_str": 2001288,
+        "ticker": "PN",
+        "title": "Skycorp Solar Group Ltd",
+        "sector": "Unknown"
+    },
+    "DEFT": {
+        "cik_str": 1888274,
+        "ticker": "DEFT",
+        "title": "Defi Technologies, Inc.",
+        "sector": "Unknown"
+    },
+    "GLIV": {
+        "cik_str": 1852024,
+        "ticker": "GLIV",
+        "title": "Grayscale Livepeer Trust (LPT)",
+        "sector": "Unknown"
+    },
+    "TSLVF": {
+        "cik_str": 1852753,
+        "ticker": "TSLVF",
+        "title": "TIER ONE SILVER INC.",
+        "sector": "Unknown"
+    },
+    "DRDB": {
+        "cik_str": 2032528,
+        "ticker": "DRDB",
+        "title": "Roman DBDR Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "ZCSH": {
+        "cik_str": 1720265,
+        "ticker": "ZCSH",
+        "title": "Grayscale Zcash Trust (ZEC)",
+        "sector": "Unknown"
+    },
+    "FMFC": {
+        "cik_str": 2024656,
+        "ticker": "FMFC",
+        "title": "Kandal M Venture Ltd",
+        "sector": "Unknown"
+    },
+    "UGA": {
+        "cik_str": 1396878,
+        "ticker": "UGA",
+        "title": "United States Gasoline Fund, LP",
+        "sector": "Unknown"
+    },
+    "MFBI": {
+        "cik_str": 2024899,
+        "ticker": "MFBI",
+        "title": "Monroe Federal Bancorp, Inc.",
+        "sector": "Unknown"
+    },
+    "HSPT": {
+        "cik_str": 2032950,
+        "ticker": "HSPT",
+        "title": "Horizon Space Acquisition II Corp.",
+        "sector": "Unknown"
+    },
+    "INR": {
+        "cik_str": 2029118,
+        "ticker": "INR",
+        "title": "INFINITY NATURAL RESOURCES, INC.",
+        "sector": "Unknown"
+    },
+    "CURX": {
+        "cik_str": 2025942,
+        "ticker": "CURX",
+        "title": "Curanex Pharmaceuticals Inc",
+        "sector": "Unknown"
+    },
+    "INLF": {
+        "cik_str": 1991592,
+        "ticker": "INLF",
+        "title": "INLIF Ltd",
+        "sector": "Unknown"
+    },
+    "MB": {
+        "cik_str": 2027265,
+        "ticker": "MB",
+        "title": "MASTERBEEF GROUP",
+        "sector": "Unknown"
+    },
+    "YAAS": {
+        "cik_str": 1964946,
+        "ticker": "YAAS",
+        "title": "Youxin Technology Ltd",
+        "sector": "Unknown"
+    },
+    "NUTR": {
+        "cik_str": 2006468,
+        "ticker": "NUTR",
+        "title": "NUSATRIP Inc",
+        "sector": "Unknown"
+    },
+    "PYT": {
+        "cik_str": 1294808,
+        "ticker": "PYT",
+        "title": "PPLUS Trust Series GSC-2",
+        "sector": "Unknown"
+    },
+    "EMPG": {
+        "cik_str": 2005569,
+        "ticker": "EMPG",
+        "title": "Empro Group Inc.",
+        "sector": "Unknown"
+    },
+    "GBAT": {
+        "cik_str": 1852040,
+        "ticker": "GBAT",
+        "title": "Grayscale Basic Attention Token Trust (BAT)",
+        "sector": "Unknown"
+    },
+    "CAST": {
+        "cik_str": 1633369,
+        "ticker": "CAST",
+        "title": "FreeCast, Inc.",
+        "sector": "Unknown"
+    },
+    "RYOJ": {
+        "cik_str": 2012600,
+        "ticker": "RYOJ",
+        "title": "rYojbaba Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "ENGS": {
+        "cik_str": 1971828,
+        "ticker": "ENGS",
+        "title": "Energys Group Ltd",
+        "sector": "Unknown"
+    },
+    "AACB": {
+        "cik_str": 2034334,
+        "ticker": "AACB",
+        "title": "Artius II Acquisition Inc.",
+        "sector": "Unknown"
+    },
+    "SCAG": {
+        "cik_str": 2000366,
+        "ticker": "SCAG",
+        "title": "Scage Future",
+        "sector": "Unknown"
+    },
+    "WFF": {
+        "cik_str": 1980210,
+        "ticker": "WFF",
+        "title": "WF Holding Ltd",
+        "sector": "Unknown"
+    },
+    "UFG": {
+        "cik_str": 2021688,
+        "ticker": "UFG",
+        "title": "Uni-Fuels Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "ZCXX": {
+        "cik_str": 2033762,
+        "ticker": "ZCXX",
+        "title": "ZC GOLD Jewelry INC",
+        "sector": "Unknown"
+    },
+    "FFSH": {
+        "cik_str": 1859225,
+        "ticker": "FFSH",
+        "title": "Flag Fish Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "BMGL": {
+        "cik_str": 2004489,
+        "ticker": "BMGL",
+        "title": "Basel Medical Group Ltd",
+        "sector": "Unknown"
+    },
+    "KTH": {
+        "cik_str": 1283464,
+        "ticker": "KTH",
+        "title": "STRUCTURED PRODUCTS CORP CORTS TR FOR PECO ENERGY CAP TR III",
+        "sector": "Unknown"
+    },
+    "PONY": {
+        "cik_str": 1969302,
+        "ticker": "PONY",
+        "title": "Pony AI Inc.",
+        "sector": "Unknown"
+    },
+    "DMAA": {
+        "cik_str": 2028614,
+        "ticker": "DMAA",
+        "title": "Drugs Made In America Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "TTAN": {
+        "cik_str": 1638826,
+        "ticker": "TTAN",
+        "title": "ServiceTitan, Inc.",
+        "sector": "Unknown"
+    },
+    "LGPS": {
+        "cik_str": 2040290,
+        "ticker": "LGPS",
+        "title": "LOGPROSTYLE INC.",
+        "sector": "Unknown"
+    },
+    "HIT": {
+        "cik_str": 2019505,
+        "ticker": "HIT",
+        "title": "Health In Tech, Inc.",
+        "sector": "Unknown"
+    },
+    "SDM": {
+        "cik_str": 2014955,
+        "ticker": "SDM",
+        "title": "Smart Digital Group Ltd",
+        "sector": "Unknown"
+    },
+    "CRE": {
+        "cik_str": 2003977,
+        "ticker": "CRE",
+        "title": "Cre8 Enterprise Ltd",
+        "sector": "Unknown"
+    },
+    "DAIC ": {
+        "cik_str": 2033770,
+        "ticker": "DAIC ",
+        "title": "CID Holdco, Inc.",
+        "sector": "Unknown"
+    },
+    "TNMG": {
+        "cik_str": 2013186,
+        "ticker": "TNMG",
+        "title": "TNL Mediagene",
+        "sector": "Unknown"
+    },
+    "HCAI": {
+        "cik_str": 1958399,
+        "ticker": "HCAI",
+        "title": "Huachen AI Parking Management Technology Holding Co., Ltd",
+        "sector": "Unknown"
+    },
+    "RADX": {
+        "cik_str": 1949257,
+        "ticker": "RADX",
+        "title": "Radiopharm Theranostics Ltd",
+        "sector": "Unknown"
+    },
+    "ANE": {
+        "cik_str": 2012895,
+        "ticker": "ANE",
+        "title": "AoChuang Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "BMYMP": {
+        "cik_str": 14272,
+        "ticker": "BMYMP",
+        "title": "BRISTOL MYERS SQUIBB CO",
+        "sector": "Unknown"
+    },
+    "USB-PA": {
+        "cik_str": 36104,
+        "ticker": "USB-PA",
+        "title": "US BANCORP \\DE\\",
+        "sector": "Unknown"
+    },
+    "TBB": {
+        "cik_str": 732717,
+        "ticker": "TBB",
+        "title": "AT&T INC.",
+        "sector": "Unknown"
+    },
+    "NCRRP": {
+        "cik_str": 70866,
+        "ticker": "NCRRP",
+        "title": "NCR Voyix Corp",
+        "sector": "Unknown"
+    },
+    "AMXOF": {
+        "cik_str": 1129137,
+        "ticker": "AMXOF",
+        "title": "AMERICA MOVIL SAB DE CV/",
+        "sector": "Unknown"
+    },
+    "CCZ": {
+        "cik_str": 1166691,
+        "ticker": "CCZ",
+        "title": "COMCAST CORP",
+        "sector": "Unknown"
+    },
+    "ALL-PB": {
+        "cik_str": 899051,
+        "ticker": "ALL-PB",
+        "title": "ALLSTATE CORP",
+        "sector": "Unknown"
+    },
+    "SOJC": {
+        "cik_str": 92122,
+        "ticker": "SOJC",
+        "title": "SOUTHERN CO",
+        "sector": "Unknown"
+    },
+    "CJPRF": {
+        "cik_str": 1334687,
+        "ticker": "CJPRF",
+        "title": "CENTRAL JAPAN RAILWAY CO",
+        "sector": "Unknown"
+    },
+    "DUKH": {
+        "cik_str": 1326160,
+        "ticker": "DUKH",
+        "title": "Duke Energy CORP",
+        "sector": "Unknown"
+    },
+    "FNGD": {
+        "cik_str": 927971,
+        "ticker": "FNGD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "NCSYF": {
+        "cik_str": 1003935,
+        "ticker": "NCSYF",
+        "title": "NICE Ltd.",
+        "sector": "Unknown"
+    },
+    "FREJO": {
+        "cik_str": 1026214,
+        "ticker": "FREJO",
+        "title": "FEDERAL HOME LOAN MORTGAGE CORP",
+        "sector": "Unknown"
+    },
+    "GS-PC": {
+        "cik_str": 886982,
+        "ticker": "GS-PC",
+        "title": "GOLDMAN SACHS GROUP INC",
+        "sector": "Unknown"
+    },
+    "XPNGF": {
+        "cik_str": 1810997,
+        "ticker": "XPNGF",
+        "title": "XPENG INC.",
+        "sector": "Unknown"
+    },
+    "OUKPF": {
+        "cik_str": 1436786,
+        "ticker": "OUKPF",
+        "title": "Outotec OYJ",
+        "sector": "Unknown"
+    },
+    "RZB": {
+        "cik_str": 898174,
+        "ticker": "RZB",
+        "title": "REINSURANCE GROUP OF AMERICA INC",
+        "sector": "Unknown"
+    },
+    "CMSA": {
+        "cik_str": 811156,
+        "ticker": "CMSA",
+        "title": "CMS ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "PCG-PA": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PA",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "KAKKF": {
+        "cik_str": 1447126,
+        "ticker": "KAKKF",
+        "title": "Kawasaki Kisen Kaisha Ltd",
+        "sector": "Unknown"
+    },
+    "OAK-PB": {
+        "cik_str": 1403528,
+        "ticker": "OAK-PB",
+        "title": "Brookfield Oaktree Holdings, LLC",
+        "sector": "Unknown"
+    },
+    "PCG-PB": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PB",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "UNMA": {
+        "cik_str": 5513,
+        "ticker": "UNMA",
+        "title": "Unum Group",
+        "sector": "Unknown"
+    },
+    "JSM": {
+        "cik_str": 1593538,
+        "ticker": "JSM",
+        "title": "NAVIENT CORP",
+        "sector": "Unknown"
+    },
+    "PCG-PE": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PE",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "GAB-PG": {
+        "cik_str": 794685,
+        "ticker": "GAB-PG",
+        "title": "GABELLI EQUITY TRUST INC",
+        "sector": "Unknown"
+    },
+    "BHFAL": {
+        "cik_str": 1685040,
+        "ticker": "BHFAL",
+        "title": "Brighthouse Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "PCG-PD": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PD",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "PCG-PC": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PC",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "PCG-PH": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PH",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "PCG-PG": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PG",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "DTW": {
+        "cik_str": 936340,
+        "ticker": "DTW",
+        "title": "DTE ENERGY CO",
+        "sector": "Unknown"
+    },
+    "PCG-PI": {
+        "cik_str": 1004980,
+        "ticker": "PCG-PI",
+        "title": "PG&E Corp",
+        "sector": "Unknown"
+    },
+    "PBI-PB": {
+        "cik_str": 78814,
+        "ticker": "PBI-PB",
+        "title": "PITNEY BOWES INC /DE/",
+        "sector": "Unknown"
+    },
+    "WRB-PE": {
+        "cik_str": 11544,
+        "ticker": "WRB-PE",
+        "title": "BERKLEY W R CORP",
+        "sector": "Unknown"
+    },
+    "TY-P": {
+        "cik_str": 99614,
+        "ticker": "TY-P",
+        "title": "TRI-CONTINENTAL Corp",
+        "sector": "Unknown"
+    },
+    "HOVNP": {
+        "cik_str": 357294,
+        "ticker": "HOVNP",
+        "title": "HOVNANIAN ENTERPRISES INC",
+        "sector": "Unknown"
+    },
+    "SOCGP": {
+        "cik_str": 92108,
+        "ticker": "SOCGP",
+        "title": "SOUTHERN CALIFORNIA GAS CO",
+        "sector": "Unknown"
+    },
+    "WELPP": {
+        "cik_str": 107815,
+        "ticker": "WELPP",
+        "title": "WISCONSIN ELECTRIC POWER CO",
+        "sector": "Unknown"
+    },
+    "AILLP": {
+        "cik_str": 18654,
+        "ticker": "AILLP",
+        "title": "Ameren Illinois Co",
+        "sector": "Unknown"
+    },
+    "MHLA": {
+        "cik_str": 1412100,
+        "ticker": "MHLA",
+        "title": "Maiden Holdings, Ltd.",
+        "sector": "Unknown"
+    },
+    "HCXY": {
+        "cik_str": 1280784,
+        "ticker": "HCXY",
+        "title": "Hercules Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "GRAF-UN": {
+        "cik_str": 1897463,
+        "ticker": "GRAF-UN",
+        "title": "Graf Global Corp.",
+        "sector": "Unknown"
+    },
+    "IRET": {
+        "cik_str": 798359,
+        "ticker": "IRET",
+        "title": "CENTERSPACE",
+        "sector": "Unknown"
+    },
+    "GAM-PB": {
+        "cik_str": 40417,
+        "ticker": "GAM-PB",
+        "title": "GENERAL AMERICAN INVESTORS CO INC",
+        "sector": "Unknown"
+    },
+    "MPSYF": {
+        "cik_str": 1340243,
+        "ticker": "MPSYF",
+        "title": "MorphoSys AG",
+        "sector": "Unknown"
+    },
+    "HLTC": {
+        "cik_str": 1561032,
+        "ticker": "HLTC",
+        "title": "National Healthcare Properties, Inc.",
+        "sector": "Unknown"
+    },
+    "GGT-PE": {
+        "cik_str": 921671,
+        "ticker": "GGT-PE",
+        "title": "GABELLI MULTIMEDIA TRUST INC.",
+        "sector": "Unknown"
+    },
+    "GGN-PB": {
+        "cik_str": 1313510,
+        "ticker": "GGN-PB",
+        "title": "GAMCO Global Gold, Natural Resources & Income Trust",
+        "sector": "Unknown"
+    },
+    "ECCX": {
+        "cik_str": 1604174,
+        "ticker": "ECCX",
+        "title": "Eagle Point Credit Co Inc.",
+        "sector": "Unknown"
+    },
+    "NEWTI": {
+        "cik_str": 1587987,
+        "ticker": "NEWTI",
+        "title": "NewtekOne, Inc.",
+        "sector": "Unknown"
+    },
+    "GAINL": {
+        "cik_str": 1321741,
+        "ticker": "GAINL",
+        "title": "GLADSTONE INVESTMENT CORPORATIONDE",
+        "sector": "Unknown"
+    },
+    "VSOGF": {
+        "cik_str": 1762506,
+        "ticker": "VSOGF",
+        "title": "Vista Energy, S.A.B. de C.V.",
+        "sector": "Unknown"
+    },
+    "DFPH": {
+        "cik_str": 1799191,
+        "ticker": "DFPH",
+        "title": "Oncology Institute, Inc.",
+        "sector": "Unknown"
+    },
+    "HAWLN": {
+        "cik_str": 46207,
+        "ticker": "HAWLN",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "HAWEN": {
+        "cik_str": 46207,
+        "ticker": "HAWEN",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "APLMW": {
+        "cik_str": 1944885,
+        "ticker": "APLMW",
+        "title": "Apollomics Inc.",
+        "sector": "Unknown"
+    },
+    "ARCXF": {
+        "cik_str": 1243429,
+        "ticker": "ARCXF",
+        "title": "ArcelorMittal",
+        "sector": "Unknown"
+    },
+    "ENO": {
+        "cik_str": 71508,
+        "ticker": "ENO",
+        "title": "ENTERGY NEW ORLEANS, LLC",
+        "sector": "Unknown"
+    },
+    "PIIVX": {
+        "cik_str": 1557265,
+        "ticker": "PIIVX",
+        "title": "Private Shares Fund",
+        "sector": "Unknown"
+    },
+    "DLNG-PA": {
+        "cik_str": 1578453,
+        "ticker": "DLNG-PA",
+        "title": "Dynagas LNG Partners LP",
+        "sector": "Unknown"
+    },
+    "DCF": {
+        "cik_str": 1627854,
+        "ticker": "DCF",
+        "title": "BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "CRDE": {
+        "cik_str": 1352081,
+        "ticker": "CRDE",
+        "title": "Cardinal Ethanol LLC",
+        "sector": "Unknown"
+    },
+    "ECF-PA": {
+        "cik_str": 793040,
+        "ticker": "ECF-PA",
+        "title": "ELLSWORTH GROWTH & INCOME FUND LTD",
+        "sector": "Unknown"
+    },
+    "BCV-PA": {
+        "cik_str": 9521,
+        "ticker": "BCV-PA",
+        "title": "BANCROFT FUND LTD",
+        "sector": "Unknown"
+    },
+    "GLU-PB": {
+        "cik_str": 1282957,
+        "ticker": "GLU-PB",
+        "title": "GABELLI GLOBAL UTILITY & INCOME TRUST",
+        "sector": "Unknown"
+    },
+    "MTMV": {
+        "cik_str": 1393044,
+        "ticker": "MTMV",
+        "title": "Motomova Inc",
+        "sector": "Unknown"
+    },
+    "YQAI": {
+        "cik_str": 1976923,
+        "ticker": "YQAI",
+        "title": "YOUNEEQAI TECHNICAL SERVICES, INC.",
+        "sector": "Unknown"
+    },
+    "AFGC": {
+        "cik_str": 1042046,
+        "ticker": "AFGC",
+        "title": "AMERICAN FINANCIAL GROUP INC",
+        "sector": "Unknown"
+    },
+    "TVE": {
+        "cik_str": 1376986,
+        "ticker": "TVE",
+        "title": "Tennessee Valley Authority",
+        "sector": "Unknown"
+    },
+    "TVC": {
+        "cik_str": 1376986,
+        "ticker": "TVC",
+        "title": "Tennessee Valley Authority",
+        "sector": "Unknown"
+    },
+    "CRTD": {
+        "cik_str": 1357671,
+        "ticker": "CRTD",
+        "title": "Creatd, Inc.",
+        "sector": "Unknown"
+    },
+    "RHE-PA": {
+        "cik_str": 1004724,
+        "ticker": "RHE-PA",
+        "title": "REGIONAL HEALTH PROPERTIES, INC",
+        "sector": "Unknown"
+    },
+    "RENO": {
+        "cik_str": 1590383,
+        "ticker": "RENO",
+        "title": "RENOVARE ENVIRONMENTAL, INC.",
+        "sector": "Unknown"
+    },
+    "CRDV": {
+        "cik_str": 1084551,
+        "ticker": "CRDV",
+        "title": "Community Redevelopment Inc.",
+        "sector": "Unknown"
+    },
+    "ALFIQ": {
+        "cik_str": 1833908,
+        "ticker": "ALFIQ",
+        "title": "Alfi, Inc.",
+        "sector": "Unknown"
+    },
+    "NMTRQ": {
+        "cik_str": 1551986,
+        "ticker": "NMTRQ",
+        "title": "9 METERS BIOPHARMA, INC.",
+        "sector": "Unknown"
+    },
+    "REII": {
+        "cik_str": 1725516,
+        "ticker": "REII",
+        "title": "RENEWABLE INNOVATIONS, INC.",
+        "sector": "Unknown"
+    },
+    "YVRLF": {
+        "cik_str": 884247,
+        "ticker": "YVRLF",
+        "title": "Liquid Media Group Ltd.",
+        "sector": "Unknown"
+    },
+    "MER-PK": {
+        "cik_str": 70858,
+        "ticker": "MER-PK",
+        "title": "BANK OF AMERICA CORP /DE/",
+        "sector": "Unknown"
+    },
+    "BACRP": {
+        "cik_str": 70858,
+        "ticker": "BACRP",
+        "title": "BANK OF AMERICA CORP /DE/",
+        "sector": "Unknown"
+    },
+    "GECCO": {
+        "cik_str": 1675033,
+        "ticker": "GECCO",
+        "title": "Great Elm Capital Corp.",
+        "sector": "Unknown"
+    },
+    "GECCI": {
+        "cik_str": 1675033,
+        "ticker": "GECCI",
+        "title": "Great Elm Capital Corp.",
+        "sector": "Unknown"
+    },
+    "GECCH": {
+        "cik_str": 1675033,
+        "ticker": "GECCH",
+        "title": "Great Elm Capital Corp.",
+        "sector": "Unknown"
+    },
+    "GECCZ": {
+        "cik_str": 1675033,
+        "ticker": "GECCZ",
+        "title": "Great Elm Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SST-WT": {
+        "cik_str": 1805833,
+        "ticker": "SST-WT",
+        "title": "System1, Inc.",
+        "sector": "Unknown"
+    },
+    "USGOW": {
+        "cik_str": 1947244,
+        "ticker": "USGOW",
+        "title": "U.S. GoldMining Inc.",
+        "sector": "Unknown"
+    },
+    "HWCPZ": {
+        "cik_str": 750577,
+        "ticker": "HWCPZ",
+        "title": "HANCOCK WHITNEY CORP",
+        "sector": "Unknown"
+    },
+    "JOBY-WT": {
+        "cik_str": 1819848,
+        "ticker": "JOBY-WT",
+        "title": "Joby Aviation, Inc.",
+        "sector": "Unknown"
+    },
+    "CNFRZ": {
+        "cik_str": 1502292,
+        "ticker": "CNFRZ",
+        "title": "Conifer Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "MDCXW": {
+        "cik_str": 1997296,
+        "ticker": "MDCXW",
+        "title": "Medicus Pharma Ltd.",
+        "sector": "Unknown"
+    },
+    "CIVII": {
+        "cik_str": 1509589,
+        "ticker": "CIVII",
+        "title": "CIVITAS RESOURCES, INC.",
+        "sector": "Unknown"
+    },
+    "CIVIW": {
+        "cik_str": 1509589,
+        "ticker": "CIVIW",
+        "title": "CIVITAS RESOURCES, INC.",
+        "sector": "Unknown"
+    },
+    "PAASF": {
+        "cik_str": 771992,
+        "ticker": "PAASF",
+        "title": "PAN AMERICAN SILVER CORP",
+        "sector": "Unknown"
+    },
+    "FGN": {
+        "cik_str": 1934850,
+        "ticker": "FGN",
+        "title": "F&G Annuities & Life, Inc.",
+        "sector": "Unknown"
+    },
+    "HSDTW": {
+        "cik_str": 1610853,
+        "ticker": "HSDTW",
+        "title": "HELIUS MEDICAL TECHNOLOGIES, INC.",
+        "sector": "Unknown"
+    },
+    "AP-WT": {
+        "cik_str": 6176,
+        "ticker": "AP-WT",
+        "title": "AMPCO PITTSBURGH CORP",
+        "sector": "Unknown"
+    },
+    "BNH": {
+        "cik_str": 1001085,
+        "ticker": "BNH",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BNJ": {
+        "cik_str": 1001085,
+        "ticker": "BNJ",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BROXF": {
+        "cik_str": 1001085,
+        "ticker": "BROXF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BXDIF": {
+        "cik_str": 1001085,
+        "ticker": "BXDIF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "PERF-WT": {
+        "cik_str": 1899830,
+        "ticker": "PERF-WT",
+        "title": "Perfect Corp.",
+        "sector": "Unknown"
+    },
+    "CANE": {
+        "cik_str": 1471824,
+        "ticker": "CANE",
+        "title": "Teucrium Commodity Trust",
+        "sector": "Unknown"
+    },
+    "SOYB": {
+        "cik_str": 1471824,
+        "ticker": "SOYB",
+        "title": "Teucrium Commodity Trust",
+        "sector": "Unknown"
+    },
+    "TAGS": {
+        "cik_str": 1471824,
+        "ticker": "TAGS",
+        "title": "Teucrium Commodity Trust",
+        "sector": "Unknown"
+    },
+    "WEAT": {
+        "cik_str": 1471824,
+        "ticker": "WEAT",
+        "title": "Teucrium Commodity Trust",
+        "sector": "Unknown"
+    },
+    "CORN": {
+        "cik_str": 1471824,
+        "ticker": "CORN",
+        "title": "Teucrium Commodity Trust",
+        "sector": "Unknown"
+    },
+    "BBAAY": {
+        "cik_str": 1577552,
+        "ticker": "BBAAY",
+        "title": "Alibaba Group Holding Ltd",
+        "sector": "Unknown"
+    },
+    "ORIB": {
+        "cik_str": 1854183,
+        "ticker": "ORIB",
+        "title": "Orion Bliss Corp.",
+        "sector": "Unknown"
+    },
+    "CCIXW": {
+        "cik_str": 2006291,
+        "ticker": "CCIXW",
+        "title": "Churchill Capital Corp IX/Cayman",
+        "sector": "Unknown"
+    },
+    "CCIXU": {
+        "cik_str": 2006291,
+        "ticker": "CCIXU",
+        "title": "Churchill Capital Corp IX/Cayman",
+        "sector": "Unknown"
+    },
+    "FSREI": {
+        "cik_str": 1690536,
+        "ticker": "FSREI",
+        "title": "FS Credit Real Estate Income Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "FSREM": {
+        "cik_str": 1690536,
+        "ticker": "FSREM",
+        "title": "FS Credit Real Estate Income Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "CIMO": {
+        "cik_str": 1409493,
+        "ticker": "CIMO",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Unknown"
+    },
+    "CIMN": {
+        "cik_str": 1409493,
+        "ticker": "CIMN",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Unknown"
+    },
+    "OUST-WT": {
+        "cik_str": 1816581,
+        "ticker": "OUST-WT",
+        "title": "Ouster, Inc.",
+        "sector": "Unknown"
+    },
+    "OUST-WTA": {
+        "cik_str": 1816581,
+        "ticker": "OUST-WTA",
+        "title": "Ouster, Inc.",
+        "sector": "Unknown"
+    },
+    "XALCX": {
+        "cik_str": 1729678,
+        "ticker": "XALCX",
+        "title": "BNY Mellon Alcentra Global Multi-Strategy Credit Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "RCIAX": {
+        "cik_str": 1628040,
+        "ticker": "RCIAX",
+        "title": "Alternative Credit Income Fund",
+        "sector": "Unknown"
+    },
+    "DISTR": {
+        "cik_str": 1818605,
+        "ticker": "DISTR",
+        "title": "Distoken Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "DISTW": {
+        "cik_str": 1818605,
+        "ticker": "DISTW",
+        "title": "Distoken Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "BNIXR": {
+        "cik_str": 1845942,
+        "ticker": "BNIXR",
+        "title": "Bannix Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SBBA": {
+        "cik_str": 1483934,
+        "ticker": "SBBA",
+        "title": "Scorpio Tankers Inc.",
+        "sector": "Unknown"
+    },
+    "MPLNW": {
+        "cik_str": 1793229,
+        "ticker": "MPLNW",
+        "title": "MultiPlan Corp",
+        "sector": "Unknown"
+    },
+    "BKAMF": {
+        "cik_str": 1001085,
+        "ticker": "BKAMF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BKFAF": {
+        "cik_str": 1001085,
+        "ticker": "BKFAF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BKFPF": {
+        "cik_str": 1001085,
+        "ticker": "BKFPF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BKFOF": {
+        "cik_str": 1001085,
+        "ticker": "BKFOF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BRCFF": {
+        "cik_str": 1001085,
+        "ticker": "BRCFF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "BKFDF": {
+        "cik_str": 1001085,
+        "ticker": "BKFDF",
+        "title": "BROOKFIELD Corp /ON/",
+        "sector": "Unknown"
+    },
+    "SBEV-WT": {
+        "cik_str": 1553788,
+        "ticker": "SBEV-WT",
+        "title": "SPLASH BEVERAGE GROUP, INC.",
+        "sector": "Unknown"
+    },
+    "HLLY-WT": {
+        "cik_str": 1822928,
+        "ticker": "HLLY-WT",
+        "title": "Holley Inc.",
+        "sector": "Unknown"
+    },
+    "CPRDX": {
+        "cik_str": 1762562,
+        "ticker": "CPRDX",
+        "title": "Clarion Partners Real Estate Income Fund Inc.",
+        "sector": "Unknown"
+    },
+    "HIPOW": {
+        "cik_str": 1828105,
+        "ticker": "HIPOW",
+        "title": "Hippo Holdings Inc.",
+        "sector": "Unknown"
+    },
+    "GLDI": {
+        "cik_str": 1053092,
+        "ticker": "GLDI",
+        "title": "CREDIT SUISSE AG",
+        "sector": "Unknown"
+    },
+    "SLVO": {
+        "cik_str": 1053092,
+        "ticker": "SLVO",
+        "title": "CREDIT SUISSE AG",
+        "sector": "Unknown"
+    },
+    "USOI": {
+        "cik_str": 1053092,
+        "ticker": "USOI",
+        "title": "CREDIT SUISSE AG",
+        "sector": "Unknown"
+    },
+    "BC-PA": {
+        "cik_str": 14930,
+        "ticker": "BC-PA",
+        "title": "BRUNSWICK CORP",
+        "sector": "Unknown"
+    },
+    "BC-PB": {
+        "cik_str": 14930,
+        "ticker": "BC-PB",
+        "title": "BRUNSWICK CORP",
+        "sector": "Unknown"
+    },
+    "BC-PC": {
+        "cik_str": 14930,
+        "ticker": "BC-PC",
+        "title": "BRUNSWICK CORP",
+        "sector": "Unknown"
+    },
+    "FILG": {
+        "cik_str": 1852039,
+        "ticker": "FILG",
+        "title": "Grayscale Filecoin Trust (FIL)",
+        "sector": "Unknown"
+    },
+    "GFSAY": {
+        "cik_str": 1389207,
+        "ticker": "GFSAY",
+        "title": "Gafisa S.A.",
+        "sector": "Unknown"
+    },
+    "BNPZY": {
+        "cik_str": 310732,
+        "ticker": "BNPZY",
+        "title": "BNP PARIBAS",
+        "sector": "Unknown"
+    },
+    "NFTM": {
+        "cik_str": 1345865,
+        "ticker": "NFTM",
+        "title": "Buildablock Corp.",
+        "sector": "Unknown"
+    },
+    "OXLCL": {
+        "cik_str": 1495222,
+        "ticker": "OXLCL",
+        "title": "Oxford Lane Capital Corp.",
+        "sector": "Unknown"
+    },
+    "OXLCI": {
+        "cik_str": 1495222,
+        "ticker": "OXLCI",
+        "title": "Oxford Lane Capital Corp.",
+        "sector": "Unknown"
+    },
+    "OXLCZ": {
+        "cik_str": 1495222,
+        "ticker": "OXLCZ",
+        "title": "Oxford Lane Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SNLIF": {
+        "cik_str": 1097362,
+        "ticker": "SNLIF",
+        "title": "SUN LIFE FINANCIAL INC",
+        "sector": "Unknown"
+    },
+    "SLFQF": {
+        "cik_str": 1097362,
+        "ticker": "SLFQF",
+        "title": "SUN LIFE FINANCIAL INC",
+        "sector": "Unknown"
+    },
+    "PFH": {
+        "cik_str": 1137774,
+        "ticker": "PFH",
+        "title": "PRUDENTIAL FINANCIAL INC",
+        "sector": "Unknown"
+    },
+    "PRH": {
+        "cik_str": 1137774,
+        "ticker": "PRH",
+        "title": "PRUDENTIAL FINANCIAL INC",
+        "sector": "Unknown"
+    },
+    "PRS": {
+        "cik_str": 1137774,
+        "ticker": "PRS",
+        "title": "PRUDENTIAL FINANCIAL INC",
+        "sector": "Unknown"
+    },
+    "BIPJ": {
+        "cik_str": 1406234,
+        "ticker": "BIPJ",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Unknown"
+    },
+    "BRIPF": {
+        "cik_str": 1406234,
+        "ticker": "BRIPF",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Unknown"
+    },
+    "BIPH": {
+        "cik_str": 1406234,
+        "ticker": "BIPH",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Unknown"
+    },
+    "BIPI": {
+        "cik_str": 1406234,
+        "ticker": "BIPI",
+        "title": "Brookfield Infrastructure Partners L.P.",
+        "sector": "Unknown"
+    },
+    "DMYY-UN": {
+        "cik_str": 1915380,
+        "ticker": "DMYY-UN",
+        "title": "dMY Squared Technology Group, Inc.",
+        "sector": "Unknown"
+    },
+    "DMYY-WT": {
+        "cik_str": 1915380,
+        "ticker": "DMYY-WT",
+        "title": "dMY Squared Technology Group, Inc.",
+        "sector": "Unknown"
+    },
+    "LUNRW": {
+        "cik_str": 1844452,
+        "ticker": "LUNRW",
+        "title": "Intuitive Machines, Inc.",
+        "sector": "Unknown"
+    },
+    "PNST-WT": {
+        "cik_str": 1852633,
+        "ticker": "PNST-WT",
+        "title": "Pinstripes Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "FVNNU": {
+        "cik_str": 2010653,
+        "ticker": "FVNNU",
+        "title": "Future Vision II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "FVNNR": {
+        "cik_str": 2010653,
+        "ticker": "FVNNR",
+        "title": "Future Vision II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "AILIO": {
+        "cik_str": 18654,
+        "ticker": "AILIO",
+        "title": "Ameren Illinois Co",
+        "sector": "Unknown"
+    },
+    "AILIP": {
+        "cik_str": 18654,
+        "ticker": "AILIP",
+        "title": "Ameren Illinois Co",
+        "sector": "Unknown"
+    },
+    "XILSX": {
+        "cik_str": 1616037,
+        "ticker": "XILSX",
+        "title": "Pioneer ILS Interval Fund",
+        "sector": "Unknown"
+    },
+    "WHLRL": {
+        "cik_str": 1527541,
+        "ticker": "WHLRL",
+        "title": "Wheeler Real Estate Investment Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "SCE-PN": {
+        "cik_str": 92103,
+        "ticker": "SCE-PN",
+        "title": "SOUTHERN CALIFORNIA EDISON Co",
+        "sector": "Unknown"
+    },
+    "SCE-PM": {
+        "cik_str": 92103,
+        "ticker": "SCE-PM",
+        "title": "SOUTHERN CALIFORNIA EDISON Co",
+        "sector": "Unknown"
+    },
+    "SCE-PL": {
+        "cik_str": 92103,
+        "ticker": "SCE-PL",
+        "title": "SOUTHERN CALIFORNIA EDISON Co",
+        "sector": "Unknown"
+    },
+    "SCE-PG": {
+        "cik_str": 92103,
+        "ticker": "SCE-PG",
+        "title": "SOUTHERN CALIFORNIA EDISON Co",
+        "sector": "Unknown"
+    },
+    "SCE-PK": {
+        "cik_str": 92103,
+        "ticker": "SCE-PK",
+        "title": "SOUTHERN CALIFORNIA EDISON Co",
+        "sector": "Unknown"
+    },
+    "ATEK-UN": {
+        "cik_str": 1882198,
+        "ticker": "ATEK-UN",
+        "title": "Athena Technology Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "ATEK-WT": {
+        "cik_str": 1882198,
+        "ticker": "ATEK-WT",
+        "title": "Athena Technology Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "EIOAX": {
+        "cik_str": 1751156,
+        "ticker": "EIOAX",
+        "title": "ELLINGTON INCOME OPPORTUNITIES FUND",
+        "sector": "Unknown"
+    },
+    "LZM-WT": {
+        "cik_str": 1958217,
+        "ticker": "LZM-WT",
+        "title": "Lifezone Metals Ltd",
+        "sector": "Unknown"
+    },
+    "ISMCF": {
+        "cik_str": 1332174,
+        "ticker": "ISMCF",
+        "title": "iShares S&P GSCI Commodity-Indexed Trust",
+        "sector": "Unknown"
+    },
+    "CNROX": {
+        "cik_str": 1737936,
+        "ticker": "CNROX",
+        "title": "City National Rochdale Strategic Credit Fund",
+        "sector": "Unknown"
+    },
+    "OPINL": {
+        "cik_str": 1456772,
+        "ticker": "OPINL",
+        "title": "OFFICE PROPERTIES INCOME TRUST",
+        "sector": "Unknown"
+    },
+    "SOJD": {
+        "cik_str": 92122,
+        "ticker": "SOJD",
+        "title": "SOUTHERN CO",
+        "sector": "Unknown"
+    },
+    "SOJE": {
+        "cik_str": 92122,
+        "ticker": "SOJE",
+        "title": "SOUTHERN CO",
+        "sector": "Unknown"
+    },
+    "XFLT-PA": {
+        "cik_str": 1703079,
+        "ticker": "XFLT-PA",
+        "title": "XAI Octagon Floating Rate & Alternative Income Trust",
+        "sector": "Unknown"
+    },
+    "EPDU": {
+        "cik_str": 1061219,
+        "ticker": "EPDU",
+        "title": "ENTERPRISE PRODUCTS PARTNERS L.P.",
+        "sector": "Unknown"
+    },
+    "QETAR": {
+        "cik_str": 1978528,
+        "ticker": "QETAR",
+        "title": "Quetta Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "SLMWF": {
+        "cik_str": 1838162,
+        "ticker": "SLMWF",
+        "title": "Slam Corp.",
+        "sector": "Unknown"
+    },
+    "LANV-WT": {
+        "cik_str": 1922097,
+        "ticker": "LANV-WT",
+        "title": "Lanvin Group Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "CGABL": {
+        "cik_str": 1527166,
+        "ticker": "CGABL",
+        "title": "Carlyle Group Inc.",
+        "sector": "Unknown"
+    },
+    "BRZHR": {
+        "cik_str": 1817640,
+        "ticker": "BRZHR",
+        "title": "Breeze Holdings Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "DC-WT": {
+        "cik_str": 1852353,
+        "ticker": "DC-WT",
+        "title": "Dakota Gold Corp.",
+        "sector": "Unknown"
+    },
+    "BANFP": {
+        "cik_str": 760498,
+        "ticker": "BANFP",
+        "title": "BANCFIRST CORP /OK/",
+        "sector": "Unknown"
+    },
+    "INPAP": {
+        "cik_str": 51434,
+        "ticker": "INPAP",
+        "title": "INTERNATIONAL PAPER CO /NEW/",
+        "sector": "Unknown"
+    },
+    "ATHS": {
+        "cik_str": 1527469,
+        "ticker": "ATHS",
+        "title": "Athene Holding Ltd.",
+        "sector": "Unknown"
+    },
+    "ONFOP": {
+        "cik_str": 1825452,
+        "ticker": "ONFOP",
+        "title": "Onfolio Holdings, Inc",
+        "sector": "Unknown"
+    },
+    "AERGP": {
+        "cik_str": 879911,
+        "ticker": "AERGP",
+        "title": "APPLIED ENERGETICS, INC.",
+        "sector": "Unknown"
+    },
+    "QVCC": {
+        "cik_str": 1254699,
+        "ticker": "QVCC",
+        "title": "QVC INC",
+        "sector": "Unknown"
+    },
+    "AQNB": {
+        "cik_str": 1174169,
+        "ticker": "AQNB",
+        "title": "ALGONQUIN POWER & UTILITIES CORP.",
+        "sector": "Unknown"
+    },
+    "MHNC": {
+        "cik_str": 1412100,
+        "ticker": "MHNC",
+        "title": "Maiden Holdings, Ltd.",
+        "sector": "Unknown"
+    },
+    "AGQPF": {
+        "cik_str": 1174169,
+        "ticker": "AGQPF",
+        "title": "ALGONQUIN POWER & UTILITIES CORP.",
+        "sector": "Unknown"
+    },
+    "FFIEW": {
+        "cik_str": 1805521,
+        "ticker": "FFIEW",
+        "title": "FARADAY FUTURE INTELLIGENT ELECTRIC INC.",
+        "sector": "Unknown"
+    },
+    "TRINI": {
+        "cik_str": 1786108,
+        "ticker": "TRINI",
+        "title": "Trinity Capital Inc.",
+        "sector": "Unknown"
+    },
+    "TRINZ": {
+        "cik_str": 1786108,
+        "ticker": "TRINZ",
+        "title": "Trinity Capital Inc.",
+        "sector": "Unknown"
+    },
+    "CWLXF": {
+        "cik_str": 831609,
+        "ticker": "CWLXF",
+        "title": "C21 Investments Inc.",
+        "sector": "Unknown"
+    },
+    "SNCRL": {
+        "cik_str": 1131554,
+        "ticker": "SNCRL",
+        "title": "SYNCHRONOSS TECHNOLOGIES INC",
+        "sector": "Unknown"
+    },
+    "TRINL": {
+        "cik_str": 1786108,
+        "ticker": "TRINL",
+        "title": "Trinity Capital Inc.",
+        "sector": "Unknown"
+    },
+    "IMAQR": {
+        "cik_str": 1846235,
+        "ticker": "IMAQR",
+        "title": "International Media Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "GFRWF": {
+        "cik_str": 1966287,
+        "ticker": "GFRWF",
+        "title": "Greenfire Resources Ltd.",
+        "sector": "Unknown"
+    },
+    "QLUNF": {
+        "cik_str": 1951378,
+        "ticker": "QLUNF",
+        "title": "Qilun Group Inc.",
+        "sector": "Unknown"
+    },
+    "SSPFF": {
+        "cik_str": 1576018,
+        "ticker": "SSPFF",
+        "title": "SiriusPoint Ltd",
+        "sector": "Unknown"
+    },
+    "GROY-WT": {
+        "cik_str": 1834026,
+        "ticker": "GROY-WT",
+        "title": "Gold Royalty Corp.",
+        "sector": "Unknown"
+    },
+    "SXTPW": {
+        "cik_str": 1946563,
+        "ticker": "SXTPW",
+        "title": "60 DEGREES PHARMACEUTICALS, INC.",
+        "sector": "Unknown"
+    },
+    "CLRCR": {
+        "cik_str": 1903392,
+        "ticker": "CLRCR",
+        "title": "ClimateRock",
+        "sector": "Unknown"
+    },
+    "SMR-WT": {
+        "cik_str": 1822966,
+        "ticker": "SMR-WT",
+        "title": "NUSCALE POWER Corp",
+        "sector": "Unknown"
+    },
+    "SDAWW": {
+        "cik_str": 1936804,
+        "ticker": "SDAWW",
+        "title": "SunCar Technology Group Inc.",
+        "sector": "Unknown"
+    },
+    "SVIIR": {
+        "cik_str": 1843477,
+        "ticker": "SVIIR",
+        "title": "Spring Valley Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "BMTX-WT": {
+        "cik_str": 1725872,
+        "ticker": "BMTX-WT",
+        "title": "BM Technologies, Inc.",
+        "sector": "Unknown"
+    },
+    "TBC": {
+        "cik_str": 732717,
+        "ticker": "TBC",
+        "title": "AT&T INC.",
+        "sector": "Unknown"
+    },
+    "XFOWW": {
+        "cik_str": 1501697,
+        "ticker": "XFOWW",
+        "title": "X4 Pharmaceuticals, Inc",
+        "sector": "Unknown"
+    },
+    "POLEU": {
+        "cik_str": 2025341,
+        "ticker": "POLEU",
+        "title": "Andretti Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "POLEW": {
+        "cik_str": 2025341,
+        "ticker": "POLEW",
+        "title": "Andretti Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "CLBR-UN": {
+        "cik_str": 1995413,
+        "ticker": "CLBR-UN",
+        "title": "COLOMBIER ACQUISITION CORP. II",
+        "sector": "Unknown"
+    },
+    "CLBR-WT": {
+        "cik_str": 1995413,
+        "ticker": "CLBR-WT",
+        "title": "COLOMBIER ACQUISITION CORP. II",
+        "sector": "Unknown"
+    },
+    "NXPT": {
+        "cik_str": 1588272,
+        "ticker": "NXPT",
+        "title": "NexPoint Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "CMSC": {
+        "cik_str": 811156,
+        "ticker": "CMSC",
+        "title": "CMS ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "CMSD": {
+        "cik_str": 811156,
+        "ticker": "CMSD",
+        "title": "CMS ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "MFICL": {
+        "cik_str": 1278752,
+        "ticker": "MFICL",
+        "title": "MidCap Financial Investment Corp",
+        "sector": "Unknown"
+    },
+    "INBKZ": {
+        "cik_str": 1562463,
+        "ticker": "INBKZ",
+        "title": "First Internet Bancorp",
+        "sector": "Unknown"
+    },
+    "BOH-PB": {
+        "cik_str": 46195,
+        "ticker": "BOH-PB",
+        "title": "BANK OF HAWAII CORP",
+        "sector": "Unknown"
+    },
+    "OBTC": {
+        "cik_str": 1767057,
+        "ticker": "OBTC",
+        "title": "Osprey Bitcoin Trust",
+        "sector": "Unknown"
+    },
+    "GGAWF": {
+        "cik_str": 1865697,
+        "ticker": "GGAWF",
+        "title": "NeuroMind AI Corp.",
+        "sector": "Unknown"
+    },
+    "ALUR-WT": {
+        "cik_str": 1964979,
+        "ticker": "ALUR-WT",
+        "title": "ALLURION TECHNOLOGIES, INC.",
+        "sector": "Unknown"
+    },
+    "MCAGR": {
+        "cik_str": 1859035,
+        "ticker": "MCAGR",
+        "title": "Mountain Crest Acquisition Corp. V",
+        "sector": "Unknown"
+    },
+    "GEGGL": {
+        "cik_str": 1831096,
+        "ticker": "GEGGL",
+        "title": "Great Elm Group, Inc.",
+        "sector": "Unknown"
+    },
+    "BOWNR": {
+        "cik_str": 1973056,
+        "ticker": "BOWNR",
+        "title": "Bowen Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "LARAX": {
+        "cik_str": 1753712,
+        "ticker": "LARAX",
+        "title": "Lord Abbett Credit Opportunities Fund",
+        "sector": "Unknown"
+    },
+    "KMPB": {
+        "cik_str": 860748,
+        "ticker": "KMPB",
+        "title": "KEMPER Corp",
+        "sector": "Unknown"
+    },
+    "BALY-T": {
+        "cik_str": 1747079,
+        "ticker": "BALY-T",
+        "title": "Bally's Corp",
+        "sector": "Unknown"
+    },
+    "GDHLF": {
+        "cik_str": 1526125,
+        "ticker": "GDHLF",
+        "title": "GDS Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "TRPPF": {
+        "cik_str": 1232384,
+        "ticker": "TRPPF",
+        "title": "TC ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "TCENF": {
+        "cik_str": 1232384,
+        "ticker": "TCENF",
+        "title": "TC ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "TCNCF": {
+        "cik_str": 1232384,
+        "ticker": "TCNCF",
+        "title": "TC ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "TRPRF": {
+        "cik_str": 1232384,
+        "ticker": "TRPRF",
+        "title": "TC ENERGY CORP",
+        "sector": "Unknown"
+    },
+    "ARBKL": {
+        "cik_str": 1841675,
+        "ticker": "ARBKL",
+        "title": "Argo Blockchain Plc",
+        "sector": "Unknown"
+    },
+    "LAWIL": {
+        "cik_str": 750004,
+        "ticker": "LAWIL",
+        "title": "Light & Wonder, Inc.",
+        "sector": "Unknown"
+    },
+    "ACHR-WT": {
+        "cik_str": 1824502,
+        "ticker": "ACHR-WT",
+        "title": "Archer Aviation Inc.",
+        "sector": "Unknown"
+    },
+    "UWMC-WT": {
+        "cik_str": 1783398,
+        "ticker": "UWMC-WT",
+        "title": "UWM Holdings Corp",
+        "sector": "Unknown"
+    },
+    "ATMP": {
+        "cik_str": 312070,
+        "ticker": "ATMP",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "BWVTF": {
+        "cik_str": 312070,
+        "ticker": "BWVTF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "COWTF": {
+        "cik_str": 312070,
+        "ticker": "COWTF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "DJP": {
+        "cik_str": 312070,
+        "ticker": "DJP",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "VXZ": {
+        "cik_str": 312070,
+        "ticker": "VXZ",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "VXX": {
+        "cik_str": 312070,
+        "ticker": "VXX",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "PGMFF": {
+        "cik_str": 312070,
+        "ticker": "PGMFF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "GRN": {
+        "cik_str": 312070,
+        "ticker": "GRN",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "JJCTF": {
+        "cik_str": 312070,
+        "ticker": "JJCTF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "JJETF": {
+        "cik_str": 312070,
+        "ticker": "JJETF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "JJGTF": {
+        "cik_str": 312070,
+        "ticker": "JJGTF",
+        "title": "BARCLAYS BANK PLC",
+        "sector": "Unknown"
+    },
+    "LTSV": {
+        "cik_str": 1619312,
+        "ticker": "LTSV",
+        "title": "Lightstone Value Plus REIT IV, Inc.",
+        "sector": "Unknown"
+    },
+    "IRS-WT": {
+        "cik_str": 933267,
+        "ticker": "IRS-WT",
+        "title": "IRSA INVESTMENTS & REPRESENTATIONS INC",
+        "sector": "Unknown"
+    },
+    "PMFAX": {
+        "cik_str": 1723701,
+        "ticker": "PMFAX",
+        "title": "PIMCO Flexible Municipal Income Fund",
+        "sector": "Unknown"
+    },
+    "RCKTW": {
+        "cik_str": 1281895,
+        "ticker": "RCKTW",
+        "title": "ROCKET PHARMACEUTICALS, INC.",
+        "sector": "Unknown"
+    },
+    "LGSP": {
+        "cik_str": 1970129,
+        "ticker": "LGSP",
+        "title": "LEGEND SPICES, INC.",
+        "sector": "Unknown"
+    },
+    "MCOMW": {
+        "cik_str": 1788841,
+        "ticker": "MCOMW",
+        "title": "micromobility.com Inc.",
+        "sector": "Unknown"
+    },
+    "ESHAR": {
+        "cik_str": 1918661,
+        "ticker": "ESHAR",
+        "title": "ESH Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "LLOBF": {
+        "cik_str": 1160106,
+        "ticker": "LLOBF",
+        "title": "Lloyds Banking Group plc",
+        "sector": "Unknown"
+    },
+    "SES-WT": {
+        "cik_str": 1819142,
+        "ticker": "SES-WT",
+        "title": "SES AI Corp",
+        "sector": "Unknown"
+    },
+    "SWVLW": {
+        "cik_str": 1875609,
+        "ticker": "SWVLW",
+        "title": "Swvl Holdings Corp",
+        "sector": "Unknown"
+    },
+    "CON-WI": {
+        "cik_str": 2014596,
+        "ticker": "CON-WI",
+        "title": "Concentra Group Holdings Parent, Inc.",
+        "sector": "Unknown"
+    },
+    "RWT-PA": {
+        "cik_str": 930236,
+        "ticker": "RWT-PA",
+        "title": "REDWOOD TRUST INC",
+        "sector": "Unknown"
+    },
+    "RWTN": {
+        "cik_str": 930236,
+        "ticker": "RWTN",
+        "title": "REDWOOD TRUST INC",
+        "sector": "Unknown"
+    },
+    "RWTO": {
+        "cik_str": 930236,
+        "ticker": "RWTO",
+        "title": "REDWOOD TRUST INC",
+        "sector": "Unknown"
+    },
+    "AZRS": {
+        "cik_str": 1828739,
+        "ticker": "AZRS",
+        "title": "Azzurro Solutions Corp.",
+        "sector": "Unknown"
+    },
+    "NESRW": {
+        "cik_str": 1698514,
+        "ticker": "NESRW",
+        "title": "National Energy Services Reunited Corp.",
+        "sector": "Unknown"
+    },
+    "EVVAQ": {
+        "cik_str": 1592057,
+        "ticker": "EVVAQ",
+        "title": "Enviva Inc.",
+        "sector": "Unknown"
+    },
+    "AMBI-WT": {
+        "cik_str": 1937441,
+        "ticker": "AMBI-WT",
+        "title": "Ambipar Emergency Response",
+        "sector": "Unknown"
+    },
+    "CSLRW": {
+        "cik_str": 1838987,
+        "ticker": "CSLRW",
+        "title": "Complete Solaria, Inc.",
+        "sector": "Unknown"
+    },
+    "METCL": {
+        "cik_str": 1687187,
+        "ticker": "METCL",
+        "title": "Ramaco Resources, Inc.",
+        "sector": "Unknown"
+    },
+    "WBX-WT": {
+        "cik_str": 1866501,
+        "ticker": "WBX-WT",
+        "title": "Wallbox N.V.",
+        "sector": "Unknown"
+    },
+    "ALSAR": {
+        "cik_str": 1865111,
+        "ticker": "ALSAR",
+        "title": "Alpha Star Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "GLU-PA": {
+        "cik_str": 1282957,
+        "ticker": "GLU-PA",
+        "title": "GABELLI GLOBAL UTILITY & INCOME TRUST",
+        "sector": "Unknown"
+    },
+    "MITN": {
+        "cik_str": 1514281,
+        "ticker": "MITN",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "MITP": {
+        "cik_str": 1514281,
+        "ticker": "MITP",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "APOS": {
+        "cik_str": 1858681,
+        "ticker": "APOS",
+        "title": "Apollo Global Management, Inc.",
+        "sector": "Unknown"
+    },
+    "TDW-WT": {
+        "cik_str": 98222,
+        "ticker": "TDW-WT",
+        "title": "TIDEWATER INC",
+        "sector": "Unknown"
+    },
+    "TDDWW": {
+        "cik_str": 98222,
+        "ticker": "TDDWW",
+        "title": "TIDEWATER INC",
+        "sector": "Unknown"
+    },
+    "TDGMW": {
+        "cik_str": 98222,
+        "ticker": "TDGMW",
+        "title": "TIDEWATER INC",
+        "sector": "Unknown"
+    },
+    "DODRW": {
+        "cik_str": 949039,
+        "ticker": "DODRW",
+        "title": "DIAMOND OFFSHORE DRILLING, INC.",
+        "sector": "Unknown"
+    },
+    "FOACW": {
+        "cik_str": 1828937,
+        "ticker": "FOACW",
+        "title": "Finance of America Companies Inc.",
+        "sector": "Unknown"
+    },
+    "ARGD": {
+        "cik_str": 1091748,
+        "ticker": "ARGD",
+        "title": "Argo Group International Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "CCLFX": {
+        "cik_str": 1735964,
+        "ticker": "CCLFX",
+        "title": "Cliffwater Corporate Lending Fund",
+        "sector": "Unknown"
+    },
+    "ICRP": {
+        "cik_str": 1690012,
+        "ticker": "ICRP",
+        "title": "InPoint Commercial Real Estate Income, Inc.",
+        "sector": "Unknown"
+    },
+    "CVE-WT": {
+        "cik_str": 1475260,
+        "ticker": "CVE-WT",
+        "title": "CENOVUS ENERGY INC.",
+        "sector": "Unknown"
+    },
+    "EMRPF": {
+        "cik_str": 1127248,
+        "ticker": "EMRPF",
+        "title": "EMERA INC",
+        "sector": "Unknown"
+    },
+    "EMRJF": {
+        "cik_str": 1127248,
+        "ticker": "EMRJF",
+        "title": "EMERA INC",
+        "sector": "Unknown"
+    },
+    "EMICF": {
+        "cik_str": 1127248,
+        "ticker": "EMICF",
+        "title": "EMERA INC",
+        "sector": "Unknown"
+    },
+    "CTDD": {
+        "cik_str": 68622,
+        "ticker": "CTDD",
+        "title": "QWEST CORP",
+        "sector": "Unknown"
+    },
+    "LGL-WT": {
+        "cik_str": 61004,
+        "ticker": "LGL-WT",
+        "title": "LGL GROUP INC",
+        "sector": "Unknown"
+    },
+    "SKMTF": {
+        "cik_str": 1015650,
+        "ticker": "SKMTF",
+        "title": "SK TELECOM CO LTD",
+        "sector": "Unknown"
+    },
+    "AEVA-WT": {
+        "cik_str": 1789029,
+        "ticker": "AEVA-WT",
+        "title": "Aeva Technologies, Inc.",
+        "sector": "Unknown"
+    },
+    "EMCGR": {
+        "cik_str": 1869601,
+        "ticker": "EMCGR",
+        "title": "Embrace Change Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SACH-PA": {
+        "cik_str": 1682220,
+        "ticker": "SACH-PA",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SCCC": {
+        "cik_str": 1682220,
+        "ticker": "SCCC",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SCCD": {
+        "cik_str": 1682220,
+        "ticker": "SCCD",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SCCE": {
+        "cik_str": 1682220,
+        "ticker": "SCCE",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SCCF": {
+        "cik_str": 1682220,
+        "ticker": "SCCF",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SCCG": {
+        "cik_str": 1682220,
+        "ticker": "SCCG",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SACC": {
+        "cik_str": 1682220,
+        "ticker": "SACC",
+        "title": "Sachem Capital Corp.",
+        "sector": "Unknown"
+    },
+    "PNMXO": {
+        "cik_str": 81023,
+        "ticker": "PNMXO",
+        "title": "PUBLIC SERVICE CO OF NEW MEXICO",
+        "sector": "Unknown"
+    },
+    "RZC": {
+        "cik_str": 898174,
+        "ticker": "RZC",
+        "title": "REINSURANCE GROUP OF AMERICA INC",
+        "sector": "Unknown"
+    },
+    "FOXOW": {
+        "cik_str": 1812360,
+        "ticker": "FOXOW",
+        "title": "FOXO TECHNOLOGIES INC.",
+        "sector": "Unknown"
+    },
+    "GAFC": {
+        "cik_str": 1989788,
+        "ticker": "GAFC",
+        "title": "Guru App Factory Corp",
+        "sector": "Unknown"
+    },
+    "AGQ": {
+        "cik_str": 1415311,
+        "ticker": "AGQ",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "BOIL": {
+        "cik_str": 1415311,
+        "ticker": "BOIL",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "EUO": {
+        "cik_str": 1415311,
+        "ticker": "EUO",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "GLL": {
+        "cik_str": 1415311,
+        "ticker": "GLL",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "VIXM": {
+        "cik_str": 1415311,
+        "ticker": "VIXM",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "VIXY": {
+        "cik_str": 1415311,
+        "ticker": "VIXY",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "YCL": {
+        "cik_str": 1415311,
+        "ticker": "YCL",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "YCS": {
+        "cik_str": 1415311,
+        "ticker": "YCS",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "ZSL": {
+        "cik_str": 1415311,
+        "ticker": "ZSL",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "SVXY": {
+        "cik_str": 1415311,
+        "ticker": "SVXY",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "UCO": {
+        "cik_str": 1415311,
+        "ticker": "UCO",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "UGL": {
+        "cik_str": 1415311,
+        "ticker": "UGL",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "ULE": {
+        "cik_str": 1415311,
+        "ticker": "ULE",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "UVXY": {
+        "cik_str": 1415311,
+        "ticker": "UVXY",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "KOLD": {
+        "cik_str": 1415311,
+        "ticker": "KOLD",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "SCO": {
+        "cik_str": 1415311,
+        "ticker": "SCO",
+        "title": "ProShares Trust II",
+        "sector": "Unknown"
+    },
+    "FMCKK": {
+        "cik_str": 1026214,
+        "ticker": "FMCKK",
+        "title": "FEDERAL HOME LOAN MORTGAGE CORP",
+        "sector": "Unknown"
+    },
+    "FREJP": {
+        "cik_str": 1026214,
+        "ticker": "FREJP",
+        "title": "FEDERAL HOME LOAN MORTGAGE CORP",
+        "sector": "Unknown"
+    },
+    "QOMOR": {
+        "cik_str": 1894210,
+        "ticker": "QOMOR",
+        "title": "Qomolangma Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "CELG-RI": {
+        "cik_str": 14272,
+        "ticker": "CELG-RI",
+        "title": "BRISTOL MYERS SQUIBB CO",
+        "sector": "Unknown"
+    },
+    "ACZT": {
+        "cik_str": 1994373,
+        "ticker": "ACZT",
+        "title": "Aceztech Corp",
+        "sector": "Unknown"
+    },
+    "NTWOU": {
+        "cik_str": 2028027,
+        "ticker": "NTWOU",
+        "title": "Newbury Street II Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "OXY-WT": {
+        "cik_str": 797468,
+        "ticker": "OXY-WT",
+        "title": "OCCIDENTAL PETROLEUM CORP /DE/",
+        "sector": "Unknown"
+    },
+    "YHNAR": {
+        "cik_str": 2020987,
+        "ticker": "YHNAR",
+        "title": "YHN Acquisition I Ltd",
+        "sector": "Unknown"
+    },
+    "BLEUR": {
+        "cik_str": 1843370,
+        "ticker": "BLEUR",
+        "title": "bleuacacia ltd",
+        "sector": "Unknown"
+    },
+    "LENDX": {
+        "cik_str": 1658645,
+        "ticker": "LENDX",
+        "title": "Stone Ridge Trust V",
+        "sector": "Unknown"
+    },
+    "HSPOR": {
+        "cik_str": 1946021,
+        "ticker": "HSPOR",
+        "title": "Horizon Space Acquisition I Corp.",
+        "sector": "Unknown"
+    },
+    "GIGGU": {
+        "cik_str": 2023730,
+        "ticker": "GIGGU",
+        "title": "GigCapital7 Corp.",
+        "sector": "Unknown"
+    },
+    "GIGGW": {
+        "cik_str": 2023730,
+        "ticker": "GIGGW",
+        "title": "GigCapital7 Corp.",
+        "sector": "Unknown"
+    },
+    "XXAAU": {
+        "cik_str": 931755,
+        "ticker": "XXAAU",
+        "title": "AEI INCOME & GROWTH FUND XXI LTD PARTNERSHIP",
+        "sector": "Unknown"
+    },
+    "RCB": {
+        "cik_str": 1527590,
+        "ticker": "RCB",
+        "title": "Ready Capital Corp",
+        "sector": "Unknown"
+    },
+    "RCC": {
+        "cik_str": 1527590,
+        "ticker": "RCC",
+        "title": "Ready Capital Corp",
+        "sector": "Unknown"
+    },
+    "DSX-WT": {
+        "cik_str": 1318885,
+        "ticker": "DSX-WT",
+        "title": "DIANA SHIPPING INC.",
+        "sector": "Unknown"
+    },
+    "PDSKX": {
+        "cik_str": 1756404,
+        "ticker": "PDSKX",
+        "title": "Principal Real Asset Fund",
+        "sector": "Unknown"
+    },
+    "BEATW": {
+        "cik_str": 1779372,
+        "ticker": "BEATW",
+        "title": "HeartBeam, Inc.",
+        "sector": "Unknown"
+    },
+    "SKYH-WT": {
+        "cik_str": 1823587,
+        "ticker": "SKYH-WT",
+        "title": "Sky Harbour Group Corp",
+        "sector": "Unknown"
+    },
+    "AQUNR": {
+        "cik_str": 1861063,
+        "ticker": "AQUNR",
+        "title": "Aquaron Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SREA": {
+        "cik_str": 1032208,
+        "ticker": "SREA",
+        "title": "SEMPRA",
+        "sector": "Unknown"
+    },
+    "ARES-PB": {
+        "cik_str": 1176948,
+        "ticker": "ARES-PB",
+        "title": "Ares Management Corp",
+        "sector": "Unknown"
+    },
+    "TOGIW": {
+        "cik_str": 1349706,
+        "ticker": "TOGIW",
+        "title": "TurnOnGreen, Inc.",
+        "sector": "Unknown"
+    },
+    "TCRG": {
+        "cik_str": 1879270,
+        "ticker": "TCRG",
+        "title": "Cannaisseur Group Inc.",
+        "sector": "Unknown"
+    },
+    "NYMTI": {
+        "cik_str": 1273685,
+        "ticker": "NYMTI",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Unknown"
+    },
+    "GAINN": {
+        "cik_str": 1321741,
+        "ticker": "GAINN",
+        "title": "GLADSTONE INVESTMENT CORPORATIONDE",
+        "sector": "Unknown"
+    },
+    "GAINZ": {
+        "cik_str": 1321741,
+        "ticker": "GAINZ",
+        "title": "GLADSTONE INVESTMENT CORPORATIONDE",
+        "sector": "Unknown"
+    },
+    "LLYVB": {
+        "cik_str": 1560385,
+        "ticker": "LLYVB",
+        "title": "Liberty Media Corp",
+        "sector": "Unknown"
+    },
+    "BXNCP": {
+        "cik_str": 1372612,
+        "ticker": "BXNCP",
+        "title": "BOX INC",
+        "sector": "Unknown"
+    },
+    "CTCXW": {
+        "cik_str": 1842939,
+        "ticker": "CTCXW",
+        "title": "Carmell Corp",
+        "sector": "Unknown"
+    },
+    "QBTS-WT": {
+        "cik_str": 1907982,
+        "ticker": "QBTS-WT",
+        "title": "D-Wave Quantum Inc.",
+        "sector": "Unknown"
+    },
+    "AFJKR": {
+        "cik_str": 1979005,
+        "ticker": "AFJKR",
+        "title": "Aimei Health Technology Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "AYWWF": {
+        "cik_str": 1847462,
+        "ticker": "AYWWF",
+        "title": "Ayr Wellness Inc.",
+        "sector": "Unknown"
+    },
+    "AFGD": {
+        "cik_str": 1042046,
+        "ticker": "AFGD",
+        "title": "AMERICAN FINANCIAL GROUP INC",
+        "sector": "Unknown"
+    },
+    "AFGE": {
+        "cik_str": 1042046,
+        "ticker": "AFGE",
+        "title": "AMERICAN FINANCIAL GROUP INC",
+        "sector": "Unknown"
+    },
+    "AFGB": {
+        "cik_str": 1042046,
+        "ticker": "AFGB",
+        "title": "AMERICAN FINANCIAL GROUP INC",
+        "sector": "Unknown"
+    },
+    "SENEM": {
+        "cik_str": 88948,
+        "ticker": "SENEM",
+        "title": "Seneca Foods Corp",
+        "sector": "Unknown"
+    },
+    "SENEL": {
+        "cik_str": 88948,
+        "ticker": "SENEL",
+        "title": "Seneca Foods Corp",
+        "sector": "Unknown"
+    },
+    "NUWEW": {
+        "cik_str": 1506492,
+        "ticker": "NUWEW",
+        "title": "Nuwellis, Inc.",
+        "sector": "Unknown"
+    },
+    "AMJB": {
+        "cik_str": 19617,
+        "ticker": "AMJB",
+        "title": "JPMORGAN CHASE & CO",
+        "sector": "Unknown"
+    },
+    "GNT-PA": {
+        "cik_str": 1438893,
+        "ticker": "GNT-PA",
+        "title": "GAMCO Natural Resources, Gold & Income Trust",
+        "sector": "Unknown"
+    },
+    "PL-WT": {
+        "cik_str": 1836833,
+        "ticker": "PL-WT",
+        "title": "Planet Labs PBC",
+        "sector": "Unknown"
+    },
+    "AOMN": {
+        "cik_str": 1766478,
+        "ticker": "AOMN",
+        "title": "Angel Oak Mortgage REIT, Inc.",
+        "sector": "Unknown"
+    },
+    "LTAFX": {
+        "cik_str": 1496254,
+        "ticker": "LTAFX",
+        "title": "Alternative Strategies Income Fund",
+        "sector": "Unknown"
+    },
+    "LTCFX": {
+        "cik_str": 1496254,
+        "ticker": "LTCFX",
+        "title": "Alternative Strategies Income Fund",
+        "sector": "Unknown"
+    },
+    "VFLEX": {
+        "cik_str": 1681717,
+        "ticker": "VFLEX",
+        "title": "FIRST TRUST ALTERNATIVE OPPORTUNITIES FUND",
+        "sector": "Unknown"
+    },
+    "IVCPW": {
+        "cik_str": 1845123,
+        "ticker": "IVCPW",
+        "title": "Swiftmerge Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "GLSTR": {
+        "cik_str": 1922331,
+        "ticker": "GLSTR",
+        "title": "Global Star Acquisition Inc.",
+        "sector": "Unknown"
+    },
+    "FREY-WT": {
+        "cik_str": 1992243,
+        "ticker": "FREY-WT",
+        "title": "FREYR Battery, Inc. /DE/",
+        "sector": "Unknown"
+    },
+    "BLUAW": {
+        "cik_str": 1831006,
+        "ticker": "BLUAW",
+        "title": "BlueRiver Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "ALIV": {
+        "cik_str": 1034670,
+        "ticker": "ALIV",
+        "title": "AUTOLIV INC",
+        "sector": "Unknown"
+    },
+    "HWM-P": {
+        "cik_str": 4281,
+        "ticker": "HWM-P",
+        "title": "Howmet Aerospace Inc.",
+        "sector": "Unknown"
+    },
+    "LFLYW": {
+        "cik_str": 1785592,
+        "ticker": "LFLYW",
+        "title": "Leafly Holdings, Inc. /DE",
+        "sector": "Unknown"
+    },
+    "EONR-WT": {
+        "cik_str": 1842556,
+        "ticker": "EONR-WT",
+        "title": "EON Resources Inc.",
+        "sector": "Unknown"
+    },
+    "MSSAR": {
+        "cik_str": 1882464,
+        "ticker": "MSSAR",
+        "title": "Metal Sky Star Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "SAT": {
+        "cik_str": 1377936,
+        "ticker": "SAT",
+        "title": "SARATOGA INVESTMENT CORP.",
+        "sector": "Unknown"
+    },
+    "SAY": {
+        "cik_str": 1377936,
+        "ticker": "SAY",
+        "title": "SARATOGA INVESTMENT CORP.",
+        "sector": "Unknown"
+    },
+    "SAZ": {
+        "cik_str": 1377936,
+        "ticker": "SAZ",
+        "title": "SARATOGA INVESTMENT CORP.",
+        "sector": "Unknown"
+    },
+    "SAJ": {
+        "cik_str": 1377936,
+        "ticker": "SAJ",
+        "title": "SARATOGA INVESTMENT CORP.",
+        "sector": "Unknown"
+    },
+    "TBMCR": {
+        "cik_str": 1934945,
+        "ticker": "TBMCR",
+        "title": "Trailblazer Merger Corp I",
+        "sector": "Unknown"
+    },
+    "LVWR-WT": {
+        "cik_str": 1898795,
+        "ticker": "LVWR-WT",
+        "title": "LiveWire Group, Inc.",
+        "sector": "Unknown"
+    },
+    "HROWL": {
+        "cik_str": 1360214,
+        "ticker": "HROWL",
+        "title": "HARROW, INC.",
+        "sector": "Unknown"
+    },
+    "HROWM": {
+        "cik_str": 1360214,
+        "ticker": "HROWM",
+        "title": "HARROW, INC.",
+        "sector": "Unknown"
+    },
+    "MGNC": {
+        "cik_str": 1949864,
+        "ticker": "MGNC",
+        "title": "Mag Magna Corp",
+        "sector": "Unknown"
+    },
+    "RDACU": {
+        "cik_str": 2018145,
+        "ticker": "RDACU",
+        "title": "Rising Dragon Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "VCRRX": {
+        "cik_str": 1687898,
+        "ticker": "VCRRX",
+        "title": "Versus Capital Real Assets Fund LLC",
+        "sector": "Unknown"
+    },
+    "CDAWF": {
+        "cik_str": 1851909,
+        "ticker": "CDAWF",
+        "title": "Compass Digital Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "OXSQG": {
+        "cik_str": 1259429,
+        "ticker": "OXSQG",
+        "title": "Oxford Square Capital Corp.",
+        "sector": "Unknown"
+    },
+    "OXSQZ": {
+        "cik_str": 1259429,
+        "ticker": "OXSQZ",
+        "title": "Oxford Square Capital Corp.",
+        "sector": "Unknown"
+    },
+    "SRRIX": {
+        "cik_str": 1581005,
+        "ticker": "SRRIX",
+        "title": "Stone Ridge Trust II",
+        "sector": "Unknown"
+    },
+    "EVTL-WT": {
+        "cik_str": 1867102,
+        "ticker": "EVTL-WT",
+        "title": "Vertical Aerospace Ltd.",
+        "sector": "Unknown"
+    },
+    "PFFLX": {
+        "cik_str": 1688554,
+        "ticker": "PFFLX",
+        "title": "PIMCO Flexible Credit Income Fund",
+        "sector": "Unknown"
+    },
+    "GERNW": {
+        "cik_str": 886744,
+        "ticker": "GERNW",
+        "title": "GERON CORP",
+        "sector": "Unknown"
+    },
+    "LEV-WT": {
+        "cik_str": 1834974,
+        "ticker": "LEV-WT",
+        "title": "Lion Electric Co",
+        "sector": "Unknown"
+    },
+    "LEV-WTA": {
+        "cik_str": 1834974,
+        "ticker": "LEV-WTA",
+        "title": "Lion Electric Co",
+        "sector": "Unknown"
+    },
+    "AEFC": {
+        "cik_str": 769218,
+        "ticker": "AEFC",
+        "title": "AEGON LTD.",
+        "sector": "Unknown"
+    },
+    "NPWR-WT": {
+        "cik_str": 1845437,
+        "ticker": "NPWR-WT",
+        "title": "NET Power Inc.",
+        "sector": "Unknown"
+    },
+    "EQV-WT": {
+        "cik_str": 2021042,
+        "ticker": "EQV-WT",
+        "title": "EQV Ventures Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "EQV-UN": {
+        "cik_str": 2021042,
+        "ticker": "EQV-UN",
+        "title": "EQV Ventures Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "MBAVU": {
+        "cik_str": 2016072,
+        "ticker": "MBAVU",
+        "title": "M3-Brigade Acquisition V Corp.",
+        "sector": "Unknown"
+    },
+    "MBAVW": {
+        "cik_str": 2016072,
+        "ticker": "MBAVW",
+        "title": "M3-Brigade Acquisition V Corp.",
+        "sector": "Unknown"
+    },
+    "NEWTZ": {
+        "cik_str": 1587987,
+        "ticker": "NEWTZ",
+        "title": "NewtekOne, Inc.",
+        "sector": "Unknown"
+    },
+    "NEWTG": {
+        "cik_str": 1587987,
+        "ticker": "NEWTG",
+        "title": "NewtekOne, Inc.",
+        "sector": "Unknown"
+    },
+    "NEWTH": {
+        "cik_str": 1587987,
+        "ticker": "NEWTH",
+        "title": "NewtekOne, Inc.",
+        "sector": "Unknown"
+    },
+    "WINVR": {
+        "cik_str": 1854463,
+        "ticker": "WINVR",
+        "title": "WinVest Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "NE-WT": {
+        "cik_str": 1895262,
+        "ticker": "NE-WT",
+        "title": "Noble Corp plc",
+        "sector": "Unknown"
+    },
+    "NE-WTA": {
+        "cik_str": 1895262,
+        "ticker": "NE-WTA",
+        "title": "Noble Corp plc",
+        "sector": "Unknown"
+    },
+    "NUVB-WT": {
+        "cik_str": 1811063,
+        "ticker": "NUVB-WT",
+        "title": "Nuvation Bio Inc.",
+        "sector": "Unknown"
+    },
+    "DEENF": {
+        "cik_str": 1159508,
+        "ticker": "DEENF",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "ADZCF": {
+        "cik_str": 1159508,
+        "ticker": "ADZCF",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "OLOXF": {
+        "cik_str": 1159508,
+        "ticker": "OLOXF",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "DGP": {
+        "cik_str": 1159508,
+        "ticker": "DGP",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "DGZ": {
+        "cik_str": 1159508,
+        "ticker": "DGZ",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "DZZ": {
+        "cik_str": 1159508,
+        "ticker": "DZZ",
+        "title": "DEUTSCHE BANK AKTIENGESELLSCHAFT",
+        "sector": "Unknown"
+    },
+    "CAPNU": {
+        "cik_str": 2024203,
+        "ticker": "CAPNU",
+        "title": "Cayson Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "CAPNR": {
+        "cik_str": 2024203,
+        "ticker": "CAPNR",
+        "title": "Cayson Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "XOSWW": {
+        "cik_str": 1819493,
+        "ticker": "XOSWW",
+        "title": "Xos, Inc.",
+        "sector": "Unknown"
+    },
+    "GREEL": {
+        "cik_str": 1844971,
+        "ticker": "GREEL",
+        "title": "Greenidge Generation Holdings Inc.",
+        "sector": "Unknown"
+    },
+    "IBACR": {
+        "cik_str": 1998781,
+        "ticker": "IBACR",
+        "title": "IB Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "PTNRF": {
+        "cik_str": 1096691,
+        "ticker": "PTNRF",
+        "title": "PARTNER COMMUNICATIONS CO LTD",
+        "sector": "Unknown"
+    },
+    "KUSA": {
+        "cik_str": 1467845,
+        "ticker": "KUSA",
+        "title": "Kashin, Inc.",
+        "sector": "Unknown"
+    },
+    "CSLMR": {
+        "cik_str": 1875493,
+        "ticker": "CSLMR",
+        "title": "CSLM ACQUISITION CORP.",
+        "sector": "Unknown"
+    },
+    "CSLMW": {
+        "cik_str": 1875493,
+        "ticker": "CSLMW",
+        "title": "CSLM ACQUISITION CORP.",
+        "sector": "Unknown"
+    },
+    "NIVFW": {
+        "cik_str": 1981662,
+        "ticker": "NIVFW",
+        "title": "NewGenIvf Group Ltd",
+        "sector": "Unknown"
+    },
+    "FLG-PU": {
+        "cik_str": 910073,
+        "ticker": "FLG-PU",
+        "title": "FLAGSTAR FINANCIAL, INC.",
+        "sector": "Unknown"
+    },
+    "OPP-PA": {
+        "cik_str": 1678130,
+        "ticker": "OPP-PA",
+        "title": "RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "CSWCZ": {
+        "cik_str": 17313,
+        "ticker": "CSWCZ",
+        "title": "CAPITAL SOUTHWEST CORP",
+        "sector": "Unknown"
+    },
+    "TALKW": {
+        "cik_str": 1803901,
+        "ticker": "TALKW",
+        "title": "Talkspace, Inc.",
+        "sector": "Unknown"
+    },
+    "GODNR": {
+        "cik_str": 1895144,
+        "ticker": "GODNR",
+        "title": "Golden Star Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "MGSD": {
+        "cik_str": 2003750,
+        "ticker": "MGSD",
+        "title": "Maitong Sunshine Cultural Development Co., Ltd",
+        "sector": "Unknown"
+    },
+    "ASBA": {
+        "cik_str": 7789,
+        "ticker": "ASBA",
+        "title": "ASSOCIATED BANC-CORP",
+        "sector": "Unknown"
+    },
+    "ATIPW": {
+        "cik_str": 1815849,
+        "ticker": "ATIPW",
+        "title": "ATI Physical Therapy, Inc.",
+        "sector": "Unknown"
+    },
+    "ICCRW": {
+        "cik_str": 1408057,
+        "ticker": "ICCRW",
+        "title": "iCoreConnect Inc.",
+        "sector": "Unknown"
+    },
+    "SVIX": {
+        "cik_str": 1793497,
+        "ticker": "SVIX",
+        "title": "VS Trust",
+        "sector": "Unknown"
+    },
+    "UVIX": {
+        "cik_str": 1793497,
+        "ticker": "UVIX",
+        "title": "VS Trust",
+        "sector": "Unknown"
+    },
+    "NEE-PN": {
+        "cik_str": 753308,
+        "ticker": "NEE-PN",
+        "title": "NEXTERA ENERGY INC",
+        "sector": "Unknown"
+    },
+    "WEL-WT": {
+        "cik_str": 1877557,
+        "ticker": "WEL-WT",
+        "title": "Integrated Wellness Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "MNQFF": {
+        "cik_str": 1086888,
+        "ticker": "MNQFF",
+        "title": "MANULIFE FINANCIAL CORP",
+        "sector": "Unknown"
+    },
+    "BRACR": {
+        "cik_str": 1865120,
+        "ticker": "BRACR",
+        "title": "Broad Capital Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "WYTC": {
+        "cik_str": 1560143,
+        "ticker": "WYTC",
+        "title": "WYTEC INTERNATIONAL INC",
+        "sector": "Unknown"
+    },
+    "FLYX-WT": {
+        "cik_str": 1843973,
+        "ticker": "FLYX-WT",
+        "title": "FLYEXCLUSIVE INC.",
+        "sector": "Unknown"
+    },
+    "SWKHL": {
+        "cik_str": 1089907,
+        "ticker": "SWKHL",
+        "title": "SWK Holdings Corp",
+        "sector": "Unknown"
+    },
+    "AGXRW": {
+        "cik_str": 1261249,
+        "ticker": "AGXRW",
+        "title": "AGILE THERAPEUTICS INC",
+        "sector": "Unknown"
+    },
+    "IGTAR": {
+        "cik_str": 1866838,
+        "ticker": "IGTAR",
+        "title": "Inception Growth Acquisition Ltd",
+        "sector": "Unknown"
+    },
+    "SUACW": {
+        "cik_str": 1885461,
+        "ticker": "SUACW",
+        "title": "ShoulderUP Technology Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "VGASW": {
+        "cik_str": 1841425,
+        "ticker": "VGASW",
+        "title": "Verde Clean Fuels, Inc.",
+        "sector": "Unknown"
+    },
+    "BKKT-WT": {
+        "cik_str": 1820302,
+        "ticker": "BKKT-WT",
+        "title": "Bakkt Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "BTBDW": {
+        "cik_str": 1718224,
+        "ticker": "BTBDW",
+        "title": "BT Brands, Inc.",
+        "sector": "Unknown"
+    },
+    "GROVW": {
+        "cik_str": 1841761,
+        "ticker": "GROVW",
+        "title": "Grove Collaborative Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "LBYKV": {
+        "cik_str": 1570585,
+        "ticker": "LBYKV",
+        "title": "Liberty Global Ltd.",
+        "sector": "Unknown"
+    },
+    "LBYAV": {
+        "cik_str": 1570585,
+        "ticker": "LBYAV",
+        "title": "Liberty Global Ltd.",
+        "sector": "Unknown"
+    },
+    "SPMA": {
+        "cik_str": 1930147,
+        "ticker": "SPMA",
+        "title": "Sound Point Meridian Capital, Inc.",
+        "sector": "Unknown"
+    },
+    "KACLR": {
+        "cik_str": 1865468,
+        "ticker": "KACLR",
+        "title": "Kairous Acquisition Corp. Ltd",
+        "sector": "Unknown"
+    },
+    "ATMCR": {
+        "cik_str": 1889106,
+        "ticker": "ATMCR",
+        "title": "ALPHATIME ACQUISITION CORP",
+        "sector": "Unknown"
+    },
+    "ATCOL": {
+        "cik_str": 1794846,
+        "ticker": "ATCOL",
+        "title": "Atlas Corp.",
+        "sector": "Unknown"
+    },
+    "DNMRW": {
+        "cik_str": 1779020,
+        "ticker": "DNMRW",
+        "title": "Danimer Scientific, Inc.",
+        "sector": "Unknown"
+    },
+    "EVE-UN": {
+        "cik_str": 1861121,
+        "ticker": "EVE-UN",
+        "title": "EVe Mobility Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "EVE-WT": {
+        "cik_str": 1861121,
+        "ticker": "EVE-WT",
+        "title": "EVe Mobility Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "GELPP": {
+        "cik_str": 1022321,
+        "ticker": "GELPP",
+        "title": "GENESIS ENERGY LP",
+        "sector": "Unknown"
+    },
+    "C-PN": {
+        "cik_str": 831001,
+        "ticker": "C-PN",
+        "title": "CITIGROUP INC",
+        "sector": "Unknown"
+    },
+    "MSOGF": {
+        "cik_str": 1815846,
+        "ticker": "MSOGF",
+        "title": "MINISO Group Holding Ltd",
+        "sector": "Unknown"
+    },
+    "HMLPF": {
+        "cik_str": 1603016,
+        "ticker": "HMLPF",
+        "title": "Hoegh LNG Partners LP",
+        "sector": "Unknown"
+    },
+    "HTFB": {
+        "cik_str": 1487428,
+        "ticker": "HTFB",
+        "title": "Horizon Technology Finance Corp",
+        "sector": "Unknown"
+    },
+    "HTFC": {
+        "cik_str": 1487428,
+        "ticker": "HTFC",
+        "title": "Horizon Technology Finance Corp",
+        "sector": "Unknown"
+    },
+    "AITRR": {
+        "cik_str": 1966734,
+        "ticker": "AITRR",
+        "title": "AI Transportation Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "TMTCR": {
+        "cik_str": 1879851,
+        "ticker": "TMTCR",
+        "title": "TMT Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "LVROW": {
+        "cik_str": 1945711,
+        "ticker": "LVROW",
+        "title": "Lavoro Ltd",
+        "sector": "Unknown"
+    },
+    "RILYG": {
+        "cik_str": 1464790,
+        "ticker": "RILYG",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "RILYK": {
+        "cik_str": 1464790,
+        "ticker": "RILYK",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "RILYM": {
+        "cik_str": 1464790,
+        "ticker": "RILYM",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "RILYN": {
+        "cik_str": 1464790,
+        "ticker": "RILYN",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "RILYT": {
+        "cik_str": 1464790,
+        "ticker": "RILYT",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "RILYZ": {
+        "cik_str": 1464790,
+        "ticker": "RILYZ",
+        "title": "B. Riley Financial, Inc.",
+        "sector": "Unknown"
+    },
+    "FSHPR": {
+        "cik_str": 1850059,
+        "ticker": "FSHPR",
+        "title": "Flag Ship Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "CHNEY": {
+        "cik_str": 1030475,
+        "ticker": "CHNEY",
+        "title": "CHINA EASTERN AIRLINES CORP LTD",
+        "sector": "Unknown"
+    },
+    "VCICU": {
+        "cik_str": 2025396,
+        "ticker": "VCICU",
+        "title": "Vine Hill Capital Investment Corp.",
+        "sector": "Unknown"
+    },
+    "VCICW": {
+        "cik_str": 2025396,
+        "ticker": "VCICW",
+        "title": "Vine Hill Capital Investment Corp.",
+        "sector": "Unknown"
+    },
+    "HAWLI": {
+        "cik_str": 46207,
+        "ticker": "HAWLI",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "HAWLL": {
+        "cik_str": 46207,
+        "ticker": "HAWLL",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "HAWLM": {
+        "cik_str": 46207,
+        "ticker": "HAWLM",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "HAWEM": {
+        "cik_str": 46207,
+        "ticker": "HAWEM",
+        "title": "HAWAIIAN ELECTRIC CO INC",
+        "sector": "Unknown"
+    },
+    "DYCQR": {
+        "cik_str": 1944212,
+        "ticker": "DYCQR",
+        "title": "DT Cloud Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "COBA": {
+        "cik_str": 1727255,
+        "ticker": "COBA",
+        "title": "Chilean Cobalt Corp.",
+        "sector": "Unknown"
+    },
+    "PSQH-WT": {
+        "cik_str": 1847064,
+        "ticker": "PSQH-WT",
+        "title": "PSQ Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "SEM-WI": {
+        "cik_str": 1320414,
+        "ticker": "SEM-WI",
+        "title": "SELECT MEDICAL HOLDINGS CORP",
+        "sector": "Unknown"
+    },
+    "BAYAR": {
+        "cik_str": 1969475,
+        "ticker": "BAYAR",
+        "title": "Bayview Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "NRSAX": {
+        "cik_str": 1663712,
+        "ticker": "NRSAX",
+        "title": "NEXPOINT REAL ESTATE STRATEGIES FUND",
+        "sector": "Unknown"
+    },
+    "FEAV": {
+        "cik_str": 1888654,
+        "ticker": "FEAV",
+        "title": "5E Advanced Materials, Inc.",
+        "sector": "Unknown"
+    },
+    "FRSPF": {
+        "cik_str": 1490078,
+        "ticker": "FRSPF",
+        "title": "First Phosphate Corp.",
+        "sector": "Unknown"
+    },
+    "FNGO": {
+        "cik_str": 927971,
+        "ticker": "FNGO",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "BERZ": {
+        "cik_str": 927971,
+        "ticker": "BERZ",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "BTMWW": {
+        "cik_str": 1901799,
+        "ticker": "BTMWW",
+        "title": "Bitcoin Depot Inc.",
+        "sector": "Unknown"
+    },
+    "WRB-PF": {
+        "cik_str": 11544,
+        "ticker": "WRB-PF",
+        "title": "BERKLEY W R CORP",
+        "sector": "Unknown"
+    },
+    "WRB-PG": {
+        "cik_str": 11544,
+        "ticker": "WRB-PG",
+        "title": "BERKLEY W R CORP",
+        "sector": "Unknown"
+    },
+    "WRB-PH": {
+        "cik_str": 11544,
+        "ticker": "WRB-PH",
+        "title": "BERKLEY W R CORP",
+        "sector": "Unknown"
+    },
+    "RBCPF": {
+        "cik_str": 1000275,
+        "ticker": "RBCPF",
+        "title": "ROYAL BANK OF CANADA",
+        "sector": "Unknown"
+    },
+    "CUBWW": {
+        "cik_str": 2015955,
+        "ticker": "CUBWW",
+        "title": "Lionheart Holdings",
+        "sector": "Unknown"
+    },
+    "CUBWU": {
+        "cik_str": 2015955,
+        "ticker": "CUBWU",
+        "title": "Lionheart Holdings",
+        "sector": "Unknown"
+    },
+    "BULZ": {
+        "cik_str": 927971,
+        "ticker": "BULZ",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "JETU": {
+        "cik_str": 927971,
+        "ticker": "JETU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "JETD": {
+        "cik_str": 927971,
+        "ticker": "JETD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "CARD": {
+        "cik_str": 927971,
+        "ticker": "CARD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "CARU": {
+        "cik_str": 927971,
+        "ticker": "CARU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "WTID": {
+        "cik_str": 927971,
+        "ticker": "WTID",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "WTIU": {
+        "cik_str": 927971,
+        "ticker": "WTIU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "OILD": {
+        "cik_str": 927971,
+        "ticker": "OILD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "OILU": {
+        "cik_str": 927971,
+        "ticker": "OILU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "SHNY": {
+        "cik_str": 927971,
+        "ticker": "SHNY",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "FNGS": {
+        "cik_str": 927971,
+        "ticker": "FNGS",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "FNGU": {
+        "cik_str": 927971,
+        "ticker": "FNGU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "GDXD": {
+        "cik_str": 927971,
+        "ticker": "GDXD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "GDXU": {
+        "cik_str": 927971,
+        "ticker": "GDXU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "DULL": {
+        "cik_str": 927971,
+        "ticker": "DULL",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "FLYD": {
+        "cik_str": 927971,
+        "ticker": "FLYD",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "FLYU": {
+        "cik_str": 927971,
+        "ticker": "FLYU",
+        "title": "BANK OF MONTREAL /CAN/",
+        "sector": "Unknown"
+    },
+    "MIBE": {
+        "cik_str": 1872066,
+        "ticker": "MIBE",
+        "title": "MIAMI BREEZE CAR CARE INC",
+        "sector": "Unknown"
+    },
+    "NMFCZ": {
+        "cik_str": 1496099,
+        "ticker": "NMFCZ",
+        "title": "New Mountain Finance Corp",
+        "sector": "Unknown"
+    },
+    "ML-WT": {
+        "cik_str": 1807846,
+        "ticker": "ML-WT",
+        "title": "MONEYLION INC.",
+        "sector": "Unknown"
+    },
+    "JTGLF": {
+        "cik_str": 1472033,
+        "ticker": "JTGLF",
+        "title": "Citibank,N.A./ADR",
+        "sector": "Unknown"
+    },
+    "CHARU": {
+        "cik_str": 2024459,
+        "ticker": "CHARU",
+        "title": "Charlton Aria Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "ABLLL": {
+        "cik_str": 1814287,
+        "ticker": "ABLLL",
+        "title": "Abacus Life, Inc.",
+        "sector": "Unknown"
+    },
+    "ABLLW": {
+        "cik_str": 1814287,
+        "ticker": "ABLLW",
+        "title": "Abacus Life, Inc.",
+        "sector": "Unknown"
+    },
+    "MHGUP": {
+        "cik_str": 808219,
+        "ticker": "MHGUP",
+        "title": "MERITAGE HOSPITALITY GROUP INC",
+        "sector": "Unknown"
+    },
+    "RBMCF": {
+        "cik_str": 1000275,
+        "ticker": "RBMCF",
+        "title": "ROYAL BANK OF CANADA",
+        "sector": "Unknown"
+    },
+    "WSUPW": {
+        "cik_str": 1819516,
+        "ticker": "WSUPW",
+        "title": "Wheels Up Experience Inc.",
+        "sector": "Unknown"
+    },
+    "NMKCP": {
+        "cik_str": 1004315,
+        "ticker": "NMKCP",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Unknown"
+    },
+    "NMKBP": {
+        "cik_str": 1004315,
+        "ticker": "NMKBP",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Unknown"
+    },
+    "NMPWP": {
+        "cik_str": 1004315,
+        "ticker": "NMPWP",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Unknown"
+    },
+    "NEWEN": {
+        "cik_str": 1004315,
+        "ticker": "NEWEN",
+        "title": "NATIONAL GRID PLC",
+        "sector": "Unknown"
+    },
+    "HONDW": {
+        "cik_str": 2019804,
+        "ticker": "HONDW",
+        "title": "HCM II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "AIZN": {
+        "cik_str": 1267238,
+        "ticker": "AIZN",
+        "title": "ASSURANT, INC.",
+        "sector": "Unknown"
+    },
+    "BTLWF": {
+        "cik_str": 1546538,
+        "ticker": "BTLWF",
+        "title": "BTS Group Holdings Public Co Limited/ADR",
+        "sector": "Unknown"
+    },
+    "RFACR": {
+        "cik_str": 1847607,
+        "ticker": "RFACR",
+        "title": "RF Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "YOTAR": {
+        "cik_str": 1907730,
+        "ticker": "YOTAR",
+        "title": "Yotta Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "STSR": {
+        "cik_str": 1698538,
+        "ticker": "STSR",
+        "title": "Strategic Student & Senior Housing Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "MSTLW": {
+        "cik_str": 895421,
+        "ticker": "MSTLW",
+        "title": "MORGAN STANLEY",
+        "sector": "Unknown"
+    },
+    "AAM-WT": {
+        "cik_str": 2012964,
+        "ticker": "AAM-WT",
+        "title": "AA Mission Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "AAM-UN": {
+        "cik_str": 2012964,
+        "ticker": "AAM-UN",
+        "title": "AA Mission Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "GPUS-PD": {
+        "cik_str": 896493,
+        "ticker": "GPUS-PD",
+        "title": "Hyperscale Data, Inc.",
+        "sector": "Unknown"
+    },
+    "AACT-WT": {
+        "cik_str": 1853138,
+        "ticker": "AACT-WT",
+        "title": "Ares Acquisition Corp II",
+        "sector": "Unknown"
+    },
+    "AMNA": {
+        "cik_str": 1114446,
+        "ticker": "AMNA",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "AMND": {
+        "cik_str": 1114446,
+        "ticker": "AMND",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "AMTR": {
+        "cik_str": 1114446,
+        "ticker": "AMTR",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "AMUB": {
+        "cik_str": 1114446,
+        "ticker": "AMUB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "UCIB": {
+        "cik_str": 1114446,
+        "ticker": "UCIB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "USML": {
+        "cik_str": 1114446,
+        "ticker": "USML",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "WUCT": {
+        "cik_str": 1114446,
+        "ticker": "WUCT",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "SCDL": {
+        "cik_str": 1114446,
+        "ticker": "SCDL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "SMHB": {
+        "cik_str": 1114446,
+        "ticker": "SMHB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "MVRL": {
+        "cik_str": 1114446,
+        "ticker": "MVRL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "PFFL": {
+        "cik_str": 1114446,
+        "ticker": "PFFL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "QULL": {
+        "cik_str": 1114446,
+        "ticker": "QULL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "MLPB": {
+        "cik_str": 1114446,
+        "ticker": "MLPB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "MLPR": {
+        "cik_str": 1114446,
+        "ticker": "MLPR",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "MTUL": {
+        "cik_str": 1114446,
+        "ticker": "MTUL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "IWDL": {
+        "cik_str": 1114446,
+        "ticker": "IWDL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "IWFL": {
+        "cik_str": 1114446,
+        "ticker": "IWFL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "IWML": {
+        "cik_str": 1114446,
+        "ticker": "IWML",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "HDLB": {
+        "cik_str": 1114446,
+        "ticker": "HDLB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "IFED": {
+        "cik_str": 1114446,
+        "ticker": "IFED",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "BDCX": {
+        "cik_str": 1114446,
+        "ticker": "BDCX",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "BDCZ": {
+        "cik_str": 1114446,
+        "ticker": "BDCZ",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "CEFD": {
+        "cik_str": 1114446,
+        "ticker": "CEFD",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "DJCB": {
+        "cik_str": 1114446,
+        "ticker": "DJCB",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "ESUS": {
+        "cik_str": 1114446,
+        "ticker": "ESUS",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "FEDL": {
+        "cik_str": 1114446,
+        "ticker": "FEDL",
+        "title": "UBS AG",
+        "sector": "Unknown"
+    },
+    "TPGXL": {
+        "cik_str": 1880661,
+        "ticker": "TPGXL",
+        "title": "TPG Inc.",
+        "sector": "Unknown"
+    },
+    "OAKUW": {
+        "cik_str": 1945422,
+        "ticker": "OAKUW",
+        "title": "Oak Woods Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "OAKUR": {
+        "cik_str": 1945422,
+        "ticker": "OAKUR",
+        "title": "Oak Woods Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "KGCRF": {
+        "cik_str": 701818,
+        "ticker": "KGCRF",
+        "title": "KINROSS GOLD CORP",
+        "sector": "Unknown"
+    },
+    "BKSY-WT": {
+        "cik_str": 1753539,
+        "ticker": "BKSY-WT",
+        "title": "BlackSky Technology Inc.",
+        "sector": "Unknown"
+    },
+    "BWNB": {
+        "cik_str": 1630805,
+        "ticker": "BWNB",
+        "title": "Babcock & Wilcox Enterprises, Inc.",
+        "sector": "Unknown"
+    },
+    "BWSN": {
+        "cik_str": 1630805,
+        "ticker": "BWSN",
+        "title": "Babcock & Wilcox Enterprises, Inc.",
+        "sector": "Unknown"
+    },
+    "LNZAW": {
+        "cik_str": 1843724,
+        "ticker": "LNZAW",
+        "title": "LanzaTech Global, Inc.",
+        "sector": "Unknown"
+    },
+    "NVACR": {
+        "cik_str": 1859807,
+        "ticker": "NVACR",
+        "title": "NorthView Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "BACQU": {
+        "cik_str": 2028707,
+        "ticker": "BACQU",
+        "title": "Bleichroeder Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "PITAW": {
+        "cik_str": 1995194,
+        "ticker": "PITAW",
+        "title": "Heramba Electric plc",
+        "sector": "Unknown"
+    },
+    "COOTW": {
+        "cik_str": 1959994,
+        "ticker": "COOTW",
+        "title": "Australian Oilseeds Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "RMSGW": {
+        "cik_str": 1983324,
+        "ticker": "RMSGW",
+        "title": "Real Messenger Corp",
+        "sector": "Unknown"
+    },
+    "OWLTW": {
+        "cik_str": 1816708,
+        "ticker": "OWLTW",
+        "title": "Owlet, Inc.",
+        "sector": "Unknown"
+    },
+    "ATLEW": {
+        "cik_str": 1621221,
+        "ticker": "ATLEW",
+        "title": "ARTELO BIOSCIENCES, INC.",
+        "sector": "Unknown"
+    },
+    "IONQ-WT": {
+        "cik_str": 1824920,
+        "ticker": "IONQ-WT",
+        "title": "IonQ, Inc.",
+        "sector": "Unknown"
+    },
+    "YCBD-PA": {
+        "cik_str": 1644903,
+        "ticker": "YCBD-PA",
+        "title": "cbdMD, Inc.",
+        "sector": "Unknown"
+    },
+    "SOCGM": {
+        "cik_str": 92108,
+        "ticker": "SOCGM",
+        "title": "SOUTHERN CALIFORNIA GAS CO",
+        "sector": "Unknown"
+    },
+    "MGRE": {
+        "cik_str": 1004434,
+        "ticker": "MGRE",
+        "title": "AFFILIATED MANAGERS GROUP, INC.",
+        "sector": "Unknown"
+    },
+    "MGR": {
+        "cik_str": 1004434,
+        "ticker": "MGR",
+        "title": "AFFILIATED MANAGERS GROUP, INC.",
+        "sector": "Unknown"
+    },
+    "MGRB": {
+        "cik_str": 1004434,
+        "ticker": "MGRB",
+        "title": "AFFILIATED MANAGERS GROUP, INC.",
+        "sector": "Unknown"
+    },
+    "MGRD": {
+        "cik_str": 1004434,
+        "ticker": "MGRD",
+        "title": "AFFILIATED MANAGERS GROUP, INC.",
+        "sector": "Unknown"
+    },
+    "HCIIP": {
+        "cik_str": 1400810,
+        "ticker": "HCIIP",
+        "title": "HCI Group, Inc.",
+        "sector": "Unknown"
+    },
+    "EURKR": {
+        "cik_str": 2000410,
+        "ticker": "EURKR",
+        "title": "Eureka Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "FCREX": {
+        "cik_str": 1688897,
+        "ticker": "FCREX",
+        "title": "FS Credit Income Fund",
+        "sector": "Unknown"
+    },
+    "GTECW": {
+        "cik_str": 1735041,
+        "ticker": "GTECW",
+        "title": "Greenland Technologies Holding Corp.",
+        "sector": "Unknown"
+    },
+    "AMPX-WT": {
+        "cik_str": 1899287,
+        "ticker": "AMPX-WT",
+        "title": "Amprius Technologies, Inc.",
+        "sector": "Unknown"
+    },
+    "ASCRF": {
+        "cik_str": 1876716,
+        "ticker": "ASCRF",
+        "title": "ASPAC II Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "OWSCX": {
+        "cik_str": 1748680,
+        "ticker": "OWSCX",
+        "title": "1WS Credit Income Fund",
+        "sector": "Unknown"
+    },
+    "FIISO": {
+        "cik_str": 862831,
+        "ticker": "FIISO",
+        "title": "FINANCIAL INSTITUTIONS INC",
+        "sector": "Unknown"
+    },
+    "FIISP": {
+        "cik_str": 862831,
+        "ticker": "FIISP",
+        "title": "FINANCIAL INSTITUTIONS INC",
+        "sector": "Unknown"
+    },
+    "GWLPF": {
+        "cik_str": 850918,
+        "ticker": "GWLPF",
+        "title": "GREAT-WEST LIFECO INC.",
+        "sector": "Unknown"
+    },
+    "GRWLF": {
+        "cik_str": 850918,
+        "ticker": "GRWLF",
+        "title": "GREAT-WEST LIFECO INC.",
+        "sector": "Unknown"
+    },
+    "SNREV": {
+        "cik_str": 2021938,
+        "ticker": "SNREV",
+        "title": "Sunrise Communications AG",
+        "sector": "Unknown"
+    },
+    "XCAPX": {
+        "cik_str": 1467631,
+        "ticker": "XCAPX",
+        "title": "ACAP Strategic Fund",
+        "sector": "Unknown"
+    },
+    "ATMVR": {
+        "cik_str": 1937891,
+        "ticker": "ATMVR",
+        "title": "AlphaVest Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "MSEXP": {
+        "cik_str": 66004,
+        "ticker": "MSEXP",
+        "title": "MIDDLESEX WATER CO",
+        "sector": "Unknown"
+    },
+    "LGNZZ": {
+        "cik_str": 886163,
+        "ticker": "LGNZZ",
+        "title": "LIGAND PHARMACEUTICALS INC",
+        "sector": "Unknown"
+    },
+    "LGNDZ": {
+        "cik_str": 886163,
+        "ticker": "LGNDZ",
+        "title": "LIGAND PHARMACEUTICALS INC",
+        "sector": "Unknown"
+    },
+    "LGNXZ": {
+        "cik_str": 886163,
+        "ticker": "LGNXZ",
+        "title": "LIGAND PHARMACEUTICALS INC",
+        "sector": "Unknown"
+    },
+    "LGNYZ": {
+        "cik_str": 886163,
+        "ticker": "LGNYZ",
+        "title": "LIGAND PHARMACEUTICALS INC",
+        "sector": "Unknown"
+    },
+    "PPLOF": {
+        "cik_str": 1546066,
+        "ticker": "PPLOF",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Unknown"
+    },
+    "PMBPF": {
+        "cik_str": 1546066,
+        "ticker": "PMBPF",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Unknown"
+    },
+    "PMMBF": {
+        "cik_str": 1546066,
+        "ticker": "PMMBF",
+        "title": "PEMBINA PIPELINE CORP",
+        "sector": "Unknown"
+    },
+    "MACIW": {
+        "cik_str": 2016221,
+        "ticker": "MACIW",
+        "title": "Melar Acquisition Corp. I/Cayman",
+        "sector": "Unknown"
+    },
+    "MACIU": {
+        "cik_str": 2016221,
+        "ticker": "MACIU",
+        "title": "Melar Acquisition Corp. I/Cayman",
+        "sector": "Unknown"
+    },
+    "UHGWW": {
+        "cik_str": 1830188,
+        "ticker": "UHGWW",
+        "title": "United Homes Group, Inc.",
+        "sector": "Unknown"
+    },
+    "CICB": {
+        "cik_str": 1534254,
+        "ticker": "CICB",
+        "title": "CION Investment Corp",
+        "sector": "Unknown"
+    },
+    "TSLTF": {
+        "cik_str": 1144800,
+        "ticker": "TSLTF",
+        "title": "TRANSALTA CORP",
+        "sector": "Unknown"
+    },
+    "TACPF": {
+        "cik_str": 1144800,
+        "ticker": "TACPF",
+        "title": "TRANSALTA CORP",
+        "sector": "Unknown"
+    },
+    "TRNTF": {
+        "cik_str": 1144800,
+        "ticker": "TRNTF",
+        "title": "TRANSALTA CORP",
+        "sector": "Unknown"
+    },
+    "RBOT-WT": {
+        "cik_str": 1812173,
+        "ticker": "RBOT-WT",
+        "title": "Vicarious Surgical Inc.",
+        "sector": "Unknown"
+    },
+    "UZD": {
+        "cik_str": 821130,
+        "ticker": "UZD",
+        "title": "UNITED STATES CELLULAR CORP",
+        "sector": "Unknown"
+    },
+    "UZE": {
+        "cik_str": 821130,
+        "ticker": "UZE",
+        "title": "UNITED STATES CELLULAR CORP",
+        "sector": "Unknown"
+    },
+    "UZF": {
+        "cik_str": 821130,
+        "ticker": "UZF",
+        "title": "UNITED STATES CELLULAR CORP",
+        "sector": "Unknown"
+    },
+    "BCEPF": {
+        "cik_str": 718940,
+        "ticker": "BCEPF",
+        "title": "BCE INC",
+        "sector": "Unknown"
+    },
+    "BCAEF": {
+        "cik_str": 718940,
+        "ticker": "BCAEF",
+        "title": "BCE INC",
+        "sector": "Unknown"
+    },
+    "BSTT": {
+        "cik_str": 1662972,
+        "ticker": "BSTT",
+        "title": "Blackstone Real Estate Income Trust, Inc.",
+        "sector": "Unknown"
+    },
+    "FRTSF": {
+        "cik_str": 1666175,
+        "ticker": "FRTSF",
+        "title": "Fortis Inc.",
+        "sector": "Unknown"
+    },
+    "FTPSF": {
+        "cik_str": 1666175,
+        "ticker": "FTPSF",
+        "title": "Fortis Inc.",
+        "sector": "Unknown"
+    },
+    "GRAF-WT": {
+        "cik_str": 1897463,
+        "ticker": "GRAF-WT",
+        "title": "Graf Global Corp.",
+        "sector": "Unknown"
+    },
+    "HNNAZ": {
+        "cik_str": 1145255,
+        "ticker": "HNNAZ",
+        "title": "HENNESSY ADVISORS INC",
+        "sector": "Unknown"
+    },
+    "OFSWF": {
+        "cik_str": 1875931,
+        "ticker": "OFSWF",
+        "title": "Carbon Streaming Corp",
+        "sector": "Unknown"
+    },
+    "SRKKS": {
+        "cik_str": 1947158,
+        "ticker": "SRKKS",
+        "title": "Public Shrek Royalties LLC",
+        "sector": "Unknown"
+    },
+    "COEPW": {
+        "cik_str": 1759186,
+        "ticker": "COEPW",
+        "title": "Coeptis Therapeutics Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "CTRVP": {
+        "cik_str": 1583771,
+        "ticker": "CTRVP",
+        "title": "Hepion Pharmaceuticals, Inc.",
+        "sector": "Unknown"
+    },
+    "XAEIU": {
+        "cik_str": 1023458,
+        "ticker": "XAEIU",
+        "title": "AEI INCOME & GROWTH FUND XXII LTD PARTNERSHIP",
+        "sector": "Unknown"
+    },
+    "GWH-WT": {
+        "cik_str": 1819438,
+        "ticker": "GWH-WT",
+        "title": "ESS Tech, Inc.",
+        "sector": "Unknown"
+    },
+    "SFB": {
+        "cik_str": 720672,
+        "ticker": "SFB",
+        "title": "STIFEL FINANCIAL CORP",
+        "sector": "Unknown"
+    },
+    "KKRS": {
+        "cik_str": 1404912,
+        "ticker": "KKRS",
+        "title": "KKR & Co. Inc.",
+        "sector": "Unknown"
+    },
+    "TRFED": {
+        "cik_str": 1265521,
+        "ticker": "TRFED",
+        "title": "Polomar Health Services, Inc.",
+        "sector": "Unknown"
+    },
+    "BARK-WT": {
+        "cik_str": 1819574,
+        "ticker": "BARK-WT",
+        "title": "Bark, Inc.",
+        "sector": "Unknown"
+    },
+    "BSIIW": {
+        "cik_str": 2025065,
+        "ticker": "BSIIW",
+        "title": "Black Spade Acquisition II Co",
+        "sector": "Unknown"
+    },
+    "BSIIU": {
+        "cik_str": 2025065,
+        "ticker": "BSIIU",
+        "title": "Black Spade Acquisition II Co",
+        "sector": "Unknown"
+    },
+    "PFXNZ": {
+        "cik_str": 1490349,
+        "ticker": "PFXNZ",
+        "title": "PhenixFIN Corp",
+        "sector": "Unknown"
+    },
+    "CGBDL": {
+        "cik_str": 1544206,
+        "ticker": "CGBDL",
+        "title": "Carlyle Secured Lending, Inc.",
+        "sector": "Unknown"
+    },
+    "GSCE": {
+        "cik_str": 886982,
+        "ticker": "GSCE",
+        "title": "GOLDMAN SACHS GROUP INC",
+        "sector": "Unknown"
+    },
+    "NZEOY": {
+        "cik_str": 1445654,
+        "ticker": "NZEOY",
+        "title": "New Zealand Oil & Gas Ltd/ADR",
+        "sector": "Unknown"
+    },
+    "ALMP": {
+        "cik_str": 1956237,
+        "ticker": "ALMP",
+        "title": "Almco Plumbing Inc",
+        "sector": "Unknown"
+    },
+    "VLN-WT": {
+        "cik_str": 1863006,
+        "ticker": "VLN-WT",
+        "title": "Valens Semiconductor Ltd.",
+        "sector": "Unknown"
+    },
+    "CEDAX": {
+        "cik_str": 1722837,
+        "ticker": "CEDAX",
+        "title": "BlueBay Destra International Event-Driven Credit Fund",
+        "sector": "Unknown"
+    },
+    "OACCU": {
+        "cik_str": 2029769,
+        "ticker": "OACCU",
+        "title": "Oaktree Acquisition Corp. III Life Sciences",
+        "sector": "Unknown"
+    },
+    "NISUF": {
+        "cik_str": 110095,
+        "ticker": "NISUF",
+        "title": "NIPPON SUISAN KAISHA LTD /ADR/",
+        "sector": "Unknown"
+    },
+    "MKDWW": {
+        "cik_str": 1991332,
+        "ticker": "MKDWW",
+        "title": "MKDWELL Tech Inc.",
+        "sector": "Unknown"
+    },
+    "RMXI": {
+        "cik_str": 1970743,
+        "ticker": "RMXI",
+        "title": "Reticulate Micro, Inc.",
+        "sector": "Unknown"
+    },
+    "OCEAW": {
+        "cik_str": 1869974,
+        "ticker": "OCEAW",
+        "title": "Ocean Biomedical, Inc.",
+        "sector": "Unknown"
+    },
+    "RWAYL": {
+        "cik_str": 1653384,
+        "ticker": "RWAYL",
+        "title": "Runway Growth Finance Corp.",
+        "sector": "Unknown"
+    },
+    "RWAYZ": {
+        "cik_str": 1653384,
+        "ticker": "RWAYZ",
+        "title": "Runway Growth Finance Corp.",
+        "sector": "Unknown"
+    },
+    "RGPX": {
+        "cik_str": 1357878,
+        "ticker": "RGPX",
+        "title": "REGENEREX PHARMA, INC.",
+        "sector": "Unknown"
+    },
+    "ZAPPW": {
+        "cik_str": 1955104,
+        "ticker": "ZAPPW",
+        "title": "Zapp Electric Vehicles Group Ltd",
+        "sector": "Unknown"
+    },
+    "NXNT": {
+        "cik_str": 1976663,
+        "ticker": "NXNT",
+        "title": "Nexscient, Inc.",
+        "sector": "Unknown"
+    },
+    "NGKSF": {
+        "cik_str": 1442655,
+        "ticker": "NGKSF",
+        "title": "NGK Spark Plug Co., Ltd.",
+        "sector": "Unknown"
+    },
+    "RLNDF": {
+        "cik_str": 1924064,
+        "ticker": "RLNDF",
+        "title": "RoyaLand Co Ltd.",
+        "sector": "Unknown"
+    },
+    "BFAC-WT": {
+        "cik_str": 1880441,
+        "ticker": "BFAC-WT",
+        "title": "Battery Future Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "SIMAW": {
+        "cik_str": 2014982,
+        "ticker": "SIMAW",
+        "title": "SIM Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "SIMAU": {
+        "cik_str": 2014982,
+        "ticker": "SIMAU",
+        "title": "SIM Acquisition Corp. I",
+        "sector": "Unknown"
+    },
+    "BBAI-WT": {
+        "cik_str": 1836981,
+        "ticker": "BBAI-WT",
+        "title": "BigBear.ai Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "LHTV": {
+        "cik_str": 1296884,
+        "ticker": "LHTV",
+        "title": "Lightstone Value Plus REIT I, Inc.",
+        "sector": "Unknown"
+    },
+    "BUJAR": {
+        "cik_str": 1956055,
+        "ticker": "BUJAR",
+        "title": "Bukit Jalil Global Acquisition 1 Ltd.",
+        "sector": "Unknown"
+    },
+    "CUBB": {
+        "cik_str": 1488813,
+        "ticker": "CUBB",
+        "title": "Customers Bancorp, Inc.",
+        "sector": "Unknown"
+    },
+    "KPHMW": {
+        "cik_str": 1372514,
+        "ticker": "KPHMW",
+        "title": "KIORA PHARMACEUTICALS INC",
+        "sector": "Unknown"
+    },
+    "PAAPU": {
+        "cik_str": 1070423,
+        "ticker": "PAAPU",
+        "title": "PLAINS ALL AMERICAN PIPELINE LP",
+        "sector": "Unknown"
+    },
+    "PW-PA": {
+        "cik_str": 1532619,
+        "ticker": "PW-PA",
+        "title": "Power REIT",
+        "sector": "Unknown"
+    },
+    "QTZM": {
+        "cik_str": 1663038,
+        "ticker": "QTZM",
+        "title": "Quantumzyme Corp.",
+        "sector": "Unknown"
+    },
+    "AREBW": {
+        "cik_str": 1648087,
+        "ticker": "AREBW",
+        "title": "AMERICAN REBEL HOLDINGS INC",
+        "sector": "Unknown"
+    },
+    "VACHU": {
+        "cik_str": 2006815,
+        "ticker": "VACHU",
+        "title": "Voyager Acquisition Corp./Cayman Islands",
+        "sector": "Unknown"
+    },
+    "VACHW": {
+        "cik_str": 2006815,
+        "ticker": "VACHW",
+        "title": "Voyager Acquisition Corp./Cayman Islands",
+        "sector": "Unknown"
+    },
+    "BKHAR": {
+        "cik_str": 2000775,
+        "ticker": "BKHAR",
+        "title": "Black Hawk Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "WTMAR": {
+        "cik_str": 1866226,
+        "ticker": "WTMAR",
+        "title": "Welsbach Technology Metals Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "OFSSH": {
+        "cik_str": 1487918,
+        "ticker": "OFSSH",
+        "title": "OFS Capital Corp",
+        "sector": "Unknown"
+    },
+    "LMND-WT": {
+        "cik_str": 1691421,
+        "ticker": "LMND-WT",
+        "title": "Lemonade, Inc.",
+        "sector": "Unknown"
+    },
+    "TIPLX": {
+        "cik_str": 1551047,
+        "ticker": "TIPLX",
+        "title": "Bluerock Total Income (plus) Real Estate Fund",
+        "sector": "Unknown"
+    },
+    "PMTU": {
+        "cik_str": 1464423,
+        "ticker": "PMTU",
+        "title": "PennyMac Mortgage Investment Trust",
+        "sector": "Unknown"
+    },
+    "HPE-PC": {
+        "cik_str": 1645590,
+        "ticker": "HPE-PC",
+        "title": "Hewlett Packard Enterprise Co",
+        "sector": "Unknown"
+    },
+    "HUDAR": {
+        "cik_str": 1853047,
+        "ticker": "HUDAR",
+        "title": "Hudson Acquisition I Corp.",
+        "sector": "Unknown"
+    },
+    "CTV-WT": {
+        "cik_str": 1835378,
+        "ticker": "CTV-WT",
+        "title": "Innovid Corp.",
+        "sector": "Unknown"
+    },
+    "FCRX": {
+        "cik_str": 1633336,
+        "ticker": "FCRX",
+        "title": "Crescent Capital BDC, Inc.",
+        "sector": "Unknown"
+    },
+    "ALDFU": {
+        "cik_str": 2031561,
+        "ticker": "ALDFU",
+        "title": "Aldel Financial II Inc.",
+        "sector": "Unknown"
+    },
+    "OPFI-WT": {
+        "cik_str": 1818502,
+        "ticker": "OPFI-WT",
+        "title": "OppFi Inc.",
+        "sector": "Unknown"
+    },
+    "TMEF": {
+        "cik_str": 1726079,
+        "ticker": "TMEF",
+        "title": "Tipmefast, Inc.",
+        "sector": "Unknown"
+    },
+    "GL-PD": {
+        "cik_str": 320335,
+        "ticker": "GL-PD",
+        "title": "GLOBE LIFE INC.",
+        "sector": "Unknown"
+    },
+    "NSARP": {
+        "cik_str": 13372,
+        "ticker": "NSARP",
+        "title": "NSTAR ELECTRIC CO",
+        "sector": "Unknown"
+    },
+    "CHEB-WT": {
+        "cik_str": 2016420,
+        "ticker": "CHEB-WT",
+        "title": "Chenghe Acquisition II Co.",
+        "sector": "Unknown"
+    },
+    "CHEB-UN": {
+        "cik_str": 2016420,
+        "ticker": "CHEB-UN",
+        "title": "Chenghe Acquisition II Co.",
+        "sector": "Unknown"
+    },
+    "WHFCL": {
+        "cik_str": 1552198,
+        "ticker": "WHFCL",
+        "title": "WhiteHorse Finance, Inc.",
+        "sector": "Unknown"
+    },
+    "BPYPM": {
+        "cik_str": 1545772,
+        "ticker": "BPYPM",
+        "title": "Brookfield Property Partners L.P.",
+        "sector": "Unknown"
+    },
+    "RDW-WT": {
+        "cik_str": 1819810,
+        "ticker": "RDW-WT",
+        "title": "Redwire Corp",
+        "sector": "Unknown"
+    },
+    "TCMEF": {
+        "cik_str": 1744676,
+        "ticker": "TCMEF",
+        "title": "Tencent Music Entertainment Group",
+        "sector": "Unknown"
+    },
+    "HUBCW": {
+        "cik_str": 1905660,
+        "ticker": "HUBCW",
+        "title": "Hub Cyber Security Ltd.",
+        "sector": "Unknown"
+    },
+    "ALFUW": {
+        "cik_str": 2010930,
+        "ticker": "ALFUW",
+        "title": "Centurion Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "ALFUU": {
+        "cik_str": 2010930,
+        "ticker": "ALFUU",
+        "title": "Centurion Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "MFAN": {
+        "cik_str": 1055160,
+        "ticker": "MFAN",
+        "title": "MFA FINANCIAL, INC.",
+        "sector": "Unknown"
+    },
+    "MFAO": {
+        "cik_str": 1055160,
+        "ticker": "MFAO",
+        "title": "MFA FINANCIAL, INC.",
+        "sector": "Unknown"
+    },
+    "DUKB": {
+        "cik_str": 1326160,
+        "ticker": "DUKB",
+        "title": "Duke Energy CORP",
+        "sector": "Unknown"
+    },
+    "PRIF-PJ": {
+        "cik_str": 1554625,
+        "ticker": "PRIF-PJ",
+        "title": "Priority Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "PRIF-PG": {
+        "cik_str": 1554625,
+        "ticker": "PRIF-PG",
+        "title": "Priority Income Fund, Inc.",
+        "sector": "Unknown"
+    },
+    "ISRLW": {
+        "cik_str": 1915328,
+        "ticker": "ISRLW",
+        "title": "Israel Acquisitions Corp",
+        "sector": "Unknown"
+    },
+    "IHETW": {
+        "cik_str": 1400891,
+        "ticker": "IHETW",
+        "title": "iHeartMedia, Inc.",
+        "sector": "Unknown"
+    },
+    "ATGAF": {
+        "cik_str": 1695519,
+        "ticker": "ATGAF",
+        "title": "AltaGas Ltd.",
+        "sector": "Unknown"
+    },
+    "USB-PS": {
+        "cik_str": 36104,
+        "ticker": "USB-PS",
+        "title": "US BANCORP \\DE\\",
+        "sector": "Unknown"
+    },
+    "MOVAA": {
+        "cik_str": 72573,
+        "ticker": "MOVAA",
+        "title": "MOVADO GROUP INC",
+        "sector": "Unknown"
+    },
+    "INVUP": {
+        "cik_str": 862651,
+        "ticker": "INVUP",
+        "title": "Investview, Inc.",
+        "sector": "Unknown"
+    },
+    "BPOPM": {
+        "cik_str": 763901,
+        "ticker": "BPOPM",
+        "title": "POPULAR, INC.",
+        "sector": "Unknown"
+    },
+    "MINR": {
+        "cik_str": 1854816,
+        "ticker": "MINR",
+        "title": "Minerva Gold Inc.",
+        "sector": "Unknown"
+    },
+    "NICHX": {
+        "cik_str": 1736510,
+        "ticker": "NICHX",
+        "title": "Variant Alternative Income Fund",
+        "sector": "Unknown"
+    },
+    "JVSAR": {
+        "cik_str": 1866001,
+        "ticker": "JVSAR",
+        "title": "JVSPAC Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "GB-WT": {
+        "cik_str": 1799983,
+        "ticker": "GB-WT",
+        "title": "Global Blue Group Holding AG",
+        "sector": "Unknown"
+    },
+    "GLACR": {
+        "cik_str": 1897971,
+        "ticker": "GLACR",
+        "title": "Global Lights Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "CPPTL": {
+        "cik_str": 1837671,
+        "ticker": "CPPTL",
+        "title": "Copper Property CTL Pass Through Trust",
+        "sector": "Unknown"
+    },
+    "GLLIR": {
+        "cik_str": 1888734,
+        "ticker": "GLLIR",
+        "title": "GLOBALINK INVESTMENT INC.",
+        "sector": "Unknown"
+    },
+    "TNONW": {
+        "cik_str": 1560293,
+        "ticker": "TNONW",
+        "title": "Tenon Medical, Inc.",
+        "sector": "Unknown"
+    },
+    "EBRGF": {
+        "cik_str": 895728,
+        "ticker": "EBRGF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "CCIA": {
+        "cik_str": 1517767,
+        "ticker": "CCIA",
+        "title": "Carlyle Credit Income Fund",
+        "sector": "Unknown"
+    },
+    "ENBNF": {
+        "cik_str": 895728,
+        "ticker": "ENBNF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "ENBMF": {
+        "cik_str": 895728,
+        "ticker": "ENBMF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "ENBOF": {
+        "cik_str": 895728,
+        "ticker": "ENBOF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "ENBGF": {
+        "cik_str": 895728,
+        "ticker": "ENBGF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "ENNPF": {
+        "cik_str": 895728,
+        "ticker": "ENNPF",
+        "title": "ENBRIDGE INC",
+        "sector": "Unknown"
+    },
+    "CXAIW": {
+        "cik_str": 1820875,
+        "ticker": "CXAIW",
+        "title": "CXApp Inc.",
+        "sector": "Unknown"
+    },
+    "ALCYW": {
+        "cik_str": 1901336,
+        "ticker": "ALCYW",
+        "title": "Alchemy Investments Acquisition Corp 1",
+        "sector": "Unknown"
+    },
+    "GBBKR": {
+        "cik_str": 1894951,
+        "ticker": "GBBKR",
+        "title": "Global Blockchain Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "AMBP-WT": {
+        "cik_str": 1845097,
+        "ticker": "AMBP-WT",
+        "title": "Ardagh Metal Packaging S.A.",
+        "sector": "Unknown"
+    },
+    "WLACU": {
+        "cik_str": 2032379,
+        "ticker": "WLACU",
+        "title": "Willow Lane Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "IPXXW": {
+        "cik_str": 1970622,
+        "ticker": "IPXXW",
+        "title": "Inflection Point Acquisition Corp. II",
+        "sector": "Unknown"
+    },
+    "CLOER": {
+        "cik_str": 1849058,
+        "ticker": "CLOER",
+        "title": "Clover Leaf Capital Corp.",
+        "sector": "Unknown"
+    },
+    "PSOIX": {
+        "cik_str": 1608016,
+        "ticker": "PSOIX",
+        "title": "Palmer Square Opportunistic Income Fund",
+        "sector": "Unknown"
+    },
+    "WFCNP": {
+        "cik_str": 72971,
+        "ticker": "WFCNP",
+        "title": "WELLS FARGO & COMPANY/MN",
+        "sector": "Unknown"
+    },
+    "BFLY-WT": {
+        "cik_str": 1804176,
+        "ticker": "BFLY-WT",
+        "title": "Butterfly Network, Inc.",
+        "sector": "Unknown"
+    },
+    "DTSQR": {
+        "cik_str": 2017950,
+        "ticker": "DTSQR",
+        "title": "DT Cloud Star Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "BAZNF": {
+        "cik_str": 1625414,
+        "ticker": "BAZNF",
+        "title": "Baozun Inc.",
+        "sector": "Unknown"
+    },
+    "ASCIX": {
+        "cik_str": 1716885,
+        "ticker": "ASCIX",
+        "title": "Angel Oak Strategic Credit Fund",
+        "sector": "Unknown"
+    },
+    "FORLW": {
+        "cik_str": 1936255,
+        "ticker": "FORLW",
+        "title": "Four Leaf Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "GDSTR": {
+        "cik_str": 1858007,
+        "ticker": "GDSTR",
+        "title": "Goldenstone Acquisition Ltd.",
+        "sector": "Unknown"
+    },
+    "IROHR": {
+        "cik_str": 1901203,
+        "ticker": "IROHR",
+        "title": "Iron Horse Acquisitions Corp.",
+        "sector": "Unknown"
+    },
+    "KYFGF": {
+        "cik_str": 2042187,
+        "ticker": "KYFGF",
+        "title": "Kyoto Financial Group Inc/ADR",
+        "sector": "Unknown"
+    },
+    "CRSLF": {
+        "cik_str": 1541309,
+        "ticker": "CRSLF",
+        "title": "carsales.com Limited/ADR",
+        "sector": "Unknown"
+    },
+    "SLND-WT": {
+        "cik_str": 1883814,
+        "ticker": "SLND-WT",
+        "title": "Southland Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "ECCV": {
+        "cik_str": 1604174,
+        "ticker": "ECCV",
+        "title": "Eagle Point Credit Co Inc.",
+        "sector": "Unknown"
+    },
+    "ECCW": {
+        "cik_str": 1604174,
+        "ticker": "ECCW",
+        "title": "Eagle Point Credit Co Inc.",
+        "sector": "Unknown"
+    },
+    "EVEX-WT": {
+        "cik_str": 1823652,
+        "ticker": "EVEX-WT",
+        "title": "Eve Holding, Inc.",
+        "sector": "Unknown"
+    },
+    "HGTPW": {
+        "cik_str": 1840776,
+        "ticker": "HGTPW",
+        "title": "Hagerty, Inc.",
+        "sector": "Unknown"
+    },
+    "BDRY": {
+        "cik_str": 1610940,
+        "ticker": "BDRY",
+        "title": "Amplify Commodity Trust",
+        "sector": "Unknown"
+    },
+    "BWET": {
+        "cik_str": 1610940,
+        "ticker": "BWET",
+        "title": "Amplify Commodity Trust",
+        "sector": "Unknown"
+    },
+    "FOSLL": {
+        "cik_str": 883569,
+        "ticker": "FOSLL",
+        "title": "Fossil Group, Inc.",
+        "sector": "Unknown"
+    },
+    "SSSSL": {
+        "cik_str": 1509470,
+        "ticker": "SSSSL",
+        "title": "SURO CAPITAL CORP.",
+        "sector": "Unknown"
+    },
+    "DTB": {
+        "cik_str": 936340,
+        "ticker": "DTB",
+        "title": "DTE ENERGY CO",
+        "sector": "Unknown"
+    },
+    "DTG": {
+        "cik_str": 936340,
+        "ticker": "DTG",
+        "title": "DTE ENERGY CO",
+        "sector": "Unknown"
+    },
+    "MARXR": {
+        "cik_str": 1892922,
+        "ticker": "MARXR",
+        "title": "Mars Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "LTRYW": {
+        "cik_str": 1673481,
+        "ticker": "LTRYW",
+        "title": "Lottery.com Inc.",
+        "sector": "Unknown"
+    },
+    "FROPX": {
+        "cik_str": 1732078,
+        "ticker": "FROPX",
+        "title": "Flat Rock Opportunity Fund",
+        "sector": "Unknown"
+    },
+    "CTTRF": {
+        "cik_str": 1520504,
+        "ticker": "CTTRF",
+        "title": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",
+        "sector": "Unknown"
+    },
+    "ATLCL": {
+        "cik_str": 1464343,
+        "ticker": "ATLCL",
+        "title": "Atlanticus Holdings Corp",
+        "sector": "Unknown"
+    },
+    "ATLCZ": {
+        "cik_str": 1464343,
+        "ticker": "ATLCZ",
+        "title": "Atlanticus Holdings Corp",
+        "sector": "Unknown"
+    },
+    "MRKY": {
+        "cik_str": 1973047,
+        "ticker": "MRKY",
+        "title": "MARKY CORP.",
+        "sector": "Unknown"
+    },
+    "F-PB": {
+        "cik_str": 37996,
+        "ticker": "F-PB",
+        "title": "FORD MOTOR CO",
+        "sector": "Unknown"
+    },
+    "F-PC": {
+        "cik_str": 37996,
+        "ticker": "F-PC",
+        "title": "FORD MOTOR CO",
+        "sector": "Unknown"
+    },
+    "F-PD": {
+        "cik_str": 37996,
+        "ticker": "F-PD",
+        "title": "FORD MOTOR CO",
+        "sector": "Unknown"
+    },
+    "DHCNI": {
+        "cik_str": 1075415,
+        "ticker": "DHCNI",
+        "title": "DIVERSIFIED HEALTHCARE TRUST",
+        "sector": "Unknown"
+    },
+    "DHCNL": {
+        "cik_str": 1075415,
+        "ticker": "DHCNL",
+        "title": "DIVERSIFIED HEALTHCARE TRUST",
+        "sector": "Unknown"
+    },
+    "JETBF": {
+        "cik_str": 1846084,
+        "ticker": "JETBF",
+        "title": "Global Crossing Airlines Group Inc.",
+        "sector": "Unknown"
+    },
+    "LPAAU": {
+        "cik_str": 2015502,
+        "ticker": "LPAAU",
+        "title": "Launch One Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "LPAAW": {
+        "cik_str": 2015502,
+        "ticker": "LPAAW",
+        "title": "Launch One Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "CNO-PA": {
+        "cik_str": 1224608,
+        "ticker": "CNO-PA",
+        "title": "CNO Financial Group, Inc.",
+        "sector": "Unknown"
+    },
+    "DCOMG": {
+        "cik_str": 846617,
+        "ticker": "DCOMG",
+        "title": "Dime Community Bancshares, Inc. /NY/",
+        "sector": "Unknown"
+    },
+    "MNTN-UN": {
+        "cik_str": 1863719,
+        "ticker": "MNTN-UN",
+        "title": "Everest Consolidator Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "MNTN-WT": {
+        "cik_str": 1863719,
+        "ticker": "MNTN-WT",
+        "title": "Everest Consolidator Acquisition Corp",
+        "sector": "Unknown"
+    },
+    "TDOPF": {
+        "cik_str": 947263,
+        "ticker": "TDOPF",
+        "title": "TORONTO DOMINION BANK",
+        "sector": "Unknown"
+    },
+    "TDBCP": {
+        "cik_str": 947263,
+        "ticker": "TDBCP",
+        "title": "TORONTO DOMINION BANK",
+        "sector": "Unknown"
+    },
+    "TDOMF": {
+        "cik_str": 947263,
+        "ticker": "TDOMF",
+        "title": "TORONTO DOMINION BANK",
+        "sector": "Unknown"
+    },
+    "BFRGW": {
+        "cik_str": 1829247,
+        "ticker": "BFRGW",
+        "title": "BullFrog AI Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "GOODO": {
+        "cik_str": 1234006,
+        "ticker": "GOODO",
+        "title": "GLADSTONE COMMERCIAL CORP",
+        "sector": "Unknown"
+    },
+    "PLSAY": {
+        "cik_str": 1884082,
+        "ticker": "PLSAY",
+        "title": "Polestar Automotive Holding UK PLC",
+        "sector": "Unknown"
+    },
+    "BA-PA": {
+        "cik_str": 12927,
+        "ticker": "BA-PA",
+        "title": "BOEING CO",
+        "sector": "Unknown"
+    },
+    "VAL-WT": {
+        "cik_str": 314808,
+        "ticker": "VAL-WT",
+        "title": "Valaris Ltd",
+        "sector": "Unknown"
+    },
+    "ETWO-WT": {
+        "cik_str": 1800347,
+        "ticker": "ETWO-WT",
+        "title": "E2open Parent Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "UNOV": {
+        "cik_str": 1538495,
+        "ticker": "UNOV",
+        "title": "Earth Science Tech, Inc.",
+        "sector": "Unknown"
+    },
+    "CTSUF": {
+        "cik_str": 1865861,
+        "ticker": "CTSUF",
+        "title": "Cactus Acquisition Corp. 1 Ltd",
+        "sector": "Unknown"
+    },
+    "CTSWF": {
+        "cik_str": 1865861,
+        "ticker": "CTSWF",
+        "title": "Cactus Acquisition Corp. 1 Ltd",
+        "sector": "Unknown"
+    },
+    "VCMIX": {
+        "cik_str": 1515001,
+        "ticker": "VCMIX",
+        "title": "Versus Capital Real Estate Fund LLC",
+        "sector": "Unknown"
+    },
+    "CADCX": {
+        "cik_str": 1678124,
+        "ticker": "CADCX",
+        "title": "CION Ares Diversified Credit Fund",
+        "sector": "Unknown"
+    },
+    "ZIONL": {
+        "cik_str": 109380,
+        "ticker": "ZIONL",
+        "title": "ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",
+        "sector": "Unknown"
+    },
+    "TRXDW": {
+        "cik_str": 876378,
+        "ticker": "TRXDW",
+        "title": "ASENSUS SURGICAL, INC.",
+        "sector": "Unknown"
+    },
+    "GLADZ": {
+        "cik_str": 1143513,
+        "ticker": "GLADZ",
+        "title": "GLADSTONE CAPITAL CORP",
+        "sector": "Unknown"
+    },
+    "PSFE-WT": {
+        "cik_str": 1833835,
+        "ticker": "PSFE-WT",
+        "title": "Paysafe Ltd",
+        "sector": "Unknown"
+    },
+    "CORZR": {
+        "cik_str": 1839341,
+        "ticker": "CORZR",
+        "title": "Core Scientific, Inc./tx",
+        "sector": "Unknown"
+    },
+    "RFAIU": {
+        "cik_str": 2012807,
+        "ticker": "RFAIU",
+        "title": "RF Acquisition Corp II",
+        "sector": "Unknown"
+    },
+    "RFAIR": {
+        "cik_str": 2012807,
+        "ticker": "RFAIR",
+        "title": "RF Acquisition Corp II",
+        "sector": "Unknown"
+    },
+    "EP-PC": {
+        "cik_str": 1506307,
+        "ticker": "EP-PC",
+        "title": "KINDER MORGAN, INC.",
+        "sector": "Unknown"
+    },
+    "LEGT-UN": {
+        "cik_str": 2002038,
+        "ticker": "LEGT-UN",
+        "title": "Legato Merger Corp. III",
+        "sector": "Unknown"
+    },
+    "LEGT-WT": {
+        "cik_str": 2002038,
+        "ticker": "LEGT-WT",
+        "title": "Legato Merger Corp. III",
+        "sector": "Unknown"
+    },
+    "SBXD-WT": {
+        "cik_str": 2015947,
+        "ticker": "SBXD-WT",
+        "title": "SilverBox Corp IV",
+        "sector": "Unknown"
+    },
+    "BEPH": {
+        "cik_str": 1533232,
+        "ticker": "BEPH",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Unknown"
+    },
+    "BEPI": {
+        "cik_str": 1533232,
+        "ticker": "BEPI",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Unknown"
+    },
+    "BEPJ": {
+        "cik_str": 1533232,
+        "ticker": "BEPJ",
+        "title": "Brookfield Renewable Partners L.P.",
+        "sector": "Unknown"
+    },
+    "ZTOEF": {
+        "cik_str": 1677250,
+        "ticker": "ZTOEF",
+        "title": "ZTO Express (Cayman) Inc.",
+        "sector": "Unknown"
+    },
+    "KCLHF": {
+        "cik_str": 1795589,
+        "ticker": "KCLHF",
+        "title": "Kingsoft Cloud Holdings Ltd",
+        "sector": "Unknown"
+    },
+    "CPER": {
+        "cik_str": 1479247,
+        "ticker": "CPER",
+        "title": "United States Commodity Index Funds Trust",
+        "sector": "Unknown"
+    },
+    "USCI": {
+        "cik_str": 1479247,
+        "ticker": "USCI",
+        "title": "United States Commodity Index Funds Trust",
+        "sector": "Unknown"
+    },
+    "GRND-WT": {
+        "cik_str": 1820144,
+        "ticker": "GRND-WT",
+        "title": "Grindr Inc.",
+        "sector": "Unknown"
+    },
+    "BLACR": {
+        "cik_str": 1840425,
+        "ticker": "BLACR",
+        "title": "Bellevue Life Sciences Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "BLACW": {
+        "cik_str": 1840425,
+        "ticker": "BLACW",
+        "title": "Bellevue Life Sciences Acquisition Corp.",
+        "sector": "Unknown"
+    },
+    "NOTE-WT": {
+        "cik_str": 1823466,
+        "ticker": "NOTE-WT",
+        "title": "FiscalNote Holdings, Inc.",
+        "sector": "Unknown"
+    },
+    "OCSAW": {
+        "cik_str": 1953530,
+        "ticker": "OCSAW",
+        "title": "Oculis Holding AG",
+        "sector": "Unknown"
+    },
+    "HYAC-WT": {
+        "cik_str": 1970509,
+        "ticker": "HYAC-WT",
+        "title": "Haymaker Acquisition Corp. 4",
+        "sector": "Unknown"
+    },
+    "NIOBW": {
+        "cik_str": 1512228,
+        "ticker": "NIOBW",
+        "title": "NIOCORP DEVELOPMENTS LTD",
+        "sector": "Unknown"
+    },
+    "GCTS-WT": {
+        "cik_str": 1851961,
+        "ticker": "GCTS-WT",
+        "title": "GCT Semiconductor Holding, Inc.",
+        "sector": "Unknown"
+    },
+    "DDT": {
+        "cik_str": 28917,
+        "ticker": "DDT",
+        "title": "DILLARD'S, INC.",
+        "sector": "Unknown"
+    }
+}

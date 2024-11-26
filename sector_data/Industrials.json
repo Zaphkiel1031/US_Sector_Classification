@@ -1,0 +1,5636 @@
+{
+    "RCIT": {
+        "cik_str": 2008670,
+        "ticker": "RCIT",
+        "title": "REELCAUSE INC",
+        "sector": "Industrials"
+    },
+    "GE": {
+        "cik_str": 40545,
+        "ticker": "GE",
+        "title": "GENERAL ELECTRIC CO",
+        "sector": "Industrials"
+    },
+    "CAT": {
+        "cik_str": 18230,
+        "ticker": "CAT",
+        "title": "CATERPILLAR INC",
+        "sector": "Industrials"
+    },
+    "RTX": {
+        "cik_str": 101829,
+        "ticker": "RTX",
+        "title": "RTX Corp",
+        "sector": "Industrials"
+    },
+    "ETN": {
+        "cik_str": 1551182,
+        "ticker": "ETN",
+        "title": "Eaton Corp plc",
+        "sector": "Industrials"
+    },
+    "HON": {
+        "cik_str": 773840,
+        "ticker": "HON",
+        "title": "HONEYWELL INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "UNP": {
+        "cik_str": 100885,
+        "ticker": "UNP",
+        "title": "UNION PACIFIC CORP",
+        "sector": "Industrials"
+    },
+    "LMT": {
+        "cik_str": 936468,
+        "ticker": "LMT",
+        "title": "LOCKHEED MARTIN CORP",
+        "sector": "Industrials"
+    },
+    "DE": {
+        "cik_str": 315189,
+        "ticker": "DE",
+        "title": "DEERE & CO",
+        "sector": "Industrials"
+    },
+    "EADSY": {
+        "cik_str": 1378580,
+        "ticker": "EADSY",
+        "title": "Airbus SE/ADR",
+        "sector": "Industrials"
+    },
+    "UPS": {
+        "cik_str": 1090727,
+        "ticker": "UPS",
+        "title": "UNITED PARCEL SERVICE INC",
+        "sector": "Industrials"
+    },
+    "BA": {
+        "cik_str": 12927,
+        "ticker": "BA",
+        "title": "BOEING CO",
+        "sector": "Industrials"
+    },
+    "TT": {
+        "cik_str": 1466258,
+        "ticker": "TT",
+        "title": "Trane Technologies plc",
+        "sector": "Industrials"
+    },
+    "PH": {
+        "cik_str": 76334,
+        "ticker": "PH",
+        "title": "PARKER HANNIFIN CORP",
+        "sector": "Industrials"
+    },
+    "CTAS": {
+        "cik_str": 723254,
+        "ticker": "CTAS",
+        "title": "CINTAS CORP",
+        "sector": "Industrials"
+    },
+    "WM": {
+        "cik_str": 823768,
+        "ticker": "WM",
+        "title": "WASTE MANAGEMENT INC",
+        "sector": "Industrials"
+    },
+    "RELX": {
+        "cik_str": 929869,
+        "ticker": "RELX",
+        "title": "RELX PLC",
+        "sector": "Industrials"
+    },
+    "ITW": {
+        "cik_str": 49826,
+        "ticker": "ITW",
+        "title": "ILLINOIS TOOL WORKS INC",
+        "sector": "Industrials"
+    },
+    "GD": {
+        "cik_str": 40533,
+        "ticker": "GD",
+        "title": "GENERAL DYNAMICS CORP",
+        "sector": "Industrials"
+    },
+    "EMR": {
+        "cik_str": 32604,
+        "ticker": "EMR",
+        "title": "EMERSON ELECTRIC CO",
+        "sector": "Industrials"
+    },
+    "TRI": {
+        "cik_str": 1075124,
+        "ticker": "TRI",
+        "title": "THOMSON REUTERS CORP /CAN/",
+        "sector": "Industrials"
+    },
+    "NOC": {
+        "cik_str": 1133421,
+        "ticker": "NOC",
+        "title": "NORTHROP GRUMMAN CORP /DE/",
+        "sector": "Industrials"
+    },
+    "FDX": {
+        "cik_str": 1048911,
+        "ticker": "FDX",
+        "title": "FEDEX CORP",
+        "sector": "Industrials"
+    },
+    "TDG": {
+        "cik_str": 1260221,
+        "ticker": "TDG",
+        "title": "TransDigm Group INC",
+        "sector": "Industrials"
+    },
+    "CP": {
+        "cik_str": 16875,
+        "ticker": "CP",
+        "title": "CANADIAN PACIFIC KANSAS CITY LTD/CN",
+        "sector": "Industrials"
+    },
+    "MMM": {
+        "cik_str": 66740,
+        "ticker": "MMM",
+        "title": "3M CO",
+        "sector": "Industrials"
+    },
+    "CARR": {
+        "cik_str": 1783180,
+        "ticker": "CARR",
+        "title": "CARRIER GLOBAL Corp",
+        "sector": "Industrials"
+    },
+    "CNI": {
+        "cik_str": 16868,
+        "ticker": "CNI",
+        "title": "CANADIAN NATIONAL RAILWAY CO",
+        "sector": "Industrials"
+    },
+    "CSX": {
+        "cik_str": 277948,
+        "ticker": "CSX",
+        "title": "CSX CORP",
+        "sector": "Industrials"
+    },
+    "RSG": {
+        "cik_str": 1060391,
+        "ticker": "RSG",
+        "title": "REPUBLIC SERVICES, INC.",
+        "sector": "Industrials"
+    },
+    "PCAR": {
+        "cik_str": 75362,
+        "ticker": "PCAR",
+        "title": "PACCAR INC",
+        "sector": "Industrials"
+    },
+    "NSC": {
+        "cik_str": 702165,
+        "ticker": "NSC",
+        "title": "NORFOLK SOUTHERN CORP",
+        "sector": "Industrials"
+    },
+    "GWW": {
+        "cik_str": 277135,
+        "ticker": "GWW",
+        "title": "W.W. GRAINGER, INC.",
+        "sector": "Industrials"
+    },
+    "JCI": {
+        "cik_str": 833444,
+        "ticker": "JCI",
+        "title": "Johnson Controls International plc",
+        "sector": "Industrials"
+    },
+    "URI": {
+        "cik_str": 1067701,
+        "ticker": "URI",
+        "title": "UNITED RENTALS, INC.",
+        "sector": "Industrials"
+    },
+    "CPRT": {
+        "cik_str": 900075,
+        "ticker": "CPRT",
+        "title": "COPART INC",
+        "sector": "Industrials"
+    },
+    "VRT": {
+        "cik_str": 1674101,
+        "ticker": "VRT",
+        "title": "Vertiv Holdings Co",
+        "sector": "Industrials"
+    },
+    "CMI": {
+        "cik_str": 26172,
+        "ticker": "CMI",
+        "title": "CUMMINS INC",
+        "sector": "Industrials"
+    },
+    "BAESY": {
+        "cik_str": 895564,
+        "ticker": "BAESY",
+        "title": "BAE SYSTEMS PLC /FI/",
+        "sector": "Industrials"
+    },
+    "PWR": {
+        "cik_str": 1050915,
+        "ticker": "PWR",
+        "title": "QUANTA SERVICES, INC.",
+        "sector": "Industrials"
+    },
+    "WCN": {
+        "cik_str": 1318220,
+        "ticker": "WCN",
+        "title": "Waste Connections, Inc.",
+        "sector": "Industrials"
+    },
+    "AXON": {
+        "cik_str": 1069183,
+        "ticker": "AXON",
+        "title": "AXON ENTERPRISE, INC.",
+        "sector": "Industrials"
+    },
+    "HWM": {
+        "cik_str": 4281,
+        "ticker": "HWM",
+        "title": "Howmet Aerospace Inc.",
+        "sector": "Industrials"
+    },
+    "FAST": {
+        "cik_str": 815556,
+        "ticker": "FAST",
+        "title": "FASTENAL CO",
+        "sector": "Industrials"
+    },
+    "LHX": {
+        "cik_str": 202058,
+        "ticker": "LHX",
+        "title": "L3HARRIS TECHNOLOGIES, INC. /DE/",
+        "sector": "Industrials"
+    },
+    "CODYY": {
+        "cik_str": 1012037,
+        "ticker": "CODYY",
+        "title": "COMPAGNIE DE SAINT GOBAIN",
+        "sector": "Industrials"
+    },
+    "ODFL": {
+        "cik_str": 878927,
+        "ticker": "ODFL",
+        "title": "OLD DOMINION FREIGHT LINE, INC.",
+        "sector": "Industrials"
+    },
+    "AME": {
+        "cik_str": 1037868,
+        "ticker": "AME",
+        "title": "AMETEK INC/",
+        "sector": "Industrials"
+    },
+    "IR": {
+        "cik_str": 1699150,
+        "ticker": "IR",
+        "title": "Ingersoll Rand Inc.",
+        "sector": "Industrials"
+    },
+    "DAL": {
+        "cik_str": 27904,
+        "ticker": "DAL",
+        "title": "DELTA AIR LINES, INC.",
+        "sector": "Industrials"
+    },
+    "FERG": {
+        "cik_str": 2011641,
+        "ticker": "FERG",
+        "title": "Ferguson Enterprises Inc. /DE/",
+        "sector": "Industrials"
+    },
+    "VRSK": {
+        "cik_str": 1442145,
+        "ticker": "VRSK",
+        "title": "Verisk Analytics, Inc.",
+        "sector": "Industrials"
+    },
+    "OTIS": {
+        "cik_str": 1781335,
+        "ticker": "OTIS",
+        "title": "Otis Worldwide Corp",
+        "sector": "Industrials"
+    },
+    "WTKWY": {
+        "cik_str": 861967,
+        "ticker": "WTKWY",
+        "title": "WOLTERS KLUWER N V /FI",
+        "sector": "Industrials"
+    },
+    "DKILY": {
+        "cik_str": 1446519,
+        "ticker": "DKILY",
+        "title": "Daikin Industries Ltd",
+        "sector": "Industrials"
+    },
+    "WAB": {
+        "cik_str": 943452,
+        "ticker": "WAB",
+        "title": "WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP",
+        "sector": "Industrials"
+    },
+    "HEI": {
+        "cik_str": 46619,
+        "ticker": "HEI",
+        "title": "HEICO CORP",
+        "sector": "Industrials"
+    },
+    "ANYYY": {
+        "cik_str": 1700171,
+        "ticker": "ANYYY",
+        "title": "Aena S.A./ADR",
+        "sector": "Industrials"
+    },
+    "ROK": {
+        "cik_str": 1024478,
+        "ticker": "ROK",
+        "title": "ROCKWELL AUTOMATION, INC",
+        "sector": "Industrials"
+    },
+    "EFX": {
+        "cik_str": 33185,
+        "ticker": "EFX",
+        "title": "EQUIFAX INC",
+        "sector": "Industrials"
+    },
+    "UAL": {
+        "cik_str": 100517,
+        "ticker": "UAL",
+        "title": "United Airlines Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "XYL": {
+        "cik_str": 1524472,
+        "ticker": "XYL",
+        "title": "Xylem Inc.",
+        "sector": "Industrials"
+    },
+    "GPN": {
+        "cik_str": 1123360,
+        "ticker": "GPN",
+        "title": "GLOBAL PAYMENTS INC",
+        "sector": "Industrials"
+    },
+    "DOV": {
+        "cik_str": 29905,
+        "ticker": "DOV",
+        "title": "DOVER Corp",
+        "sector": "Industrials"
+    },
+    "FER": {
+        "cik_str": 1468522,
+        "ticker": "FER",
+        "title": "Ferrovial SE",
+        "sector": "Industrials"
+    },
+    "VLTO": {
+        "cik_str": 1967680,
+        "ticker": "VLTO",
+        "title": "Veralto Corp",
+        "sector": "Industrials"
+    },
+    "FUJIY": {
+        "cik_str": 800365,
+        "ticker": "FUJIY",
+        "title": "FUJI PHOTO FILM CO LTD /FI",
+        "sector": "Industrials"
+    },
+    "FANUY": {
+        "cik_str": 1446596,
+        "ticker": "FANUY",
+        "title": "Fanuc Ltd",
+        "sector": "Industrials"
+    },
+    "HUBB": {
+        "cik_str": 48898,
+        "ticker": "HUBB",
+        "title": "HUBBELL INC",
+        "sector": "Industrials"
+    },
+    "EME": {
+        "cik_str": 105634,
+        "ticker": "EME",
+        "title": "EMCOR Group, Inc.",
+        "sector": "Industrials"
+    },
+    "RYAAY": {
+        "cik_str": 1038683,
+        "ticker": "RYAAY",
+        "title": "RYANAIR HOLDINGS PLC",
+        "sector": "Industrials"
+    },
+    "LII": {
+        "cik_str": 1069202,
+        "ticker": "LII",
+        "title": "LENNOX INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "WSO": {
+        "cik_str": 105016,
+        "ticker": "WSO",
+        "title": "WATSCO INC",
+        "sector": "Industrials"
+    },
+    "NJDCY": {
+        "cik_str": 1158967,
+        "ticker": "NJDCY",
+        "title": "NIDEC CORP",
+        "sector": "Industrials"
+    },
+    "SYM": {
+        "cik_str": 1837240,
+        "ticker": "SYM",
+        "title": "Symbotic Inc.",
+        "sector": "Industrials"
+    },
+    "EJPRY": {
+        "cik_str": 1093028,
+        "ticker": "EJPRY",
+        "title": "EAST JAPAN RAILWAY CO /FI",
+        "sector": "Industrials"
+    },
+    "BLDR": {
+        "cik_str": 1316835,
+        "ticker": "BLDR",
+        "title": "Builders FirstSource, Inc.",
+        "sector": "Industrials"
+    },
+    "CSL": {
+        "cik_str": 790051,
+        "ticker": "CSL",
+        "title": "CARLISLE COMPANIES INC",
+        "sector": "Industrials"
+    },
+    "CJPRY": {
+        "cik_str": 1334687,
+        "ticker": "CJPRY",
+        "title": "CENTRAL JAPAN RAILWAY CO",
+        "sector": "Industrials"
+    },
+    "LUV": {
+        "cik_str": 92380,
+        "ticker": "LUV",
+        "title": "SOUTHWEST AIRLINES CO",
+        "sector": "Industrials"
+    },
+    "BAH": {
+        "cik_str": 1443646,
+        "ticker": "BAH",
+        "title": "Booz Allen Hamilton Holding Corp",
+        "sector": "Industrials"
+    },
+    "SNA": {
+        "cik_str": 91440,
+        "ticker": "SNA",
+        "title": "Snap-on Inc",
+        "sector": "Industrials"
+    },
+    "AER": {
+        "cik_str": 1378789,
+        "ticker": "AER",
+        "title": "AerCap Holdings N.V.",
+        "sector": "Industrials"
+    },
+    "SGSOY": {
+        "cik_str": 1069347,
+        "ticker": "SGSOY",
+        "title": "SGS SOCIETE GENERALE DE SURVEILLANCE HOLDING SA /FI",
+        "sector": "Industrials"
+    },
+    "JBHT": {
+        "cik_str": 728535,
+        "ticker": "JBHT",
+        "title": "HUNT J B TRANSPORT SERVICES INC",
+        "sector": "Industrials"
+    },
+    "GFL": {
+        "cik_str": 1780232,
+        "ticker": "GFL",
+        "title": "GFL Environmental Inc.",
+        "sector": "Industrials"
+    },
+    "FTAI": {
+        "cik_str": 1590364,
+        "ticker": "FTAI",
+        "title": "FTAI Aviation Ltd.",
+        "sector": "Industrials"
+    },
+    "RBA": {
+        "cik_str": 1046102,
+        "ticker": "RBA",
+        "title": "RB GLOBAL INC.",
+        "sector": "Industrials"
+    },
+    "PNR": {
+        "cik_str": 77360,
+        "ticker": "PNR",
+        "title": "PENTAIR plc",
+        "sector": "Industrials"
+    },
+    "FIX": {
+        "cik_str": 1035983,
+        "ticker": "FIX",
+        "title": "COMFORT SYSTEMS USA INC",
+        "sector": "Industrials"
+    },
+    "XPO": {
+        "cik_str": 1166003,
+        "ticker": "XPO",
+        "title": "XPO, Inc.",
+        "sector": "Industrials"
+    },
+    "IEX": {
+        "cik_str": 832101,
+        "ticker": "IEX",
+        "title": "IDEX CORP /DE/",
+        "sector": "Industrials"
+    },
+    "OC": {
+        "cik_str": 1370946,
+        "ticker": "OC",
+        "title": "Owens Corning",
+        "sector": "Industrials"
+    },
+    "MAS": {
+        "cik_str": 62996,
+        "ticker": "MAS",
+        "title": "MASCO CORP /DE/",
+        "sector": "Industrials"
+    },
+    "EXPD": {
+        "cik_str": 746515,
+        "ticker": "EXPD",
+        "title": "EXPEDITORS INTERNATIONAL OF WASHINGTON INC",
+        "sector": "Industrials"
+    },
+    "J": {
+        "cik_str": 52988,
+        "ticker": "J",
+        "title": "JACOBS SOLUTIONS INC.",
+        "sector": "Industrials"
+    },
+    "ZTO": {
+        "cik_str": 1677250,
+        "ticker": "ZTO",
+        "title": "ZTO Express (Cayman) Inc.",
+        "sector": "Industrials"
+    },
+    "TXT": {
+        "cik_str": 217346,
+        "ticker": "TXT",
+        "title": "TEXTRON INC",
+        "sector": "Industrials"
+    },
+    "ACM": {
+        "cik_str": 868857,
+        "ticker": "ACM",
+        "title": "AECOM",
+        "sector": "Industrials"
+    },
+    "GGG": {
+        "cik_str": 42888,
+        "ticker": "GGG",
+        "title": "GRACO INC",
+        "sector": "Industrials"
+    },
+    "CNH": {
+        "cik_str": 1567094,
+        "ticker": "CNH",
+        "title": "CNH Industrial N.V.",
+        "sector": "Industrials"
+    },
+    "NDSN": {
+        "cik_str": 72331,
+        "ticker": "NDSN",
+        "title": "NORDSON CORP",
+        "sector": "Industrials"
+    },
+    "SAIA": {
+        "cik_str": 1177702,
+        "ticker": "SAIA",
+        "title": "SAIA INC",
+        "sector": "Industrials"
+    },
+    "CW": {
+        "cik_str": 26324,
+        "ticker": "CW",
+        "title": "CURTISS WRIGHT CORP",
+        "sector": "Industrials"
+    },
+    "POOL": {
+        "cik_str": 945841,
+        "ticker": "POOL",
+        "title": "POOL CORP",
+        "sector": "Industrials"
+    },
+    "SWK": {
+        "cik_str": 93556,
+        "ticker": "SWK",
+        "title": "STANLEY BLACK & DECKER, INC.",
+        "sector": "Industrials"
+    },
+    "CLH": {
+        "cik_str": 822818,
+        "ticker": "CLH",
+        "title": "CLEAN HARBORS INC",
+        "sector": "Industrials"
+    },
+    "NVT": {
+        "cik_str": 1720635,
+        "ticker": "NVT",
+        "title": "nVent Electric plc",
+        "sector": "Industrials"
+    },
+    "RTO": {
+        "cik_str": 930157,
+        "ticker": "RTO",
+        "title": "RENTOKIL INITIAL PLC /FI",
+        "sector": "Industrials"
+    },
+    "CHRW": {
+        "cik_str": 1043277,
+        "ticker": "CHRW",
+        "title": "C. H. ROBINSON WORLDWIDE, INC.",
+        "sector": "Industrials"
+    },
+    "ITT": {
+        "cik_str": 216228,
+        "ticker": "ITT",
+        "title": "ITT INC.",
+        "sector": "Industrials"
+    },
+    "TFII": {
+        "cik_str": 1588823,
+        "ticker": "TFII",
+        "title": "TFI International Inc.",
+        "sector": "Industrials"
+    },
+    "ALLE": {
+        "cik_str": 1579241,
+        "ticker": "ALLE",
+        "title": "Allegion plc",
+        "sector": "Industrials"
+    },
+    "BWXT": {
+        "cik_str": 1486957,
+        "ticker": "BWXT",
+        "title": "BWX Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "UHAL": {
+        "cik_str": 4457,
+        "ticker": "UHAL",
+        "title": "U-Haul Holding Co /NV/",
+        "sector": "Industrials"
+    },
+    "LECO": {
+        "cik_str": 59527,
+        "ticker": "LECO",
+        "title": "LINCOLN ELECTRIC HOLDINGS INC",
+        "sector": "Industrials"
+    },
+    "RRX": {
+        "cik_str": 82811,
+        "ticker": "RRX",
+        "title": "REGAL REXNORD CORP",
+        "sector": "Industrials"
+    },
+    "MTZ": {
+        "cik_str": 15615,
+        "ticker": "MTZ",
+        "title": "MASTEC INC",
+        "sector": "Industrials"
+    },
+    "ESLT": {
+        "cik_str": 1027664,
+        "ticker": "ESLT",
+        "title": "ELBIT SYSTEMS LTD",
+        "sector": "Industrials"
+    },
+    "RKLB": {
+        "cik_str": 1819994,
+        "ticker": "RKLB",
+        "title": "Rocket Lab USA, Inc.",
+        "sector": "Industrials"
+    },
+    "AAON": {
+        "cik_str": 824142,
+        "ticker": "AAON",
+        "title": "AAON, INC.",
+        "sector": "Industrials"
+    },
+    "TKHVY": {
+        "cik_str": 1446444,
+        "ticker": "TKHVY",
+        "title": "Turk Hava Yollari A.O.",
+        "sector": "Industrials"
+    },
+    "BLD": {
+        "cik_str": 1633931,
+        "ticker": "BLD",
+        "title": "TopBuild Corp",
+        "sector": "Industrials"
+    },
+    "ULS": {
+        "cik_str": 1901440,
+        "ticker": "ULS",
+        "title": "UL Solutions Inc.",
+        "sector": "Industrials"
+    },
+    "AOS": {
+        "cik_str": 91142,
+        "ticker": "AOS",
+        "title": "SMITH A O CORP",
+        "sector": "Industrials"
+    },
+    "ARMK": {
+        "cik_str": 1584509,
+        "ticker": "ARMK",
+        "title": "Aramark",
+        "sector": "Industrials"
+    },
+    "MLI": {
+        "cik_str": 89439,
+        "ticker": "MLI",
+        "title": "MUELLER INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "CR": {
+        "cik_str": 1944013,
+        "ticker": "CR",
+        "title": "Crane Co",
+        "sector": "Industrials"
+    },
+    "AIT": {
+        "cik_str": 109563,
+        "ticker": "AIT",
+        "title": "APPLIED INDUSTRIAL TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "WWD": {
+        "cik_str": 108312,
+        "ticker": "WWD",
+        "title": "Woodward, Inc.",
+        "sector": "Industrials"
+    },
+    "WCC": {
+        "cik_str": 929008,
+        "ticker": "WCC",
+        "title": "WESCO INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "RBC": {
+        "cik_str": 1324948,
+        "ticker": "RBC",
+        "title": "RBC Bearings INC",
+        "sector": "Industrials"
+    },
+    "APG": {
+        "cik_str": 1796209,
+        "ticker": "APG",
+        "title": "APi Group Corp",
+        "sector": "Industrials"
+    },
+    "ALSMY": {
+        "cik_str": 1062066,
+        "ticker": "ALSMY",
+        "title": "ALSTOM",
+        "sector": "Industrials"
+    },
+    "WMS": {
+        "cik_str": 1604028,
+        "ticker": "WMS",
+        "title": "ADVANCED DRAINAGE SYSTEMS, INC.",
+        "sector": "Industrials"
+    },
+    "AYI": {
+        "cik_str": 1144215,
+        "ticker": "AYI",
+        "title": "ACUITY BRANDS INC",
+        "sector": "Industrials"
+    },
+    "KAIKY": {
+        "cik_str": 1447126,
+        "ticker": "KAIKY",
+        "title": "Kawasaki Kisen Kaisha Ltd",
+        "sector": "Industrials"
+    },
+    "STN": {
+        "cik_str": 1131383,
+        "ticker": "STN",
+        "title": "STANTEC INC",
+        "sector": "Industrials"
+    },
+    "SARO": {
+        "cik_str": 2025410,
+        "ticker": "SARO",
+        "title": "StandardAero, Inc.",
+        "sector": "Industrials"
+    },
+    "DRS": {
+        "cik_str": 1833756,
+        "ticker": "DRS",
+        "title": "Leonardo DRS, Inc.",
+        "sector": "Industrials"
+    },
+    "AAL": {
+        "cik_str": 6201,
+        "ticker": "AAL",
+        "title": "American Airlines Group Inc.",
+        "sector": "Industrials"
+    },
+    "FBIN": {
+        "cik_str": 1519751,
+        "ticker": "FBIN",
+        "title": "Fortune Brands Innovations, Inc.",
+        "sector": "Industrials"
+    },
+    "FLR": {
+        "cik_str": 1124198,
+        "ticker": "FLR",
+        "title": "FLUOR CORP",
+        "sector": "Industrials"
+    },
+    "PAC": {
+        "cik_str": 1347557,
+        "ticker": "PAC",
+        "title": "Pacific Airport Group",
+        "sector": "Industrials"
+    },
+    "IHICY": {
+        "cik_str": 1567526,
+        "ticker": "IHICY",
+        "title": "IHI Corporation/ADR",
+        "sector": "Industrials"
+    },
+    "DCI": {
+        "cik_str": 29644,
+        "ticker": "DCI",
+        "title": "DONALDSON Co INC",
+        "sector": "Industrials"
+    },
+    "KNX": {
+        "cik_str": 1492691,
+        "ticker": "KNX",
+        "title": "Knight-Swift Transportation Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "CNM": {
+        "cik_str": 1856525,
+        "ticker": "CNM",
+        "title": "Core & Main, Inc.",
+        "sector": "Industrials"
+    },
+    "CRS": {
+        "cik_str": 17843,
+        "ticker": "CRS",
+        "title": "CARPENTER TECHNOLOGY CORP",
+        "sector": "Industrials"
+    },
+    "TTC": {
+        "cik_str": 737758,
+        "ticker": "TTC",
+        "title": "TORO CO",
+        "sector": "Industrials"
+    },
+    "JCYGY": {
+        "cik_str": 1289688,
+        "ticker": "JCYGY",
+        "title": "Jardine Cycle & Carriage Ltd.",
+        "sector": "Industrials"
+    },
+    "LTM": {
+        "cik_str": 1047716,
+        "ticker": "LTM",
+        "title": "LATAM AIRLINES GROUP S.A.",
+        "sector": "Industrials"
+    },
+    "LOAR": {
+        "cik_str": 2000178,
+        "ticker": "LOAR",
+        "title": "Loar Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "ATI": {
+        "cik_str": 1018963,
+        "ticker": "ATI",
+        "title": "ATI INC",
+        "sector": "Industrials"
+    },
+    "KBR": {
+        "cik_str": 1357615,
+        "ticker": "KBR",
+        "title": "KBR, INC.",
+        "sector": "Industrials"
+    },
+    "LPX": {
+        "cik_str": 60519,
+        "ticker": "LPX",
+        "title": "LOUISIANA-PACIFIC CORP",
+        "sector": "Industrials"
+    },
+    "SPXC": {
+        "cik_str": 88205,
+        "ticker": "SPXC",
+        "title": "SPX Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "ASR": {
+        "cik_str": 1123452,
+        "ticker": "ASR",
+        "title": "SOUTHEAST AIRPORT GROUP",
+        "sector": "Industrials"
+    },
+    "FLS": {
+        "cik_str": 30625,
+        "ticker": "FLS",
+        "title": "FLOWSERVE CORP",
+        "sector": "Industrials"
+    },
+    "DLB": {
+        "cik_str": 1308547,
+        "ticker": "DLB",
+        "title": "Dolby Laboratories, Inc.",
+        "sector": "Industrials"
+    },
+    "RHI": {
+        "cik_str": 315213,
+        "ticker": "RHI",
+        "title": "ROBERT HALF INC.",
+        "sector": "Industrials"
+    },
+    "HII": {
+        "cik_str": 1501585,
+        "ticker": "HII",
+        "title": "HUNTINGTON INGALLS INDUSTRIES, INC.",
+        "sector": "Industrials"
+    },
+    "ESAB": {
+        "cik_str": 1877322,
+        "ticker": "ESAB",
+        "title": "ESAB Corp",
+        "sector": "Industrials"
+    },
+    "GTLS": {
+        "cik_str": 892553,
+        "ticker": "GTLS",
+        "title": "CHART INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "TREX": {
+        "cik_str": 1069878,
+        "ticker": "TREX",
+        "title": "TREX CO INC",
+        "sector": "Industrials"
+    },
+    "KEX": {
+        "cik_str": 56047,
+        "ticker": "KEX",
+        "title": "KIRBY CORP",
+        "sector": "Industrials"
+    },
+    "MIDD": {
+        "cik_str": 769520,
+        "ticker": "MIDD",
+        "title": "MIDDLEBY Corp",
+        "sector": "Industrials"
+    },
+    "CAE": {
+        "cik_str": 1173382,
+        "ticker": "CAE",
+        "title": "CAE INC",
+        "sector": "Industrials"
+    },
+    "AGCO": {
+        "cik_str": 880266,
+        "ticker": "AGCO",
+        "title": "AGCO CORP /DE",
+        "sector": "Industrials"
+    },
+    "ERJ": {
+        "cik_str": 1355444,
+        "ticker": "ERJ",
+        "title": "EMBRAER S.A.",
+        "sector": "Industrials"
+    },
+    "AZEK": {
+        "cik_str": 1782754,
+        "ticker": "AZEK",
+        "title": "AZEK Co Inc.",
+        "sector": "Industrials"
+    },
+    "FCN": {
+        "cik_str": 887936,
+        "ticker": "FCN",
+        "title": "FTI CONSULTING, INC",
+        "sector": "Industrials"
+    },
+    "OSK": {
+        "cik_str": 775158,
+        "ticker": "OSK",
+        "title": "OSHKOSH CORP",
+        "sector": "Industrials"
+    },
+    "GXO": {
+        "cik_str": 1852244,
+        "ticker": "GXO",
+        "title": "GXO Logistics, Inc.",
+        "sector": "Industrials"
+    },
+    "WTS": {
+        "cik_str": 795403,
+        "ticker": "WTS",
+        "title": "WATTS WATER TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "MOG-A": {
+        "cik_str": 67887,
+        "ticker": "MOG-A",
+        "title": "MOOG INC.",
+        "sector": "Industrials"
+    },
+    "CWST": {
+        "cik_str": 911177,
+        "ticker": "CWST",
+        "title": "CASELLA WASTE SYSTEMS INC",
+        "sector": "Industrials"
+    },
+    "OUKPY": {
+        "cik_str": 1436786,
+        "ticker": "OUKPY",
+        "title": "Outotec OYJ",
+        "sector": "Industrials"
+    },
+    "CSWI": {
+        "cik_str": 1624794,
+        "ticker": "CSWI",
+        "title": "CSW INDUSTRIALS, INC.",
+        "sector": "Industrials"
+    },
+    "EBCOY": {
+        "cik_str": 354518,
+        "ticker": "EBCOY",
+        "title": "EBARA CORP /ADR/",
+        "sector": "Industrials"
+    },
+    "R": {
+        "cik_str": 85961,
+        "ticker": "R",
+        "title": "RYDER SYSTEM INC",
+        "sector": "Industrials"
+    },
+    "BECN": {
+        "cik_str": 1124941,
+        "ticker": "BECN",
+        "title": "BEACON ROOFING SUPPLY INC",
+        "sector": "Industrials"
+    },
+    "AWI": {
+        "cik_str": 7431,
+        "ticker": "AWI",
+        "title": "ARMSTRONG WORLD INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "VMI": {
+        "cik_str": 102729,
+        "ticker": "VMI",
+        "title": "VALMONT INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "MSA": {
+        "cik_str": 66570,
+        "ticker": "MSA",
+        "title": "MSA Safety Inc",
+        "sector": "Industrials"
+    },
+    "ADT": {
+        "cik_str": 1703056,
+        "ticker": "ADT",
+        "title": "ADT Inc.",
+        "sector": "Industrials"
+    },
+    "ZWS": {
+        "cik_str": 1439288,
+        "ticker": "ZWS",
+        "title": "Zurn Elkay Water Solutions Corp",
+        "sector": "Industrials"
+    },
+    "ALK": {
+        "cik_str": 766421,
+        "ticker": "ALK",
+        "title": "ALASKA AIR GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "WSC": {
+        "cik_str": 1647088,
+        "ticker": "WSC",
+        "title": "WillScot Holdings Corp",
+        "sector": "Industrials"
+    },
+    "SITE": {
+        "cik_str": 1650729,
+        "ticker": "SITE",
+        "title": "SiteOne Landscape Supply, Inc.",
+        "sector": "Industrials"
+    },
+    "LSTR": {
+        "cik_str": 853816,
+        "ticker": "LSTR",
+        "title": "LANDSTAR SYSTEM INC",
+        "sector": "Industrials"
+    },
+    "HRI": {
+        "cik_str": 1364479,
+        "ticker": "HRI",
+        "title": "HERC HOLDINGS INC",
+        "sector": "Industrials"
+    },
+    "AMTM": {
+        "cik_str": 2011286,
+        "ticker": "AMTM",
+        "title": "Amentum Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "SPXSY": {
+        "cik_str": 1518542,
+        "ticker": "SPXSY",
+        "title": "Spirax-Sarco Engineering PLC/ADR",
+        "sector": "Industrials"
+    },
+    "STRL": {
+        "cik_str": 874238,
+        "ticker": "STRL",
+        "title": "STERLING INFRASTRUCTURE, INC.",
+        "sector": "Industrials"
+    },
+    "FSS": {
+        "cik_str": 277509,
+        "ticker": "FSS",
+        "title": "FEDERAL SIGNAL CORP /DE/",
+        "sector": "Industrials"
+    },
+    "BE": {
+        "cik_str": 1664703,
+        "ticker": "BE",
+        "title": "Bloom Energy Corp",
+        "sector": "Industrials"
+    },
+    "GATX": {
+        "cik_str": 40211,
+        "ticker": "GATX",
+        "title": "GATX CORP",
+        "sector": "Industrials"
+    },
+    "ROAD": {
+        "cik_str": 1718227,
+        "ticker": "ROAD",
+        "title": "Construction Partners, Inc.",
+        "sector": "Industrials"
+    },
+    "AL": {
+        "cik_str": 1487712,
+        "ticker": "AL",
+        "title": "AIR LEASE CORP",
+        "sector": "Industrials"
+    },
+    "AVAV": {
+        "cik_str": 1368622,
+        "ticker": "AVAV",
+        "title": "AeroVironment Inc",
+        "sector": "Industrials"
+    },
+    "SNDR": {
+        "cik_str": 1692063,
+        "ticker": "SNDR",
+        "title": "Schneider National, Inc.",
+        "sector": "Industrials"
+    },
+    "GTES": {
+        "cik_str": 1718512,
+        "ticker": "GTES",
+        "title": "Gates Industrial Corp plc",
+        "sector": "Industrials"
+    },
+    "IESC": {
+        "cik_str": 1048268,
+        "ticker": "IESC",
+        "title": "IES Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "DY": {
+        "cik_str": 67215,
+        "ticker": "DY",
+        "title": "DYCOM INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "JOBY": {
+        "cik_str": 1819848,
+        "ticker": "JOBY",
+        "title": "Joby Aviation, Inc.",
+        "sector": "Industrials"
+    },
+    "ACA": {
+        "cik_str": 1739445,
+        "ticker": "ACA",
+        "title": "Arcosa, Inc.",
+        "sector": "Industrials"
+    },
+    "TKR": {
+        "cik_str": 98362,
+        "ticker": "TKR",
+        "title": "TIMKEN CO",
+        "sector": "Industrials"
+    },
+    "MATX": {
+        "cik_str": 3453,
+        "ticker": "MATX",
+        "title": "Matson, Inc.",
+        "sector": "Industrials"
+    },
+    "EXPO": {
+        "cik_str": 851520,
+        "ticker": "EXPO",
+        "title": "EXPONENT INC",
+        "sector": "Industrials"
+    },
+    "FELE": {
+        "cik_str": 38725,
+        "ticker": "FELE",
+        "title": "FRANKLIN ELECTRIC CO INC",
+        "sector": "Industrials"
+    },
+    "HXL": {
+        "cik_str": 717605,
+        "ticker": "HXL",
+        "title": "HEXCEL CORP /DE/",
+        "sector": "Industrials"
+    },
+    "KAI": {
+        "cik_str": 886346,
+        "ticker": "KAI",
+        "title": "KADANT INC",
+        "sector": "Industrials"
+    },
+    "MSM": {
+        "cik_str": 1003078,
+        "ticker": "MSM",
+        "title": "MSC INDUSTRIAL DIRECT CO INC",
+        "sector": "Industrials"
+    },
+    "TNET": {
+        "cik_str": 937098,
+        "ticker": "TNET",
+        "title": "TRINET GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "MMS": {
+        "cik_str": 1032220,
+        "ticker": "MMS",
+        "title": "MAXIMUS, INC.",
+        "sector": "Industrials"
+    },
+    "RXO": {
+        "cik_str": 1929561,
+        "ticker": "RXO",
+        "title": "RXO, Inc.",
+        "sector": "Industrials"
+    },
+    "PRIM": {
+        "cik_str": 1361538,
+        "ticker": "PRIM",
+        "title": "Primoris Services Corp",
+        "sector": "Industrials"
+    },
+    "SKYW": {
+        "cik_str": 793733,
+        "ticker": "SKYW",
+        "title": "SKYWEST INC",
+        "sector": "Industrials"
+    },
+    "GVA": {
+        "cik_str": 861459,
+        "ticker": "GVA",
+        "title": "GRANITE CONSTRUCTION INC",
+        "sector": "Industrials"
+    },
+    "AEIS": {
+        "cik_str": 927003,
+        "ticker": "AEIS",
+        "title": "ADVANCED ENERGY INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "ROYMY": {
+        "cik_str": 1592438,
+        "ticker": "ROYMY",
+        "title": "Royal Mail plc/ADR",
+        "sector": "Industrials"
+    },
+    "BCO": {
+        "cik_str": 78890,
+        "ticker": "BCO",
+        "title": "BRINKS CO",
+        "sector": "Industrials"
+    },
+    "GEO": {
+        "cik_str": 923796,
+        "ticker": "GEO",
+        "title": "GEO GROUP INC",
+        "sector": "Industrials"
+    },
+    "CBZ": {
+        "cik_str": 944148,
+        "ticker": "CBZ",
+        "title": "CBIZ, Inc.",
+        "sector": "Industrials"
+    },
+    "KFY": {
+        "cik_str": 56679,
+        "ticker": "KFY",
+        "title": "KORN FERRY",
+        "sector": "Industrials"
+    },
+    "KTOS": {
+        "cik_str": 1069258,
+        "ticker": "KTOS",
+        "title": "KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",
+        "sector": "Industrials"
+    },
+    "MDU": {
+        "cik_str": 67716,
+        "ticker": "MDU",
+        "title": "MDU RESOURCES GROUP INC",
+        "sector": "Industrials"
+    },
+    "REZI": {
+        "cik_str": 1740332,
+        "ticker": "REZI",
+        "title": "RESIDEO TECHNOLOGIES, INC.",
+        "sector": "Industrials"
+    },
+    "GMS": {
+        "cik_str": 1600438,
+        "ticker": "GMS",
+        "title": "GMS Inc.",
+        "sector": "Industrials"
+    },
+    "CPA": {
+        "cik_str": 1345105,
+        "ticker": "CPA",
+        "title": "Copa Holdings, S.A.",
+        "sector": "Industrials"
+    },
+    "MWA": {
+        "cik_str": 1350593,
+        "ticker": "MWA",
+        "title": "Mueller Water Products, Inc.",
+        "sector": "Industrials"
+    },
+    "GFF": {
+        "cik_str": 50725,
+        "ticker": "GFF",
+        "title": "GRIFFON CORP",
+        "sector": "Industrials"
+    },
+    "VRRM": {
+        "cik_str": 1682745,
+        "ticker": "VRRM",
+        "title": "VERRA MOBILITY Corp",
+        "sector": "Industrials"
+    },
+    "ENS": {
+        "cik_str": 1289308,
+        "ticker": "ENS",
+        "title": "EnerSys",
+        "sector": "Industrials"
+    },
+    "JBT": {
+        "cik_str": 1433660,
+        "ticker": "JBT",
+        "title": "John Bean Technologies CORP",
+        "sector": "Industrials"
+    },
+    "MIR": {
+        "cik_str": 1809987,
+        "ticker": "MIR",
+        "title": "Mirion Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "NPO": {
+        "cik_str": 1164863,
+        "ticker": "NPO",
+        "title": "Enpro Inc.",
+        "sector": "Industrials"
+    },
+    "SPR": {
+        "cik_str": 1364885,
+        "ticker": "SPR",
+        "title": "Spirit AeroSystems Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "ATMU": {
+        "cik_str": 1921963,
+        "ticker": "ATMU",
+        "title": "Atmus Filtration Technologies Inc.",
+        "sector": "Industrials"
+    },
+    "CAR": {
+        "cik_str": 723612,
+        "ticker": "CAR",
+        "title": "AVIS BUDGET GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "UNF": {
+        "cik_str": 717954,
+        "ticker": "UNF",
+        "title": "UNIFIRST CORP",
+        "sector": "Industrials"
+    },
+    "TEX": {
+        "cik_str": 97216,
+        "ticker": "TEX",
+        "title": "TEREX CORP",
+        "sector": "Industrials"
+    },
+    "ABM": {
+        "cik_str": 771497,
+        "ticker": "ABM",
+        "title": "ABM INDUSTRIES INC /DE/",
+        "sector": "Industrials"
+    },
+    "POWL": {
+        "cik_str": 80420,
+        "ticker": "POWL",
+        "title": "POWELL INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "HAYW": {
+        "cik_str": 1834622,
+        "ticker": "HAYW",
+        "title": "Hayward Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "JGSMY": {
+        "cik_str": 1567172,
+        "ticker": "JGSMY",
+        "title": "JG Summit Holdings, Inc./ADR",
+        "sector": "Industrials"
+    },
+    "BRC": {
+        "cik_str": 746598,
+        "ticker": "BRC",
+        "title": "BRADY CORP",
+        "sector": "Industrials"
+    },
+    "BTSGY": {
+        "cik_str": 1546538,
+        "ticker": "BTSGY",
+        "title": "BTS Group Holdings Public Co Limited/ADR",
+        "sector": "Industrials"
+    },
+    "CXT": {
+        "cik_str": 25445,
+        "ticker": "CXT",
+        "title": "Crane NXT, Co.",
+        "sector": "Industrials"
+    },
+    "ECG": {
+        "cik_str": 2015845,
+        "ticker": "ECG",
+        "title": "Everus Construction Group, Inc.",
+        "sector": "Industrials"
+    },
+    "FA": {
+        "cik_str": 1210677,
+        "ticker": "FA",
+        "title": "FIRST ADVANTAGE CORP",
+        "sector": "Industrials"
+    },
+    "ATKR": {
+        "cik_str": 1666138,
+        "ticker": "ATKR",
+        "title": "Atkore Inc.",
+        "sector": "Industrials"
+    },
+    "OMAB": {
+        "cik_str": 1378239,
+        "ticker": "OMAB",
+        "title": "Central North Airport Group",
+        "sector": "Industrials"
+    },
+    "TRN": {
+        "cik_str": 99780,
+        "ticker": "TRN",
+        "title": "TRINITY INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "HUBG": {
+        "cik_str": 940942,
+        "ticker": "HUBG",
+        "title": "Hub Group, Inc.",
+        "sector": "Industrials"
+    },
+    "MGRC": {
+        "cik_str": 752714,
+        "ticker": "MGRC",
+        "title": "MCGRATH RENTCORP",
+        "sector": "Industrials"
+    },
+    "CAAP": {
+        "cik_str": 1717393,
+        "ticker": "CAAP",
+        "title": "CORPORACION AMERICA AIRPORTS S.A.",
+        "sector": "Industrials"
+    },
+    "ZIM": {
+        "cik_str": 1654126,
+        "ticker": "ZIM",
+        "title": "ZIM Integrated Shipping Services Ltd.",
+        "sector": "Industrials"
+    },
+    "SHZNY": {
+        "cik_str": 1454480,
+        "ticker": "SHZNY",
+        "title": "Shenzhen Expressway Co. / ADR",
+        "sector": "Industrials"
+    },
+    "SMR": {
+        "cik_str": 1822966,
+        "ticker": "SMR",
+        "title": "NUSCALE POWER Corp",
+        "sector": "Industrials"
+    },
+    "MAN": {
+        "cik_str": 871763,
+        "ticker": "MAN",
+        "title": "ManpowerGroup Inc.",
+        "sector": "Industrials"
+    },
+    "HAFN": {
+        "cik_str": 1815779,
+        "ticker": "HAFN",
+        "title": "Hafnia Ltd",
+        "sector": "Industrials"
+    },
+    "ATS": {
+        "cik_str": 1394832,
+        "ticker": "ATS",
+        "title": "ATS Corp /ATS",
+        "sector": "Industrials"
+    },
+    "AZZ": {
+        "cik_str": 8947,
+        "ticker": "AZZ",
+        "title": "AZZ INC",
+        "sector": "Industrials"
+    },
+    "NSP": {
+        "cik_str": 1000753,
+        "ticker": "NSP",
+        "title": "INSPERITY, INC.",
+        "sector": "Industrials"
+    },
+    "ENR": {
+        "cik_str": 1632790,
+        "ticker": "ENR",
+        "title": "ENERGIZER HOLDINGS, INC.",
+        "sector": "Industrials"
+    },
+    "HNI": {
+        "cik_str": 48287,
+        "ticker": "HNI",
+        "title": "HNI CORP",
+        "sector": "Industrials"
+    },
+    "EPAC": {
+        "cik_str": 6955,
+        "ticker": "EPAC",
+        "title": "ENERPAC TOOL GROUP CORP",
+        "sector": "Industrials"
+    },
+    "SEB": {
+        "cik_str": 88121,
+        "ticker": "SEB",
+        "title": "SEABOARD CORP /DE/",
+        "sector": "Industrials"
+    },
+    "ENOV": {
+        "cik_str": 1420800,
+        "ticker": "ENOV",
+        "title": "Enovis CORP",
+        "sector": "Industrials"
+    },
+    "ARCB": {
+        "cik_str": 894405,
+        "ticker": "ARCB",
+        "title": "ARCBEST CORP /DE/",
+        "sector": "Industrials"
+    },
+    "ICFI": {
+        "cik_str": 1362004,
+        "ticker": "ICFI",
+        "title": "ICF International, Inc.",
+        "sector": "Industrials"
+    },
+    "ACHR": {
+        "cik_str": 1824502,
+        "ticker": "ACHR",
+        "title": "Archer Aviation Inc.",
+        "sector": "Industrials"
+    },
+    "AIR": {
+        "cik_str": 1750,
+        "ticker": "AIR",
+        "title": "AAR CORP",
+        "sector": "Industrials"
+    },
+    "SXI": {
+        "cik_str": 310354,
+        "ticker": "SXI",
+        "title": "STANDEX INTERNATIONAL CORP/DE/",
+        "sector": "Industrials"
+    },
+    "WERN": {
+        "cik_str": 793074,
+        "ticker": "WERN",
+        "title": "WERNER ENTERPRISES INC",
+        "sector": "Industrials"
+    },
+    "MYRG": {
+        "cik_str": 700923,
+        "ticker": "MYRG",
+        "title": "MYR GROUP INC.",
+        "sector": "Industrials"
+    },
+    "CXW": {
+        "cik_str": 1070985,
+        "ticker": "CXW",
+        "title": "CoreCivic, Inc.",
+        "sector": "Industrials"
+    },
+    "B": {
+        "cik_str": 9984,
+        "ticker": "B",
+        "title": "BARNES GROUP INC",
+        "sector": "Industrials"
+    },
+    "MRCY": {
+        "cik_str": 1049521,
+        "ticker": "MRCY",
+        "title": "MERCURY SYSTEMS INC",
+        "sector": "Industrials"
+    },
+    "ALG": {
+        "cik_str": 897077,
+        "ticker": "ALG",
+        "title": "ALAMO GROUP INC",
+        "sector": "Industrials"
+    },
+    "HI": {
+        "cik_str": 1417398,
+        "ticker": "HI",
+        "title": "Hillenbrand, Inc.",
+        "sector": "Industrials"
+    },
+    "VSEC": {
+        "cik_str": 102752,
+        "ticker": "VSEC",
+        "title": "VSE CORP",
+        "sector": "Industrials"
+    },
+    "KMT": {
+        "cik_str": 55242,
+        "ticker": "KMT",
+        "title": "KENNAMETAL INC",
+        "sector": "Industrials"
+    },
+    "GOGL": {
+        "cik_str": 1029145,
+        "ticker": "GOGL",
+        "title": "Golden Ocean Group Ltd",
+        "sector": "Industrials"
+    },
+    "HURN": {
+        "cik_str": 1289848,
+        "ticker": "HURN",
+        "title": "Huron Consulting Group Inc.",
+        "sector": "Industrials"
+    },
+    "JBLU": {
+        "cik_str": 1158463,
+        "ticker": "JBLU",
+        "title": "JETBLUE AIRWAYS CORP",
+        "sector": "Industrials"
+    },
+    "AFLYY": {
+        "cik_str": 1110452,
+        "ticker": "AFLYY",
+        "title": "AIR FRANCE-KLM /FI",
+        "sector": "Industrials"
+    },
+    "HLMN": {
+        "cik_str": 1822492,
+        "ticker": "HLMN",
+        "title": "Hillman Solutions Corp.",
+        "sector": "Industrials"
+    },
+    "SBLK": {
+        "cik_str": 1386716,
+        "ticker": "SBLK",
+        "title": "Star Bulk Carriers Corp.",
+        "sector": "Industrials"
+    },
+    "ROCK": {
+        "cik_str": 912562,
+        "ticker": "ROCK",
+        "title": "GIBRALTAR INDUSTRIES, INC.",
+        "sector": "Industrials"
+    },
+    "CDLR": {
+        "cik_str": 1978867,
+        "ticker": "CDLR",
+        "title": "Cadeler A/S",
+        "sector": "Industrials"
+    },
+    "PCT": {
+        "cik_str": 1830033,
+        "ticker": "PCT",
+        "title": "PureCycle Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "HEES": {
+        "cik_str": 1339605,
+        "ticker": "HEES",
+        "title": "H&E Equipment Services, Inc.",
+        "sector": "Industrials"
+    },
+    "AGX": {
+        "cik_str": 100591,
+        "ticker": "AGX",
+        "title": "ARGAN INC",
+        "sector": "Industrials"
+    },
+    "GBX": {
+        "cik_str": 923120,
+        "ticker": "GBX",
+        "title": "GREENBRIER COMPANIES INC",
+        "sector": "Industrials"
+    },
+    "CMPR": {
+        "cik_str": 1262976,
+        "ticker": "CMPR",
+        "title": "CIMPRESS plc",
+        "sector": "Industrials"
+    },
+    "WOR": {
+        "cik_str": 108516,
+        "ticker": "WOR",
+        "title": "WORTHINGTON ENTERPRISES, INC.",
+        "sector": "Industrials"
+    },
+    "VSTS": {
+        "cik_str": 1967649,
+        "ticker": "VSTS",
+        "title": "Vestis Corp",
+        "sector": "Industrials"
+    },
+    "PRG": {
+        "cik_str": 1808834,
+        "ticker": "PRG",
+        "title": "PROG Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "VVX": {
+        "cik_str": 1601548,
+        "ticker": "VVX",
+        "title": "V2X, Inc.",
+        "sector": "Industrials"
+    },
+    "BWLP": {
+        "cik_str": 1649313,
+        "ticker": "BWLP",
+        "title": "BW LPG Ltd",
+        "sector": "Industrials"
+    },
+    "APOG": {
+        "cik_str": 6845,
+        "ticker": "APOG",
+        "title": "APOGEE ENTERPRISES, INC.",
+        "sector": "Industrials"
+    },
+    "BBU": {
+        "cik_str": 1654795,
+        "ticker": "BBU",
+        "title": "Brookfield Business Partners L.P.",
+        "sector": "Industrials"
+    },
+    "DSGR": {
+        "cik_str": 703604,
+        "ticker": "DSGR",
+        "title": "Distribution Solutions Group, Inc.",
+        "sector": "Industrials"
+    },
+    "CODI": {
+        "cik_str": 1345126,
+        "ticker": "CODI",
+        "title": "Compass Diversified Holdings",
+        "sector": "Industrials"
+    },
+    "ENVX": {
+        "cik_str": 1828318,
+        "ticker": "ENVX",
+        "title": "Enovix Corp",
+        "sector": "Industrials"
+    },
+    "PLUG": {
+        "cik_str": 1093691,
+        "ticker": "PLUG",
+        "title": "PLUG POWER INC",
+        "sector": "Industrials"
+    },
+    "HLIO": {
+        "cik_str": 1024795,
+        "ticker": "HLIO",
+        "title": "HELIOS TECHNOLOGIES, INC.",
+        "sector": "Industrials"
+    },
+    "CMRE": {
+        "cik_str": 1503584,
+        "ticker": "CMRE",
+        "title": "Costamare Inc.",
+        "sector": "Industrials"
+    },
+    "TNC": {
+        "cik_str": 97134,
+        "ticker": "TNC",
+        "title": "TENNANT CO",
+        "sector": "Industrials"
+    },
+    "DAC": {
+        "cik_str": 1369241,
+        "ticker": "DAC",
+        "title": "Danaos Corp",
+        "sector": "Industrials"
+    },
+    "BV": {
+        "cik_str": 1734713,
+        "ticker": "BV",
+        "title": "BrightView Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "DNOW": {
+        "cik_str": 1599617,
+        "ticker": "DNOW",
+        "title": "DNOW Inc.",
+        "sector": "Industrials"
+    },
+    "XMTR": {
+        "cik_str": 1657573,
+        "ticker": "XMTR",
+        "title": "Xometry, Inc.",
+        "sector": "Industrials"
+    },
+    "UP": {
+        "cik_str": 1819516,
+        "ticker": "UP",
+        "title": "Wheels Up Experience Inc.",
+        "sector": "Industrials"
+    },
+    "REVG": {
+        "cik_str": 1687221,
+        "ticker": "REVG",
+        "title": "REV Group, Inc.",
+        "sector": "Industrials"
+    },
+    "NMM": {
+        "cik_str": 1415921,
+        "ticker": "NMM",
+        "title": "Navios Maritime Partners L.P.",
+        "sector": "Industrials"
+    },
+    "KRNT": {
+        "cik_str": 1625791,
+        "ticker": "KRNT",
+        "title": "Kornit Digital Ltd.",
+        "sector": "Industrials"
+    },
+    "TPC": {
+        "cik_str": 77543,
+        "ticker": "TPC",
+        "title": "TUTOR PERINI CORP",
+        "sector": "Industrials"
+    },
+    "TGI": {
+        "cik_str": 1021162,
+        "ticker": "TGI",
+        "title": "TRIUMPH GROUP INC",
+        "sector": "Industrials"
+    },
+    "TILE": {
+        "cik_str": 715787,
+        "ticker": "TILE",
+        "title": "INTERFACE INC",
+        "sector": "Industrials"
+    },
+    "SFL": {
+        "cik_str": 1289877,
+        "ticker": "SFL",
+        "title": "SFL Corp Ltd.",
+        "sector": "Industrials"
+    },
+    "ATSG": {
+        "cik_str": 894081,
+        "ticker": "ATSG",
+        "title": "Air Transport Services Group, Inc.",
+        "sector": "Industrials"
+    },
+    "NVEE": {
+        "cik_str": 1532961,
+        "ticker": "NVEE",
+        "title": "NV5 Global, Inc.",
+        "sector": "Industrials"
+    },
+    "NX": {
+        "cik_str": 1423221,
+        "ticker": "NX",
+        "title": "Quanex Building Products CORP",
+        "sector": "Industrials"
+    },
+    "LNN": {
+        "cik_str": 836157,
+        "ticker": "LNN",
+        "title": "LINDSAY CORP",
+        "sector": "Industrials"
+    },
+    "ALGT": {
+        "cik_str": 1362468,
+        "ticker": "ALGT",
+        "title": "Allegiant Travel CO",
+        "sector": "Industrials"
+    },
+    "PBI": {
+        "cik_str": 78814,
+        "ticker": "PBI",
+        "title": "PITNEY BOWES INC /DE/",
+        "sector": "Industrials"
+    },
+    "NSSC": {
+        "cik_str": 69633,
+        "ticker": "NSSC",
+        "title": "NAPCO SECURITY TECHNOLOGIES, INC",
+        "sector": "Industrials"
+    },
+    "AMRC": {
+        "cik_str": 1488139,
+        "ticker": "AMRC",
+        "title": "Ameresco, Inc.",
+        "sector": "Industrials"
+    },
+    "CMPO": {
+        "cik_str": 1823144,
+        "ticker": "CMPO",
+        "title": "CompoSecure, Inc.",
+        "sector": "Industrials"
+    },
+    "MRTN": {
+        "cik_str": 799167,
+        "ticker": "MRTN",
+        "title": "MARTEN TRANSPORT LTD",
+        "sector": "Industrials"
+    },
+    "LZ": {
+        "cik_str": 1286139,
+        "ticker": "LZ",
+        "title": "LEGALZOOM.COM, INC.",
+        "sector": "Industrials"
+    },
+    "AMSC": {
+        "cik_str": 880807,
+        "ticker": "AMSC",
+        "title": "AMERICAN SUPERCONDUCTOR CORP /DE/",
+        "sector": "Industrials"
+    },
+    "CDRE": {
+        "cik_str": 1860543,
+        "ticker": "CDRE",
+        "title": "Cadre Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "BLBD": {
+        "cik_str": 1589526,
+        "ticker": "BLBD",
+        "title": "Blue Bird Corp",
+        "sector": "Industrials"
+    },
+    "WLFC": {
+        "cik_str": 1018164,
+        "ticker": "WLFC",
+        "title": "WILLIS LEASE FINANCE CORP",
+        "sector": "Industrials"
+    },
+    "ULH": {
+        "cik_str": 1308208,
+        "ticker": "ULH",
+        "title": "UNIVERSAL LOGISTICS HOLDINGS, INC.",
+        "sector": "Industrials"
+    },
+    "CRAI": {
+        "cik_str": 1053706,
+        "ticker": "CRAI",
+        "title": "CRA INTERNATIONAL, INC.",
+        "sector": "Industrials"
+    },
+    "ULCC": {
+        "cik_str": 1670076,
+        "ticker": "ULCC",
+        "title": "Frontier Group Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "CTOS": {
+        "cik_str": 1709682,
+        "ticker": "CTOS",
+        "title": "Custom Truck One Source, Inc.",
+        "sector": "Industrials"
+    },
+    "ARLO": {
+        "cik_str": 1736946,
+        "ticker": "ARLO",
+        "title": "Arlo Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "HTZ": {
+        "cik_str": 1657853,
+        "ticker": "HTZ",
+        "title": "HERTZ GLOBAL HOLDINGS, INC",
+        "sector": "Industrials"
+    },
+    "ASPN": {
+        "cik_str": 1145986,
+        "ticker": "ASPN",
+        "title": "ASPEN AEROGELS INC",
+        "sector": "Industrials"
+    },
+    "LMB": {
+        "cik_str": 1606163,
+        "ticker": "LMB",
+        "title": "Limbach Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "LUNR": {
+        "cik_str": 1844452,
+        "ticker": "LUNR",
+        "title": "Intuitive Machines, Inc.",
+        "sector": "Industrials"
+    },
+    "KFRC": {
+        "cik_str": 930420,
+        "ticker": "KFRC",
+        "title": "KFORCE INC",
+        "sector": "Industrials"
+    },
+    "CCEC": {
+        "cik_str": 1392326,
+        "ticker": "CCEC",
+        "title": "Capital Clean Energy Carriers Corp.",
+        "sector": "Industrials"
+    },
+    "BBSI": {
+        "cik_str": 902791,
+        "ticker": "BBSI",
+        "title": "BARRETT BUSINESS SERVICES INC",
+        "sector": "Industrials"
+    },
+    "GRC": {
+        "cik_str": 42682,
+        "ticker": "GRC",
+        "title": "GORMAN RUPP CO",
+        "sector": "Industrials"
+    },
+    "DXPE": {
+        "cik_str": 1020710,
+        "ticker": "DXPE",
+        "title": "DXP ENTERPRISES INC",
+        "sector": "Industrials"
+    },
+    "GIC": {
+        "cik_str": 945114,
+        "ticker": "GIC",
+        "title": "GLOBAL INDUSTRIAL Co",
+        "sector": "Industrials"
+    },
+    "CMCO": {
+        "cik_str": 1005229,
+        "ticker": "CMCO",
+        "title": "COLUMBUS MCKINNON CORP",
+        "sector": "Industrials"
+    },
+    "CECO": {
+        "cik_str": 3197,
+        "ticker": "CECO",
+        "title": "CECO ENVIRONMENTAL CORP",
+        "sector": "Industrials"
+    },
+    "THR": {
+        "cik_str": 1489096,
+        "ticker": "THR",
+        "title": "Thermon Group Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "BXC": {
+        "cik_str": 1301787,
+        "ticker": "BXC",
+        "title": "BlueLinx Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "FWRD": {
+        "cik_str": 912728,
+        "ticker": "FWRD",
+        "title": "FORWARD AIR CORP",
+        "sector": "Industrials"
+    },
+    "JBI": {
+        "cik_str": 1839839,
+        "ticker": "JBI",
+        "title": "Janus International Group, Inc.",
+        "sector": "Industrials"
+    },
+    "NNE": {
+        "cik_str": 1923891,
+        "ticker": "NNE",
+        "title": "Nano Nuclear Energy Inc.",
+        "sector": "Industrials"
+    },
+    "EVEX": {
+        "cik_str": 1823652,
+        "ticker": "EVEX",
+        "title": "Eve Holding, Inc.",
+        "sector": "Industrials"
+    },
+    "DLX": {
+        "cik_str": 27996,
+        "ticker": "DLX",
+        "title": "DELUXE CORP",
+        "sector": "Industrials"
+    },
+    "TRNS": {
+        "cik_str": 99302,
+        "ticker": "TRNS",
+        "title": "TRANSCAT INC",
+        "sector": "Industrials"
+    },
+    "PL": {
+        "cik_str": 1836833,
+        "ticker": "PL",
+        "title": "Planet Labs PBC",
+        "sector": "Industrials"
+    },
+    "HY": {
+        "cik_str": 1173514,
+        "ticker": "HY",
+        "title": "HYSTER-YALE, INC.",
+        "sector": "Industrials"
+    },
+    "PRLB": {
+        "cik_str": 1443669,
+        "ticker": "PRLB",
+        "title": "Proto Labs Inc",
+        "sector": "Industrials"
+    },
+    "FIP": {
+        "cik_str": 1899883,
+        "ticker": "FIP",
+        "title": "FTAI Infrastructure Inc.",
+        "sector": "Industrials"
+    },
+    "XCH": {
+        "cik_str": 1979887,
+        "ticker": "XCH",
+        "title": "XCHG Ltd",
+        "sector": "Industrials"
+    },
+    "DCO": {
+        "cik_str": 30305,
+        "ticker": "DCO",
+        "title": "DUCOMMUN INC /DE/",
+        "sector": "Industrials"
+    },
+    "NPWR": {
+        "cik_str": 1845437,
+        "ticker": "NPWR",
+        "title": "NET Power Inc.",
+        "sector": "Industrials"
+    },
+    "HTLD": {
+        "cik_str": 799233,
+        "ticker": "HTLD",
+        "title": "HEARTLAND EXPRESS INC",
+        "sector": "Industrials"
+    },
+    "VLRS": {
+        "cik_str": 1520504,
+        "ticker": "VLRS",
+        "title": "Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",
+        "sector": "Industrials"
+    },
+    "GOLLQ": {
+        "cik_str": 1291733,
+        "ticker": "GOLLQ",
+        "title": "Gol Intelligent Airlines Inc.",
+        "sector": "Industrials"
+    },
+    "HSII": {
+        "cik_str": 1066605,
+        "ticker": "HSII",
+        "title": "HEIDRICK & STRUGGLES INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "VVI": {
+        "cik_str": 884219,
+        "ticker": "VVI",
+        "title": "VIAD CORP",
+        "sector": "Industrials"
+    },
+    "JELD": {
+        "cik_str": 1674335,
+        "ticker": "JELD",
+        "title": "JELD-WEN Holding, Inc.",
+        "sector": "Industrials"
+    },
+    "ERII": {
+        "cik_str": 1421517,
+        "ticker": "ERII",
+        "title": "Energy Recovery, Inc.",
+        "sector": "Industrials"
+    },
+    "ZIP": {
+        "cik_str": 1617553,
+        "ticker": "ZIP",
+        "title": "ZIPRECRUITER, INC.",
+        "sector": "Industrials"
+    },
+    "TH": {
+        "cik_str": 1712189,
+        "ticker": "TH",
+        "title": "Target Hospitality Corp.",
+        "sector": "Industrials"
+    },
+    "ASTE": {
+        "cik_str": 792987,
+        "ticker": "ASTE",
+        "title": "ASTEC INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "EH": {
+        "cik_str": 1759783,
+        "ticker": "EH",
+        "title": "EHang Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "GLDD": {
+        "cik_str": 1372020,
+        "ticker": "GLDD",
+        "title": "Great Lakes Dredge & Dock CORP",
+        "sector": "Industrials"
+    },
+    "WNC": {
+        "cik_str": 879526,
+        "ticker": "WNC",
+        "title": "WABASH NATIONAL Corp",
+        "sector": "Industrials"
+    },
+    "SKYH": {
+        "cik_str": 1823587,
+        "ticker": "SKYH",
+        "title": "Sky Harbour Group Corp",
+        "sector": "Industrials"
+    },
+    "GSL": {
+        "cik_str": 1430725,
+        "ticker": "GSL",
+        "title": "Global Ship Lease, Inc.",
+        "sector": "Industrials"
+    },
+    "RYI": {
+        "cik_str": 1481582,
+        "ticker": "RYI",
+        "title": "Ryerson Holding Corp",
+        "sector": "Industrials"
+    },
+    "MATW": {
+        "cik_str": 63296,
+        "ticker": "MATW",
+        "title": "MATTHEWS INTERNATIONAL CORP",
+        "sector": "Industrials"
+    },
+    "SPLP": {
+        "cik_str": 1452857,
+        "ticker": "SPLP",
+        "title": "STEEL PARTNERS HOLDINGS L.P.",
+        "sector": "Industrials"
+    },
+    "RDW": {
+        "cik_str": 1819810,
+        "ticker": "RDW",
+        "title": "Redwire Corp",
+        "sector": "Industrials"
+    },
+    "ECO": {
+        "cik_str": 1964954,
+        "ticker": "ECO",
+        "title": "Okeanis Eco Tankers Corp.",
+        "sector": "Industrials"
+    },
+    "MIESY": {
+        "cik_str": 1567924,
+        "ticker": "MIESY",
+        "title": "Mitsui E&S Holdings Co., Ltd./ADR",
+        "sector": "Industrials"
+    },
+    "CVLG": {
+        "cik_str": 928658,
+        "ticker": "CVLG",
+        "title": "COVENANT LOGISTICS GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "CRESY": {
+        "cik_str": 1034957,
+        "ticker": "CRESY",
+        "title": "CRESUD INC",
+        "sector": "Industrials"
+    },
+    "SNCY": {
+        "cik_str": 1743907,
+        "ticker": "SNCY",
+        "title": "Sun Country Airlines Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "SWIM": {
+        "cik_str": 1833197,
+        "ticker": "SWIM",
+        "title": "Latham Group, Inc.",
+        "sector": "Industrials"
+    },
+    "PSIX": {
+        "cik_str": 1137091,
+        "ticker": "PSIX",
+        "title": "POWER SOLUTIONS INTERNATIONAL, INC.",
+        "sector": "Industrials"
+    },
+    "GNK": {
+        "cik_str": 1326200,
+        "ticker": "GNK",
+        "title": "GENCO SHIPPING & TRADING LTD",
+        "sector": "Industrials"
+    },
+    "ADSE": {
+        "cik_str": 1879248,
+        "ticker": "ADSE",
+        "title": "Ads-Tec Energy Public Ltd Co",
+        "sector": "Industrials"
+    },
+    "SBC": {
+        "cik_str": 1930313,
+        "ticker": "SBC",
+        "title": "SBC Medical Group Holdings Inc",
+        "sector": "Industrials"
+    },
+    "PLPC": {
+        "cik_str": 80035,
+        "ticker": "PLPC",
+        "title": "PREFORMED LINE PRODUCTS CO",
+        "sector": "Industrials"
+    },
+    "MEG": {
+        "cik_str": 1643615,
+        "ticker": "MEG",
+        "title": "Montrose Environmental Group, Inc.",
+        "sector": "Industrials"
+    },
+    "RGR": {
+        "cik_str": 95029,
+        "ticker": "RGR",
+        "title": "STURM RUGER & CO INC",
+        "sector": "Industrials"
+    },
+    "ATRO": {
+        "cik_str": 8063,
+        "ticker": "ATRO",
+        "title": "ASTRONICS CORP",
+        "sector": "Industrials"
+    },
+    "CASS": {
+        "cik_str": 708781,
+        "ticker": "CASS",
+        "title": "CASS INFORMATION SYSTEMS INC",
+        "sector": "Industrials"
+    },
+    "EVOH": {
+        "cik_str": 1700844,
+        "ticker": "EVOH",
+        "title": "EvoAir Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "WLDN": {
+        "cik_str": 1370450,
+        "ticker": "WLDN",
+        "title": "Willdan Group, Inc.",
+        "sector": "Industrials"
+    },
+    "SWBI": {
+        "cik_str": 1092796,
+        "ticker": "SWBI",
+        "title": "SMITH & WESSON BRANDS, INC.",
+        "sector": "Industrials"
+    },
+    "IIIN": {
+        "cik_str": 764401,
+        "ticker": "IIIN",
+        "title": "INSTEEL INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "NVRI": {
+        "cik_str": 45876,
+        "ticker": "NVRI",
+        "title": "ENVIRI Corp",
+        "sector": "Industrials"
+    },
+    "FLX": {
+        "cik_str": 1858724,
+        "ticker": "FLX",
+        "title": "BingEx Ltd",
+        "sector": "Industrials"
+    },
+    "EOSE": {
+        "cik_str": 1805077,
+        "ticker": "EOSE",
+        "title": "Eos Energy Enterprises, Inc.",
+        "sector": "Industrials"
+    },
+    "NPK": {
+        "cik_str": 80172,
+        "ticker": "NPK",
+        "title": "NATIONAL PRESTO INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "NWPX": {
+        "cik_str": 1001385,
+        "ticker": "NWPX",
+        "title": "NORTHWEST PIPE CO",
+        "sector": "Industrials"
+    },
+    "EBF": {
+        "cik_str": 33002,
+        "ticker": "EBF",
+        "title": "ENNIS, INC.",
+        "sector": "Industrials"
+    },
+    "ACCO": {
+        "cik_str": 712034,
+        "ticker": "ACCO",
+        "title": "ACCO BRANDS Corp",
+        "sector": "Industrials"
+    },
+    "EAF": {
+        "cik_str": 931148,
+        "ticker": "EAF",
+        "title": "GRAFTECH INTERNATIONAL LTD",
+        "sector": "Industrials"
+    },
+    "OFLX": {
+        "cik_str": 1317945,
+        "ticker": "OFLX",
+        "title": "Omega Flex, Inc.",
+        "sector": "Industrials"
+    },
+    "KELYA": {
+        "cik_str": 55135,
+        "ticker": "KELYA",
+        "title": "KELLY SERVICES INC",
+        "sector": "Industrials"
+    },
+    "ASC": {
+        "cik_str": 1577437,
+        "ticker": "ASC",
+        "title": "Ardmore Shipping Corp",
+        "sector": "Industrials"
+    },
+    "KE": {
+        "cik_str": 1606757,
+        "ticker": "KE",
+        "title": "Kimball Electronics, Inc.",
+        "sector": "Industrials"
+    },
+    "BWMN": {
+        "cik_str": 1847590,
+        "ticker": "BWMN",
+        "title": "Bowman Consulting Group Ltd.",
+        "sector": "Industrials"
+    },
+    "GHM": {
+        "cik_str": 716314,
+        "ticker": "GHM",
+        "title": "GRAHAM CORP",
+        "sector": "Industrials"
+    },
+    "EVLV": {
+        "cik_str": 1805385,
+        "ticker": "EVLV",
+        "title": "Evolv Technologies Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "BOC": {
+        "cik_str": 1494582,
+        "ticker": "BOC",
+        "title": "BOSTON OMAHA Corp",
+        "sector": "Industrials"
+    },
+    "SHYF": {
+        "cik_str": 743238,
+        "ticker": "SHYF",
+        "title": "SHYFT GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "PKOH": {
+        "cik_str": 76282,
+        "ticker": "PKOH",
+        "title": "PARK OHIO HOLDINGS CORP",
+        "sector": "Industrials"
+    },
+    "TWI": {
+        "cik_str": 899751,
+        "ticker": "TWI",
+        "title": "TITAN INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "BYRN": {
+        "cik_str": 1354866,
+        "ticker": "BYRN",
+        "title": "Byrna Technologies Inc.",
+        "sector": "Industrials"
+    },
+    "SB": {
+        "cik_str": 1434754,
+        "ticker": "SB",
+        "title": "SAFE BULKERS, INC.",
+        "sector": "Industrials"
+    },
+    "ACTG": {
+        "cik_str": 934549,
+        "ticker": "ACTG",
+        "title": "ACACIA RESEARCH CORP",
+        "sector": "Industrials"
+    },
+    "AIRJ": {
+        "cik_str": 1855474,
+        "ticker": "AIRJ",
+        "title": "AirJoule Technologies Corp.",
+        "sector": "Industrials"
+    },
+    "TRC": {
+        "cik_str": 96869,
+        "ticker": "TRC",
+        "title": "TEJON RANCH CO",
+        "sector": "Industrials"
+    },
+    "KODK": {
+        "cik_str": 31235,
+        "ticker": "KODK",
+        "title": "EASTMAN KODAK CO",
+        "sector": "Industrials"
+    },
+    "PAMT": {
+        "cik_str": 798287,
+        "ticker": "PAMT",
+        "title": "PAMT CORP",
+        "sector": "Industrials"
+    },
+    "NL": {
+        "cik_str": 72162,
+        "ticker": "NL",
+        "title": "NL INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "BLDP": {
+        "cik_str": 1453015,
+        "ticker": "BLDP",
+        "title": "Ballard Power Systems Inc.",
+        "sector": "Industrials"
+    },
+    "SERV": {
+        "cik_str": 1832483,
+        "ticker": "SERV",
+        "title": "Serve Robotics Inc. /DE/",
+        "sector": "Industrials"
+    },
+    "LXFR": {
+        "cik_str": 1096056,
+        "ticker": "LXFR",
+        "title": "LUXFER HOLDINGS PLC",
+        "sector": "Industrials"
+    },
+    "MTW": {
+        "cik_str": 61986,
+        "ticker": "MTW",
+        "title": "MANITOWOC CO INC",
+        "sector": "Industrials"
+    },
+    "MTRX": {
+        "cik_str": 866273,
+        "ticker": "MTRX",
+        "title": "MATRIX SERVICE CO",
+        "sector": "Industrials"
+    },
+    "SPIR": {
+        "cik_str": 1816017,
+        "ticker": "SPIR",
+        "title": "Spire Global, Inc.",
+        "sector": "Industrials"
+    },
+    "FREY": {
+        "cik_str": 1992243,
+        "ticker": "FREY",
+        "title": "FREYR Battery, Inc. /DE/",
+        "sector": "Industrials"
+    },
+    "EUBG": {
+        "cik_str": 1171326,
+        "ticker": "EUBG",
+        "title": "ENTREPRENEUR UNIVERSE BRIGHT GROUP",
+        "sector": "Industrials"
+    },
+    "QUAD": {
+        "cik_str": 1481792,
+        "ticker": "QUAD",
+        "title": "Quad/Graphics, Inc.",
+        "sector": "Industrials"
+    },
+    "CIX": {
+        "cik_str": 1049606,
+        "ticker": "CIX",
+        "title": "COMPX INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "ASLE": {
+        "cik_str": 1754170,
+        "ticker": "ASLE",
+        "title": "AerSale Corp",
+        "sector": "Industrials"
+    },
+    "MEC": {
+        "cik_str": 1766368,
+        "ticker": "MEC",
+        "title": "Mayville Engineering Company, Inc.",
+        "sector": "Industrials"
+    },
+    "ORN": {
+        "cik_str": 1402829,
+        "ticker": "ORN",
+        "title": "Orion Group Holdings Inc",
+        "sector": "Industrials"
+    },
+    "RLGT": {
+        "cik_str": 1171155,
+        "ticker": "RLGT",
+        "title": "RADIANT LOGISTICS, INC",
+        "sector": "Industrials"
+    },
+    "TITN": {
+        "cik_str": 1409171,
+        "ticker": "TITN",
+        "title": "Titan Machinery Inc.",
+        "sector": "Industrials"
+    },
+    "SDST": {
+        "cik_str": 1831979,
+        "ticker": "SDST",
+        "title": "Stardust Power Inc.",
+        "sector": "Industrials"
+    },
+    "CYRX": {
+        "cik_str": 1124524,
+        "ticker": "CYRX",
+        "title": "Cryoport, Inc.",
+        "sector": "Industrials"
+    },
+    "FORR": {
+        "cik_str": 1023313,
+        "ticker": "FORR",
+        "title": "FORRESTER RESEARCH, INC.",
+        "sector": "Industrials"
+    },
+    "ARQ": {
+        "cik_str": 1515156,
+        "ticker": "ARQ",
+        "title": "Arq, Inc.",
+        "sector": "Industrials"
+    },
+    "BBCP": {
+        "cik_str": 1703956,
+        "ticker": "BBCP",
+        "title": "Concrete Pumping Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "GENC": {
+        "cik_str": 64472,
+        "ticker": "GENC",
+        "title": "GENCOR INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "AMBI": {
+        "cik_str": 1937441,
+        "ticker": "AMBI",
+        "title": "Ambipar Emergency Response",
+        "sector": "Industrials"
+    },
+    "HSHP": {
+        "cik_str": 1959455,
+        "ticker": "HSHP",
+        "title": "Himalaya Shipping Ltd.",
+        "sector": "Industrials"
+    },
+    "PKE": {
+        "cik_str": 76267,
+        "ticker": "PKE",
+        "title": "PARK AEROSPACE CORP",
+        "sector": "Industrials"
+    },
+    "SFHG": {
+        "cik_str": 1926792,
+        "ticker": "SFHG",
+        "title": "SAMFINE CREATION HOLDINGS GROUP Ltd",
+        "sector": "Industrials"
+    },
+    "FLYX": {
+        "cik_str": 1843973,
+        "ticker": "FLYX",
+        "title": "FLYEXCLUSIVE INC.",
+        "sector": "Industrials"
+    },
+    "FSTR": {
+        "cik_str": 352825,
+        "ticker": "FSTR",
+        "title": "FOSTER L B CO",
+        "sector": "Industrials"
+    },
+    "RITR": {
+        "cik_str": 1951229,
+        "ticker": "RITR",
+        "title": "Reitar Logtech Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "HNOI": {
+        "cik_str": 1342916,
+        "ticker": "HNOI",
+        "title": "HNO International, Inc.",
+        "sector": "Industrials"
+    },
+    "MG": {
+        "cik_str": 1436126,
+        "ticker": "MG",
+        "title": "Mistras Group, Inc.",
+        "sector": "Industrials"
+    },
+    "AZUL": {
+        "cik_str": 1432364,
+        "ticker": "AZUL",
+        "title": "AZUL SA",
+        "sector": "Industrials"
+    },
+    "RGP": {
+        "cik_str": 1084765,
+        "ticker": "RGP",
+        "title": "RESOURCES CONNECTION, INC.",
+        "sector": "Industrials"
+    },
+    "PANL": {
+        "cik_str": 1606909,
+        "ticker": "PANL",
+        "title": "Pangaea Logistics Solutions Ltd.",
+        "sector": "Industrials"
+    },
+    "ESEA": {
+        "cik_str": 1341170,
+        "ticker": "ESEA",
+        "title": "EUROSEAS LTD.",
+        "sector": "Industrials"
+    },
+    "DSX": {
+        "cik_str": 1318885,
+        "ticker": "DSX",
+        "title": "DIANA SHIPPING INC.",
+        "sector": "Industrials"
+    },
+    "BLDE": {
+        "cik_str": 1779128,
+        "ticker": "BLDE",
+        "title": "Blade Air Mobility, Inc.",
+        "sector": "Industrials"
+    },
+    "PAL": {
+        "cik_str": 1998768,
+        "ticker": "PAL",
+        "title": "Proficient Auto Logistics, Inc",
+        "sector": "Industrials"
+    },
+    "ESOA": {
+        "cik_str": 1357971,
+        "ticker": "ESOA",
+        "title": "Energy Services of America CORP",
+        "sector": "Industrials"
+    },
+    "ALTG": {
+        "cik_str": 1759824,
+        "ticker": "ALTG",
+        "title": "ALTA EQUIPMENT GROUP INC.",
+        "sector": "Industrials"
+    },
+    "NVX": {
+        "cik_str": 1859795,
+        "ticker": "NVX",
+        "title": "NOVONIX Ltd",
+        "sector": "Industrials"
+    },
+    "TG": {
+        "cik_str": 850429,
+        "ticker": "TG",
+        "title": "TREDEGAR CORP",
+        "sector": "Industrials"
+    },
+    "BTOC": {
+        "cik_str": 1972529,
+        "ticker": "BTOC",
+        "title": "Armlogi Holding Corp.",
+        "sector": "Industrials"
+    },
+    "PGHL": {
+        "cik_str": 1966678,
+        "ticker": "PGHL",
+        "title": "Primega Group Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "TATT": {
+        "cik_str": 808439,
+        "ticker": "TATT",
+        "title": "TAT TECHNOLOGIES LTD",
+        "sector": "Industrials"
+    },
+    "PESI": {
+        "cik_str": 891532,
+        "ticker": "PESI",
+        "title": "PERMA FIX ENVIRONMENTAL SERVICES INC",
+        "sector": "Industrials"
+    },
+    "EVI": {
+        "cik_str": 65312,
+        "ticker": "EVI",
+        "title": "EVI INDUSTRIES, INC.",
+        "sector": "Industrials"
+    },
+    "PFMT": {
+        "cik_str": 1550695,
+        "ticker": "PFMT",
+        "title": "Performant Financial Corp",
+        "sector": "Industrials"
+    },
+    "LNZA": {
+        "cik_str": 1843724,
+        "ticker": "LNZA",
+        "title": "LanzaTech Global, Inc.",
+        "sector": "Industrials"
+    },
+    "GASS": {
+        "cik_str": 1328919,
+        "ticker": "GASS",
+        "title": "StealthGas Inc.",
+        "sector": "Industrials"
+    },
+    "KNOP": {
+        "cik_str": 1564180,
+        "ticker": "KNOP",
+        "title": "KNOT Offshore Partners LP",
+        "sector": "Industrials"
+    },
+    "ZUUS": {
+        "cik_str": 1687926,
+        "ticker": "ZUUS",
+        "title": "ZEUUS, INC.",
+        "sector": "Industrials"
+    },
+    "HQI": {
+        "cik_str": 1140102,
+        "ticker": "HQI",
+        "title": "HireQuest, Inc.",
+        "sector": "Industrials"
+    },
+    "AMPX": {
+        "cik_str": 1899287,
+        "ticker": "AMPX",
+        "title": "Amprius Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "TBI": {
+        "cik_str": 768899,
+        "ticker": "TBI",
+        "title": "TrueBlue, Inc.",
+        "sector": "Industrials"
+    },
+    "NNBR": {
+        "cik_str": 918541,
+        "ticker": "NNBR",
+        "title": "NN INC",
+        "sector": "Industrials"
+    },
+    "SPCE": {
+        "cik_str": 1706946,
+        "ticker": "SPCE",
+        "title": "Virgin Galactic Holdings, Inc",
+        "sector": "Industrials"
+    },
+    "BNIGF": {
+        "cik_str": 1851651,
+        "ticker": "BNIGF",
+        "title": "Beroni Group Ltd",
+        "sector": "Industrials"
+    },
+    "MVST": {
+        "cik_str": 1760689,
+        "ticker": "MVST",
+        "title": "Microvast Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "SMHI": {
+        "cik_str": 1690334,
+        "ticker": "SMHI",
+        "title": "SEACOR Marine Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "RAIL": {
+        "cik_str": 1320854,
+        "ticker": "RAIL",
+        "title": "FreightCar America, Inc.",
+        "sector": "Industrials"
+    },
+    "ICTSF": {
+        "cik_str": 1010134,
+        "ticker": "ICTSF",
+        "title": "ICTS INTERNATIONAL N V",
+        "sector": "Industrials"
+    },
+    "NEOV": {
+        "cik_str": 1748137,
+        "ticker": "NEOV",
+        "title": "NeoVolta Inc.",
+        "sector": "Industrials"
+    },
+    "BW": {
+        "cik_str": 1630805,
+        "ticker": "BW",
+        "title": "Babcock & Wilcox Enterprises, Inc.",
+        "sector": "Industrials"
+    },
+    "EML": {
+        "cik_str": 31107,
+        "ticker": "EML",
+        "title": "EASTERN CO",
+        "sector": "Industrials"
+    },
+    "SHIP": {
+        "cik_str": 1448397,
+        "ticker": "SHIP",
+        "title": "Seanergy Maritime Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "RCMT": {
+        "cik_str": 700841,
+        "ticker": "RCMT",
+        "title": "RCM TECHNOLOGIES, INC.",
+        "sector": "Industrials"
+    },
+    "FCEL": {
+        "cik_str": 886128,
+        "ticker": "FCEL",
+        "title": "FUELCELL ENERGY INC",
+        "sector": "Industrials"
+    },
+    "TWIN": {
+        "cik_str": 100378,
+        "ticker": "TWIN",
+        "title": "TWIN DISC INC",
+        "sector": "Industrials"
+    },
+    "BLNK": {
+        "cik_str": 1429764,
+        "ticker": "BLNK",
+        "title": "Blink Charging Co.",
+        "sector": "Industrials"
+    },
+    "TUSK": {
+        "cik_str": 1679268,
+        "ticker": "TUSK",
+        "title": "MAMMOTH ENERGY SERVICES, INC.",
+        "sector": "Industrials"
+    },
+    "ADUR": {
+        "cik_str": 1863934,
+        "ticker": "ADUR",
+        "title": "ADURO CLEAN TECHNOLOGIES INC.",
+        "sector": "Industrials"
+    },
+    "MHH": {
+        "cik_str": 1437226,
+        "ticker": "MHH",
+        "title": "Mastech Digital, Inc.",
+        "sector": "Industrials"
+    },
+    "BOOM": {
+        "cik_str": 34067,
+        "ticker": "BOOM",
+        "title": "DMC Global Inc.",
+        "sector": "Industrials"
+    },
+    "GAUZ": {
+        "cik_str": 1781446,
+        "ticker": "GAUZ",
+        "title": "Gauzy Ltd.",
+        "sector": "Industrials"
+    },
+    "TAYD": {
+        "cik_str": 96536,
+        "ticker": "TAYD",
+        "title": "TAYLOR DEVICES, INC.",
+        "sector": "Industrials"
+    },
+    "QRHC": {
+        "cik_str": 1442236,
+        "ticker": "QRHC",
+        "title": "Quest Resource Holding Corp",
+        "sector": "Industrials"
+    },
+    "ARC": {
+        "cik_str": 1305168,
+        "ticker": "ARC",
+        "title": "ARC DOCUMENT SOLUTIONS, INC.",
+        "sector": "Industrials"
+    },
+    "SCWO": {
+        "cik_str": 933972,
+        "ticker": "SCWO",
+        "title": "374Water Inc.",
+        "sector": "Industrials"
+    },
+    "BAER": {
+        "cik_str": 1941536,
+        "ticker": "BAER",
+        "title": "Bridger Aerospace Group Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "SLND": {
+        "cik_str": 1883814,
+        "ticker": "SLND",
+        "title": "Southland Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "HURC": {
+        "cik_str": 315374,
+        "ticker": "HURC",
+        "title": "HURCO COMPANIES INC",
+        "sector": "Industrials"
+    },
+    "POWW": {
+        "cik_str": 1015383,
+        "ticker": "POWW",
+        "title": "AMMO, INC.",
+        "sector": "Industrials"
+    },
+    "CRAWA": {
+        "cik_str": 47307,
+        "ticker": "CRAWA",
+        "title": "CRAWFORD UNITED Corp",
+        "sector": "Industrials"
+    },
+    "CSTE": {
+        "cik_str": 1504379,
+        "ticker": "CSTE",
+        "title": "Caesarstone Ltd.",
+        "sector": "Industrials"
+    },
+    "ISSC": {
+        "cik_str": 836690,
+        "ticker": "ISSC",
+        "title": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+        "sector": "Industrials"
+    },
+    "BEEP": {
+        "cik_str": 1847874,
+        "ticker": "BEEP",
+        "title": "Mobile Infrastructure Corp",
+        "sector": "Industrials"
+    },
+    "PPIH": {
+        "cik_str": 914122,
+        "ticker": "PPIH",
+        "title": "Perma-Pipe International Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "NKLA": {
+        "cik_str": 1731289,
+        "ticker": "NKLA",
+        "title": "Nikola Corp",
+        "sector": "Industrials"
+    },
+    "ULBI": {
+        "cik_str": 875657,
+        "ticker": "ULBI",
+        "title": "ULTRALIFE CORP",
+        "sector": "Industrials"
+    },
+    "DRTTF": {
+        "cik_str": 1340476,
+        "ticker": "DRTTF",
+        "title": "DIRTT ENVIRONMENTAL SOLUTIONS LTD",
+        "sector": "Industrials"
+    },
+    "DLHC": {
+        "cik_str": 785557,
+        "ticker": "DLHC",
+        "title": "DLH Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "MNTX": {
+        "cik_str": 1302028,
+        "ticker": "MNTX",
+        "title": "Manitex International, Inc.",
+        "sector": "Industrials"
+    },
+    "CRGO": {
+        "cik_str": 1927719,
+        "ticker": "CRGO",
+        "title": "Freightos Ltd",
+        "sector": "Industrials"
+    },
+    "HTCO": {
+        "cik_str": 1928948,
+        "ticker": "HTCO",
+        "title": "Caravelle International Group",
+        "sector": "Industrials"
+    },
+    "SATL": {
+        "cik_str": 1874315,
+        "ticker": "SATL",
+        "title": "Satellogic Inc.",
+        "sector": "Industrials"
+    },
+    "GIFI": {
+        "cik_str": 1031623,
+        "ticker": "GIFI",
+        "title": "GULF ISLAND FABRICATION INC",
+        "sector": "Industrials"
+    },
+    "CAHO": {
+        "cik_str": 1678105,
+        "ticker": "CAHO",
+        "title": "Caro Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "SSHT": {
+        "cik_str": 1975222,
+        "ticker": "SSHT",
+        "title": "SSHT S&T Group Ltd.",
+        "sector": "Industrials"
+    },
+    "CODA": {
+        "cik_str": 1334325,
+        "ticker": "CODA",
+        "title": "Coda Octopus Group, Inc.",
+        "sector": "Industrials"
+    },
+    "SHMD": {
+        "cik_str": 1987240,
+        "ticker": "SHMD",
+        "title": "SCHMID Group N.V.",
+        "sector": "Industrials"
+    },
+    "LTBR": {
+        "cik_str": 1084554,
+        "ticker": "LTBR",
+        "title": "LIGHTBRIDGE Corp",
+        "sector": "Industrials"
+    },
+    "SKYX": {
+        "cik_str": 1598981,
+        "ticker": "SKYX",
+        "title": "SKYX Platforms Corp.",
+        "sector": "Industrials"
+    },
+    "CHMX": {
+        "cik_str": 1657045,
+        "ticker": "CHMX",
+        "title": "NEXT-ChemX Corporation.",
+        "sector": "Industrials"
+    },
+    "BUKS": {
+        "cik_str": 15847,
+        "ticker": "BUKS",
+        "title": "BUTLER NATIONAL CORP",
+        "sector": "Industrials"
+    },
+    "SFWL": {
+        "cik_str": 1863218,
+        "ticker": "SFWL",
+        "title": "SHENGFENG DEVELOPMENT Ltd",
+        "sector": "Industrials"
+    },
+    "FBYD": {
+        "cik_str": 1937987,
+        "ticker": "FBYD",
+        "title": "Falcon's Beyond Global, Inc.",
+        "sector": "Industrials"
+    },
+    "TPIC": {
+        "cik_str": 1455684,
+        "ticker": "TPIC",
+        "title": "TPI COMPOSITES, INC",
+        "sector": "Industrials"
+    },
+    "INVE": {
+        "cik_str": 1036044,
+        "ticker": "INVE",
+        "title": "Identiv, Inc.",
+        "sector": "Industrials"
+    },
+    "EHGO": {
+        "cik_str": 1879754,
+        "ticker": "EHGO",
+        "title": "EShallGo Inc.",
+        "sector": "Industrials"
+    },
+    "LASE": {
+        "cik_str": 1807887,
+        "ticker": "LASE",
+        "title": "Laser Photonics Corp",
+        "sector": "Industrials"
+    },
+    "EVTL": {
+        "cik_str": 1867102,
+        "ticker": "EVTL",
+        "title": "Vertical Aerospace Ltd.",
+        "sector": "Industrials"
+    },
+    "HUHU": {
+        "cik_str": 1945415,
+        "ticker": "HUHU",
+        "title": "HUHUTECH International Group Inc.",
+        "sector": "Industrials"
+    },
+    "SST": {
+        "cik_str": 1805833,
+        "ticker": "SST",
+        "title": "System1, Inc.",
+        "sector": "Industrials"
+    },
+    "PYRGF": {
+        "cik_str": 1743344,
+        "ticker": "PYRGF",
+        "title": "PyroGenesis Canada Inc.",
+        "sector": "Industrials"
+    },
+    "NCEW": {
+        "cik_str": 1968043,
+        "ticker": "NCEW",
+        "title": "New Century Logistics (BVI) Ltd",
+        "sector": "Industrials"
+    },
+    "RSKIA": {
+        "cik_str": 84112,
+        "ticker": "RSKIA",
+        "title": "GEORGE RISK INDUSTRIES, INC.",
+        "sector": "Industrials"
+    },
+    "ESP": {
+        "cik_str": 33533,
+        "ticker": "ESP",
+        "title": "ESPEY MFG & ELECTRONICS CORP",
+        "sector": "Industrials"
+    },
+    "ELVA": {
+        "cik_str": 1844450,
+        "ticker": "ELVA",
+        "title": "Electrovaya Inc.",
+        "sector": "Industrials"
+    },
+    "CBAT": {
+        "cik_str": 1117171,
+        "ticker": "CBAT",
+        "title": "CBAK Energy Technology, Inc.",
+        "sector": "Industrials"
+    },
+    "LICN": {
+        "cik_str": 1876766,
+        "ticker": "LICN",
+        "title": "Lichen China Ltd",
+        "sector": "Industrials"
+    },
+    "TISI": {
+        "cik_str": 318833,
+        "ticker": "TISI",
+        "title": "TEAM INC",
+        "sector": "Industrials"
+    },
+    "IVAC": {
+        "cik_str": 1001902,
+        "ticker": "IVAC",
+        "title": "INTEVAC INC",
+        "sector": "Industrials"
+    },
+    "ESGL": {
+        "cik_str": 1957538,
+        "ticker": "ESGL",
+        "title": "ESGL Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "SHIM": {
+        "cik_str": 1887944,
+        "ticker": "SHIM",
+        "title": "Shimmick Corp",
+        "sector": "Industrials"
+    },
+    "SNT": {
+        "cik_str": 1993727,
+        "ticker": "SNT",
+        "title": "Senstar Technologies Corp",
+        "sector": "Industrials"
+    },
+    "PPSI": {
+        "cik_str": 1449792,
+        "ticker": "PPSI",
+        "title": "PIONEER POWER SOLUTIONS, INC.",
+        "sector": "Industrials"
+    },
+    "KSCP": {
+        "cik_str": 1600983,
+        "ticker": "KSCP",
+        "title": "Knightscope, Inc.",
+        "sector": "Industrials"
+    },
+    "LBGJ": {
+        "cik_str": 1896425,
+        "ticker": "LBGJ",
+        "title": "Li Bang International Corp Inc.",
+        "sector": "Industrials"
+    },
+    "BCHT": {
+        "cik_str": 728385,
+        "ticker": "BCHT",
+        "title": "Birchtech Corp.",
+        "sector": "Industrials"
+    },
+    "JUNE": {
+        "cik_str": 1897087,
+        "ticker": "JUNE",
+        "title": "Junee Ltd",
+        "sector": "Industrials"
+    },
+    "SPAI": {
+        "cik_str": 2011208,
+        "ticker": "SPAI",
+        "title": "Safe Pro Group Inc.",
+        "sector": "Industrials"
+    },
+    "VATE": {
+        "cik_str": 1006837,
+        "ticker": "VATE",
+        "title": "INNOVATE Corp.",
+        "sector": "Industrials"
+    },
+    "BGSF": {
+        "cik_str": 1474903,
+        "ticker": "BGSF",
+        "title": "BGSF, INC.",
+        "sector": "Industrials"
+    },
+    "STCN": {
+        "cik_str": 914712,
+        "ticker": "STCN",
+        "title": "Steel Connect, Inc.",
+        "sector": "Industrials"
+    },
+    "GWH": {
+        "cik_str": 1819438,
+        "ticker": "GWH",
+        "title": "ESS Tech, Inc.",
+        "sector": "Industrials"
+    },
+    "OPXS": {
+        "cik_str": 1397016,
+        "ticker": "OPXS",
+        "title": "Optex Systems Holdings Inc",
+        "sector": "Industrials"
+    },
+    "WLGS": {
+        "cik_str": 1899658,
+        "ticker": "WLGS",
+        "title": "WANG & LEE GROUP, Inc.",
+        "sector": "Industrials"
+    },
+    "APT": {
+        "cik_str": 884269,
+        "ticker": "APT",
+        "title": "ALPHA PRO TECH LTD",
+        "sector": "Industrials"
+    },
+    "CLIR": {
+        "cik_str": 1434524,
+        "ticker": "CLIR",
+        "title": "ClearSign Technologies Corp",
+        "sector": "Industrials"
+    },
+    "STI": {
+        "cik_str": 1881551,
+        "ticker": "STI",
+        "title": "Solidion Technology Inc.",
+        "sector": "Industrials"
+    },
+    "IPWR": {
+        "cik_str": 1507957,
+        "ticker": "IPWR",
+        "title": "Ideal Power Inc.",
+        "sector": "Industrials"
+    },
+    "HRBR": {
+        "cik_str": 899394,
+        "ticker": "HRBR",
+        "title": "HARBOR DIVERSIFIED, INC.",
+        "sector": "Industrials"
+    },
+    "RR": {
+        "cik_str": 1963685,
+        "ticker": "RR",
+        "title": "RICHTECH ROBOTICS INC.",
+        "sector": "Industrials"
+    },
+    "AERT": {
+        "cik_str": 1853044,
+        "ticker": "AERT",
+        "title": "Aeries Technology, Inc.",
+        "sector": "Industrials"
+    },
+    "LEV": {
+        "cik_str": 1834974,
+        "ticker": "LEV",
+        "title": "Lion Electric Co",
+        "sector": "Industrials"
+    },
+    "BEST": {
+        "cik_str": 1709505,
+        "ticker": "BEST",
+        "title": "BEST Inc.",
+        "sector": "Industrials"
+    },
+    "SGRP": {
+        "cik_str": 1004989,
+        "ticker": "SGRP",
+        "title": "SPAR Group, Inc.",
+        "sector": "Industrials"
+    },
+    "LILMF": {
+        "cik_str": 1855756,
+        "ticker": "LILMF",
+        "title": "Lilium N.V.",
+        "sector": "Industrials"
+    },
+    "TORO": {
+        "cik_str": 1941131,
+        "ticker": "TORO",
+        "title": "TORO CORP.",
+        "sector": "Industrials"
+    },
+    "AIRT": {
+        "cik_str": 353184,
+        "ticker": "AIRT",
+        "title": "AIR T INC",
+        "sector": "Industrials"
+    },
+    "AGFY": {
+        "cik_str": 1800637,
+        "ticker": "AGFY",
+        "title": "Agrify Corp",
+        "sector": "Industrials"
+    },
+    "SFRX": {
+        "cik_str": 1106213,
+        "ticker": "SFRX",
+        "title": "SEAFARER EXPLORATION CORP",
+        "sector": "Industrials"
+    },
+    "LICY": {
+        "cik_str": 1828811,
+        "ticker": "LICY",
+        "title": "Li-Cycle Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "CVU": {
+        "cik_str": 889348,
+        "ticker": "CVU",
+        "title": "CPI AEROSTRUCTURES INC",
+        "sector": "Industrials"
+    },
+    "PMAX": {
+        "cik_str": 2012096,
+        "ticker": "PMAX",
+        "title": "Powell Max Ltd",
+        "sector": "Industrials"
+    },
+    "GTMAY": {
+        "cik_str": 1163560,
+        "ticker": "GTMAY",
+        "title": "GRUPO TMM SAB",
+        "sector": "Industrials"
+    },
+    "UNXP": {
+        "cik_str": 1751707,
+        "ticker": "UNXP",
+        "title": "United Express Inc.",
+        "sector": "Industrials"
+    },
+    "JYD": {
+        "cik_str": 1938186,
+        "ticker": "JYD",
+        "title": "Jayud Global Logistics Ltd",
+        "sector": "Industrials"
+    },
+    "RFIL": {
+        "cik_str": 740664,
+        "ticker": "RFIL",
+        "title": "R F INDUSTRIES LTD",
+        "sector": "Industrials"
+    },
+    "HHS": {
+        "cik_str": 45919,
+        "ticker": "HHS",
+        "title": "HARTE HANKS INC",
+        "sector": "Industrials"
+    },
+    "SRFM": {
+        "cik_str": 1936224,
+        "ticker": "SRFM",
+        "title": "SURF AIR MOBILITY INC.",
+        "sector": "Industrials"
+    },
+    "NISN": {
+        "cik_str": 1603993,
+        "ticker": "NISN",
+        "title": "Nisun International Enterprise Development Group Co., Ltd",
+        "sector": "Industrials"
+    },
+    "EDRY": {
+        "cik_str": 1731388,
+        "ticker": "EDRY",
+        "title": "EuroDry Ltd.",
+        "sector": "Industrials"
+    },
+    "APWC": {
+        "cik_str": 1026980,
+        "ticker": "APWC",
+        "title": "ASIA PACIFIC WIRE & CABLE CORP LTD",
+        "sector": "Industrials"
+    },
+    "LQMT": {
+        "cik_str": 1141240,
+        "ticker": "LQMT",
+        "title": "LIQUIDMETAL TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "HSON": {
+        "cik_str": 1210708,
+        "ticker": "HSON",
+        "title": "Hudson Global, Inc.",
+        "sector": "Industrials"
+    },
+    "FLUX": {
+        "cik_str": 1083743,
+        "ticker": "FLUX",
+        "title": "Flux Power Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "NIXX": {
+        "cik_str": 1462223,
+        "ticker": "NIXX",
+        "title": "Nixxy, Inc.",
+        "sector": "Industrials"
+    },
+    "TRSG": {
+        "cik_str": 1943444,
+        "ticker": "TRSG",
+        "title": "Tungray Technologies Inc",
+        "sector": "Industrials"
+    },
+    "MTEN": {
+        "cik_str": 1948099,
+        "ticker": "MTEN",
+        "title": "Mingteng International Corp Inc.",
+        "sector": "Industrials"
+    },
+    "JANL": {
+        "cik_str": 1133062,
+        "ticker": "JANL",
+        "title": "JANEL CORP",
+        "sector": "Industrials"
+    },
+    "CDTG": {
+        "cik_str": 1793895,
+        "ticker": "CDTG",
+        "title": "CDT Environmental Technology Investment Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "FPAY": {
+        "cik_str": 1397047,
+        "ticker": "FPAY",
+        "title": "FlexShopper, Inc.",
+        "sector": "Industrials"
+    },
+    "MESA": {
+        "cik_str": 810332,
+        "ticker": "MESA",
+        "title": "MESA AIR GROUP INC",
+        "sector": "Industrials"
+    },
+    "FTEK": {
+        "cik_str": 846913,
+        "ticker": "FTEK",
+        "title": "FUEL TECH, INC.",
+        "sector": "Industrials"
+    },
+    "XOS": {
+        "cik_str": 1819493,
+        "ticker": "XOS",
+        "title": "Xos, Inc.",
+        "sector": "Industrials"
+    },
+    "AP": {
+        "cik_str": 6176,
+        "ticker": "AP",
+        "title": "AMPCO PITTSBURGH CORP",
+        "sector": "Industrials"
+    },
+    "BWEN": {
+        "cik_str": 1120370,
+        "ticker": "BWEN",
+        "title": "BROADWIND, INC.",
+        "sector": "Industrials"
+    },
+    "WBQNL": {
+        "cik_str": 1785494,
+        "ticker": "WBQNL",
+        "title": "Woodbridge Liquidation Trust",
+        "sector": "Industrials"
+    },
+    "CTRM": {
+        "cik_str": 1720161,
+        "ticker": "CTRM",
+        "title": "Castor Maritime Inc.",
+        "sector": "Industrials"
+    },
+    "RAYA": {
+        "cik_str": 1825875,
+        "ticker": "RAYA",
+        "title": "Erayak Power Solution Group Inc.",
+        "sector": "Industrials"
+    },
+    "NTIP": {
+        "cik_str": 1065078,
+        "ticker": "NTIP",
+        "title": "NETWORK-1 TECHNOLOGIES, INC.",
+        "sector": "Industrials"
+    },
+    "CETY": {
+        "cik_str": 1329606,
+        "ticker": "CETY",
+        "title": "Clean Energy Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "GLXG": {
+        "cik_str": 1905920,
+        "ticker": "GLXG",
+        "title": "Galaxy Payroll Group Ltd",
+        "sector": "Industrials"
+    },
+    "GTEC": {
+        "cik_str": 1735041,
+        "ticker": "GTEC",
+        "title": "Greenland Technologies Holding Corp.",
+        "sector": "Industrials"
+    },
+    "TPCS": {
+        "cik_str": 1328792,
+        "ticker": "TPCS",
+        "title": "TECHPRECISION CORP",
+        "sector": "Industrials"
+    },
+    "HYFM": {
+        "cik_str": 1695295,
+        "ticker": "HYFM",
+        "title": "HYDROFARM HOLDINGS GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "SVT": {
+        "cik_str": 89140,
+        "ticker": "SVT",
+        "title": "SERVOTRONICS INC /DE/",
+        "sector": "Industrials"
+    },
+    "PMEC": {
+        "cik_str": 1891944,
+        "ticker": "PMEC",
+        "title": "Primech Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "PGTK": {
+        "cik_str": 1553404,
+        "ticker": "PGTK",
+        "title": "Pacific Green Technologies Inc.",
+        "sector": "Industrials"
+    },
+    "AUSI": {
+        "cik_str": 826253,
+        "ticker": "AUSI",
+        "title": "AURA SYSTEMS INC",
+        "sector": "Industrials"
+    },
+    "JETMF": {
+        "cik_str": 1846084,
+        "ticker": "JETMF",
+        "title": "Global Crossing Airlines Group Inc.",
+        "sector": "Industrials"
+    },
+    "GLBS": {
+        "cik_str": 1499780,
+        "ticker": "GLBS",
+        "title": "GLOBUS MARITIME LTD",
+        "sector": "Industrials"
+    },
+    "RLBY": {
+        "cik_str": 34285,
+        "ticker": "RLBY",
+        "title": "RELIABILITY INC",
+        "sector": "Industrials"
+    },
+    "JOB": {
+        "cik_str": 40570,
+        "ticker": "JOB",
+        "title": "GEE Group Inc.",
+        "sector": "Industrials"
+    },
+    "GLAI": {
+        "cik_str": 1473490,
+        "ticker": "GLAI",
+        "title": "Global AI, Inc.",
+        "sector": "Industrials"
+    },
+    "GP": {
+        "cik_str": 1584547,
+        "ticker": "GP",
+        "title": "GREENPOWER MOTOR Co INC.",
+        "sector": "Industrials"
+    },
+    "SGLA": {
+        "cik_str": 1433551,
+        "ticker": "SGLA",
+        "title": "Sino Green Land Corp.",
+        "sector": "Industrials"
+    },
+    "SIF": {
+        "cik_str": 90168,
+        "ticker": "SIF",
+        "title": "SIFCO INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "DFLI": {
+        "cik_str": 1847986,
+        "ticker": "DFLI",
+        "title": "Dragonfly Energy Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "PLAG": {
+        "cik_str": 1117057,
+        "ticker": "PLAG",
+        "title": "Planet Green Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "SUGP": {
+        "cik_str": 1969863,
+        "ticker": "SUGP",
+        "title": "SU Group Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "PSHG": {
+        "cik_str": 1481241,
+        "ticker": "PSHG",
+        "title": "Performance Shipping Inc.",
+        "sector": "Industrials"
+    },
+    "EPOW": {
+        "cik_str": 1780731,
+        "ticker": "EPOW",
+        "title": "Sunrise New Energy Co., Ltd.",
+        "sector": "Industrials"
+    },
+    "TGEN": {
+        "cik_str": 1537435,
+        "ticker": "TGEN",
+        "title": "TECOGEN INC.",
+        "sector": "Industrials"
+    },
+    "CVV": {
+        "cik_str": 766792,
+        "ticker": "CVV",
+        "title": "CVD EQUIPMENT CORP",
+        "sector": "Industrials"
+    },
+    "CCTG": {
+        "cik_str": 1931717,
+        "ticker": "CCTG",
+        "title": "CCSC Technology International Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "WHLM": {
+        "cik_str": 1013706,
+        "ticker": "WHLM",
+        "title": "Wilhelmina International, Inc.",
+        "sector": "Industrials"
+    },
+    "LSH": {
+        "cik_str": 1996192,
+        "ticker": "LSH",
+        "title": "Lakeside Holding Ltd",
+        "sector": "Industrials"
+    },
+    "ILAG": {
+        "cik_str": 1814963,
+        "ticker": "ILAG",
+        "title": "Intelligent Living Application Group Inc.",
+        "sector": "Industrials"
+    },
+    "USEA": {
+        "cik_str": 1912847,
+        "ticker": "USEA",
+        "title": "United Maritime Corp",
+        "sector": "Industrials"
+    },
+    "UGRO": {
+        "cik_str": 1706524,
+        "ticker": "UGRO",
+        "title": "urban-gro, Inc.",
+        "sector": "Industrials"
+    },
+    "CVR": {
+        "cik_str": 19871,
+        "ticker": "CVR",
+        "title": "CHICAGO RIVET & MACHINE CO",
+        "sector": "Industrials"
+    },
+    "SAVEQ": {
+        "cik_str": 1498710,
+        "ticker": "SAVEQ",
+        "title": "Spirit Airlines, Inc.",
+        "sector": "Industrials"
+    },
+    "LWLW": {
+        "cik_str": 723533,
+        "ticker": "LWLW",
+        "title": "Longwen Group Corp.",
+        "sector": "Industrials"
+    },
+    "CRWE": {
+        "cik_str": 1103833,
+        "ticker": "CRWE",
+        "title": "Crown Equity Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "LIQT": {
+        "cik_str": 1307579,
+        "ticker": "LIQT",
+        "title": "LIQTECH INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "AIRI": {
+        "cik_str": 1009891,
+        "ticker": "AIRI",
+        "title": "AIR INDUSTRIES GROUP",
+        "sector": "Industrials"
+    },
+    "TOMZ": {
+        "cik_str": 314227,
+        "ticker": "TOMZ",
+        "title": "TOMI Environmental Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "MNTS": {
+        "cik_str": 1781162,
+        "ticker": "MNTS",
+        "title": "Momentus Inc.",
+        "sector": "Industrials"
+    },
+    "OPTT": {
+        "cik_str": 1378140,
+        "ticker": "OPTT",
+        "title": "Ocean Power Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "NORD": {
+        "cik_str": 1011060,
+        "ticker": "NORD",
+        "title": "Nordicus Partners Corp",
+        "sector": "Industrials"
+    },
+    "DEVS": {
+        "cik_str": 1854480,
+        "ticker": "DEVS",
+        "title": "DevvStream Corp.",
+        "sector": "Industrials"
+    },
+    "ZCAR": {
+        "cik_str": 1854275,
+        "ticker": "ZCAR",
+        "title": "Zoomcar Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "PSIG": {
+        "cik_str": 1997201,
+        "ticker": "PSIG",
+        "title": "PS International Group Ltd.",
+        "sector": "Industrials"
+    },
+    "GFAI": {
+        "cik_str": 1804469,
+        "ticker": "GFAI",
+        "title": "Guardforce AI Co., Ltd.",
+        "sector": "Industrials"
+    },
+    "ZONE": {
+        "cik_str": 1956741,
+        "ticker": "ZONE",
+        "title": "CleanCore Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "AWX": {
+        "cik_str": 1061069,
+        "ticker": "AWX",
+        "title": "AVALON HOLDINGS CORP",
+        "sector": "Industrials"
+    },
+    "AQMS": {
+        "cik_str": 1621832,
+        "ticker": "AQMS",
+        "title": "Aqua Metals, Inc.",
+        "sector": "Industrials"
+    },
+    "SKK": {
+        "cik_str": 1991261,
+        "ticker": "SKK",
+        "title": "SKK Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "CIPI": {
+        "cik_str": 1108645,
+        "ticker": "CIPI",
+        "title": "Correlate Energy Corp.",
+        "sector": "Industrials"
+    },
+    "PC": {
+        "cik_str": 1998056,
+        "ticker": "PC",
+        "title": "Premium Catering (Holdings) Ltd",
+        "sector": "Industrials"
+    },
+    "HOVR": {
+        "cik_str": 1930021,
+        "ticker": "HOVR",
+        "title": "New Horizon Aircraft Ltd.",
+        "sector": "Industrials"
+    },
+    "BNET": {
+        "cik_str": 875729,
+        "ticker": "BNET",
+        "title": "BION ENVIRONMENTAL TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "CLWT": {
+        "cik_str": 1026662,
+        "ticker": "CLWT",
+        "title": "EURO TECH HOLDINGS CO LTD",
+        "sector": "Industrials"
+    },
+    "INTJ": {
+        "cik_str": 1916416,
+        "ticker": "INTJ",
+        "title": "Intelligent Group Ltd",
+        "sector": "Industrials"
+    },
+    "OP": {
+        "cik_str": 1869467,
+        "ticker": "OP",
+        "title": "OceanPal Inc.",
+        "sector": "Industrials"
+    },
+    "SIDU": {
+        "cik_str": 1879726,
+        "ticker": "SIDU",
+        "title": "Sidus Space Inc.",
+        "sector": "Industrials"
+    },
+    "GVH": {
+        "cik_str": 1978527,
+        "ticker": "GVH",
+        "title": "Globavend Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "ROMA": {
+        "cik_str": 1945240,
+        "ticker": "ROMA",
+        "title": "Roma Green Finance Ltd",
+        "sector": "Industrials"
+    },
+    "MMTRS": {
+        "cik_str": 66496,
+        "ticker": "MMTRS",
+        "title": "MILLS MUSIC TRUST",
+        "sector": "Industrials"
+    },
+    "SKAS": {
+        "cik_str": 1128281,
+        "ticker": "SKAS",
+        "title": "Saker Aviation Services, Inc.",
+        "sector": "Industrials"
+    },
+    "ACPS": {
+        "cik_str": 1133116,
+        "ticker": "ACPS",
+        "title": "AC Partners, Inc.",
+        "sector": "Industrials"
+    },
+    "QIND": {
+        "cik_str": 1393781,
+        "ticker": "QIND",
+        "title": "Quality Industrial Corp.",
+        "sector": "Industrials"
+    },
+    "IPDN": {
+        "cik_str": 1546296,
+        "ticker": "IPDN",
+        "title": "Professional Diversity Network, Inc.",
+        "sector": "Industrials"
+    },
+    "DPRO": {
+        "cik_str": 1786286,
+        "ticker": "DPRO",
+        "title": "Draganfly Inc.",
+        "sector": "Industrials"
+    },
+    "GTII": {
+        "cik_str": 356590,
+        "ticker": "GTII",
+        "title": "GLOBAL TECH INDUSTRIES GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "TIKK": {
+        "cik_str": 96885,
+        "ticker": "TIKK",
+        "title": "TEL INSTRUMENT ELECTRONICS CORP",
+        "sector": "Industrials"
+    },
+    "CLEV": {
+        "cik_str": 1414382,
+        "ticker": "CLEV",
+        "title": "Concrete Leveling Systems Inc",
+        "sector": "Industrials"
+    },
+    "RVSN": {
+        "cik_str": 1743905,
+        "ticker": "RVSN",
+        "title": "Rail Vision Ltd.",
+        "sector": "Industrials"
+    },
+    "SOAR": {
+        "cik_str": 1853070,
+        "ticker": "SOAR",
+        "title": "Volato Group, Inc.",
+        "sector": "Industrials"
+    },
+    "GRNQ": {
+        "cik_str": 1597846,
+        "ticker": "GRNQ",
+        "title": "Greenpro Capital Corp.",
+        "sector": "Industrials"
+    },
+    "CISS": {
+        "cik_str": 1951067,
+        "ticker": "CISS",
+        "title": "C3is Inc.",
+        "sector": "Industrials"
+    },
+    "HIHO": {
+        "cik_str": 1026785,
+        "ticker": "HIHO",
+        "title": "HIGHWAY HOLDINGS LTD",
+        "sector": "Industrials"
+    },
+    "BURU": {
+        "cik_str": 1814215,
+        "ticker": "BURU",
+        "title": "Nuburu, Inc.",
+        "sector": "Industrials"
+    },
+    "ARTW": {
+        "cik_str": 7623,
+        "ticker": "ARTW",
+        "title": "ARTS WAY MANUFACTURING CO INC",
+        "sector": "Industrials"
+    },
+    "ELVG": {
+        "cik_str": 1741489,
+        "ticker": "ELVG",
+        "title": "Elvictor Group, Inc.",
+        "sector": "Industrials"
+    },
+    "MWG": {
+        "cik_str": 1941500,
+        "ticker": "MWG",
+        "title": "Multi Ways Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "IAALF": {
+        "cik_str": 1450894,
+        "ticker": "IAALF",
+        "title": "IBC Advanced Alloys Corp.",
+        "sector": "Industrials"
+    },
+    "XTIA": {
+        "cik_str": 1529113,
+        "ticker": "XTIA",
+        "title": "XTI Aerospace, Inc.",
+        "sector": "Industrials"
+    },
+    "XERI": {
+        "cik_str": 1481504,
+        "ticker": "XERI",
+        "title": "XERIANT, INC.",
+        "sector": "Industrials"
+    },
+    "YGMZ": {
+        "cik_str": 1782037,
+        "ticker": "YGMZ",
+        "title": "MingZhu Logistics Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "VRME": {
+        "cik_str": 1104038,
+        "ticker": "VRME",
+        "title": "VerifyMe, Inc.",
+        "sector": "Industrials"
+    },
+    "POLA": {
+        "cik_str": 1622345,
+        "ticker": "POLA",
+        "title": "Polar Power, Inc.",
+        "sector": "Industrials"
+    },
+    "GRHI": {
+        "cik_str": 894501,
+        "ticker": "GRHI",
+        "title": "GOLD ROCK HOLDINGS, INC.",
+        "sector": "Industrials"
+    },
+    "KITT": {
+        "cik_str": 1849820,
+        "ticker": "KITT",
+        "title": "Nauticus Robotics, Inc.",
+        "sector": "Industrials"
+    },
+    "SPCB": {
+        "cik_str": 1291855,
+        "ticker": "SPCB",
+        "title": "SuperCom Ltd",
+        "sector": "Industrials"
+    },
+    "GWAV": {
+        "cik_str": 1589149,
+        "ticker": "GWAV",
+        "title": "Greenwave Technology Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "UNQL": {
+        "cik_str": 1281845,
+        "ticker": "UNQL",
+        "title": "Unique Logistics International, Inc.",
+        "sector": "Industrials"
+    },
+    "VCIG": {
+        "cik_str": 1930510,
+        "ticker": "VCIG",
+        "title": "VCI Global Ltd",
+        "sector": "Industrials"
+    },
+    "AGSS": {
+        "cik_str": 1514443,
+        "ticker": "AGSS",
+        "title": "AMERIGUARD SECURITY SERVICES, INC.",
+        "sector": "Industrials"
+    },
+    "ENG": {
+        "cik_str": 933738,
+        "ticker": "ENG",
+        "title": "ENGLOBAL CORP",
+        "sector": "Industrials"
+    },
+    "GPUS": {
+        "cik_str": 896493,
+        "ticker": "GPUS",
+        "title": "Hyperscale Data, Inc.",
+        "sector": "Industrials"
+    },
+    "PRZO": {
+        "cik_str": 1916241,
+        "ticker": "PRZO",
+        "title": "ParaZero Technologies Ltd.",
+        "sector": "Industrials"
+    },
+    "CBMJ": {
+        "cik_str": 1452583,
+        "ticker": "CBMJ",
+        "title": "CONSERVATIVE BROADCAST MEDIA & PUBLISHING, INC.",
+        "sector": "Industrials"
+    },
+    "DUKR": {
+        "cik_str": 1638911,
+        "ticker": "DUKR",
+        "title": "DUKE Robotics Corp.",
+        "sector": "Industrials"
+    },
+    "OCLN": {
+        "cik_str": 1419793,
+        "ticker": "OCLN",
+        "title": "ORIGINCLEAR, INC.",
+        "sector": "Industrials"
+    },
+    "HIRU": {
+        "cik_str": 925779,
+        "ticker": "HIRU",
+        "title": "HIRU Corp",
+        "sector": "Industrials"
+    },
+    "CHNR": {
+        "cik_str": 793628,
+        "ticker": "CHNR",
+        "title": "CHINA NATURAL RESOURCES INC",
+        "sector": "Industrials"
+    },
+    "TESI": {
+        "cik_str": 1514056,
+        "ticker": "TESI",
+        "title": "Titan Environmental Solutions Inc.",
+        "sector": "Industrials"
+    },
+    "JCSE": {
+        "cik_str": 1905511,
+        "ticker": "JCSE",
+        "title": "JE Cleantech Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "IVDA": {
+        "cik_str": 1397183,
+        "ticker": "IVDA",
+        "title": "Iveda Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "OZSC": {
+        "cik_str": 1679817,
+        "ticker": "OZSC",
+        "title": "OZOP ENERGY SOLUTIONS, INC.",
+        "sector": "Industrials"
+    },
+    "SGLY": {
+        "cik_str": 1422892,
+        "ticker": "SGLY",
+        "title": "Singularity Future Technology Ltd.",
+        "sector": "Industrials"
+    },
+    "KIQSF": {
+        "cik_str": 1161814,
+        "ticker": "KIQSF",
+        "title": "KELSO TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "UUU": {
+        "cik_str": 102109,
+        "ticker": "UUU",
+        "title": "UNIVERSAL SECURITY INSTRUMENTS INC",
+        "sector": "Industrials"
+    },
+    "GOGR": {
+        "cik_str": 1378866,
+        "ticker": "GOGR",
+        "title": "Go Green Global Technologies Corp.",
+        "sector": "Industrials"
+    },
+    "DFCO": {
+        "cik_str": 725394,
+        "ticker": "DFCO",
+        "title": "DALRADA FINANCIAL CORP",
+        "sector": "Industrials"
+    },
+    "CEAD": {
+        "cik_str": 1482541,
+        "ticker": "CEAD",
+        "title": "CEA Industries Inc.",
+        "sector": "Industrials"
+    },
+    "GLVT": {
+        "cik_str": 1693687,
+        "ticker": "GLVT",
+        "title": "GREENLIT VENTURES INC.",
+        "sector": "Industrials"
+    },
+    "CEIN": {
+        "cik_str": 1309082,
+        "ticker": "CEIN",
+        "title": "CAMBER ENERGY, INC.",
+        "sector": "Industrials"
+    },
+    "CVAT": {
+        "cik_str": 1376793,
+        "ticker": "CVAT",
+        "title": "Cavitation Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "NMHI": {
+        "cik_str": 1947861,
+        "ticker": "NMHI",
+        "title": "Nature's Miracle Holding Inc.",
+        "sector": "Industrials"
+    },
+    "NXU": {
+        "cik_str": 1722969,
+        "ticker": "NXU",
+        "title": "Nxu, Inc.",
+        "sector": "Industrials"
+    },
+    "BLNC": {
+        "cik_str": 1632121,
+        "ticker": "BLNC",
+        "title": "Balance Labs, Inc.",
+        "sector": "Industrials"
+    },
+    "QWTR": {
+        "cik_str": 1487091,
+        "ticker": "QWTR",
+        "title": "Quest Water Global, Inc.",
+        "sector": "Industrials"
+    },
+    "JFTH": {
+        "cik_str": 1857910,
+        "ticker": "JFTH",
+        "title": "Japan Food Tech Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "STAF": {
+        "cik_str": 1499717,
+        "ticker": "STAF",
+        "title": "Staffing 360 Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "MGON": {
+        "cik_str": 1144392,
+        "ticker": "MGON",
+        "title": "MEGOLA INC",
+        "sector": "Industrials"
+    },
+    "AEHL": {
+        "cik_str": 1470683,
+        "ticker": "AEHL",
+        "title": "Antelope Enterprise Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "ICON": {
+        "cik_str": 1995574,
+        "ticker": "ICON",
+        "title": "Icon Energy Corp",
+        "sector": "Industrials"
+    },
+    "ATXG": {
+        "cik_str": 1650101,
+        "ticker": "ATXG",
+        "title": "ADDENTAX GROUP CORP.",
+        "sector": "Industrials"
+    },
+    "SNRG": {
+        "cik_str": 1652539,
+        "ticker": "SNRG",
+        "title": "SusGlobal Energy Corp.",
+        "sector": "Industrials"
+    },
+    "GPOX": {
+        "cik_str": 1673475,
+        "ticker": "GPOX",
+        "title": "GPO Plus, Inc.",
+        "sector": "Industrials"
+    },
+    "SENR": {
+        "cik_str": 1576197,
+        "ticker": "SENR",
+        "title": "Strategic Environmental & Energy Resources, Inc.",
+        "sector": "Industrials"
+    },
+    "BKYI": {
+        "cik_str": 1019034,
+        "ticker": "BKYI",
+        "title": "BIO KEY INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "NEWH": {
+        "cik_str": 1371128,
+        "ticker": "NEWH",
+        "title": "NewHydrogen, Inc.",
+        "sector": "Industrials"
+    },
+    "XPON": {
+        "cik_str": 1894954,
+        "ticker": "XPON",
+        "title": "Expion360 Inc.",
+        "sector": "Industrials"
+    },
+    "HWKE": {
+        "cik_str": 1750777,
+        "ticker": "HWKE",
+        "title": "Hawkeye Systems, Inc.",
+        "sector": "Industrials"
+    },
+    "SMX": {
+        "cik_str": 1940674,
+        "ticker": "SMX",
+        "title": "SMX (Security Matters) Public Ltd Co",
+        "sector": "Industrials"
+    },
+    "TBLT": {
+        "cik_str": 1668370,
+        "ticker": "TBLT",
+        "title": "Toughbuilt Industries, Inc",
+        "sector": "Industrials"
+    },
+    "BLIS": {
+        "cik_str": 1703625,
+        "ticker": "BLIS",
+        "title": "NAPC Defense, Inc.",
+        "sector": "Industrials"
+    },
+    "CAMG": {
+        "cik_str": 1419559,
+        "ticker": "CAMG",
+        "title": "CAM GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "ILST": {
+        "cik_str": 1100788,
+        "ticker": "ILST",
+        "title": "INTERNATIONAL STAR INC",
+        "sector": "Industrials"
+    },
+    "KWE": {
+        "cik_str": 1889823,
+        "ticker": "KWE",
+        "title": "KWESST Micro Systems Inc.",
+        "sector": "Industrials"
+    },
+    "SGBX": {
+        "cik_str": 1023994,
+        "ticker": "SGBX",
+        "title": "SAFE & GREEN HOLDINGS CORP.",
+        "sector": "Industrials"
+    },
+    "MACE": {
+        "cik_str": 912607,
+        "ticker": "MACE",
+        "title": "MACE SECURITY INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "CIVX": {
+        "cik_str": 1961378,
+        "ticker": "CIVX",
+        "title": "CTR Investments & Consulting, Inc.",
+        "sector": "Industrials"
+    },
+    "TOGI": {
+        "cik_str": 1349706,
+        "ticker": "TOGI",
+        "title": "TurnOnGreen, Inc.",
+        "sector": "Industrials"
+    },
+    "CHEV": {
+        "cik_str": 1459188,
+        "ticker": "CHEV",
+        "title": "Charging Robotics Inc.",
+        "sector": "Industrials"
+    },
+    "DTII": {
+        "cik_str": 1533357,
+        "ticker": "DTII",
+        "title": "DEFENSE TECHNOLOGIES INTERNATIONAL CORP.",
+        "sector": "Industrials"
+    },
+    "CAPC": {
+        "cik_str": 814926,
+        "ticker": "CAPC",
+        "title": "CAPSTONE COMPANIES, INC.",
+        "sector": "Industrials"
+    },
+    "KRFG": {
+        "cik_str": 774415,
+        "ticker": "KRFG",
+        "title": "OneSolution Technology Inc.",
+        "sector": "Industrials"
+    },
+    "SPEC": {
+        "cik_str": 1844149,
+        "ticker": "SPEC",
+        "title": "Spectaire Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "JFIL": {
+        "cik_str": 1517389,
+        "ticker": "JFIL",
+        "title": "Jubilant Flame International, Ltd",
+        "sector": "Industrials"
+    },
+    "LQWC": {
+        "cik_str": 1060888,
+        "ticker": "LQWC",
+        "title": "LIFEQUEST WORLD CORP.",
+        "sector": "Industrials"
+    },
+    "QPRC": {
+        "cik_str": 824416,
+        "ticker": "QPRC",
+        "title": "QUEST PATENT RESEARCH CORP",
+        "sector": "Industrials"
+    },
+    "BLPG": {
+        "cik_str": 1416697,
+        "ticker": "BLPG",
+        "title": "Blue Line Protection Group, Inc.",
+        "sector": "Industrials"
+    },
+    "DLOC": {
+        "cik_str": 1407878,
+        "ticker": "DLOC",
+        "title": "Digital Locations, Inc.",
+        "sector": "Industrials"
+    },
+    "ATVK": {
+        "cik_str": 1530185,
+        "ticker": "ATVK",
+        "title": "Ameritek Ventures, Inc.",
+        "sector": "Industrials"
+    },
+    "GPAK": {
+        "cik_str": 1948884,
+        "ticker": "GPAK",
+        "title": "Gamer Pakistan Inc",
+        "sector": "Industrials"
+    },
+    "AETHF": {
+        "cik_str": 1639142,
+        "ticker": "AETHF",
+        "title": "Aether Global Innovations Corp.",
+        "sector": "Industrials"
+    },
+    "TLSS": {
+        "cik_str": 1463208,
+        "ticker": "TLSS",
+        "title": "Transportation & Logistics Systems, Inc.",
+        "sector": "Industrials"
+    },
+    "EAWD": {
+        "cik_str": 1563298,
+        "ticker": "EAWD",
+        "title": "Energy & Water Development Corp",
+        "sector": "Industrials"
+    },
+    "ECPL": {
+        "cik_str": 1356914,
+        "ticker": "ECPL",
+        "title": "ECOPLUS INC",
+        "sector": "Industrials"
+    },
+    "KDCE": {
+        "cik_str": 1049011,
+        "ticker": "KDCE",
+        "title": "KID CASTLE EDUCATIONAL CORP",
+        "sector": "Industrials"
+    },
+    "DGWR": {
+        "cik_str": 1637866,
+        "ticker": "DGWR",
+        "title": "Deep Green Waste & Recycling, Inc.",
+        "sector": "Industrials"
+    },
+    "DCFCQ": {
+        "cik_str": 1862490,
+        "ticker": "DCFCQ",
+        "title": "Tritium DCFC Ltd",
+        "sector": "Industrials"
+    },
+    "JKSM": {
+        "cik_str": 860543,
+        "ticker": "JKSM",
+        "title": "Jacksam Corp",
+        "sector": "Industrials"
+    },
+    "EFSH": {
+        "cik_str": 1599407,
+        "ticker": "EFSH",
+        "title": "1847 Holdings LLC",
+        "sector": "Industrials"
+    },
+    "RAKR": {
+        "cik_str": 1872292,
+        "ticker": "RAKR",
+        "title": "Rainmaker Worldwide Inc.",
+        "sector": "Industrials"
+    },
+    "CIRX": {
+        "cik_str": 813716,
+        "ticker": "CIRX",
+        "title": "CIRTRAN CORP",
+        "sector": "Industrials"
+    },
+    "BANT": {
+        "cik_str": 1704795,
+        "ticker": "BANT",
+        "title": "Bantec, Inc.",
+        "sector": "Industrials"
+    },
+    "GXXM": {
+        "cik_str": 1681556,
+        "ticker": "GXXM",
+        "title": "GEX MANAGEMENT, INC.",
+        "sector": "Industrials"
+    },
+    "PHOT": {
+        "cik_str": 1161582,
+        "ticker": "PHOT",
+        "title": "GROWLIFE, INC.",
+        "sector": "Industrials"
+    },
+    "GFLT": {
+        "cik_str": 1796949,
+        "ticker": "GFLT",
+        "title": "GenFlat Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "MSW": {
+        "cik_str": 1956166,
+        "ticker": "MSW",
+        "title": "Ming Shing Group Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "EADSF": {
+        "cik_str": 1378580,
+        "ticker": "EADSF",
+        "title": "Airbus SE/ADR",
+        "sector": "Industrials"
+    },
+    "ABBNY": {
+        "cik_str": 1091587,
+        "ticker": "ABBNY",
+        "title": "ABB LTD",
+        "sector": "Industrials"
+    },
+    "ABLZF": {
+        "cik_str": 1091587,
+        "ticker": "ABLZF",
+        "title": "ABB LTD",
+        "sector": "Industrials"
+    },
+    "RLXXF": {
+        "cik_str": 929869,
+        "ticker": "RLXXF",
+        "title": "RELX PLC",
+        "sector": "Industrials"
+    },
+    "BAESF": {
+        "cik_str": 895564,
+        "ticker": "BAESF",
+        "title": "BAE SYSTEMS PLC /FI/",
+        "sector": "Industrials"
+    },
+    "DKILF": {
+        "cik_str": 1446519,
+        "ticker": "DKILF",
+        "title": "Daikin Industries Ltd",
+        "sector": "Industrials"
+    },
+    "HEI-A": {
+        "cik_str": 46619,
+        "ticker": "HEI-A",
+        "title": "HEICO CORP",
+        "sector": "Industrials"
+    },
+    "FUJIF": {
+        "cik_str": 800365,
+        "ticker": "FUJIF",
+        "title": "FUJI PHOTO FILM CO LTD /FI",
+        "sector": "Industrials"
+    },
+    "CODGF": {
+        "cik_str": 1012037,
+        "ticker": "CODGF",
+        "title": "COMPAGNIE DE SAINT GOBAIN",
+        "sector": "Industrials"
+    },
+    "ANNSF": {
+        "cik_str": 1700171,
+        "ticker": "ANNSF",
+        "title": "Aena S.A./ADR",
+        "sector": "Industrials"
+    },
+    "RYAOF": {
+        "cik_str": 1038683,
+        "ticker": "RYAOF",
+        "title": "RYANAIR HOLDINGS PLC",
+        "sector": "Industrials"
+    },
+    "EJPRF": {
+        "cik_str": 1093028,
+        "ticker": "EJPRF",
+        "title": "EAST JAPAN RAILWAY CO /FI",
+        "sector": "Industrials"
+    },
+    "RKLIF": {
+        "cik_str": 930157,
+        "ticker": "RKLIF",
+        "title": "RENTOKIL INITIAL PLC /FI",
+        "sector": "Industrials"
+    },
+    "SGSOF": {
+        "cik_str": 1069347,
+        "ticker": "SGSOF",
+        "title": "SGS SOCIETE GENERALE DE SURVEILLANCE HOLDING SA /FI",
+        "sector": "Industrials"
+    },
+    "SPXSF": {
+        "cik_str": 1518542,
+        "ticker": "SPXSF",
+        "title": "Spirax-Sarco Engineering PLC/ADR",
+        "sector": "Industrials"
+    },
+    "CHEAF": {
+        "cik_str": 1030475,
+        "ticker": "CHEAF",
+        "title": "CHINA EASTERN AIRLINES CORP LTD",
+        "sector": "Industrials"
+    },
+    "CHKIF": {
+        "cik_str": 1041668,
+        "ticker": "CHKIF",
+        "title": "CHINA SOUTHERN AIRLINES CO LTD",
+        "sector": "Industrials"
+    },
+    "WSO-B": {
+        "cik_str": 105016,
+        "ticker": "WSO-B",
+        "title": "WATSCO INC",
+        "sector": "Industrials"
+    },
+    "UHAL-B": {
+        "cik_str": 4457,
+        "ticker": "UHAL-B",
+        "title": "U-Haul Holding Co /NV/",
+        "sector": "Industrials"
+    },
+    "AOMFF": {
+        "cik_str": 1062066,
+        "ticker": "AOMFF",
+        "title": "ALSTOM",
+        "sector": "Industrials"
+    },
+    "JGSHF": {
+        "cik_str": 1567172,
+        "ticker": "JGSHF",
+        "title": "JG Summit Holdings, Inc./ADR",
+        "sector": "Industrials"
+    },
+    "GPAEF": {
+        "cik_str": 1347557,
+        "ticker": "GPAEF",
+        "title": "Pacific Airport Group",
+        "sector": "Industrials"
+    },
+    "ASRMF": {
+        "cik_str": 1123452,
+        "ticker": "ASRMF",
+        "title": "SOUTHEAST AIRPORT GROUP",
+        "sector": "Industrials"
+    },
+    "JCYCF": {
+        "cik_str": 1289688,
+        "ticker": "JCYCF",
+        "title": "Jardine Cycle & Carriage Ltd.",
+        "sector": "Industrials"
+    },
+    "FANUF": {
+        "cik_str": 1446596,
+        "ticker": "FANUF",
+        "title": "Fanuc Ltd",
+        "sector": "Industrials"
+    },
+    "AFRAF": {
+        "cik_str": 1110452,
+        "ticker": "AFRAF",
+        "title": "AIR FRANCE-KLM /FI",
+        "sector": "Industrials"
+    },
+    "GAERF": {
+        "cik_str": 1378239,
+        "ticker": "GAERF",
+        "title": "Central North Airport Group",
+        "sector": "Industrials"
+    },
+    "MOG-B": {
+        "cik_str": 67887,
+        "ticker": "MOG-B",
+        "title": "MOOG INC.",
+        "sector": "Industrials"
+    },
+    "ROYMF": {
+        "cik_str": 1592438,
+        "ticker": "ROYMF",
+        "title": "Royal Mail plc/ADR",
+        "sector": "Industrials"
+    },
+    "GNGYF": {
+        "cik_str": 1012139,
+        "ticker": "GNGYF",
+        "title": "GUANGSHEN RAILWAY CO LTD",
+        "sector": "Industrials"
+    },
+    "TRTN-PA": {
+        "cik_str": 1660734,
+        "ticker": "TRTN-PA",
+        "title": "Triton International Ltd",
+        "sector": "Industrials"
+    },
+    "CODI-PB": {
+        "cik_str": 1345126,
+        "ticker": "CODI-PB",
+        "title": "Compass Diversified Holdings",
+        "sector": "Industrials"
+    },
+    "CODI-PA": {
+        "cik_str": 1345126,
+        "ticker": "CODI-PA",
+        "title": "Compass Diversified Holdings",
+        "sector": "Industrials"
+    },
+    "HAYN": {
+        "cik_str": 858655,
+        "ticker": "HAYN",
+        "title": "HAYNES INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "KELYB": {
+        "cik_str": 55135,
+        "ticker": "KELYB",
+        "title": "KELLY SERVICES INC",
+        "sector": "Industrials"
+    },
+    "CMRE-PB": {
+        "cik_str": 1503584,
+        "ticker": "CMRE-PB",
+        "title": "Costamare Inc.",
+        "sector": "Industrials"
+    },
+    "CMRE-PC": {
+        "cik_str": 1503584,
+        "ticker": "CMRE-PC",
+        "title": "Costamare Inc.",
+        "sector": "Industrials"
+    },
+    "CMRE-PD": {
+        "cik_str": 1503584,
+        "ticker": "CMRE-PD",
+        "title": "Costamare Inc.",
+        "sector": "Industrials"
+    },
+    "ATROB": {
+        "cik_str": 8063,
+        "ticker": "ATROB",
+        "title": "ASTRONICS CORP",
+        "sector": "Industrials"
+    },
+    "PTSI": {
+        "cik_str": 798287,
+        "ticker": "PTSI",
+        "title": "PAMT CORP",
+        "sector": "Industrials"
+    },
+    "AIRTP": {
+        "cik_str": 353184,
+        "ticker": "AIRTP",
+        "title": "AIR T INC",
+        "sector": "Industrials"
+    },
+    "SPLP-PA": {
+        "cik_str": 1452857,
+        "ticker": "SPLP-PA",
+        "title": "STEEL PARTNERS HOLDINGS L.P.",
+        "sector": "Industrials"
+    },
+    "DSX-PB": {
+        "cik_str": 1318885,
+        "ticker": "DSX-PB",
+        "title": "DIANA SHIPPING INC.",
+        "sector": "Industrials"
+    },
+    "EXROF": {
+        "cik_str": 1459762,
+        "ticker": "EXROF",
+        "title": "EXRO TECHNOLOGIES INC.",
+        "sector": "Industrials"
+    },
+    "MIESF": {
+        "cik_str": 1567924,
+        "ticker": "MIESF",
+        "title": "Mitsui E&S Holdings Co., Ltd./ADR",
+        "sector": "Industrials"
+    },
+    "NVNXF": {
+        "cik_str": 1859795,
+        "ticker": "NVNXF",
+        "title": "NOVONIX Ltd",
+        "sector": "Industrials"
+    },
+    "SB-PD": {
+        "cik_str": 1434754,
+        "ticker": "SB-PD",
+        "title": "SAFE BULKERS, INC.",
+        "sector": "Industrials"
+    },
+    "SB-PC": {
+        "cik_str": 1434754,
+        "ticker": "SB-PC",
+        "title": "SAFE BULKERS, INC.",
+        "sector": "Industrials"
+    },
+    "SAVE": {
+        "cik_str": 1498710,
+        "ticker": "SAVE",
+        "title": "Spirit Airlines, Inc.",
+        "sector": "Industrials"
+    },
+    "GSL-PB": {
+        "cik_str": 1430725,
+        "ticker": "GSL-PB",
+        "title": "Global Ship Lease, Inc.",
+        "sector": "Industrials"
+    },
+    "ACMB": {
+        "cik_str": 1598323,
+        "ticker": "ACMB",
+        "title": "AGRO CAPITAL MANAGEMENT CORP.",
+        "sector": "Industrials"
+    },
+    "YELLQ": {
+        "cik_str": 716006,
+        "ticker": "YELLQ",
+        "title": "Yellow Corp",
+        "sector": "Industrials"
+    },
+    "ADMQ": {
+        "cik_str": 1588014,
+        "ticker": "ADMQ",
+        "title": "ADM ENDEAVORS, INC.",
+        "sector": "Industrials"
+    },
+    "USDR": {
+        "cik_str": 1638911,
+        "ticker": "USDR",
+        "title": "DUKE Robotics Corp.",
+        "sector": "Industrials"
+    },
+    "SITS": {
+        "cik_str": 1468978,
+        "ticker": "SITS",
+        "title": "SOUTHERN ITS INTERNATIONAL, INC.",
+        "sector": "Industrials"
+    },
+    "MSNVF": {
+        "cik_str": 1718817,
+        "ticker": "MSNVF",
+        "title": "MISSION READY SOLUTIONS INC",
+        "sector": "Industrials"
+    },
+    "JETR": {
+        "cik_str": 1908054,
+        "ticker": "JETR",
+        "title": "Star Jets International Inc.",
+        "sector": "Industrials"
+    },
+    "KNOS": {
+        "cik_str": 1108248,
+        "ticker": "KNOS",
+        "title": "KRONOS ADVANCED TECHNOLOGIES INC",
+        "sector": "Industrials"
+    },
+    "PRPI": {
+        "cik_str": 1395445,
+        "ticker": "PRPI",
+        "title": "PERPETUAL INDUSTRIES INC.",
+        "sector": "Industrials"
+    },
+    "IDEX": {
+        "cik_str": 837852,
+        "ticker": "IDEX",
+        "title": "IDEANOMICS, INC.",
+        "sector": "Industrials"
+    },
+    "AMMX": {
+        "cik_str": 1776048,
+        "ticker": "AMMX",
+        "title": "Ameramex International Inc",
+        "sector": "Industrials"
+    },
+    "FTRS": {
+        "cik_str": 1041633,
+        "ticker": "FTRS",
+        "title": "Futuris Co",
+        "sector": "Industrials"
+    },
+    "USDP": {
+        "cik_str": 1610682,
+        "ticker": "USDP",
+        "title": "USD Partners LP",
+        "sector": "Industrials"
+    },
+    "PWDY": {
+        "cik_str": 1435617,
+        "ticker": "PWDY",
+        "title": "POWERDYNE INTERNATIONAL, INC.",
+        "sector": "Industrials"
+    },
+    "RELT": {
+        "cik_str": 1682265,
+        "ticker": "RELT",
+        "title": "Reliant Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "TMRR": {
+        "cik_str": 1685237,
+        "ticker": "TMRR",
+        "title": "TEMIR CORP.",
+        "sector": "Industrials"
+    },
+    "NSGP": {
+        "cik_str": 1445109,
+        "ticker": "NSGP",
+        "title": "NewStream Energy Technologies Group Inc",
+        "sector": "Industrials"
+    },
+    "PCTL": {
+        "cik_str": 1119897,
+        "ticker": "PCTL",
+        "title": "PCT LTD",
+        "sector": "Industrials"
+    },
+    "IWAL": {
+        "cik_str": 1498372,
+        "ticker": "IWAL",
+        "title": "iWallet Corp",
+        "sector": "Industrials"
+    },
+    "COUV": {
+        "cik_str": 1450307,
+        "ticker": "COUV",
+        "title": "CORPORATE UNIVERSE INC",
+        "sector": "Industrials"
+    },
+    "ALPP": {
+        "cik_str": 1606698,
+        "ticker": "ALPP",
+        "title": "ALPINE 4 HOLDINGS, INC.",
+        "sector": "Industrials"
+    },
+    "APSI": {
+        "cik_str": 1553264,
+        "ticker": "APSI",
+        "title": "AQUA POWER SYSTEMS INC.",
+        "sector": "Industrials"
+    },
+    "DCAC": {
+        "cik_str": 1498291,
+        "ticker": "DCAC",
+        "title": "Daniels Corporate Advisory Company, Inc.",
+        "sector": "Industrials"
+    },
+    "SHGI": {
+        "cik_str": 1874138,
+        "ticker": "SHGI",
+        "title": "Sparx Holdings Group, Inc.",
+        "sector": "Industrials"
+    },
+    "JPEX": {
+        "cik_str": 1506814,
+        "ticker": "JPEX",
+        "title": "JPX Global Inc.",
+        "sector": "Industrials"
+    },
+    "DPUI": {
+        "cik_str": 1791929,
+        "ticker": "DPUI",
+        "title": "DISCOUNT PRINT USA, INC.",
+        "sector": "Industrials"
+    },
+    "LCCN": {
+        "cik_str": 1472998,
+        "ticker": "LCCN",
+        "title": "LeapCharger Corp",
+        "sector": "Industrials"
+    },
+    "ECOX": {
+        "cik_str": 1144169,
+        "ticker": "ECOX",
+        "title": "ECO INNOVATION GROUP, INC.",
+        "sector": "Industrials"
+    },
+    "GDSI": {
+        "cik_str": 1011662,
+        "ticker": "GDSI",
+        "title": "GLOBAL DIGITAL SOLUTIONS INC",
+        "sector": "Industrials"
+    },
+    "WTII": {
+        "cik_str": 1715032,
+        "ticker": "WTII",
+        "title": "Water Technologies International,Inc.",
+        "sector": "Industrials"
+    },
+    "DWAY": {
+        "cik_str": 1394638,
+        "ticker": "DWAY",
+        "title": "Driveitaway Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "UITA": {
+        "cik_str": 1334740,
+        "ticker": "UITA",
+        "title": "Utilicraft Aerospace Industries, Inc.",
+        "sector": "Industrials"
+    },
+    "WLMSQ": {
+        "cik_str": 1136294,
+        "ticker": "WLMSQ",
+        "title": "NOS4-1, Inc.",
+        "sector": "Industrials"
+    },
+    "AFIIQ": {
+        "cik_str": 1655075,
+        "ticker": "AFIIQ",
+        "title": "Armstrong Flooring, Inc.",
+        "sector": "Industrials"
+    },
+    "ZEVY": {
+        "cik_str": 1802749,
+        "ticker": "ZEVY",
+        "title": "Lightning eMotors, Inc.",
+        "sector": "Industrials"
+    },
+    "ZCARW": {
+        "cik_str": 1854275,
+        "ticker": "ZCARW",
+        "title": "Zoomcar Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "TRTN-PB": {
+        "cik_str": 1660734,
+        "ticker": "TRTN-PB",
+        "title": "Triton International Ltd",
+        "sector": "Industrials"
+    },
+    "TRTN-PC": {
+        "cik_str": 1660734,
+        "ticker": "TRTN-PC",
+        "title": "Triton International Ltd",
+        "sector": "Industrials"
+    },
+    "TRTN-PD": {
+        "cik_str": 1660734,
+        "ticker": "TRTN-PD",
+        "title": "Triton International Ltd",
+        "sector": "Industrials"
+    },
+    "TRTN-PE": {
+        "cik_str": 1660734,
+        "ticker": "TRTN-PE",
+        "title": "Triton International Ltd",
+        "sector": "Industrials"
+    },
+    "GFAIW": {
+        "cik_str": 1804469,
+        "ticker": "GFAIW",
+        "title": "Guardforce AI Co., Ltd.",
+        "sector": "Industrials"
+    },
+    "LILWF": {
+        "cik_str": 1855756,
+        "ticker": "LILWF",
+        "title": "Lilium N.V.",
+        "sector": "Industrials"
+    },
+    "EBCOF": {
+        "cik_str": 354518,
+        "ticker": "EBCOF",
+        "title": "EBARA CORP /ADR/",
+        "sector": "Industrials"
+    },
+    "BLFBY": {
+        "cik_str": 1506721,
+        "ticker": "BLFBY",
+        "title": "Balfour Beatty plc/ADR",
+        "sector": "Industrials"
+    },
+    "BAFBF": {
+        "cik_str": 1506721,
+        "ticker": "BAFBF",
+        "title": "Balfour Beatty plc/ADR",
+        "sector": "Industrials"
+    },
+    "GTLS-PB": {
+        "cik_str": 892553,
+        "ticker": "GTLS-PB",
+        "title": "CHART INDUSTRIES INC",
+        "sector": "Industrials"
+    },
+    "NMHIW": {
+        "cik_str": 1947861,
+        "ticker": "NMHIW",
+        "title": "Nature's Miracle Holding Inc.",
+        "sector": "Industrials"
+    },
+    "RVSNW": {
+        "cik_str": 1743905,
+        "ticker": "RVSNW",
+        "title": "Rail Vision Ltd.",
+        "sector": "Industrials"
+    },
+    "ESGLW": {
+        "cik_str": 1957538,
+        "ticker": "ESGLW",
+        "title": "ESGL Holdings Ltd",
+        "sector": "Industrials"
+    },
+    "CRESW": {
+        "cik_str": 1034957,
+        "ticker": "CRESW",
+        "title": "CRESUD INC",
+        "sector": "Industrials"
+    },
+    "SDSTW": {
+        "cik_str": 1831979,
+        "ticker": "SDSTW",
+        "title": "Stardust Power Inc.",
+        "sector": "Industrials"
+    },
+    "AIRJW": {
+        "cik_str": 1855474,
+        "ticker": "AIRJW",
+        "title": "AirJoule Technologies Corp.",
+        "sector": "Industrials"
+    },
+    "FCELB": {
+        "cik_str": 886128,
+        "ticker": "FCELB",
+        "title": "FUELCELL ENERGY INC",
+        "sector": "Industrials"
+    },
+    "VRMEW": {
+        "cik_str": 1104038,
+        "ticker": "VRMEW",
+        "title": "VerifyMe, Inc.",
+        "sector": "Industrials"
+    },
+    "SHPWQ": {
+        "cik_str": 1784851,
+        "ticker": "SHPWQ",
+        "title": "Shapeways Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "CRGOW": {
+        "cik_str": 1927719,
+        "ticker": "CRGOW",
+        "title": "Freightos Ltd",
+        "sector": "Industrials"
+    },
+    "CMPOW": {
+        "cik_str": 1823144,
+        "ticker": "CMPOW",
+        "title": "CompoSecure, Inc.",
+        "sector": "Industrials"
+    },
+    "AERTW": {
+        "cik_str": 1853044,
+        "ticker": "AERTW",
+        "title": "Aeries Technology, Inc.",
+        "sector": "Industrials"
+    },
+    "WCC-PA": {
+        "cik_str": 929008,
+        "ticker": "WCC-PA",
+        "title": "WESCO INTERNATIONAL INC",
+        "sector": "Industrials"
+    },
+    "MNTSW": {
+        "cik_str": 1781162,
+        "ticker": "MNTSW",
+        "title": "Momentus Inc.",
+        "sector": "Industrials"
+    },
+    "NORDD": {
+        "cik_str": 1011060,
+        "ticker": "NORDD",
+        "title": "Nordicus Partners Corp",
+        "sector": "Industrials"
+    },
+    "POWWP": {
+        "cik_str": 1015383,
+        "ticker": "POWWP",
+        "title": "AMMO, INC.",
+        "sector": "Industrials"
+    },
+    "MNESP": {
+        "cik_str": 66570,
+        "ticker": "MNESP",
+        "title": "MSA Safety Inc",
+        "sector": "Industrials"
+    },
+    "SPECW": {
+        "cik_str": 1844149,
+        "ticker": "SPECW",
+        "title": "Spectaire Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "NIXXW": {
+        "cik_str": 1462223,
+        "ticker": "NIXXW",
+        "title": "Nixxy, Inc.",
+        "sector": "Industrials"
+    },
+    "EVLVW": {
+        "cik_str": 1805385,
+        "ticker": "EVLVW",
+        "title": "Evolv Technologies Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "SMXWW": {
+        "cik_str": 1940674,
+        "ticker": "SMXWW",
+        "title": "SMX (Security Matters) Public Ltd Co",
+        "sector": "Industrials"
+    },
+    "SBCWW": {
+        "cik_str": 1930313,
+        "ticker": "SBCWW",
+        "title": "SBC Medical Group Holdings Inc",
+        "sector": "Industrials"
+    },
+    "ALTG-PA": {
+        "cik_str": 1759824,
+        "ticker": "ALTG-PA",
+        "title": "ALTA EQUIPMENT GROUP INC.",
+        "sector": "Industrials"
+    },
+    "EOSEW": {
+        "cik_str": 1805077,
+        "ticker": "EOSEW",
+        "title": "Eos Energy Enterprises, Inc.",
+        "sector": "Industrials"
+    },
+    "DFLIW": {
+        "cik_str": 1847986,
+        "ticker": "DFLIW",
+        "title": "Dragonfly Energy Holdings Corp.",
+        "sector": "Industrials"
+    },
+    "BURUW": {
+        "cik_str": 1814215,
+        "ticker": "BURUW",
+        "title": "Nuburu, Inc.",
+        "sector": "Industrials"
+    },
+    "HTZWW": {
+        "cik_str": 1657853,
+        "ticker": "HTZWW",
+        "title": "HERTZ GLOBAL HOLDINGS, INC",
+        "sector": "Industrials"
+    },
+    "NEOVW": {
+        "cik_str": 1748137,
+        "ticker": "NEOVW",
+        "title": "NeoVolta Inc.",
+        "sector": "Industrials"
+    },
+    "BAERW": {
+        "cik_str": 1941536,
+        "ticker": "BAERW",
+        "title": "Bridger Aerospace Group Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "IVDAW": {
+        "cik_str": 1397183,
+        "ticker": "IVDAW",
+        "title": "Iveda Solutions, Inc.",
+        "sector": "Industrials"
+    },
+    "IHICF": {
+        "cik_str": 1567526,
+        "ticker": "IHICF",
+        "title": "IHI Corporation/ADR",
+        "sector": "Industrials"
+    },
+    "KITTW": {
+        "cik_str": 1849820,
+        "ticker": "KITTW",
+        "title": "Nauticus Robotics, Inc.",
+        "sector": "Industrials"
+    },
+    "NNDNF": {
+        "cik_str": 1158967,
+        "ticker": "NNDNF",
+        "title": "NIDEC CORP",
+        "sector": "Industrials"
+    },
+    "DCFWQ": {
+        "cik_str": 1862490,
+        "ticker": "DCFWQ",
+        "title": "Tritium DCFC Ltd",
+        "sector": "Industrials"
+    },
+    "BTGWF": {
+        "cik_str": 1546538,
+        "ticker": "BTGWF",
+        "title": "BTS Group Holdings Public Co Limited/ADR",
+        "sector": "Industrials"
+    },
+    "BTGRF": {
+        "cik_str": 1546538,
+        "ticker": "BTGRF",
+        "title": "BTS Group Holdings Public Co Limited/ADR",
+        "sector": "Industrials"
+    },
+    "CEADW": {
+        "cik_str": 1482541,
+        "ticker": "CEADW",
+        "title": "CEA Industries Inc.",
+        "sector": "Industrials"
+    },
+    "FBYDW": {
+        "cik_str": 1937987,
+        "ticker": "FBYDW",
+        "title": "Falcon's Beyond Global, Inc.",
+        "sector": "Industrials"
+    },
+    "KWESW": {
+        "cik_str": 1889823,
+        "ticker": "KWESW",
+        "title": "KWESST Micro Systems Inc.",
+        "sector": "Industrials"
+    },
+    "BW-PA": {
+        "cik_str": 1630805,
+        "ticker": "BW-PA",
+        "title": "Babcock & Wilcox Enterprises, Inc.",
+        "sector": "Industrials"
+    },
+    "CODI-PC": {
+        "cik_str": 1345126,
+        "ticker": "CODI-PC",
+        "title": "Compass Diversified Holdings",
+        "sector": "Industrials"
+    },
+    "NMPGY": {
+        "cik_str": 1333172,
+        "ticker": "NMPGY",
+        "title": "Navios Maritime Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "NMPRY": {
+        "cik_str": 1333172,
+        "ticker": "NMPRY",
+        "title": "Navios Maritime Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "FTAIM": {
+        "cik_str": 1590364,
+        "ticker": "FTAIM",
+        "title": "FTAI Aviation Ltd.",
+        "sector": "Industrials"
+    },
+    "FTAIN": {
+        "cik_str": 1590364,
+        "ticker": "FTAIN",
+        "title": "FTAI Aviation Ltd.",
+        "sector": "Industrials"
+    },
+    "FTAIO": {
+        "cik_str": 1590364,
+        "ticker": "FTAIO",
+        "title": "FTAI Aviation Ltd.",
+        "sector": "Industrials"
+    },
+    "PGDE": {
+        "cik_str": 1919191,
+        "ticker": "PGDE",
+        "title": "PGD ECO SOLUTIONS",
+        "sector": "Industrials"
+    },
+    "SATLW": {
+        "cik_str": 1874315,
+        "ticker": "SATLW",
+        "title": "Satellogic Inc.",
+        "sector": "Industrials"
+    },
+    "WOLTF": {
+        "cik_str": 861967,
+        "ticker": "WOLTF",
+        "title": "WOLTERS KLUWER N V /FI",
+        "sector": "Industrials"
+    },
+    "PCTTU": {
+        "cik_str": 1830033,
+        "ticker": "PCTTU",
+        "title": "PureCycle Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "PCTTW": {
+        "cik_str": 1830033,
+        "ticker": "PCTTW",
+        "title": "PureCycle Technologies, Inc.",
+        "sector": "Industrials"
+    },
+    "ADSEW": {
+        "cik_str": 1879248,
+        "ticker": "ADSEW",
+        "title": "Ads-Tec Energy Public Ltd Co",
+        "sector": "Industrials"
+    },
+    "MVSTW": {
+        "cik_str": 1760689,
+        "ticker": "MVSTW",
+        "title": "Microvast Holdings, Inc.",
+        "sector": "Industrials"
+    },
+    "GLCP": {
+        "cik_str": 1830696,
+        "ticker": "GLCP",
+        "title": "GLOBAL LEADERS CORP",
+        "sector": "Industrials"
+    },
+    "HOVRW": {
+        "cik_str": 1930021,
+        "ticker": "HOVRW",
+        "title": "New Horizon Aircraft Ltd.",
+        "sector": "Industrials"
+    },
+    "BLDEW": {
+        "cik_str": 1779128,
+        "ticker": "BLDEW",
+        "title": "Blade Air Mobility, Inc.",
+        "sector": "Industrials"
+    },
+    "SHZNF": {
+        "cik_str": 1454480,
+        "ticker": "SHZNF",
+        "title": "Shenzhen Expressway Co. / ADR",
+        "sector": "Industrials"
+    },
+    "TSPH": {
+        "cik_str": 1823593,
+        "ticker": "TSPH",
+        "title": "TuSimple Holdings Inc.",
+        "sector": "Industrials"
+    },
+    "SHMDW": {
+        "cik_str": 1987240,
+        "ticker": "SHMDW",
+        "title": "SCHMID Group N.V.",
+        "sector": "Industrials"
+    },
+    "SOARW": {
+        "cik_str": 1853070,
+        "ticker": "SOARW",
+        "title": "Volato Group, Inc.",
+        "sector": "Industrials"
+    }
+}

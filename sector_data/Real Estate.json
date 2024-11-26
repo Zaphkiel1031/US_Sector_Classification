@@ -1,0 +1,2822 @@
+{
+    "PLD": {
+        "cik_str": 1045609,
+        "ticker": "PLD",
+        "title": "Prologis, Inc.",
+        "sector": "Real Estate"
+    },
+    "AMT": {
+        "cik_str": 1053507,
+        "ticker": "AMT",
+        "title": "AMERICAN TOWER CORP /MA/",
+        "sector": "Real Estate"
+    },
+    "EQIX": {
+        "cik_str": 1101239,
+        "ticker": "EQIX",
+        "title": "EQUINIX INC",
+        "sector": "Real Estate"
+    },
+    "WELL": {
+        "cik_str": 766704,
+        "ticker": "WELL",
+        "title": "WELLTOWER INC.",
+        "sector": "Real Estate"
+    },
+    "SPG": {
+        "cik_str": 1063761,
+        "ticker": "SPG",
+        "title": "SIMON PROPERTY GROUP INC /DE/",
+        "sector": "Real Estate"
+    },
+    "DLR": {
+        "cik_str": 1297996,
+        "ticker": "DLR",
+        "title": "DIGITAL REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "PSA": {
+        "cik_str": 1393311,
+        "ticker": "PSA",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "O": {
+        "cik_str": 726728,
+        "ticker": "O",
+        "title": "REALTY INCOME CORP",
+        "sector": "Real Estate"
+    },
+    "CCI": {
+        "cik_str": 1051470,
+        "ticker": "CCI",
+        "title": "CROWN CASTLE INC.",
+        "sector": "Real Estate"
+    },
+    "CBRE": {
+        "cik_str": 1138118,
+        "ticker": "CBRE",
+        "title": "CBRE GROUP, INC.",
+        "sector": "Real Estate"
+    },
+    "EXR": {
+        "cik_str": 1289490,
+        "ticker": "EXR",
+        "title": "Extra Space Storage Inc.",
+        "sector": "Real Estate"
+    },
+    "IRM": {
+        "cik_str": 1020569,
+        "ticker": "IRM",
+        "title": "IRON MOUNTAIN INC",
+        "sector": "Real Estate"
+    },
+    "VICI": {
+        "cik_str": 1705696,
+        "ticker": "VICI",
+        "title": "VICI PROPERTIES INC.",
+        "sector": "Real Estate"
+    },
+    "AVB": {
+        "cik_str": 915912,
+        "ticker": "AVB",
+        "title": "AVALONBAY COMMUNITIES INC",
+        "sector": "Real Estate"
+    },
+    "CSGP": {
+        "cik_str": 1057352,
+        "ticker": "CSGP",
+        "title": "COSTAR GROUP, INC.",
+        "sector": "Real Estate"
+    },
+    "EQR": {
+        "cik_str": 906107,
+        "ticker": "EQR",
+        "title": "EQUITY RESIDENTIAL",
+        "sector": "Real Estate"
+    },
+    "VTR": {
+        "cik_str": 740260,
+        "ticker": "VTR",
+        "title": "Ventas, Inc.",
+        "sector": "Real Estate"
+    },
+    "BEKE": {
+        "cik_str": 1809587,
+        "ticker": "BEKE",
+        "title": "KE Holdings Inc.",
+        "sector": "Real Estate"
+    },
+    "SBAC": {
+        "cik_str": 1034054,
+        "ticker": "SBAC",
+        "title": "SBA COMMUNICATIONS CORP",
+        "sector": "Real Estate"
+    },
+    "WY": {
+        "cik_str": 106535,
+        "ticker": "WY",
+        "title": "WEYERHAEUSER CO",
+        "sector": "Real Estate"
+    },
+    "INVH": {
+        "cik_str": 1687229,
+        "ticker": "INVH",
+        "title": "Invitation Homes Inc.",
+        "sector": "Real Estate"
+    },
+    "ESS": {
+        "cik_str": 920522,
+        "ticker": "ESS",
+        "title": "ESSEX PROPERTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "MAA": {
+        "cik_str": 912595,
+        "ticker": "MAA",
+        "title": "MID AMERICA APARTMENT COMMUNITIES INC.",
+        "sector": "Real Estate"
+    },
+    "ARE": {
+        "cik_str": 1035443,
+        "ticker": "ARE",
+        "title": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+        "sector": "Real Estate"
+    },
+    "KIM": {
+        "cik_str": 879101,
+        "ticker": "KIM",
+        "title": "KIMCO REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "SUI": {
+        "cik_str": 912593,
+        "ticker": "SUI",
+        "title": "SUN COMMUNITIES INC",
+        "sector": "Real Estate"
+    },
+    "UDR": {
+        "cik_str": 74208,
+        "ticker": "UDR",
+        "title": "UDR, Inc.",
+        "sector": "Real Estate"
+    },
+    "LINE": {
+        "cik_str": 1868159,
+        "ticker": "LINE",
+        "title": "Lineage, Inc.",
+        "sector": "Real Estate"
+    },
+    "AMH": {
+        "cik_str": 1562401,
+        "ticker": "AMH",
+        "title": "American Homes 4 Rent",
+        "sector": "Real Estate"
+    },
+    "DOC": {
+        "cik_str": 765880,
+        "ticker": "DOC",
+        "title": "HEALTHPEAK PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "BXP": {
+        "cik_str": 1037540,
+        "ticker": "BXP",
+        "title": "BXP, Inc.",
+        "sector": "Real Estate"
+    },
+    "ELS": {
+        "cik_str": 895417,
+        "ticker": "ELS",
+        "title": "EQUITY LIFESTYLE PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "GLPI": {
+        "cik_str": 1575965,
+        "ticker": "GLPI",
+        "title": "Gaming & Leisure Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "REG": {
+        "cik_str": 910606,
+        "ticker": "REG",
+        "title": "REGENCY CENTERS CORP",
+        "sector": "Real Estate"
+    },
+    "LAMR": {
+        "cik_str": 1090425,
+        "ticker": "LAMR",
+        "title": "LAMAR ADVERTISING CO/NEW",
+        "sector": "Real Estate"
+    },
+    "CPT": {
+        "cik_str": 906345,
+        "ticker": "CPT",
+        "title": "CAMDEN PROPERTY TRUST",
+        "sector": "Real Estate"
+    },
+    "HST": {
+        "cik_str": 1070750,
+        "ticker": "HST",
+        "title": "HOST HOTELS & RESORTS, INC.",
+        "sector": "Real Estate"
+    },
+    "WPC": {
+        "cik_str": 1025378,
+        "ticker": "WPC",
+        "title": "W. P. Carey Inc.",
+        "sector": "Real Estate"
+    },
+    "JLL": {
+        "cik_str": 1037976,
+        "ticker": "JLL",
+        "title": "JONES LANG LASALLE INC",
+        "sector": "Real Estate"
+    },
+    "OHI": {
+        "cik_str": 888491,
+        "ticker": "OHI",
+        "title": "OMEGA HEALTHCARE INVESTORS INC",
+        "sector": "Real Estate"
+    },
+    "CUBE": {
+        "cik_str": 1298675,
+        "ticker": "CUBE",
+        "title": "CubeSmart",
+        "sector": "Real Estate"
+    },
+    "NLY": {
+        "cik_str": 1043219,
+        "ticker": "NLY",
+        "title": "ANNALY CAPITAL MANAGEMENT INC",
+        "sector": "Real Estate"
+    },
+    "BPYPP": {
+        "cik_str": 1545772,
+        "ticker": "BPYPP",
+        "title": "Brookfield Property Partners L.P.",
+        "sector": "Real Estate"
+    },
+    "HNGKY": {
+        "cik_str": 871464,
+        "ticker": "HNGKY",
+        "title": "HONGKONG LAND HOLDINGS LTD /FI",
+        "sector": "Real Estate"
+    },
+    "FRT": {
+        "cik_str": 34903,
+        "ticker": "FRT",
+        "title": "FEDERAL REALTY INVESTMENT TRUST",
+        "sector": "Real Estate"
+    },
+    "REXR": {
+        "cik_str": 1571283,
+        "ticker": "REXR",
+        "title": "Rexford Industrial Realty, Inc.",
+        "sector": "Real Estate"
+    },
+    "BRX": {
+        "cik_str": 1581068,
+        "ticker": "BRX",
+        "title": "Brixmor Property Group Inc.",
+        "sector": "Real Estate"
+    },
+    "VNO": {
+        "cik_str": 899689,
+        "ticker": "VNO",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "FSV": {
+        "cik_str": 1637810,
+        "ticker": "FSV",
+        "title": "FirstService Corp",
+        "sector": "Real Estate"
+    },
+    "AGNC": {
+        "cik_str": 1423689,
+        "ticker": "AGNC",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "EGP": {
+        "cik_str": 49600,
+        "ticker": "EGP",
+        "title": "EASTGROUP PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "ADC": {
+        "cik_str": 917251,
+        "ticker": "ADC",
+        "title": "AGREE REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "NNN": {
+        "cik_str": 751364,
+        "ticker": "NNN",
+        "title": "NNN REIT, INC.",
+        "sector": "Real Estate"
+    },
+    "CIGI": {
+        "cik_str": 913353,
+        "ticker": "CIGI",
+        "title": "Colliers International Group Inc.",
+        "sector": "Real Estate"
+    },
+    "FR": {
+        "cik_str": 921825,
+        "ticker": "FR",
+        "title": "FIRST INDUSTRIAL REALTY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "STWD": {
+        "cik_str": 1465128,
+        "ticker": "STWD",
+        "title": "STARWOOD PROPERTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "RHP": {
+        "cik_str": 1040829,
+        "ticker": "RHP",
+        "title": "Ryman Hospitality Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "STAG": {
+        "cik_str": 1479094,
+        "ticker": "STAG",
+        "title": "STAG Industrial, Inc.",
+        "sector": "Real Estate"
+    },
+    "COLD": {
+        "cik_str": 1455863,
+        "ticker": "COLD",
+        "title": "AMERICOLD REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "NSA": {
+        "cik_str": 1618563,
+        "ticker": "NSA",
+        "title": "National Storage Affiliates Trust",
+        "sector": "Real Estate"
+    },
+    "HR": {
+        "cik_str": 1360604,
+        "ticker": "HR",
+        "title": "Healthcare Realty Trust Inc",
+        "sector": "Real Estate"
+    },
+    "KRG": {
+        "cik_str": 1286043,
+        "ticker": "KRG",
+        "title": "KITE REALTY GROUP TRUST",
+        "sector": "Real Estate"
+    },
+    "TRNO": {
+        "cik_str": 1476150,
+        "ticker": "TRNO",
+        "title": "Terreno Realty Corp",
+        "sector": "Real Estate"
+    },
+    "EPRT": {
+        "cik_str": 1728951,
+        "ticker": "EPRT",
+        "title": "ESSENTIAL PROPERTIES REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "CTRE": {
+        "cik_str": 1590717,
+        "ticker": "CTRE",
+        "title": "CareTrust REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "RITM": {
+        "cik_str": 1556593,
+        "ticker": "RITM",
+        "title": "Rithm Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "PECO": {
+        "cik_str": 1476204,
+        "ticker": "PECO",
+        "title": "Phillips Edison & Company, Inc.",
+        "sector": "Real Estate"
+    },
+    "SLG": {
+        "cik_str": 1040971,
+        "ticker": "SLG",
+        "title": "SL GREEN REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "CUZ": {
+        "cik_str": 25232,
+        "ticker": "CUZ",
+        "title": "COUSINS PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "IRT": {
+        "cik_str": 1466085,
+        "ticker": "IRT",
+        "title": "INDEPENDENCE REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "KRC": {
+        "cik_str": 1025996,
+        "ticker": "KRC",
+        "title": "KILROY REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "MAC": {
+        "cik_str": 912242,
+        "ticker": "MAC",
+        "title": "MACERICH CO",
+        "sector": "Real Estate"
+    },
+    "RYN": {
+        "cik_str": 52827,
+        "ticker": "RYN",
+        "title": "RAYONIER INC",
+        "sector": "Real Estate"
+    },
+    "AHR": {
+        "cik_str": 1632970,
+        "ticker": "AHR",
+        "title": "American Healthcare REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "SBRA": {
+        "cik_str": 1492298,
+        "ticker": "SBRA",
+        "title": "Sabra Health Care REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "HHH": {
+        "cik_str": 1981792,
+        "ticker": "HHH",
+        "title": "Howard Hughes Holdings Inc.",
+        "sector": "Real Estate"
+    },
+    "SKT": {
+        "cik_str": 899715,
+        "ticker": "SKT",
+        "title": "TANGER INC.",
+        "sector": "Real Estate"
+    },
+    "DEI": {
+        "cik_str": 1364250,
+        "ticker": "DEI",
+        "title": "Douglas Emmett Inc",
+        "sector": "Real Estate"
+    },
+    "APLE": {
+        "cik_str": 1418121,
+        "ticker": "APLE",
+        "title": "Apple Hospitality REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "NMRK": {
+        "cik_str": 1690680,
+        "ticker": "NMRK",
+        "title": "NEWMARK GROUP, INC.",
+        "sector": "Real Estate"
+    },
+    "CDP": {
+        "cik_str": 860546,
+        "ticker": "CDP",
+        "title": "COPT DEFENSE PROPERTIES",
+        "sector": "Real Estate"
+    },
+    "NHI": {
+        "cik_str": 877860,
+        "ticker": "NHI",
+        "title": "NATIONAL HEALTH INVESTORS INC",
+        "sector": "Real Estate"
+    },
+    "HIW": {
+        "cik_str": 921082,
+        "ticker": "HIW",
+        "title": "HIGHWOODS PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "HASI": {
+        "cik_str": 1561894,
+        "ticker": "HASI",
+        "title": "HA Sustainable Infrastructure Capital, Inc.",
+        "sector": "Real Estate"
+    },
+    "BNL": {
+        "cik_str": 1424182,
+        "ticker": "BNL",
+        "title": "Broadstone Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "EPR": {
+        "cik_str": 1045450,
+        "ticker": "EPR",
+        "title": "EPR PROPERTIES",
+        "sector": "Real Estate"
+    },
+    "COMP": {
+        "cik_str": 1563190,
+        "ticker": "COMP",
+        "title": "Compass, Inc.",
+        "sector": "Real Estate"
+    },
+    "GRP-UN": {
+        "cik_str": 1564538,
+        "ticker": "GRP-UN",
+        "title": "GRANITE REAL ESTATE INVESTMENT TRUST",
+        "sector": "Real Estate"
+    },
+    "PCH": {
+        "cik_str": 1338749,
+        "ticker": "PCH",
+        "title": "POTLATCHDELTIC CORP",
+        "sector": "Real Estate"
+    },
+    "BXMT": {
+        "cik_str": 1061630,
+        "ticker": "BXMT",
+        "title": "BLACKSTONE MORTGAGE TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "CWK": {
+        "cik_str": 1628369,
+        "ticker": "CWK",
+        "title": "Cushman & Wakefield plc",
+        "sector": "Real Estate"
+    },
+    "AKR": {
+        "cik_str": 899629,
+        "ticker": "AKR",
+        "title": "ACADIA REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "OUT": {
+        "cik_str": 1579877,
+        "ticker": "OUT",
+        "title": "OUTFRONT Media Inc.",
+        "sector": "Real Estate"
+    },
+    "ESRT": {
+        "cik_str": 1541401,
+        "ticker": "ESRT",
+        "title": "Empire State Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "UE": {
+        "cik_str": 1611547,
+        "ticker": "UE",
+        "title": "Urban Edge Properties",
+        "sector": "Real Estate"
+    },
+    "PK": {
+        "cik_str": 1617406,
+        "ticker": "PK",
+        "title": "Park Hotels & Resorts Inc.",
+        "sector": "Real Estate"
+    },
+    "IIPR": {
+        "cik_str": 1677576,
+        "ticker": "IIPR",
+        "title": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "JOE": {
+        "cik_str": 745308,
+        "ticker": "JOE",
+        "title": "ST JOE Co",
+        "sector": "Real Estate"
+    },
+    "ESBA": {
+        "cik_str": 1553079,
+        "ticker": "ESBA",
+        "title": "Empire State Realty OP, L.P.",
+        "sector": "Real Estate"
+    },
+    "FCPT": {
+        "cik_str": 1650132,
+        "ticker": "FCPT",
+        "title": "Four Corners Property Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "CCS": {
+        "cik_str": 1576940,
+        "ticker": "CCS",
+        "title": "Century Communities, Inc.",
+        "sector": "Real Estate"
+    },
+    "LXP": {
+        "cik_str": 910108,
+        "ticker": "LXP",
+        "title": "LXP Industrial Trust",
+        "sector": "Real Estate"
+    },
+    "ABR": {
+        "cik_str": 1253986,
+        "ticker": "ABR",
+        "title": "ARBOR REALTY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "MPW": {
+        "cik_str": 1287865,
+        "ticker": "MPW",
+        "title": "MEDICAL PROPERTIES TRUST INC",
+        "sector": "Real Estate"
+    },
+    "CURB": {
+        "cik_str": 2027317,
+        "ticker": "CURB",
+        "title": "Curbline Properties Corp.",
+        "sector": "Real Estate"
+    },
+    "IVT": {
+        "cik_str": 1307748,
+        "ticker": "IVT",
+        "title": "InvenTrust Properties Corp.",
+        "sector": "Real Estate"
+    },
+    "NXRT": {
+        "cik_str": 1620393,
+        "ticker": "NXRT",
+        "title": "NexPoint Residential Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ROIC": {
+        "cik_str": 1407623,
+        "ticker": "ROIC",
+        "title": "RETAIL OPPORTUNITY INVESTMENTS CORP",
+        "sector": "Real Estate"
+    },
+    "DBRG": {
+        "cik_str": 1679688,
+        "ticker": "DBRG",
+        "title": "DigitalBridge Group, Inc.",
+        "sector": "Real Estate"
+    },
+    "EQC": {
+        "cik_str": 803649,
+        "ticker": "EQC",
+        "title": "Equity Commonwealth",
+        "sector": "Real Estate"
+    },
+    "VTMX": {
+        "cik_str": 1969373,
+        "ticker": "VTMX",
+        "title": "Vesta Real Estate Corporation, S.A.B. de C.V.",
+        "sector": "Real Estate"
+    },
+    "AAT": {
+        "cik_str": 1500217,
+        "ticker": "AAT",
+        "title": "American Assets Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "SHO": {
+        "cik_str": 1295810,
+        "ticker": "SHO",
+        "title": "Sunstone Hotel Investors, Inc.",
+        "sector": "Real Estate"
+    },
+    "VRE": {
+        "cik_str": 924901,
+        "ticker": "VRE",
+        "title": "Veris Residential, Inc.",
+        "sector": "Real Estate"
+    },
+    "EXPI": {
+        "cik_str": 1495932,
+        "ticker": "EXPI",
+        "title": "EXP World Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "DRH": {
+        "cik_str": 1298946,
+        "ticker": "DRH",
+        "title": "DiamondRock Hospitality Co",
+        "sector": "Real Estate"
+    },
+    "GTY": {
+        "cik_str": 1052752,
+        "ticker": "GTY",
+        "title": "GETTY REALTY CORP /MD/",
+        "sector": "Real Estate"
+    },
+    "LTC": {
+        "cik_str": 887905,
+        "ticker": "LTC",
+        "title": "LTC PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "GNL": {
+        "cik_str": 1526113,
+        "ticker": "GNL",
+        "title": "Global Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "SDHC": {
+        "cik_str": 1982518,
+        "ticker": "SDHC",
+        "title": "Smith Douglas Homes Corp.",
+        "sector": "Real Estate"
+    },
+    "XHR": {
+        "cik_str": 1616000,
+        "ticker": "XHR",
+        "title": "Xenia Hotels & Resorts, Inc.",
+        "sector": "Real Estate"
+    },
+    "MMI": {
+        "cik_str": 1578732,
+        "ticker": "MMI",
+        "title": "Marcus & Millichap, Inc.",
+        "sector": "Real Estate"
+    },
+    "PEB": {
+        "cik_str": 1474098,
+        "ticker": "PEB",
+        "title": "Pebblebrook Hotel Trust",
+        "sector": "Real Estate"
+    },
+    "KW": {
+        "cik_str": 1408100,
+        "ticker": "KW",
+        "title": "Kennedy-Wilson Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "UMH": {
+        "cik_str": 752642,
+        "ticker": "UMH",
+        "title": "UMH PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "RLJ": {
+        "cik_str": 1511337,
+        "ticker": "RLJ",
+        "title": "RLJ Lodging Trust",
+        "sector": "Real Estate"
+    },
+    "LADR": {
+        "cik_str": 1577670,
+        "ticker": "LADR",
+        "title": "Ladder Capital Corp",
+        "sector": "Real Estate"
+    },
+    "FOR": {
+        "cik_str": 1406587,
+        "ticker": "FOR",
+        "title": "Forestar Group Inc.",
+        "sector": "Real Estate"
+    },
+    "SAFE": {
+        "cik_str": 1095651,
+        "ticker": "SAFE",
+        "title": "Safehold Inc.",
+        "sector": "Real Estate"
+    },
+    "UNIT": {
+        "cik_str": 1620280,
+        "ticker": "UNIT",
+        "title": "Uniti Group Inc.",
+        "sector": "Real Estate"
+    },
+    "SILA": {
+        "cik_str": 1567925,
+        "ticker": "SILA",
+        "title": "Sila Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ALEX": {
+        "cik_str": 1545654,
+        "ticker": "ALEX",
+        "title": "Alexander & Baldwin, Inc.",
+        "sector": "Real Estate"
+    },
+    "ELME": {
+        "cik_str": 104894,
+        "ticker": "ELME",
+        "title": "Elme Communities",
+        "sector": "Real Estate"
+    },
+    "BFS": {
+        "cik_str": 907254,
+        "ticker": "BFS",
+        "title": "SAUL CENTERS, INC.",
+        "sector": "Real Estate"
+    },
+    "DEA": {
+        "cik_str": 1622194,
+        "ticker": "DEA",
+        "title": "Easterly Government Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "JBGS": {
+        "cik_str": 1689796,
+        "ticker": "JBGS",
+        "title": "JBG SMITH Properties",
+        "sector": "Real Estate"
+    },
+    "NTST": {
+        "cik_str": 1798100,
+        "ticker": "NTST",
+        "title": "NETSTREIT Corp.",
+        "sector": "Real Estate"
+    },
+    "CMRF": {
+        "cik_str": 1498547,
+        "ticker": "CMRF",
+        "title": "CIM REAL ESTATE FINANCE TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "CSR": {
+        "cik_str": 798359,
+        "ticker": "CSR",
+        "title": "CENTERSPACE",
+        "sector": "Real Estate"
+    },
+    "ARI": {
+        "cik_str": 1467760,
+        "ticker": "ARI",
+        "title": "Apollo Commercial Real Estate Finance, Inc.",
+        "sector": "Real Estate"
+    },
+    "AIV": {
+        "cik_str": 922864,
+        "ticker": "AIV",
+        "title": "APARTMENT INVESTMENT & MANAGEMENT CO",
+        "sector": "Real Estate"
+    },
+    "IRS": {
+        "cik_str": 933267,
+        "ticker": "IRS",
+        "title": "IRSA INVESTMENTS & REPRESENTATIONS INC",
+        "sector": "Real Estate"
+    },
+    "RC": {
+        "cik_str": 1527590,
+        "ticker": "RC",
+        "title": "Ready Capital Corp",
+        "sector": "Real Estate"
+    },
+    "OPEN": {
+        "cik_str": 1801169,
+        "ticker": "OPEN",
+        "title": "Opendoor Technologies Inc.",
+        "sector": "Real Estate"
+    },
+    "TWO": {
+        "cik_str": 1465740,
+        "ticker": "TWO",
+        "title": "TWO HARBORS INVESTMENT CORP.",
+        "sector": "Real Estate"
+    },
+    "CIM": {
+        "cik_str": 1409493,
+        "ticker": "CIM",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Real Estate"
+    },
+    "PDM": {
+        "cik_str": 1042776,
+        "ticker": "PDM",
+        "title": "Piedmont Office Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "PMT": {
+        "cik_str": 1464423,
+        "ticker": "PMT",
+        "title": "PennyMac Mortgage Investment Trust",
+        "sector": "Real Estate"
+    },
+    "ALX": {
+        "cik_str": 3499,
+        "ticker": "ALX",
+        "title": "ALEXANDERS INC",
+        "sector": "Real Estate"
+    },
+    "EFC": {
+        "cik_str": 1411342,
+        "ticker": "EFC",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "PGRE": {
+        "cik_str": 1605607,
+        "ticker": "PGRE",
+        "title": "Paramount Group, Inc.",
+        "sector": "Real Estate"
+    },
+    "MFA": {
+        "cik_str": 1055160,
+        "ticker": "MFA",
+        "title": "MFA FINANCIAL, INC.",
+        "sector": "Real Estate"
+    },
+    "AHH": {
+        "cik_str": 1569187,
+        "ticker": "AHH",
+        "title": "Armada Hoffler Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "FBRT": {
+        "cik_str": 1562528,
+        "ticker": "FBRT",
+        "title": "Franklin BSP Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ARR": {
+        "cik_str": 1428205,
+        "ticker": "ARR",
+        "title": "Armour Residential REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "REAX": {
+        "cik_str": 1862461,
+        "ticker": "REAX",
+        "title": "Real Brokerage Inc",
+        "sector": "Real Estate"
+    },
+    "RDFN": {
+        "cik_str": 1382821,
+        "ticker": "RDFN",
+        "title": "Redfin Corp",
+        "sector": "Real Estate"
+    },
+    "DX": {
+        "cik_str": 826675,
+        "ticker": "DX",
+        "title": "DYNEX CAPITAL INC",
+        "sector": "Real Estate"
+    },
+    "BDN": {
+        "cik_str": 790816,
+        "ticker": "BDN",
+        "title": "BRANDYWINE REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "RWT": {
+        "cik_str": 930236,
+        "ticker": "RWT",
+        "title": "REDWOOD TRUST INC",
+        "sector": "Real Estate"
+    },
+    "CMTG": {
+        "cik_str": 1666291,
+        "ticker": "CMTG",
+        "title": "Claros Mortgage Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "CBL": {
+        "cik_str": 910612,
+        "ticker": "CBL",
+        "title": "CBL & ASSOCIATES PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "PLYM": {
+        "cik_str": 1515816,
+        "ticker": "PLYM",
+        "title": "Plymouth Industrial REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "SITC": {
+        "cik_str": 894315,
+        "ticker": "SITC",
+        "title": "SITE Centers Corp.",
+        "sector": "Real Estate"
+    },
+    "BRSP": {
+        "cik_str": 1717547,
+        "ticker": "BRSP",
+        "title": "BrightSpire Capital, Inc.",
+        "sector": "Real Estate"
+    },
+    "KREF": {
+        "cik_str": 1631596,
+        "ticker": "KREF",
+        "title": "KKR Real Estate Finance Trust Inc.",
+        "sector": "Real Estate"
+    },
+    "MRNO": {
+        "cik_str": 1988776,
+        "ticker": "MRNO",
+        "title": "Murano Global Investments Plc",
+        "sector": "Real Estate"
+    },
+    "GOOD": {
+        "cik_str": 1234006,
+        "ticker": "GOOD",
+        "title": "GLADSTONE COMMERCIAL CORP",
+        "sector": "Real Estate"
+    },
+    "WSR": {
+        "cik_str": 1175535,
+        "ticker": "WSR",
+        "title": "Whitestone REIT",
+        "sector": "Real Estate"
+    },
+    "TRTX": {
+        "cik_str": 1630472,
+        "ticker": "TRTX",
+        "title": "TPG RE Finance Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "INN": {
+        "cik_str": 1497645,
+        "ticker": "INN",
+        "title": "Summit Hotel Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "STRW": {
+        "cik_str": 1782430,
+        "ticker": "STRW",
+        "title": "Strawberry Fields REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "ORC": {
+        "cik_str": 1518621,
+        "ticker": "ORC",
+        "title": "Orchid Island Capital, Inc.",
+        "sector": "Real Estate"
+    },
+    "FPI": {
+        "cik_str": 1591670,
+        "ticker": "FPI",
+        "title": "Farmland Partners Inc.",
+        "sector": "Real Estate"
+    },
+    "OLP": {
+        "cik_str": 712770,
+        "ticker": "OLP",
+        "title": "ONE LIBERTY PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "GMRE": {
+        "cik_str": 1533615,
+        "ticker": "GMRE",
+        "title": "Global Medical REIT Inc.",
+        "sector": "Real Estate"
+    },
+    "FRPH": {
+        "cik_str": 844059,
+        "ticker": "FRPH",
+        "title": "FRP HOLDINGS, INC.",
+        "sector": "Real Estate"
+    },
+    "FPH": {
+        "cik_str": 1574197,
+        "ticker": "FPH",
+        "title": "Five Point Holdings, LLC",
+        "sector": "Real Estate"
+    },
+    "DHC": {
+        "cik_str": 1075415,
+        "ticker": "DHC",
+        "title": "DIVERSIFIED HEALTHCARE TRUST",
+        "sector": "Real Estate"
+    },
+    "CTO": {
+        "cik_str": 23795,
+        "ticker": "CTO",
+        "title": "CTO Realty Growth, Inc.",
+        "sector": "Real Estate"
+    },
+    "UHT": {
+        "cik_str": 798783,
+        "ticker": "UHT",
+        "title": "UNIVERSAL HEALTH REALTY INCOME TRUST",
+        "sector": "Real Estate"
+    },
+    "NYMT": {
+        "cik_str": 1273685,
+        "ticker": "NYMT",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Real Estate"
+    },
+    "CHCT": {
+        "cik_str": 1631569,
+        "ticker": "CHCT",
+        "title": "Community Healthcare Trust Inc",
+        "sector": "Real Estate"
+    },
+    "IVR": {
+        "cik_str": 1437071,
+        "ticker": "IVR",
+        "title": "Invesco Mortgage Capital Inc.",
+        "sector": "Real Estate"
+    },
+    "HOUS": {
+        "cik_str": 1398987,
+        "ticker": "HOUS",
+        "title": "Anywhere Real Estate Inc.",
+        "sector": "Real Estate"
+    },
+    "PKST": {
+        "cik_str": 1600626,
+        "ticker": "PKST",
+        "title": "Peakstone Realty Trust",
+        "sector": "Real Estate"
+    },
+    "MLP": {
+        "cik_str": 63330,
+        "ticker": "MLP",
+        "title": "MAUI LAND & PINEAPPLE CO INC",
+        "sector": "Real Estate"
+    },
+    "NLOP": {
+        "cik_str": 1952976,
+        "ticker": "NLOP",
+        "title": "Net Lease Office Properties",
+        "sector": "Real Estate"
+    },
+    "CLDT": {
+        "cik_str": 1476045,
+        "ticker": "CLDT",
+        "title": "Chatham Lodging Trust",
+        "sector": "Real Estate"
+    },
+    "HPP": {
+        "cik_str": 1482512,
+        "ticker": "HPP",
+        "title": "Hudson Pacific Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "SVC": {
+        "cik_str": 945394,
+        "ticker": "SVC",
+        "title": "Service Properties Trust",
+        "sector": "Real Estate"
+    },
+    "LAND": {
+        "cik_str": 1495240,
+        "ticker": "LAND",
+        "title": "GLADSTONE LAND Corp",
+        "sector": "Real Estate"
+    },
+    "PSTL": {
+        "cik_str": 1759774,
+        "ticker": "PSTL",
+        "title": "Postal Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "SEG": {
+        "cik_str": 2009684,
+        "ticker": "SEG",
+        "title": "Seaport Entertainment Group Inc.",
+        "sector": "Real Estate"
+    },
+    "INRE": {
+        "cik_str": 1528985,
+        "ticker": "INRE",
+        "title": "Inland Real Estate Income Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "LSEA": {
+        "cik_str": 1721386,
+        "ticker": "LSEA",
+        "title": "Landsea Homes Corp",
+        "sector": "Real Estate"
+    },
+    "ACRE": {
+        "cik_str": 1529377,
+        "ticker": "ACRE",
+        "title": "Ares Commercial Real Estate Corp",
+        "sector": "Real Estate"
+    },
+    "NLCP": {
+        "cik_str": 1854964,
+        "ticker": "NLCP",
+        "title": "NewLake Capital Partners, Inc.",
+        "sector": "Real Estate"
+    },
+    "NREF": {
+        "cik_str": 1786248,
+        "ticker": "NREF",
+        "title": "NexPoint Real Estate Finance, Inc.",
+        "sector": "Real Estate"
+    },
+    "RMR": {
+        "cik_str": 1644378,
+        "ticker": "RMR",
+        "title": "RMR GROUP INC.",
+        "sector": "Real Estate"
+    },
+    "BRT": {
+        "cik_str": 14846,
+        "ticker": "BRT",
+        "title": "BRT Apartments Corp.",
+        "sector": "Real Estate"
+    },
+    "RMAX": {
+        "cik_str": 1581091,
+        "ticker": "RMAX",
+        "title": "RE/MAX Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "REFI": {
+        "cik_str": 1867949,
+        "ticker": "REFI",
+        "title": "Chicago Atlantic Real Estate Finance, Inc.",
+        "sector": "Real Estate"
+    },
+    "FVR": {
+        "cik_str": 1988494,
+        "ticker": "FVR",
+        "title": "FrontView REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "NEN": {
+        "cik_str": 746514,
+        "ticker": "NEN",
+        "title": "NEW ENGLAND REALTY ASSOCIATES LIMITED PARTNERSHIP",
+        "sector": "Real Estate"
+    },
+    "PCOK": {
+        "cik_str": 1452936,
+        "ticker": "PCOK",
+        "title": "Pacific Oak Strategic Opportunity REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "PINE": {
+        "cik_str": 1786117,
+        "ticker": "PINE",
+        "title": "Alpine Income Property Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "XHG": {
+        "cik_str": 1769256,
+        "ticker": "XHG",
+        "title": "XChange TEC.INC",
+        "sector": "Real Estate"
+    },
+    "OZ": {
+        "cik_str": 1807046,
+        "ticker": "OZ",
+        "title": "Belpointe PREP, LLC",
+        "sector": "Real Estate"
+    },
+    "BHR": {
+        "cik_str": 1574085,
+        "ticker": "BHR",
+        "title": "Braemar Hotels & Resorts Inc.",
+        "sector": "Real Estate"
+    },
+    "ARL": {
+        "cik_str": 1102238,
+        "ticker": "ARL",
+        "title": "AMERICAN REALTY INVESTORS INC",
+        "sector": "Real Estate"
+    },
+    "ILPT": {
+        "cik_str": 1717307,
+        "ticker": "ILPT",
+        "title": "Industrial Logistics Properties Trust",
+        "sector": "Real Estate"
+    },
+    "TCI": {
+        "cik_str": 733590,
+        "ticker": "TCI",
+        "title": "TRANSCONTINENTAL REALTY INVESTORS INC",
+        "sector": "Real Estate"
+    },
+    "SRG": {
+        "cik_str": 1628063,
+        "ticker": "SRG",
+        "title": "Seritage Growth Properties",
+        "sector": "Real Estate"
+    },
+    "ONL": {
+        "cik_str": 1873923,
+        "ticker": "ONL",
+        "title": "Orion Office REIT Inc.",
+        "sector": "Real Estate"
+    },
+    "DOUG": {
+        "cik_str": 1878897,
+        "ticker": "DOUG",
+        "title": "Douglas Elliman Inc.",
+        "sector": "Real Estate"
+    },
+    "AOMR": {
+        "cik_str": 1766478,
+        "ticker": "AOMR",
+        "title": "Angel Oak Mortgage REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "NXDT": {
+        "cik_str": 1356115,
+        "ticker": "NXDT",
+        "title": "NEXPOINT DIVERSIFIED REAL ESTATE TRUST",
+        "sector": "Real Estate"
+    },
+    "STRS": {
+        "cik_str": 885508,
+        "ticker": "STRS",
+        "title": "STRATUS PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "CLPR": {
+        "cik_str": 1649096,
+        "ticker": "CLPR",
+        "title": "Clipper Realty Inc.",
+        "sector": "Real Estate"
+    },
+    "AFCG": {
+        "cik_str": 1822523,
+        "ticker": "AFCG",
+        "title": "Advanced Flower Capital Inc.",
+        "sector": "Real Estate"
+    },
+    "FSP": {
+        "cik_str": 1031316,
+        "ticker": "FSP",
+        "title": "FRANKLIN STREET PROPERTIES CORP /MA/",
+        "sector": "Real Estate"
+    },
+    "CIO": {
+        "cik_str": 1593222,
+        "ticker": "CIO",
+        "title": "City Office REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "MITT": {
+        "cik_str": 1514281,
+        "ticker": "MITT",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "AXR": {
+        "cik_str": 6207,
+        "ticker": "AXR",
+        "title": "AMREP CORP.",
+        "sector": "Real Estate"
+    },
+    "LPA": {
+        "cik_str": 1997711,
+        "ticker": "LPA",
+        "title": "Logistic Properties of the Americas",
+        "sector": "Real Estate"
+    },
+    "SEVN": {
+        "cik_str": 1452477,
+        "ticker": "SEVN",
+        "title": "Seven Hills Realty Trust",
+        "sector": "Real Estate"
+    },
+    "AWCA": {
+        "cik_str": 1021917,
+        "ticker": "AWCA",
+        "title": "Awaysis Capital, Inc.",
+        "sector": "Real Estate"
+    },
+    "GPMT": {
+        "cik_str": 1703644,
+        "ticker": "GPMT",
+        "title": "Granite Point Mortgage Trust Inc.",
+        "sector": "Real Estate"
+    },
+    "MDV": {
+        "cik_str": 1645873,
+        "ticker": "MDV",
+        "title": "MODIV INDUSTRIAL, INC.",
+        "sector": "Real Estate"
+    },
+    "STHO": {
+        "cik_str": 1953366,
+        "ticker": "STHO",
+        "title": "Star Holdings",
+        "sector": "Real Estate"
+    },
+    "NHHS": {
+        "cik_str": 1503707,
+        "ticker": "NHHS",
+        "title": "NorthStar Healthcare Income, Inc.",
+        "sector": "Real Estate"
+    },
+    "AJX": {
+        "cik_str": 1614806,
+        "ticker": "AJX",
+        "title": "Great Ajax Corp.",
+        "sector": "Real Estate"
+    },
+    "LFT": {
+        "cik_str": 1547546,
+        "ticker": "LFT",
+        "title": "Lument Finance Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "FREVS": {
+        "cik_str": 36840,
+        "ticker": "FREVS",
+        "title": "FIRST REAL ESTATE INVESTMENT TRUST OF NEW JERSEY",
+        "sector": "Real Estate"
+    },
+    "ACR": {
+        "cik_str": 1332551,
+        "ticker": "ACR",
+        "title": "ACRES Commercial Realty Corp.",
+        "sector": "Real Estate"
+    },
+    "OPAD": {
+        "cik_str": 1825024,
+        "ticker": "OPAD",
+        "title": "Offerpad Solutions Inc.",
+        "sector": "Real Estate"
+    },
+    "SUNS": {
+        "cik_str": 2012706,
+        "ticker": "SUNS",
+        "title": "Sunrise Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "CHCI": {
+        "cik_str": 1299969,
+        "ticker": "CHCI",
+        "title": "Comstock Holding Companies, Inc.",
+        "sector": "Real Estate"
+    },
+    "MAYS": {
+        "cik_str": 54187,
+        "ticker": "MAYS",
+        "title": "MAYS J W INC",
+        "sector": "Real Estate"
+    },
+    "NTPIF": {
+        "cik_str": 829365,
+        "ticker": "NTPIF",
+        "title": "NAM TAI PROPERTY INC.",
+        "sector": "Real Estate"
+    },
+    "CHMI": {
+        "cik_str": 1571776,
+        "ticker": "CHMI",
+        "title": "Cherry Hill Mortgage Investment Corp",
+        "sector": "Real Estate"
+    },
+    "SACH": {
+        "cik_str": 1682220,
+        "ticker": "SACH",
+        "title": "Sachem Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "KANP": {
+        "cik_str": 1230058,
+        "ticker": "KANP",
+        "title": "KAANAPALI LAND LLC",
+        "sector": "Real Estate"
+    },
+    "CPTP": {
+        "cik_str": 202947,
+        "ticker": "CPTP",
+        "title": "CAPITAL PROPERTIES INC /RI/",
+        "sector": "Real Estate"
+    },
+    "OPI": {
+        "cik_str": 1456772,
+        "ticker": "OPI",
+        "title": "OFFICE PROPERTIES INCOME TRUST",
+        "sector": "Real Estate"
+    },
+    "LOAN": {
+        "cik_str": 1080340,
+        "ticker": "LOAN",
+        "title": "MANHATTAN BRIDGE CAPITAL, INC",
+        "sector": "Real Estate"
+    },
+    "SELF": {
+        "cik_str": 1031235,
+        "ticker": "SELF",
+        "title": "Global Self Storage, Inc.",
+        "sector": "Real Estate"
+    },
+    "BHM": {
+        "cik_str": 1903382,
+        "ticker": "BHM",
+        "title": "Bluerock Homes Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "AHT": {
+        "cik_str": 1232582,
+        "ticker": "AHT",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "RFL": {
+        "cik_str": 1713863,
+        "ticker": "RFL",
+        "title": "Rafael Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "AIRE": {
+        "cik_str": 1859199,
+        "ticker": "AIRE",
+        "title": "reAlpha Tech Corp.",
+        "sector": "Real Estate"
+    },
+    "MKZR": {
+        "cik_str": 1550913,
+        "ticker": "MKZR",
+        "title": "MacKenzie Realty Capital, Inc.",
+        "sector": "Real Estate"
+    },
+    "FTHM": {
+        "cik_str": 1753162,
+        "ticker": "FTHM",
+        "title": "Fathom Holdings Inc.",
+        "sector": "Real Estate"
+    },
+    "SOHO": {
+        "cik_str": 1301236,
+        "ticker": "SOHO",
+        "title": "Sotherly Hotels Inc.",
+        "sector": "Real Estate"
+    },
+    "FGNV": {
+        "cik_str": 1687919,
+        "ticker": "FGNV",
+        "title": "FORGE INNOVATION DEVELOPMENT CORP.",
+        "sector": "Real Estate"
+    },
+    "HBUV": {
+        "cik_str": 1639068,
+        "ticker": "HBUV",
+        "title": "Hubilu Venture Corp",
+        "sector": "Real Estate"
+    },
+    "LRE": {
+        "cik_str": 1888980,
+        "ticker": "LRE",
+        "title": "LEAD REAL ESTATE CO., LTD",
+        "sector": "Real Estate"
+    },
+    "ABCP": {
+        "cik_str": 20639,
+        "ticker": "ABCP",
+        "title": "AmBase Corp",
+        "sector": "Real Estate"
+    },
+    "NYC": {
+        "cik_str": 1595527,
+        "ticker": "NYC",
+        "title": "American Strategic Investment Co.",
+        "sector": "Real Estate"
+    },
+    "WETH": {
+        "cik_str": 1826660,
+        "ticker": "WETH",
+        "title": "Wetouch Technology Inc.",
+        "sector": "Real Estate"
+    },
+    "ASPS": {
+        "cik_str": 1462418,
+        "ticker": "ASPS",
+        "title": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+        "sector": "Real Estate"
+    },
+    "CMCT": {
+        "cik_str": 908311,
+        "ticker": "CMCT",
+        "title": "Creative Media & Community Trust Corp",
+        "sector": "Real Estate"
+    },
+    "GYRO": {
+        "cik_str": 1589061,
+        "ticker": "GYRO",
+        "title": "Gyrodyne, LLC",
+        "sector": "Real Estate"
+    },
+    "XIN": {
+        "cik_str": 1398453,
+        "ticker": "XIN",
+        "title": "Xinyuan Real Estate Co., Ltd.",
+        "sector": "Real Estate"
+    },
+    "IHT": {
+        "cik_str": 82473,
+        "ticker": "IHT",
+        "title": "INNSUITES HOSPITALITY TRUST",
+        "sector": "Real Estate"
+    },
+    "SRRE": {
+        "cik_str": 1083490,
+        "ticker": "SRRE",
+        "title": "SUNRISE REAL ESTATE GROUP INC",
+        "sector": "Real Estate"
+    },
+    "LRHC": {
+        "cik_str": 1879403,
+        "ticker": "LRHC",
+        "title": "La Rosa Holdings Corp.",
+        "sector": "Real Estate"
+    },
+    "MDRR": {
+        "cik_str": 1654595,
+        "ticker": "MDRR",
+        "title": "Medalist Diversified REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "DUO": {
+        "cik_str": 1750593,
+        "ticker": "DUO",
+        "title": "Fangdd Network Group Ltd.",
+        "sector": "Real Estate"
+    },
+    "AEI": {
+        "cik_str": 1750106,
+        "ticker": "AEI",
+        "title": "Alset Inc.",
+        "sector": "Real Estate"
+    },
+    "GIPR": {
+        "cik_str": 1651721,
+        "ticker": "GIPR",
+        "title": "GENERATION INCOME PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "OMH": {
+        "cik_str": 1944902,
+        "ticker": "OMH",
+        "title": "Ohmyhome Ltd",
+        "sector": "Real Estate"
+    },
+    "SQFT": {
+        "cik_str": 1080657,
+        "ticker": "SQFT",
+        "title": "Presidio Property Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ILAL": {
+        "cik_str": 1657214,
+        "ticker": "ILAL",
+        "title": "International Land Alliance Inc.",
+        "sector": "Real Estate"
+    },
+    "GBR": {
+        "cik_str": 105744,
+        "ticker": "GBR",
+        "title": "New Concept Energy, Inc.",
+        "sector": "Real Estate"
+    },
+    "BRST": {
+        "cik_str": 764897,
+        "ticker": "BRST",
+        "title": "Broad Street Realty, Inc.",
+        "sector": "Real Estate"
+    },
+    "WHLR": {
+        "cik_str": 1527541,
+        "ticker": "WHLR",
+        "title": "Wheeler Real Estate Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ZDPY": {
+        "cik_str": 1279620,
+        "ticker": "ZDPY",
+        "title": "Zoned Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "ECRO": {
+        "cik_str": 1300317,
+        "ticker": "ECRO",
+        "title": "ECC Capital CORP",
+        "sector": "Real Estate"
+    },
+    "PW": {
+        "cik_str": 1532619,
+        "ticker": "PW",
+        "title": "Power REIT",
+        "sector": "Real Estate"
+    },
+    "MYCB": {
+        "cik_str": 1556801,
+        "ticker": "MYCB",
+        "title": "My City Builders, Inc.",
+        "sector": "Real Estate"
+    },
+    "MTPP": {
+        "cik_str": 1658521,
+        "ticker": "MTPP",
+        "title": "MOUNTAIN TOP PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "ALBT": {
+        "cik_str": 1630212,
+        "ticker": "ALBT",
+        "title": "Avalon GloboCare Corp.",
+        "sector": "Real Estate"
+    },
+    "TPHS": {
+        "cik_str": 724742,
+        "ticker": "TPHS",
+        "title": "Trinity Place Holdings Inc.",
+        "sector": "Real Estate"
+    },
+    "SGD": {
+        "cik_str": 1959023,
+        "ticker": "SGD",
+        "title": "Safe & Green Development Corp",
+        "sector": "Real Estate"
+    },
+    "MDJH": {
+        "cik_str": 1741534,
+        "ticker": "MDJH",
+        "title": "MDJM LTD",
+        "sector": "Real Estate"
+    },
+    "UK": {
+        "cik_str": 1821424,
+        "ticker": "UK",
+        "title": "Ucommune International Ltd",
+        "sector": "Real Estate"
+    },
+    "LEJUY": {
+        "cik_str": 1596856,
+        "ticker": "LEJUY",
+        "title": "Leju Holdings Ltd",
+        "sector": "Real Estate"
+    },
+    "ACAN": {
+        "cik_str": 1508348,
+        "ticker": "ACAN",
+        "title": "AmeriCann, Inc.",
+        "sector": "Real Estate"
+    },
+    "GMPW": {
+        "cik_str": 1064722,
+        "ticker": "GMPW",
+        "title": "GIVEMEPOWER CORP",
+        "sector": "Real Estate"
+    },
+    "AOXY": {
+        "cik_str": 352991,
+        "ticker": "AOXY",
+        "title": "ADVANCED OXYGEN TECHNOLOGIES INC",
+        "sector": "Real Estate"
+    },
+    "GGEI": {
+        "cik_str": 1158420,
+        "ticker": "GGEI",
+        "title": "Green Giant Inc.",
+        "sector": "Real Estate"
+    },
+    "VINOQ": {
+        "cik_str": 1559998,
+        "ticker": "VINOQ",
+        "title": "Gaucho Group Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "ICR-PA": {
+        "cik_str": 1690012,
+        "ticker": "ICR-PA",
+        "title": "InPoint Commercial Real Estate Income, Inc.",
+        "sector": "Real Estate"
+    },
+    "HTIA": {
+        "cik_str": 1561032,
+        "ticker": "HTIA",
+        "title": "National Healthcare Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "SPG-PJ": {
+        "cik_str": 1063761,
+        "ticker": "SPG-PJ",
+        "title": "SIMON PROPERTY GROUP INC /DE/",
+        "sector": "Real Estate"
+    },
+    "PLDGP": {
+        "cik_str": 1045609,
+        "ticker": "PLDGP",
+        "title": "Prologis, Inc.",
+        "sector": "Real Estate"
+    },
+    "PSA-PH": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PH",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PK": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PK",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "DLR-PK": {
+        "cik_str": 1297996,
+        "ticker": "DLR-PK",
+        "title": "DIGITAL REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "DLR-PJ": {
+        "cik_str": 1297996,
+        "ticker": "DLR-PJ",
+        "title": "DIGITAL REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "NLY-PG": {
+        "cik_str": 1043219,
+        "ticker": "NLY-PG",
+        "title": "ANNALY CAPITAL MANAGEMENT INC",
+        "sector": "Real Estate"
+    },
+    "NLY-PF": {
+        "cik_str": 1043219,
+        "ticker": "NLY-PF",
+        "title": "ANNALY CAPITAL MANAGEMENT INC",
+        "sector": "Real Estate"
+    },
+    "HKHGF": {
+        "cik_str": 871464,
+        "ticker": "HKHGF",
+        "title": "HONGKONG LAND HOLDINGS LTD /FI",
+        "sector": "Real Estate"
+    },
+    "MAA-PI": {
+        "cik_str": 912595,
+        "ticker": "MAA-PI",
+        "title": "MID AMERICA APARTMENT COMMUNITIES INC.",
+        "sector": "Real Estate"
+    },
+    "AGNCM": {
+        "cik_str": 1423689,
+        "ticker": "AGNCM",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "FRT-PC": {
+        "cik_str": 34903,
+        "ticker": "FRT-PC",
+        "title": "FEDERAL REALTY INVESTMENT TRUST",
+        "sector": "Real Estate"
+    },
+    "AGNCN": {
+        "cik_str": 1423689,
+        "ticker": "AGNCN",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "AMH-PH": {
+        "cik_str": 1562401,
+        "ticker": "AMH-PH",
+        "title": "American Homes 4 Rent",
+        "sector": "Real Estate"
+    },
+    "AMH-PG": {
+        "cik_str": 1562401,
+        "ticker": "AMH-PG",
+        "title": "American Homes 4 Rent",
+        "sector": "Real Estate"
+    },
+    "VNO-PL": {
+        "cik_str": 899689,
+        "ticker": "VNO-PL",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "VNO-PM": {
+        "cik_str": 899689,
+        "ticker": "VNO-PM",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "KIM-PM": {
+        "cik_str": 879101,
+        "ticker": "KIM-PM",
+        "title": "KIMCO REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "KIM-PL": {
+        "cik_str": 879101,
+        "ticker": "KIM-PL",
+        "title": "KIMCO REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "SLG-PI": {
+        "cik_str": 1040971,
+        "ticker": "SLG-PI",
+        "title": "SL GREEN REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "EPR-PG": {
+        "cik_str": 1045450,
+        "ticker": "EPR-PG",
+        "title": "EPR PROPERTIES",
+        "sector": "Real Estate"
+    },
+    "VNORP": {
+        "cik_str": 899689,
+        "ticker": "VNORP",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "REXR-PB": {
+        "cik_str": 1571283,
+        "ticker": "REXR-PB",
+        "title": "Rexford Industrial Realty, Inc.",
+        "sector": "Real Estate"
+    },
+    "TWO-PC": {
+        "cik_str": 1465740,
+        "ticker": "TWO-PC",
+        "title": "TWO HARBORS INVESTMENT CORP.",
+        "sector": "Real Estate"
+    },
+    "EQC-PD": {
+        "cik_str": 803649,
+        "ticker": "EQC-PD",
+        "title": "Equity Commonwealth",
+        "sector": "Real Estate"
+    },
+    "CIM-PB": {
+        "cik_str": 1409493,
+        "ticker": "CIM-PB",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Real Estate"
+    },
+    "CIM-PD": {
+        "cik_str": 1409493,
+        "ticker": "CIM-PD",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Real Estate"
+    },
+    "CIM-PC": {
+        "cik_str": 1409493,
+        "ticker": "CIM-PC",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Real Estate"
+    },
+    "TWO-PB": {
+        "cik_str": 1465740,
+        "ticker": "TWO-PB",
+        "title": "TWO HARBORS INVESTMENT CORP.",
+        "sector": "Real Estate"
+    },
+    "TWO-PA": {
+        "cik_str": 1465740,
+        "ticker": "TWO-PA",
+        "title": "TWO HARBORS INVESTMENT CORP.",
+        "sector": "Real Estate"
+    },
+    "MFA-PB": {
+        "cik_str": 1055160,
+        "ticker": "MFA-PB",
+        "title": "MFA FINANCIAL, INC.",
+        "sector": "Real Estate"
+    },
+    "RLJ-PA": {
+        "cik_str": 1511337,
+        "ticker": "RLJ-PA",
+        "title": "RLJ Lodging Trust",
+        "sector": "Real Estate"
+    },
+    "PEB-PF": {
+        "cik_str": 1474098,
+        "ticker": "PEB-PF",
+        "title": "Pebblebrook Hotel Trust",
+        "sector": "Real Estate"
+    },
+    "PEB-PE": {
+        "cik_str": 1474098,
+        "ticker": "PEB-PE",
+        "title": "Pebblebrook Hotel Trust",
+        "sector": "Real Estate"
+    },
+    "CIM-PA": {
+        "cik_str": 1409493,
+        "ticker": "CIM-PA",
+        "title": "CHIMERA INVESTMENT CORP",
+        "sector": "Real Estate"
+    },
+    "NSA-PA": {
+        "cik_str": 1618563,
+        "ticker": "NSA-PA",
+        "title": "National Storage Affiliates Trust",
+        "sector": "Real Estate"
+    },
+    "SITC-PA": {
+        "cik_str": 894315,
+        "ticker": "SITC-PA",
+        "title": "SITE Centers Corp.",
+        "sector": "Real Estate"
+    },
+    "SRG-PA": {
+        "cik_str": 1628063,
+        "ticker": "SRG-PA",
+        "title": "Seritage Growth Properties",
+        "sector": "Real Estate"
+    },
+    "LXP-PC": {
+        "cik_str": 910108,
+        "ticker": "LXP-PC",
+        "title": "LXP Industrial Trust",
+        "sector": "Real Estate"
+    },
+    "IVR-PC": {
+        "cik_str": 1437071,
+        "ticker": "IVR-PC",
+        "title": "Invesco Mortgage Capital Inc.",
+        "sector": "Real Estate"
+    },
+    "FISK": {
+        "cik_str": 1553079,
+        "ticker": "FISK",
+        "title": "Empire State Realty OP, L.P.",
+        "sector": "Real Estate"
+    },
+    "IVR-PB": {
+        "cik_str": 1437071,
+        "ticker": "IVR-PB",
+        "title": "Invesco Mortgage Capital Inc.",
+        "sector": "Real Estate"
+    },
+    "BFS-PD": {
+        "cik_str": 907254,
+        "ticker": "BFS-PD",
+        "title": "SAUL CENTERS, INC.",
+        "sector": "Real Estate"
+    },
+    "OGCP": {
+        "cik_str": 1553079,
+        "ticker": "OGCP",
+        "title": "Empire State Realty OP, L.P.",
+        "sector": "Real Estate"
+    },
+    "GNL-PA": {
+        "cik_str": 1526113,
+        "ticker": "GNL-PA",
+        "title": "Global Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "PMT-PA": {
+        "cik_str": 1464423,
+        "ticker": "PMT-PA",
+        "title": "PennyMac Mortgage Investment Trust",
+        "sector": "Real Estate"
+    },
+    "PMT-PB": {
+        "cik_str": 1464423,
+        "ticker": "PMT-PB",
+        "title": "PennyMac Mortgage Investment Trust",
+        "sector": "Real Estate"
+    },
+    "STSFF": {
+        "cik_str": 1585389,
+        "ticker": "STSFF",
+        "title": "SmartStop Self Storage REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "NYMTN": {
+        "cik_str": 1273685,
+        "ticker": "NYMTN",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Real Estate"
+    },
+    "AHH-PA": {
+        "cik_str": 1569187,
+        "ticker": "AHH-PA",
+        "title": "Armada Hoffler Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "INN-PE": {
+        "cik_str": 1497645,
+        "ticker": "INN-PE",
+        "title": "Summit Hotel Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "IIPR-PA": {
+        "cik_str": 1677576,
+        "ticker": "IIPR-PA",
+        "title": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
+        "sector": "Real Estate"
+    },
+    "KBSR": {
+        "cik_str": 1482430,
+        "ticker": "KBSR",
+        "title": "KBS Real Estate Investment Trust III, Inc.",
+        "sector": "Real Estate"
+    },
+    "UMH-PD": {
+        "cik_str": 752642,
+        "ticker": "UMH-PD",
+        "title": "UMH PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "MITT-PA": {
+        "cik_str": 1514281,
+        "ticker": "MITT-PA",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "MITT-PB": {
+        "cik_str": 1514281,
+        "ticker": "MITT-PB",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "GMRE-PA": {
+        "cik_str": 1533615,
+        "ticker": "GMRE-PA",
+        "title": "Global Medical REIT Inc.",
+        "sector": "Real Estate"
+    },
+    "LANDM": {
+        "cik_str": 1495240,
+        "ticker": "LANDM",
+        "title": "GLADSTONE LAND Corp",
+        "sector": "Real Estate"
+    },
+    "CIO-PA": {
+        "cik_str": 1593222,
+        "ticker": "CIO-PA",
+        "title": "City Office REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "CHMI-PB": {
+        "cik_str": 1571776,
+        "ticker": "CHMI-PB",
+        "title": "Cherry Hill Mortgage Investment Corp",
+        "sector": "Real Estate"
+    },
+    "BHR-PD": {
+        "cik_str": 1574085,
+        "ticker": "BHR-PD",
+        "title": "Braemar Hotels & Resorts Inc.",
+        "sector": "Real Estate"
+    },
+    "BHR-PB": {
+        "cik_str": 1574085,
+        "ticker": "BHR-PB",
+        "title": "Braemar Hotels & Resorts Inc.",
+        "sector": "Real Estate"
+    },
+    "AHT-PF": {
+        "cik_str": 1232582,
+        "ticker": "AHT-PF",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "AHT-PH": {
+        "cik_str": 1232582,
+        "ticker": "AHT-PH",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "AHT-PI": {
+        "cik_str": 1232582,
+        "ticker": "AHT-PI",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "AHT-PG": {
+        "cik_str": 1232582,
+        "ticker": "AHT-PG",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "AHT-PD": {
+        "cik_str": 1232582,
+        "ticker": "AHT-PD",
+        "title": "ASHFORD HOSPITALITY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "CHMI-PA": {
+        "cik_str": 1571776,
+        "ticker": "CHMI-PA",
+        "title": "Cherry Hill Mortgage Investment Corp",
+        "sector": "Real Estate"
+    },
+    "LANDP": {
+        "cik_str": 1495240,
+        "ticker": "LANDP",
+        "title": "GLADSTONE LAND Corp",
+        "sector": "Real Estate"
+    },
+    "CDR-PB": {
+        "cik_str": 761648,
+        "ticker": "CDR-PB",
+        "title": "CEDAR REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "CDR-PC": {
+        "cik_str": 761648,
+        "ticker": "CDR-PC",
+        "title": "CEDAR REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "SOHOO": {
+        "cik_str": 1301236,
+        "ticker": "SOHOO",
+        "title": "Sotherly Hotels Inc.",
+        "sector": "Real Estate"
+    },
+    "SOHOB": {
+        "cik_str": 1301236,
+        "ticker": "SOHOB",
+        "title": "Sotherly Hotels Inc.",
+        "sector": "Real Estate"
+    },
+    "SOHON": {
+        "cik_str": 1301236,
+        "ticker": "SOHON",
+        "title": "Sotherly Hotels Inc.",
+        "sector": "Real Estate"
+    },
+    "CHTH": {
+        "cik_str": 1496454,
+        "ticker": "CHTH",
+        "title": "CNL Healthcare Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "WHLRD": {
+        "cik_str": 1527541,
+        "ticker": "WHLRD",
+        "title": "Wheeler Real Estate Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "SGIC": {
+        "cik_str": 1446371,
+        "ticker": "SGIC",
+        "title": "Strategic Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "UCASU": {
+        "cik_str": 1723517,
+        "ticker": "UCASU",
+        "title": "UC Asset LP",
+        "sector": "Real Estate"
+    },
+    "UCIX": {
+        "cik_str": 1358099,
+        "ticker": "UCIX",
+        "title": "Umbra Companies, Inc.",
+        "sector": "Real Estate"
+    },
+    "WHLRP": {
+        "cik_str": 1527541,
+        "ticker": "WHLRP",
+        "title": "Wheeler Real Estate Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "VINO": {
+        "cik_str": 1559998,
+        "ticker": "VINO",
+        "title": "Gaucho Group Holdings, Inc.",
+        "sector": "Real Estate"
+    },
+    "DPWW": {
+        "cik_str": 1559172,
+        "ticker": "DPWW",
+        "title": "DIEGO PELLICER WORLDWIDE, INC",
+        "sector": "Real Estate"
+    },
+    "VTNA": {
+        "cik_str": 1280396,
+        "ticker": "VTNA",
+        "title": "VetaNova Inc.",
+        "sector": "Real Estate"
+    },
+    "LANDO": {
+        "cik_str": 1495240,
+        "ticker": "LANDO",
+        "title": "GLADSTONE LAND Corp",
+        "sector": "Real Estate"
+    },
+    "BFS-PE": {
+        "cik_str": 907254,
+        "ticker": "BFS-PE",
+        "title": "SAUL CENTERS, INC.",
+        "sector": "Real Estate"
+    },
+    "REGCO": {
+        "cik_str": 910606,
+        "ticker": "REGCO",
+        "title": "REGENCY CENTERS CORP",
+        "sector": "Real Estate"
+    },
+    "REGCP": {
+        "cik_str": 910606,
+        "ticker": "REGCP",
+        "title": "REGENCY CENTERS CORP",
+        "sector": "Real Estate"
+    },
+    "DTLAP": {
+        "cik_str": 1575311,
+        "ticker": "DTLAP",
+        "title": "Brookfield DTLA Fund Office Trust Investor Inc.",
+        "sector": "Real Estate"
+    },
+    "PVOZ": {
+        "cik_str": 1824204,
+        "ticker": "PVOZ",
+        "title": "Park View OZ REIT Inc",
+        "sector": "Real Estate"
+    },
+    "ARR-PC": {
+        "cik_str": 1428205,
+        "ticker": "ARR-PC",
+        "title": "Armour Residential REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "KREF-PA": {
+        "cik_str": 1631596,
+        "ticker": "KREF-PA",
+        "title": "KKR Real Estate Finance Trust Inc.",
+        "sector": "Real Estate"
+    },
+    "AGNCO": {
+        "cik_str": 1423689,
+        "ticker": "AGNCO",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "AGNCP": {
+        "cik_str": 1423689,
+        "ticker": "AGNCP",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "AGNCL": {
+        "cik_str": 1423689,
+        "ticker": "AGNCL",
+        "title": "AGNC Investment Corp.",
+        "sector": "Real Estate"
+    },
+    "CLDT-PA": {
+        "cik_str": 1476045,
+        "ticker": "CLDT-PA",
+        "title": "Chatham Lodging Trust",
+        "sector": "Real Estate"
+    },
+    "VNO-PN": {
+        "cik_str": 899689,
+        "ticker": "VNO-PN",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "VNO-PO": {
+        "cik_str": 899689,
+        "ticker": "VNO-PO",
+        "title": "VORNADO REALTY TRUST",
+        "sector": "Real Estate"
+    },
+    "NSA-PB": {
+        "cik_str": 1618563,
+        "ticker": "NSA-PB",
+        "title": "National Storage Affiliates Trust",
+        "sector": "Real Estate"
+    },
+    "SQFTP": {
+        "cik_str": 1080657,
+        "ticker": "SQFTP",
+        "title": "Presidio Property Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "SQFTW": {
+        "cik_str": 1080657,
+        "ticker": "SQFTW",
+        "title": "Presidio Property Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "MITT-PC": {
+        "cik_str": 1514281,
+        "ticker": "MITT-PC",
+        "title": "AG Mortgage Investment Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "ADC-PA": {
+        "cik_str": 917251,
+        "ticker": "ADC-PA",
+        "title": "AGREE REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "NLY-PI": {
+        "cik_str": 1043219,
+        "ticker": "NLY-PI",
+        "title": "ANNALY CAPITAL MANAGEMENT INC",
+        "sector": "Real Estate"
+    },
+    "REXR-PC": {
+        "cik_str": 1571283,
+        "ticker": "REXR-PC",
+        "title": "Rexford Industrial Realty, Inc.",
+        "sector": "Real Estate"
+    },
+    "UKOMW": {
+        "cik_str": 1821424,
+        "ticker": "UKOMW",
+        "title": "Ucommune International Ltd",
+        "sector": "Real Estate"
+    },
+    "RC-PC": {
+        "cik_str": 1527590,
+        "ticker": "RC-PC",
+        "title": "Ready Capital Corp",
+        "sector": "Real Estate"
+    },
+    "RC-PE": {
+        "cik_str": 1527590,
+        "ticker": "RC-PE",
+        "title": "Ready Capital Corp",
+        "sector": "Real Estate"
+    },
+    "DLR-PL": {
+        "cik_str": 1297996,
+        "ticker": "DLR-PL",
+        "title": "DIGITAL REALTY TRUST, INC.",
+        "sector": "Real Estate"
+    },
+    "NYMTL": {
+        "cik_str": 1273685,
+        "ticker": "NYMTL",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Real Estate"
+    },
+    "NYMTM": {
+        "cik_str": 1273685,
+        "ticker": "NYMTM",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Real Estate"
+    },
+    "NYMTZ": {
+        "cik_str": 1273685,
+        "ticker": "NYMTZ",
+        "title": "NEW YORK MORTGAGE TRUST INC",
+        "sector": "Real Estate"
+    },
+    "GIPRW": {
+        "cik_str": 1651721,
+        "ticker": "GIPRW",
+        "title": "GENERATION INCOME PROPERTIES, INC.",
+        "sector": "Real Estate"
+    },
+    "HTIBP": {
+        "cik_str": 1561032,
+        "ticker": "HTIBP",
+        "title": "National Healthcare Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "FBRT-PE": {
+        "cik_str": 1562528,
+        "ticker": "FBRT-PE",
+        "title": "Franklin BSP Realty Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "TRTX-PC": {
+        "cik_str": 1630472,
+        "ticker": "TRTX-PC",
+        "title": "TPG RE Finance Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "INN-PF": {
+        "cik_str": 1497645,
+        "ticker": "INN-PF",
+        "title": "Summit Hotel Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "PEB-PH": {
+        "cik_str": 1474098,
+        "ticker": "PEB-PH",
+        "title": "Pebblebrook Hotel Trust",
+        "sector": "Real Estate"
+    },
+    "PEB-PG": {
+        "cik_str": 1474098,
+        "ticker": "PEB-PG",
+        "title": "Pebblebrook Hotel Trust",
+        "sector": "Real Estate"
+    },
+    "PSA-PI": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PI",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PJ": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PJ",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PR": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PR",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PS": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PS",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PL": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PL",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PM": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PM",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PN": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PN",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PO": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PO",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PP": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PP",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PQ": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PQ",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PF": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PF",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "PSA-PG": {
+        "cik_str": 1393311,
+        "ticker": "PSA-PG",
+        "title": "Public Storage",
+        "sector": "Real Estate"
+    },
+    "DBRG-PH": {
+        "cik_str": 1679688,
+        "ticker": "DBRG-PH",
+        "title": "DigitalBridge Group, Inc.",
+        "sector": "Real Estate"
+    },
+    "DBRG-PI": {
+        "cik_str": 1679688,
+        "ticker": "DBRG-PI",
+        "title": "DigitalBridge Group, Inc.",
+        "sector": "Real Estate"
+    },
+    "DBRG-PJ": {
+        "cik_str": 1679688,
+        "ticker": "DBRG-PJ",
+        "title": "DigitalBridge Group, Inc.",
+        "sector": "Real Estate"
+    },
+    "LFT-PA": {
+        "cik_str": 1547546,
+        "ticker": "LFT-PA",
+        "title": "Lument Finance Trust, Inc.",
+        "sector": "Real Estate"
+    },
+    "MRNOW": {
+        "cik_str": 1988776,
+        "ticker": "MRNOW",
+        "title": "Murano Global Investments Plc",
+        "sector": "Real Estate"
+    },
+    "EPR-PC": {
+        "cik_str": 1045450,
+        "ticker": "EPR-PC",
+        "title": "EPR PROPERTIES",
+        "sector": "Real Estate"
+    },
+    "EPR-PE": {
+        "cik_str": 1045450,
+        "ticker": "EPR-PE",
+        "title": "EPR PROPERTIES",
+        "sector": "Real Estate"
+    },
+    "SHO-PH": {
+        "cik_str": 1295810,
+        "ticker": "SHO-PH",
+        "title": "Sunstone Hotel Investors, Inc.",
+        "sector": "Real Estate"
+    },
+    "SHO-PI": {
+        "cik_str": 1295810,
+        "ticker": "SHO-PI",
+        "title": "Sunstone Hotel Investors, Inc.",
+        "sector": "Real Estate"
+    },
+    "NXDT-PA": {
+        "cik_str": 1356115,
+        "ticker": "NXDT-PA",
+        "title": "NEXPOINT DIVERSIFIED REAL ESTATE TRUST",
+        "sector": "Real Estate"
+    },
+    "HPP-PC": {
+        "cik_str": 1482512,
+        "ticker": "HPP-PC",
+        "title": "Hudson Pacific Properties, Inc.",
+        "sector": "Real Estate"
+    },
+    "GPMT-PA": {
+        "cik_str": 1703644,
+        "ticker": "GPMT-PA",
+        "title": "Granite Point Mortgage Trust Inc.",
+        "sector": "Real Estate"
+    },
+    "ABR-PD": {
+        "cik_str": 1253986,
+        "ticker": "ABR-PD",
+        "title": "ARBOR REALTY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "ABR-PE": {
+        "cik_str": 1253986,
+        "ticker": "ABR-PE",
+        "title": "ARBOR REALTY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "ABR-PF": {
+        "cik_str": 1253986,
+        "ticker": "ABR-PF",
+        "title": "ARBOR REALTY TRUST INC",
+        "sector": "Real Estate"
+    },
+    "KIM-PN": {
+        "cik_str": 879101,
+        "ticker": "KIM-PN",
+        "title": "KIMCO REALTY CORP",
+        "sector": "Real Estate"
+    },
+    "PMT-PC": {
+        "cik_str": 1464423,
+        "ticker": "PMT-PC",
+        "title": "PennyMac Mortgage Investment Trust",
+        "sector": "Real Estate"
+    },
+    "SSST": {
+        "cik_str": 1585389,
+        "ticker": "SSST",
+        "title": "SmartStop Self Storage REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "BPYPN": {
+        "cik_str": 1545772,
+        "ticker": "BPYPN",
+        "title": "Brookfield Property Partners L.P.",
+        "sector": "Real Estate"
+    },
+    "BPYPO": {
+        "cik_str": 1545772,
+        "ticker": "BPYPO",
+        "title": "Brookfield Property Partners L.P.",
+        "sector": "Real Estate"
+    },
+    "EFC-PA": {
+        "cik_str": 1411342,
+        "ticker": "EFC-PA",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "EFC-PB": {
+        "cik_str": 1411342,
+        "ticker": "EFC-PB",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "EFC-PC": {
+        "cik_str": 1411342,
+        "ticker": "EFC-PC",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "EFC-PE": {
+        "cik_str": 1411342,
+        "ticker": "EFC-PE",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "EFC-PD": {
+        "cik_str": 1411342,
+        "ticker": "EFC-PD",
+        "title": "Ellington Financial Inc.",
+        "sector": "Real Estate"
+    },
+    "MFA-PC": {
+        "cik_str": 1055160,
+        "ticker": "MFA-PC",
+        "title": "MFA FINANCIAL, INC.",
+        "sector": "Real Estate"
+    },
+    "CTO-PA": {
+        "cik_str": 23795,
+        "ticker": "CTO-PA",
+        "title": "CTO Realty Growth, Inc.",
+        "sector": "Real Estate"
+    },
+    "RITM-PA": {
+        "cik_str": 1556593,
+        "ticker": "RITM-PA",
+        "title": "Rithm Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "RITM-PB": {
+        "cik_str": 1556593,
+        "ticker": "RITM-PB",
+        "title": "Rithm Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "RITM-PC": {
+        "cik_str": 1556593,
+        "ticker": "RITM-PC",
+        "title": "Rithm Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "RITM-PD": {
+        "cik_str": 1556593,
+        "ticker": "RITM-PD",
+        "title": "Rithm Capital Corp.",
+        "sector": "Real Estate"
+    },
+    "MDV-PA": {
+        "cik_str": 1645873,
+        "ticker": "MDV-PA",
+        "title": "MODIV INDUSTRIAL, INC.",
+        "sector": "Real Estate"
+    },
+    "DRH-PA": {
+        "cik_str": 1298946,
+        "ticker": "DRH-PA",
+        "title": "DiamondRock Hospitality Co",
+        "sector": "Real Estate"
+    },
+    "MDRRP": {
+        "cik_str": 1654595,
+        "ticker": "MDRRP",
+        "title": "Medalist Diversified REIT, Inc.",
+        "sector": "Real Estate"
+    },
+    "OPADW": {
+        "cik_str": 1825024,
+        "ticker": "OPADW",
+        "title": "Offerpad Solutions Inc.",
+        "sector": "Real Estate"
+    },
+    "GNL-PE": {
+        "cik_str": 1526113,
+        "ticker": "GNL-PE",
+        "title": "Global Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "GNL-PD": {
+        "cik_str": 1526113,
+        "ticker": "GNL-PD",
+        "title": "Global Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "GNL-PB": {
+        "cik_str": 1526113,
+        "ticker": "GNL-PB",
+        "title": "Global Net Lease, Inc.",
+        "sector": "Real Estate"
+    },
+    "LSEAW": {
+        "cik_str": 1721386,
+        "ticker": "LSEAW",
+        "title": "Landsea Homes Corp",
+        "sector": "Real Estate"
+    },
+    "GOODN": {
+        "cik_str": 1234006,
+        "ticker": "GOODN",
+        "title": "GLADSTONE COMMERCIAL CORP",
+        "sector": "Real Estate"
+    },
+    "NREF-PA": {
+        "cik_str": 1786248,
+        "ticker": "NREF-PA",
+        "title": "NexPoint Real Estate Finance, Inc.",
+        "sector": "Real Estate"
+    },
+    "ACR-PC": {
+        "cik_str": 1332551,
+        "ticker": "ACR-PC",
+        "title": "ACRES Commercial Realty Corp.",
+        "sector": "Real Estate"
+    },
+    "ACR-PD": {
+        "cik_str": 1332551,
+        "ticker": "ACR-PD",
+        "title": "ACRES Commercial Realty Corp.",
+        "sector": "Real Estate"
+    },
+    "DX-PC": {
+        "cik_str": 826675,
+        "ticker": "DX-PC",
+        "title": "DYNEX CAPITAL INC",
+        "sector": "Real Estate"
+    }
+}

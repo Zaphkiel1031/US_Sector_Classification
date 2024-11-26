@@ -1,0 +1,2906 @@
+{
+    "LIN": {
+        "cik_str": 1707925,
+        "ticker": "LIN",
+        "title": "LINDE PLC",
+        "sector": "Basic Materials"
+    },
+    "BHP": {
+        "cik_str": 811809,
+        "ticker": "BHP",
+        "title": "BHP Group Ltd",
+        "sector": "Basic Materials"
+    },
+    "RTNTF": {
+        "cik_str": 887028,
+        "ticker": "RTNTF",
+        "title": "RIO TINTO LTD",
+        "sector": "Basic Materials"
+    },
+    "RIO": {
+        "cik_str": 863064,
+        "ticker": "RIO",
+        "title": "RIO TINTO PLC",
+        "sector": "Basic Materials"
+    },
+    "AIQUY": {
+        "cik_str": 1161167,
+        "ticker": "AIQUY",
+        "title": "L AIR LIQUIDE SA /FI",
+        "sector": "Basic Materials"
+    },
+    "SHW": {
+        "cik_str": 89800,
+        "ticker": "SHW",
+        "title": "SHERWIN WILLIAMS CO",
+        "sector": "Basic Materials"
+    },
+    "SCCO": {
+        "cik_str": 1001838,
+        "ticker": "SCCO",
+        "title": "SOUTHERN COPPER CORP/",
+        "sector": "Basic Materials"
+    },
+    "APD": {
+        "cik_str": 2969,
+        "ticker": "APD",
+        "title": "Air Products & Chemicals, Inc.",
+        "sector": "Basic Materials"
+    },
+    "SHECY": {
+        "cik_str": 1442651,
+        "ticker": "SHECY",
+        "title": "Shin-Etsu Chemical Co., Ltd.",
+        "sector": "Basic Materials"
+    },
+    "ECL": {
+        "cik_str": 31462,
+        "ticker": "ECL",
+        "title": "ECOLAB INC.",
+        "sector": "Basic Materials"
+    },
+    "CRH": {
+        "cik_str": 849395,
+        "ticker": "CRH",
+        "title": "CRH PUBLIC LTD CO",
+        "sector": "Basic Materials"
+    },
+    "FCX": {
+        "cik_str": 831259,
+        "ticker": "FCX",
+        "title": "FREEPORT-MCMORAN INC",
+        "sector": "Basic Materials"
+    },
+    "GLNCY": {
+        "cik_str": 1524684,
+        "ticker": "GLNCY",
+        "title": "Glencore plc/ADR",
+        "sector": "Basic Materials"
+    },
+    "PTCAY": {
+        "cik_str": 1547873,
+        "ticker": "PTCAY",
+        "title": "PT Chandra Asri Petrochemical Tbk/ADR",
+        "sector": "Basic Materials"
+    },
+    "CTA-PA": {
+        "cik_str": 30554,
+        "ticker": "CTA-PA",
+        "title": "EIDP, Inc.",
+        "sector": "Basic Materials"
+    },
+    "NEM": {
+        "cik_str": 1164727,
+        "ticker": "NEM",
+        "title": "NEWMONT Corp /DE/",
+        "sector": "Basic Materials"
+    },
+    "VALE": {
+        "cik_str": 917851,
+        "ticker": "VALE",
+        "title": "Vale S.A.",
+        "sector": "Basic Materials"
+    },
+    "CTVA": {
+        "cik_str": 1755672,
+        "ticker": "CTVA",
+        "title": "Corteva, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AEM": {
+        "cik_str": 2809,
+        "ticker": "AEM",
+        "title": "AGNICO EAGLE MINES LTD",
+        "sector": "Basic Materials"
+    },
+    "VMC": {
+        "cik_str": 1396009,
+        "ticker": "VMC",
+        "title": "Vulcan Materials CO",
+        "sector": "Basic Materials"
+    },
+    "MLM": {
+        "cik_str": 916076,
+        "ticker": "MLM",
+        "title": "MARTIN MARIETTA MATERIALS INC",
+        "sector": "Basic Materials"
+    },
+    "NUE": {
+        "cik_str": 73309,
+        "ticker": "NUE",
+        "title": "NUCOR CORP",
+        "sector": "Basic Materials"
+    },
+    "DD": {
+        "cik_str": 1666700,
+        "ticker": "DD",
+        "title": "DuPont de Nemours, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GOLD": {
+        "cik_str": 756894,
+        "ticker": "GOLD",
+        "title": "BARRICK GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "DOW": {
+        "cik_str": 1751788,
+        "ticker": "DOW",
+        "title": "DOW INC.",
+        "sector": "Basic Materials"
+    },
+    "WPM": {
+        "cik_str": 1323404,
+        "ticker": "WPM",
+        "title": "Wheaton Precious Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "PPG": {
+        "cik_str": 79879,
+        "ticker": "PPG",
+        "title": "PPG INDUSTRIES INC",
+        "sector": "Basic Materials"
+    },
+    "LYB": {
+        "cik_str": 1489393,
+        "ticker": "LYB",
+        "title": "LyondellBasell Industries N.V.",
+        "sector": "Basic Materials"
+    },
+    "NVZMY": {
+        "cik_str": 1131345,
+        "ticker": "NVZMY",
+        "title": "NOVOZYMES AS/FI",
+        "sector": "Basic Materials"
+    },
+    "TECK": {
+        "cik_str": 886986,
+        "ticker": "TECK",
+        "title": "TECK RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "FNV": {
+        "cik_str": 1456346,
+        "ticker": "FNV",
+        "title": "FRANCO NEVADA Corp",
+        "sector": "Basic Materials"
+    },
+    "NTR": {
+        "cik_str": 1725964,
+        "ticker": "NTR",
+        "title": "Nutrien Ltd.",
+        "sector": "Basic Materials"
+    },
+    "IFF": {
+        "cik_str": 51253,
+        "ticker": "IFF",
+        "title": "INTERNATIONAL FLAVORS & FRAGRANCES INC",
+        "sector": "Basic Materials"
+    },
+    "HDELY": {
+        "cik_str": 1400691,
+        "ticker": "HDELY",
+        "title": "HeidelbergCement AG",
+        "sector": "Basic Materials"
+    },
+    "STLD": {
+        "cik_str": 1022671,
+        "ticker": "STLD",
+        "title": "STEEL DYNAMICS INC",
+        "sector": "Basic Materials"
+    },
+    "MT": {
+        "cik_str": 1243429,
+        "ticker": "MT",
+        "title": "ArcelorMittal",
+        "sector": "Basic Materials"
+    },
+    "RPM": {
+        "cik_str": 110621,
+        "ticker": "RPM",
+        "title": "RPM INTERNATIONAL INC/DE/",
+        "sector": "Basic Materials"
+    },
+    "RS": {
+        "cik_str": 861884,
+        "ticker": "RS",
+        "title": "RELIANCE, INC.",
+        "sector": "Basic Materials"
+    },
+    "PKX": {
+        "cik_str": 889132,
+        "ticker": "PKX",
+        "title": "POSCO HOLDINGS INC.",
+        "sector": "Basic Materials"
+    },
+    "WLK": {
+        "cik_str": 1262823,
+        "ticker": "WLK",
+        "title": "WESTLAKE CORP",
+        "sector": "Basic Materials"
+    },
+    "CF": {
+        "cik_str": 1324404,
+        "ticker": "CF",
+        "title": "CF Industries Holdings, Inc.",
+        "sector": "Basic Materials"
+    },
+    "JHX": {
+        "cik_str": 1159152,
+        "ticker": "JHX",
+        "title": "James Hardie Industries plc",
+        "sector": "Basic Materials"
+    },
+    "GFI": {
+        "cik_str": 1172724,
+        "ticker": "GFI",
+        "title": "GOLD FIELDS LTD",
+        "sector": "Basic Materials"
+    },
+    "SUZ": {
+        "cik_str": 909327,
+        "ticker": "SUZ",
+        "title": "Suzano S.A.",
+        "sector": "Basic Materials"
+    },
+    "ALB": {
+        "cik_str": 915913,
+        "ticker": "ALB",
+        "title": "ALBEMARLE CORP",
+        "sector": "Basic Materials"
+    },
+    "KGC": {
+        "cik_str": 701818,
+        "ticker": "KGC",
+        "title": "KINROSS GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "EMN": {
+        "cik_str": 915389,
+        "ticker": "EMN",
+        "title": "EASTMAN CHEMICAL CO",
+        "sector": "Basic Materials"
+    },
+    "AA": {
+        "cik_str": 1675149,
+        "ticker": "AA",
+        "title": "Alcoa Corp",
+        "sector": "Basic Materials"
+    },
+    "NDEKY": {
+        "cik_str": 353991,
+        "ticker": "NDEKY",
+        "title": "NITTO DENKO CORP / ADR/",
+        "sector": "Basic Materials"
+    },
+    "SQM": {
+        "cik_str": 909037,
+        "ticker": "SQM",
+        "title": "CHEMICAL & MINING CO OF CHILE INC",
+        "sector": "Basic Materials"
+    },
+    "AU": {
+        "cik_str": 1973832,
+        "ticker": "AU",
+        "title": "AngloGold Ashanti PLC",
+        "sector": "Basic Materials"
+    },
+    "EXP": {
+        "cik_str": 918646,
+        "ticker": "EXP",
+        "title": "EAGLE MATERIALS INC",
+        "sector": "Basic Materials"
+    },
+    "RGLD": {
+        "cik_str": 85535,
+        "ticker": "RGLD",
+        "title": "ROYAL GOLD INC",
+        "sector": "Basic Materials"
+    },
+    "X": {
+        "cik_str": 1163302,
+        "ticker": "X",
+        "title": "UNITED STATES STEEL CORP",
+        "sector": "Basic Materials"
+    },
+    "SUM": {
+        "cik_str": 1621563,
+        "ticker": "SUM",
+        "title": "Summit Materials, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AXTA": {
+        "cik_str": 1616862,
+        "ticker": "AXTA",
+        "title": "Axalta Coating Systems Ltd.",
+        "sector": "Basic Materials"
+    },
+    "MOS": {
+        "cik_str": 1285785,
+        "ticker": "MOS",
+        "title": "MOSAIC CO",
+        "sector": "Basic Materials"
+    },
+    "PAAS": {
+        "cik_str": 771992,
+        "ticker": "PAAS",
+        "title": "PAN AMERICAN SILVER CORP",
+        "sector": "Basic Materials"
+    },
+    "CE": {
+        "cik_str": 1306830,
+        "ticker": "CE",
+        "title": "Celanese Corp",
+        "sector": "Basic Materials"
+    },
+    "UFPI": {
+        "cik_str": 912767,
+        "ticker": "UFPI",
+        "title": "UFP INDUSTRIES INC",
+        "sector": "Basic Materials"
+    },
+    "BZZUY": {
+        "cik_str": 1437774,
+        "ticker": "BZZUY",
+        "title": "BUZZI UNICEM S.p.A.",
+        "sector": "Basic Materials"
+    },
+    "CX": {
+        "cik_str": 1076378,
+        "ticker": "CX",
+        "title": "CEMEX SAB DE CV",
+        "sector": "Basic Materials"
+    },
+    "AGI": {
+        "cik_str": 1178819,
+        "ticker": "AGI",
+        "title": "ALAMOS GOLD INC",
+        "sector": "Basic Materials"
+    },
+    "WFG": {
+        "cik_str": 1402388,
+        "ticker": "WFG",
+        "title": "WEST FRASER TIMBER CO., LTD",
+        "sector": "Basic Materials"
+    },
+    "SSD": {
+        "cik_str": 920371,
+        "ticker": "SSD",
+        "title": "Simpson Manufacturing Co., Inc.",
+        "sector": "Basic Materials"
+    },
+    "FMC": {
+        "cik_str": 37785,
+        "ticker": "FMC",
+        "title": "FMC CORP",
+        "sector": "Basic Materials"
+    },
+    "CMC": {
+        "cik_str": 22444,
+        "ticker": "CMC",
+        "title": "COMMERCIAL METALS Co",
+        "sector": "Basic Materials"
+    },
+    "ESI": {
+        "cik_str": 1590714,
+        "ticker": "ESI",
+        "title": "Element Solutions Inc",
+        "sector": "Basic Materials"
+    },
+    "GGB": {
+        "cik_str": 1073404,
+        "ticker": "GGB",
+        "title": "GERDAU S.A.",
+        "sector": "Basic Materials"
+    },
+    "TX": {
+        "cik_str": 1342874,
+        "ticker": "TX",
+        "title": "Ternium S.A.",
+        "sector": "Basic Materials"
+    },
+    "HMY": {
+        "cik_str": 1023514,
+        "ticker": "HMY",
+        "title": "HARMONY GOLD MINING CO LTD",
+        "sector": "Basic Materials"
+    },
+    "CBT": {
+        "cik_str": 16040,
+        "ticker": "CBT",
+        "title": "CABOT CORP",
+        "sector": "Basic Materials"
+    },
+    "ICL": {
+        "cik_str": 941221,
+        "ticker": "ICL",
+        "title": "ICL Group Ltd.",
+        "sector": "Basic Materials"
+    },
+    "CLF": {
+        "cik_str": 764065,
+        "ticker": "CLF",
+        "title": "CLEVELAND-CLIFFS INC.",
+        "sector": "Basic Materials"
+    },
+    "BCPC": {
+        "cik_str": 9326,
+        "ticker": "BCPC",
+        "title": "BALCHEM CORP",
+        "sector": "Basic Materials"
+    },
+    "KNF": {
+        "cik_str": 1955520,
+        "ticker": "KNF",
+        "title": "Knife River Corp",
+        "sector": "Basic Materials"
+    },
+    "ALTM": {
+        "cik_str": 1977303,
+        "ticker": "ALTM",
+        "title": "Arcadium Lithium plc",
+        "sector": "Basic Materials"
+    },
+    "BCC": {
+        "cik_str": 1328581,
+        "ticker": "BCC",
+        "title": "BOISE CASCADE Co",
+        "sector": "Basic Materials"
+    },
+    "NEU": {
+        "cik_str": 1282637,
+        "ticker": "NEU",
+        "title": "NEWMARKET CORP",
+        "sector": "Basic Materials"
+    },
+    "OLN": {
+        "cik_str": 74303,
+        "ticker": "OLN",
+        "title": "OLIN Corp",
+        "sector": "Basic Materials"
+    },
+    "AVNT": {
+        "cik_str": 1122976,
+        "ticker": "AVNT",
+        "title": "AVIENT CORP",
+        "sector": "Basic Materials"
+    },
+    "SHWDY": {
+        "cik_str": 1446694,
+        "ticker": "SHWDY",
+        "title": "Showa Denko K.K./ADR",
+        "sector": "Basic Materials"
+    },
+    "USLM": {
+        "cik_str": 82020,
+        "ticker": "USLM",
+        "title": "UNITED STATES LIME & MINERALS INC",
+        "sector": "Basic Materials"
+    },
+    "SMG": {
+        "cik_str": 825542,
+        "ticker": "SMG",
+        "title": "SCOTTS MIRACLE-GRO CO",
+        "sector": "Basic Materials"
+    },
+    "SIM": {
+        "cik_str": 887153,
+        "ticker": "SIM",
+        "title": "GRUPO SIMEC, S.A.B. de C.V.",
+        "sector": "Basic Materials"
+    },
+    "FUL": {
+        "cik_str": 39368,
+        "ticker": "FUL",
+        "title": "FULLER H B CO",
+        "sector": "Basic Materials"
+    },
+    "HCC": {
+        "cik_str": 1691303,
+        "ticker": "HCC",
+        "title": "WARRIOR MET COAL, INC.",
+        "sector": "Basic Materials"
+    },
+    "WDFC": {
+        "cik_str": 105132,
+        "ticker": "WDFC",
+        "title": "WD 40 CO",
+        "sector": "Basic Materials"
+    },
+    "BTG": {
+        "cik_str": 1429937,
+        "ticker": "BTG",
+        "title": "B2GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "OR": {
+        "cik_str": 1627272,
+        "ticker": "OR",
+        "title": "Osisko Gold Royalties LTD",
+        "sector": "Basic Materials"
+    },
+    "ASH": {
+        "cik_str": 1674862,
+        "ticker": "ASH",
+        "title": "ASHLAND INC.",
+        "sector": "Basic Materials"
+    },
+    "SLVM": {
+        "cik_str": 1856485,
+        "ticker": "SLVM",
+        "title": "Sylvamo Corp",
+        "sector": "Basic Materials"
+    },
+    "TGLS": {
+        "cik_str": 1534675,
+        "ticker": "TGLS",
+        "title": "Tecnoglass Inc.",
+        "sector": "Basic Materials"
+    },
+    "HL": {
+        "cik_str": 719413,
+        "ticker": "HL",
+        "title": "HECLA MINING CO/DE/",
+        "sector": "Basic Materials"
+    },
+    "HBM": {
+        "cik_str": 1322422,
+        "ticker": "HBM",
+        "title": "Hudbay Minerals Inc.",
+        "sector": "Basic Materials"
+    },
+    "SLVYY": {
+        "cik_str": 930826,
+        "ticker": "SLVYY",
+        "title": "SOLVAY S A /ADR/",
+        "sector": "Basic Materials"
+    },
+    "SSL": {
+        "cik_str": 314590,
+        "ticker": "SSL",
+        "title": "SASOL LTD",
+        "sector": "Basic Materials"
+    },
+    "EGO": {
+        "cik_str": 918608,
+        "ticker": "EGO",
+        "title": "ELDORADO GOLD CORP /FI",
+        "sector": "Basic Materials"
+    },
+    "HUN": {
+        "cik_str": 1307954,
+        "ticker": "HUN",
+        "title": "Huntsman CORP",
+        "sector": "Basic Materials"
+    },
+    "TFPM": {
+        "cik_str": 1829726,
+        "ticker": "TFPM",
+        "title": "Triple Flag Precious Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "SXT": {
+        "cik_str": 310142,
+        "ticker": "SXT",
+        "title": "SENSIENT TECHNOLOGIES CORP",
+        "sector": "Basic Materials"
+    },
+    "AMR": {
+        "cik_str": 1704715,
+        "ticker": "AMR",
+        "title": "Alpha Metallurgical Resources, Inc.",
+        "sector": "Basic Materials"
+    },
+    "IAG": {
+        "cik_str": 1203464,
+        "ticker": "IAG",
+        "title": "IAMGOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "ARCH": {
+        "cik_str": 1037676,
+        "ticker": "ARCH",
+        "title": "ARCH RESOURCES, INC.",
+        "sector": "Basic Materials"
+    },
+    "CC": {
+        "cik_str": 1627223,
+        "ticker": "CC",
+        "title": "Chemours Co",
+        "sector": "Basic Materials"
+    },
+    "BVN": {
+        "cik_str": 1013131,
+        "ticker": "BVN",
+        "title": "BUENAVENTURA MINING CO INC",
+        "sector": "Basic Materials"
+    },
+    "MP": {
+        "cik_str": 1801368,
+        "ticker": "MP",
+        "title": "MP Materials Corp. / DE",
+        "sector": "Basic Materials"
+    },
+    "MEOH": {
+        "cik_str": 886977,
+        "ticker": "MEOH",
+        "title": "METHANEX CORP",
+        "sector": "Basic Materials"
+    },
+    "SBSW": {
+        "cik_str": 1786909,
+        "ticker": "SBSW",
+        "title": "Sibanye Stillwater Ltd",
+        "sector": "Basic Materials"
+    },
+    "KWR": {
+        "cik_str": 81362,
+        "ticker": "KWR",
+        "title": "QUAKER CHEMICAL CORP",
+        "sector": "Basic Materials"
+    },
+    "IOSP": {
+        "cik_str": 1054905,
+        "ticker": "IOSP",
+        "title": "INNOSPEC INC.",
+        "sector": "Basic Materials"
+    },
+    "HWKN": {
+        "cik_str": 46250,
+        "ticker": "HWKN",
+        "title": "HAWKINS INC",
+        "sector": "Basic Materials"
+    },
+    "SID": {
+        "cik_str": 1049659,
+        "ticker": "SID",
+        "title": "NATIONAL STEEL CO",
+        "sector": "Basic Materials"
+    },
+    "CDE": {
+        "cik_str": 215466,
+        "ticker": "CDE",
+        "title": "Coeur Mining, Inc.",
+        "sector": "Basic Materials"
+    },
+    "MTX": {
+        "cik_str": 891014,
+        "ticker": "MTX",
+        "title": "MINERALS TECHNOLOGIES INC",
+        "sector": "Basic Materials"
+    },
+    "EQX": {
+        "cik_str": 1756607,
+        "ticker": "EQX",
+        "title": "Equinox Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "MTRN": {
+        "cik_str": 1104657,
+        "ticker": "MTRN",
+        "title": "MATERION Corp",
+        "sector": "Basic Materials"
+    },
+    "NGD": {
+        "cik_str": 800166,
+        "ticker": "NGD",
+        "title": "New Gold Inc. /FI",
+        "sector": "Basic Materials"
+    },
+    "WS": {
+        "cik_str": 1968487,
+        "ticker": "WS",
+        "title": "Worthington Steel, Inc.",
+        "sector": "Basic Materials"
+    },
+    "CENX": {
+        "cik_str": 949157,
+        "ticker": "CENX",
+        "title": "CENTURY ALUMINUM CO",
+        "sector": "Basic Materials"
+    },
+    "KOZAY": {
+        "cik_str": 1532173,
+        "ticker": "KOZAY",
+        "title": "Koza Altin Isletmeleri A.S./ADR",
+        "sector": "Basic Materials"
+    },
+    "AG": {
+        "cik_str": 1308648,
+        "ticker": "AG",
+        "title": "FIRST MAJESTIC SILVER CORP",
+        "sector": "Basic Materials"
+    },
+    "PRM": {
+        "cik_str": 1880319,
+        "ticker": "PRM",
+        "title": "Perimeter Solutions, Inc.",
+        "sector": "Basic Materials"
+    },
+    "TROX": {
+        "cik_str": 1530804,
+        "ticker": "TROX",
+        "title": "Tronox Holdings plc",
+        "sector": "Basic Materials"
+    },
+    "NGVT": {
+        "cik_str": 1653477,
+        "ticker": "NGVT",
+        "title": "Ingevity Corp",
+        "sector": "Basic Materials"
+    },
+    "CSTM": {
+        "cik_str": 1563411,
+        "ticker": "CSTM",
+        "title": "CONSTELLIUM SE",
+        "sector": "Basic Materials"
+    },
+    "SAND": {
+        "cik_str": 1434614,
+        "ticker": "SAND",
+        "title": "SANDSTORM GOLD LTD",
+        "sector": "Basic Materials"
+    },
+    "CARCY": {
+        "cik_str": 1484515,
+        "ticker": "CARCY",
+        "title": "China Resources Cement Holdings Limited/ADR/",
+        "sector": "Basic Materials"
+    },
+    "SCL": {
+        "cik_str": 94049,
+        "ticker": "SCL",
+        "title": "STEPAN CO",
+        "sector": "Basic Materials"
+    },
+    "ERO": {
+        "cik_str": 1853860,
+        "ticker": "ERO",
+        "title": "Ero Copper Corp.",
+        "sector": "Basic Materials"
+    },
+    "SGML": {
+        "cik_str": 1848309,
+        "ticker": "SGML",
+        "title": "Sigma Lithium Corp",
+        "sector": "Basic Materials"
+    },
+    "MAG": {
+        "cik_str": 1230992,
+        "ticker": "MAG",
+        "title": "MAG SILVER CORP",
+        "sector": "Basic Materials"
+    },
+    "PDO": {
+        "cik_str": 1798618,
+        "ticker": "PDO",
+        "title": "PIMCO Dynamic Income Opportunities Fund",
+        "sector": "Basic Materials"
+    },
+    "FSM": {
+        "cik_str": 1341335,
+        "ticker": "FSM",
+        "title": "FORTUNA MINING CORP.",
+        "sector": "Basic Materials"
+    },
+    "SILV": {
+        "cik_str": 1659520,
+        "ticker": "SILV",
+        "title": "SilverCrest Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "ORLA": {
+        "cik_str": 1680056,
+        "ticker": "ORLA",
+        "title": "Orla Mining Ltd.",
+        "sector": "Basic Materials"
+    },
+    "OUTKY": {
+        "cik_str": 920822,
+        "ticker": "OUTKY",
+        "title": "OUTOKUMPU OY /FI",
+        "sector": "Basic Materials"
+    },
+    "LOMA": {
+        "cik_str": 1711375,
+        "ticker": "LOMA",
+        "title": "Loma Negra Compania Industrial Argentina Sociedad Anonima",
+        "sector": "Basic Materials"
+    },
+    "SA": {
+        "cik_str": 1231346,
+        "ticker": "SA",
+        "title": "SEABRIDGE GOLD INC",
+        "sector": "Basic Materials"
+    },
+    "KRO": {
+        "cik_str": 1257640,
+        "ticker": "KRO",
+        "title": "KRONOS WORLDWIDE INC",
+        "sector": "Basic Materials"
+    },
+    "KALU": {
+        "cik_str": 811596,
+        "ticker": "KALU",
+        "title": "KAISER ALUMINUM CORP",
+        "sector": "Basic Materials"
+    },
+    "CGAU": {
+        "cik_str": 1854640,
+        "ticker": "CGAU",
+        "title": "Centerra Gold Inc.",
+        "sector": "Basic Materials"
+    },
+    "NG": {
+        "cik_str": 1173420,
+        "ticker": "NG",
+        "title": "NOVAGOLD RESOURCES INC",
+        "sector": "Basic Materials"
+    },
+    "ASTL": {
+        "cik_str": 1860805,
+        "ticker": "ASTL",
+        "title": "Algoma Steel Group Inc.",
+        "sector": "Basic Materials"
+    },
+    "SSRM": {
+        "cik_str": 921638,
+        "ticker": "SSRM",
+        "title": "SSR MINING INC.",
+        "sector": "Basic Materials"
+    },
+    "IE": {
+        "cik_str": 1879016,
+        "ticker": "IE",
+        "title": "Ivanhoe Electric Inc.",
+        "sector": "Basic Materials"
+    },
+    "GATO": {
+        "cik_str": 1517006,
+        "ticker": "GATO",
+        "title": "Gatos Silver, Inc.",
+        "sector": "Basic Materials"
+    },
+    "EXK": {
+        "cik_str": 1277866,
+        "ticker": "EXK",
+        "title": "ENDEAVOUR SILVER CORP",
+        "sector": "Basic Materials"
+    },
+    "SXC": {
+        "cik_str": 1514705,
+        "ticker": "SXC",
+        "title": "SunCoke Energy, Inc.",
+        "sector": "Basic Materials"
+    },
+    "OEC": {
+        "cik_str": 1609804,
+        "ticker": "OEC",
+        "title": "Orion S.A.",
+        "sector": "Basic Materials"
+    },
+    "MTAL": {
+        "cik_str": 1950246,
+        "ticker": "MTAL",
+        "title": "Metals Acquisition Ltd",
+        "sector": "Basic Materials"
+    },
+    "NEXA": {
+        "cik_str": 1713930,
+        "ticker": "NEXA",
+        "title": "Nexa Resources S.A.",
+        "sector": "Basic Materials"
+    },
+    "SKE": {
+        "cik_str": 1713748,
+        "ticker": "SKE",
+        "title": "Skeena Resources Ltd",
+        "sector": "Basic Materials"
+    },
+    "ECVT": {
+        "cik_str": 1708035,
+        "ticker": "ECVT",
+        "title": "Ecovyst Inc.",
+        "sector": "Basic Materials"
+    },
+    "LAC": {
+        "cik_str": 1966983,
+        "ticker": "LAC",
+        "title": "LITHIUM AMERICAS CORP.",
+        "sector": "Basic Materials"
+    },
+    "BAK": {
+        "cik_str": 1071438,
+        "ticker": "BAK",
+        "title": "BRASKEM SA",
+        "sector": "Basic Materials"
+    },
+    "GSM": {
+        "cik_str": 1639877,
+        "ticker": "GSM",
+        "title": "Ferroglobe PLC",
+        "sector": "Basic Materials"
+    },
+    "DRD": {
+        "cik_str": 1023512,
+        "ticker": "DRD",
+        "title": "DRDGOLD LTD",
+        "sector": "Basic Materials"
+    },
+    "IPX": {
+        "cik_str": 1898601,
+        "ticker": "IPX",
+        "title": "IPERIONX Ltd",
+        "sector": "Basic Materials"
+    },
+    "ASIX": {
+        "cik_str": 1673985,
+        "ticker": "ASIX",
+        "title": "AdvanSix Inc.",
+        "sector": "Basic Materials"
+    },
+    "WLKP": {
+        "cik_str": 1604665,
+        "ticker": "WLKP",
+        "title": "Westlake Chemical Partners LP",
+        "sector": "Basic Materials"
+    },
+    "REX": {
+        "cik_str": 744187,
+        "ticker": "REX",
+        "title": "REX AMERICAN RESOURCES Corp",
+        "sector": "Basic Materials"
+    },
+    "VHI": {
+        "cik_str": 59255,
+        "ticker": "VHI",
+        "title": "VALHI INC /DE/",
+        "sector": "Basic Materials"
+    },
+    "KOP": {
+        "cik_str": 1315257,
+        "ticker": "KOP",
+        "title": "Koppers Holdings Inc.",
+        "sector": "Basic Materials"
+    },
+    "UAN": {
+        "cik_str": 1425292,
+        "ticker": "UAN",
+        "title": "CVR PARTNERS, LP",
+        "sector": "Basic Materials"
+    },
+    "SVM": {
+        "cik_str": 1340677,
+        "ticker": "SVM",
+        "title": "SILVERCORP METALS INC",
+        "sector": "Basic Materials"
+    },
+    "GPRE": {
+        "cik_str": 1309402,
+        "ticker": "GPRE",
+        "title": "Green Plains Inc.",
+        "sector": "Basic Materials"
+    },
+    "ARMN": {
+        "cik_str": 1964504,
+        "ticker": "ARMN",
+        "title": "Aris Mining Corp",
+        "sector": "Basic Materials"
+    },
+    "MATV": {
+        "cik_str": 1000623,
+        "ticker": "MATV",
+        "title": "Mativ Holdings, Inc.",
+        "sector": "Basic Materials"
+    },
+    "PPTA": {
+        "cik_str": 1526243,
+        "ticker": "PPTA",
+        "title": "PERPETUA RESOURCES CORP.",
+        "sector": "Basic Materials"
+    },
+    "METC": {
+        "cik_str": 1687187,
+        "ticker": "METC",
+        "title": "Ramaco Resources, Inc.",
+        "sector": "Basic Materials"
+    },
+    "MTUS": {
+        "cik_str": 1598428,
+        "ticker": "MTUS",
+        "title": "Metallus Inc.",
+        "sector": "Basic Materials"
+    },
+    "TGB": {
+        "cik_str": 878518,
+        "ticker": "TGB",
+        "title": "TASEKO MINES LTD",
+        "sector": "Basic Materials"
+    },
+    "RUPRF": {
+        "cik_str": 1010000,
+        "ticker": "RUPRF",
+        "title": "RUPERT RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "LXU": {
+        "cik_str": 60714,
+        "ticker": "LXU",
+        "title": "LSB INDUSTRIES, INC.",
+        "sector": "Basic Materials"
+    },
+    "CMP": {
+        "cik_str": 1227654,
+        "ticker": "CMP",
+        "title": "COMPASS MINERALS INTERNATIONAL INC",
+        "sector": "Basic Materials"
+    },
+    "RYAM": {
+        "cik_str": 1597672,
+        "ticker": "RYAM",
+        "title": "RAYONIER ADVANCED MATERIALS INC.",
+        "sector": "Basic Materials"
+    },
+    "RDUS": {
+        "cik_str": 912603,
+        "ticker": "RDUS",
+        "title": "RADIUS RECYCLING, INC.",
+        "sector": "Basic Materials"
+    },
+    "LZM": {
+        "cik_str": 1958217,
+        "ticker": "LZM",
+        "title": "Lifezone Metals Ltd",
+        "sector": "Basic Materials"
+    },
+    "LVRO": {
+        "cik_str": 1945711,
+        "ticker": "LVRO",
+        "title": "Lavoro Ltd",
+        "sector": "Basic Materials"
+    },
+    "LAAC": {
+        "cik_str": 1440972,
+        "ticker": "LAAC",
+        "title": "Lithium Americas (Argentina) Corp.",
+        "sector": "Basic Materials"
+    },
+    "ASPI": {
+        "cik_str": 1921865,
+        "ticker": "ASPI",
+        "title": "ASP Isotopes Inc.",
+        "sector": "Basic Materials"
+    },
+    "CRML": {
+        "cik_str": 1951089,
+        "ticker": "CRML",
+        "title": "Critical Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "VZLA": {
+        "cik_str": 1796073,
+        "ticker": "VZLA",
+        "title": "Vizsla Silver Corp.",
+        "sector": "Basic Materials"
+    },
+    "ODC": {
+        "cik_str": 74046,
+        "ticker": "ODC",
+        "title": "Oil-Dri Corp of America",
+        "sector": "Basic Materials"
+    },
+    "CPAC": {
+        "cik_str": 1221029,
+        "ticker": "CPAC",
+        "title": "CEMENTOS PACASMAYO SAA",
+        "sector": "Basic Materials"
+    },
+    "SLSR": {
+        "cik_str": 2019103,
+        "ticker": "SLSR",
+        "title": "Solaris Resources Inc.",
+        "sector": "Basic Materials"
+    },
+    "ZEUS": {
+        "cik_str": 917470,
+        "ticker": "ZEUS",
+        "title": "OLYMPIC STEEL INC",
+        "sector": "Basic Materials"
+    },
+    "GTI": {
+        "cik_str": 1879373,
+        "ticker": "GTI",
+        "title": "GRAPHJET TECHNOLOGY",
+        "sector": "Basic Materials"
+    },
+    "MUX": {
+        "cik_str": 314203,
+        "ticker": "MUX",
+        "title": "McEwen Mining Inc.",
+        "sector": "Basic Materials"
+    },
+    "CLW": {
+        "cik_str": 1441236,
+        "ticker": "CLW",
+        "title": "Clearwater Paper Corp",
+        "sector": "Basic Materials"
+    },
+    "MERC": {
+        "cik_str": 1333274,
+        "ticker": "MERC",
+        "title": "MERCER INTERNATIONAL INC.",
+        "sector": "Basic Materials"
+    },
+    "USAP": {
+        "cik_str": 931584,
+        "ticker": "USAP",
+        "title": "UNIVERSAL STAINLESS & ALLOY PRODUCTS INC",
+        "sector": "Basic Materials"
+    },
+    "BIOX": {
+        "cik_str": 1769484,
+        "ticker": "BIOX",
+        "title": "Bioceres Crop Solutions Corp.",
+        "sector": "Basic Materials"
+    },
+    "GAU": {
+        "cik_str": 1377757,
+        "ticker": "GAU",
+        "title": "Galiano Gold Inc.",
+        "sector": "Basic Materials"
+    },
+    "LWLG": {
+        "cik_str": 1325964,
+        "ticker": "LWLG",
+        "title": "Lightwave Logic, Inc.",
+        "sector": "Basic Materials"
+    },
+    "IPI": {
+        "cik_str": 1421461,
+        "ticker": "IPI",
+        "title": "Intrepid Potash, Inc.",
+        "sector": "Basic Materials"
+    },
+    "MSB": {
+        "cik_str": 65172,
+        "ticker": "MSB",
+        "title": "MESABI TRUST",
+        "sector": "Basic Materials"
+    },
+    "IONR": {
+        "cik_str": 1896084,
+        "ticker": "IONR",
+        "title": "ioneer Ltd",
+        "sector": "Basic Materials"
+    },
+    "GEVO": {
+        "cik_str": 1392380,
+        "ticker": "GEVO",
+        "title": "Gevo, Inc.",
+        "sector": "Basic Materials"
+    },
+    "SLI": {
+        "cik_str": 1537137,
+        "ticker": "SLI",
+        "title": "STANDARD LITHIUM LTD.",
+        "sector": "Basic Materials"
+    },
+    "TMC": {
+        "cik_str": 1798562,
+        "ticker": "TMC",
+        "title": "TMC the metals Co Inc.",
+        "sector": "Basic Materials"
+    },
+    "NFGC": {
+        "cik_str": 1840616,
+        "ticker": "NFGC",
+        "title": "New Found Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "ANVI": {
+        "cik_str": 1570132,
+        "ticker": "ANVI",
+        "title": "ANVI GLOBAL HOLDINGS, INC.",
+        "sector": "Basic Materials"
+    },
+    "MTA": {
+        "cik_str": 1722606,
+        "ticker": "MTA",
+        "title": "Metalla Royalty & Streaming Ltd.",
+        "sector": "Basic Materials"
+    },
+    "CNL": {
+        "cik_str": 1953575,
+        "ticker": "CNL",
+        "title": "Collective Mining Ltd.",
+        "sector": "Basic Materials"
+    },
+    "HDSN": {
+        "cik_str": 925528,
+        "ticker": "HDSN",
+        "title": "HUDSON TECHNOLOGIES INC /NY",
+        "sector": "Basic Materials"
+    },
+    "ODV": {
+        "cik_str": 1431852,
+        "ticker": "ODV",
+        "title": "Osisko Development Corp.",
+        "sector": "Basic Materials"
+    },
+    "IAUX": {
+        "cik_str": 1853962,
+        "ticker": "IAUX",
+        "title": "i-80 Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "NEWP": {
+        "cik_str": 1369085,
+        "ticker": "NEWP",
+        "title": "NEW PACIFIC METALS CORP",
+        "sector": "Basic Materials"
+    },
+    "NAK": {
+        "cik_str": 1164771,
+        "ticker": "NAK",
+        "title": "NORTHERN DYNASTY MINERALS LTD",
+        "sector": "Basic Materials"
+    },
+    "RBTK": {
+        "cik_str": 1594204,
+        "ticker": "RBTK",
+        "title": "ZHEN DING RESOURCES INC.",
+        "sector": "Basic Materials"
+    },
+    "PLL": {
+        "cik_str": 1728205,
+        "ticker": "PLL",
+        "title": "Piedmont Lithium Inc.",
+        "sector": "Basic Materials"
+    },
+    "RLEA": {
+        "cik_str": 1893657,
+        "ticker": "RLEA",
+        "title": "Rubber Leaf Inc",
+        "sector": "Basic Materials"
+    },
+    "SMID": {
+        "cik_str": 924719,
+        "ticker": "SMID",
+        "title": "SMITH MIDLAND CORP",
+        "sector": "Basic Materials"
+    },
+    "GDRZF": {
+        "cik_str": 1072725,
+        "ticker": "GDRZF",
+        "title": "GOLD RESERVE LTD",
+        "sector": "Basic Materials"
+    },
+    "CTGO": {
+        "cik_str": 1502377,
+        "ticker": "CTGO",
+        "title": "Contango ORE, Inc.",
+        "sector": "Basic Materials"
+    },
+    "WRN": {
+        "cik_str": 1364125,
+        "ticker": "WRN",
+        "title": "Western Copper & Gold Corp",
+        "sector": "Basic Materials"
+    },
+    "FF": {
+        "cik_str": 1337298,
+        "ticker": "FF",
+        "title": "FutureFuel Corp.",
+        "sector": "Basic Materials"
+    },
+    "GROY": {
+        "cik_str": 1834026,
+        "ticker": "GROY",
+        "title": "Gold Royalty Corp.",
+        "sector": "Basic Materials"
+    },
+    "CMCL": {
+        "cik_str": 766011,
+        "ticker": "CMCL",
+        "title": "Caledonia Mining Corp Plc",
+        "sector": "Basic Materials"
+    },
+    "DC": {
+        "cik_str": 1852353,
+        "ticker": "DC",
+        "title": "Dakota Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "TMQ": {
+        "cik_str": 1543418,
+        "ticker": "TMQ",
+        "title": "Trilogy Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "MTWO": {
+        "cik_str": 1753373,
+        "ticker": "MTWO",
+        "title": "M2i Global, Inc.",
+        "sector": "Basic Materials"
+    },
+    "EMX": {
+        "cik_str": 1285786,
+        "ticker": "EMX",
+        "title": "EMX Royalty Corp",
+        "sector": "Basic Materials"
+    },
+    "VRDR": {
+        "cik_str": 1506929,
+        "ticker": "VRDR",
+        "title": "VERDE RESOURCES, INC.",
+        "sector": "Basic Materials"
+    },
+    "REEMF": {
+        "cik_str": 1419806,
+        "ticker": "REEMF",
+        "title": "RARE ELEMENT RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "AVD": {
+        "cik_str": 5981,
+        "ticker": "AVD",
+        "title": "AMERICAN VANGUARD CORP",
+        "sector": "Basic Materials"
+    },
+    "ORGN": {
+        "cik_str": 1802457,
+        "ticker": "ORGN",
+        "title": "Origin Materials, Inc.",
+        "sector": "Basic Materials"
+    },
+    "PLG": {
+        "cik_str": 1095052,
+        "ticker": "PLG",
+        "title": "PLATINUM GROUP METALS LTD",
+        "sector": "Basic Materials"
+    },
+    "NANX": {
+        "cik_str": 883107,
+        "ticker": "NANX",
+        "title": "NANOPHASE TECHNOLOGIES Corp",
+        "sector": "Basic Materials"
+    },
+    "GLDG": {
+        "cik_str": 1538847,
+        "ticker": "GLDG",
+        "title": "GoldMining Inc.",
+        "sector": "Basic Materials"
+    },
+    "ASM": {
+        "cik_str": 316888,
+        "ticker": "ASM",
+        "title": "AVINO SILVER & GOLD MINES LTD",
+        "sector": "Basic Materials"
+    },
+    "IDR": {
+        "cik_str": 1030192,
+        "ticker": "IDR",
+        "title": "Idaho Strategic Resources, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AMLI": {
+        "cik_str": 1699880,
+        "ticker": "AMLI",
+        "title": "American Lithium Corp.",
+        "sector": "Basic Materials"
+    },
+    "ITRG": {
+        "cik_str": 1722387,
+        "ticker": "ITRG",
+        "title": "Integra Resources Corp.",
+        "sector": "Basic Materials"
+    },
+    "SPGX": {
+        "cik_str": 1500305,
+        "ticker": "SPGX",
+        "title": "Sustainable Projects Group Inc.",
+        "sector": "Basic Materials"
+    },
+    "ERDCF": {
+        "cik_str": 1398972,
+        "ticker": "ERDCF",
+        "title": "Erdene Resource Development Corp",
+        "sector": "Basic Materials"
+    },
+    "CMT": {
+        "cik_str": 1026655,
+        "ticker": "CMT",
+        "title": "CORE MOLDING TECHNOLOGIES INC",
+        "sector": "Basic Materials"
+    },
+    "NMG": {
+        "cik_str": 1649752,
+        "ticker": "NMG",
+        "title": "Nouveau Monde Graphite Inc.",
+        "sector": "Basic Materials"
+    },
+    "VOXR": {
+        "cik_str": 1907909,
+        "ticker": "VOXR",
+        "title": "VOX ROYALTY CORP.",
+        "sector": "Basic Materials"
+    },
+    "NTIC": {
+        "cik_str": 875582,
+        "ticker": "NTIC",
+        "title": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
+        "sector": "Basic Materials"
+    },
+    "FTCO": {
+        "cik_str": 1828377,
+        "ticker": "FTCO",
+        "title": "Fortitude Gold Corp",
+        "sector": "Basic Materials"
+    },
+    "LGO": {
+        "cik_str": 1400438,
+        "ticker": "LGO",
+        "title": "Largo Inc.",
+        "sector": "Basic Materials"
+    },
+    "USGO": {
+        "cik_str": 1947244,
+        "ticker": "USGO",
+        "title": "U.S. GoldMining Inc.",
+        "sector": "Basic Materials"
+    },
+    "TSE": {
+        "cik_str": 1519061,
+        "ticker": "TSE",
+        "title": "Trinseo PLC",
+        "sector": "Basic Materials"
+    },
+    "ATLX": {
+        "cik_str": 1540684,
+        "ticker": "ATLX",
+        "title": "Atlas Lithium Corp",
+        "sector": "Basic Materials"
+    },
+    "ALTO": {
+        "cik_str": 778164,
+        "ticker": "ALTO",
+        "title": "Alto Ingredients, Inc.",
+        "sector": "Basic Materials"
+    },
+    "ACNT": {
+        "cik_str": 95953,
+        "ticker": "ACNT",
+        "title": "ASCENT INDUSTRIES CO.",
+        "sector": "Basic Materials"
+    },
+    "FFMGF": {
+        "cik_str": 1641229,
+        "ticker": "FFMGF",
+        "title": "First Mining Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "USAS": {
+        "cik_str": 1286973,
+        "ticker": "USAS",
+        "title": "Americas Gold & Silver Corp",
+        "sector": "Basic Materials"
+    },
+    "TRX": {
+        "cik_str": 1173643,
+        "ticker": "TRX",
+        "title": "TRX GOLD Corp",
+        "sector": "Basic Materials"
+    },
+    "FRD": {
+        "cik_str": 39092,
+        "ticker": "FRD",
+        "title": "FRIEDMAN INDUSTRIES INC",
+        "sector": "Basic Materials"
+    },
+    "KBLB": {
+        "cik_str": 1413119,
+        "ticker": "KBLB",
+        "title": "Kraig Biocraft Laboratories, Inc",
+        "sector": "Basic Materials"
+    },
+    "THM": {
+        "cik_str": 1134115,
+        "ticker": "THM",
+        "title": "INTERNATIONAL TOWER HILL MINES LTD",
+        "sector": "Basic Materials"
+    },
+    "AREC": {
+        "cik_str": 1590715,
+        "ticker": "AREC",
+        "title": "American Resources Corp",
+        "sector": "Basic Materials"
+    },
+    "USAU": {
+        "cik_str": 27093,
+        "ticker": "USAU",
+        "title": "U.S. GOLD CORP.",
+        "sector": "Basic Materials"
+    },
+    "BKRRF": {
+        "cik_str": 1699906,
+        "ticker": "BKRRF",
+        "title": "BLACKROCK SILVER CORP.",
+        "sector": "Basic Materials"
+    },
+    "UAMY": {
+        "cik_str": 101538,
+        "ticker": "UAMY",
+        "title": "UNITED STATES ANTIMONY CORP",
+        "sector": "Basic Materials"
+    },
+    "LODE": {
+        "cik_str": 1120970,
+        "ticker": "LODE",
+        "title": "Comstock Inc.",
+        "sector": "Basic Materials"
+    },
+    "ACRG": {
+        "cik_str": 773717,
+        "ticker": "ACRG",
+        "title": "American Clean Resources Group, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AUGG": {
+        "cik_str": 1448597,
+        "ticker": "AUGG",
+        "title": "AUGUSTA GOLD CORP.",
+        "sector": "Basic Materials"
+    },
+    "VGZ": {
+        "cik_str": 783324,
+        "ticker": "VGZ",
+        "title": "VISTA GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "GSVRF": {
+        "cik_str": 865400,
+        "ticker": "GSVRF",
+        "title": "GUANAJUATO SILVER CO LTD",
+        "sector": "Basic Materials"
+    },
+    "PNRLF": {
+        "cik_str": 795800,
+        "ticker": "PNRLF",
+        "title": "Premium Nickel Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "GSHRF": {
+        "cik_str": 1961592,
+        "ticker": "GSHRF",
+        "title": "GOLDSHORE RESOURCES INC.",
+        "sector": "Basic Materials"
+    },
+    "FURY": {
+        "cik_str": 1514597,
+        "ticker": "FURY",
+        "title": "FURY GOLD MINES LTD",
+        "sector": "Basic Materials"
+    },
+    "LOOP": {
+        "cik_str": 1504678,
+        "ticker": "LOOP",
+        "title": "Loop Industries, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AIRRF": {
+        "cik_str": 1476573,
+        "ticker": "AIRRF",
+        "title": "Aurion Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "HYMC": {
+        "cik_str": 1718405,
+        "ticker": "HYMC",
+        "title": "HYCROFT MINING HOLDING CORP",
+        "sector": "Basic Materials"
+    },
+    "NB": {
+        "cik_str": 1512228,
+        "ticker": "NB",
+        "title": "NIOCORP DEVELOPMENTS LTD",
+        "sector": "Basic Materials"
+    },
+    "LOMLF": {
+        "cik_str": 1509397,
+        "ticker": "LOMLF",
+        "title": "Lion One Metals Ltd.",
+        "sector": "Basic Materials"
+    },
+    "XTGRF": {
+        "cik_str": 1288770,
+        "ticker": "XTGRF",
+        "title": "XTRA-GOLD RESOURCES CORP",
+        "sector": "Basic Materials"
+    },
+    "ABAT": {
+        "cik_str": 1576873,
+        "ticker": "ABAT",
+        "title": "AMERICAN BATTERY TECHNOLOGY Co",
+        "sector": "Basic Materials"
+    },
+    "COPR": {
+        "cik_str": 1263364,
+        "ticker": "COPR",
+        "title": "Idaho Copper Corp",
+        "sector": "Basic Materials"
+    },
+    "BLGO": {
+        "cik_str": 880242,
+        "ticker": "BLGO",
+        "title": "BIOLARGO, INC.",
+        "sector": "Basic Materials"
+    },
+    "LONCF": {
+        "cik_str": 1472619,
+        "ticker": "LONCF",
+        "title": "Loncor Gold Inc.",
+        "sector": "Basic Materials"
+    },
+    "FSI": {
+        "cik_str": 1069394,
+        "ticker": "FSI",
+        "title": "FLEXIBLE SOLUTIONS INTERNATIONAL INC",
+        "sector": "Basic Materials"
+    },
+    "XPL": {
+        "cik_str": 917225,
+        "ticker": "XPL",
+        "title": "SOLITARIO RESOURCES CORP.",
+        "sector": "Basic Materials"
+    },
+    "SSVFF": {
+        "cik_str": 1397616,
+        "ticker": "SSVFF",
+        "title": "SOUTHERN SILVER EXPLORATION CORP",
+        "sector": "Basic Materials"
+    },
+    "ORRCF": {
+        "cik_str": 1390352,
+        "ticker": "ORRCF",
+        "title": "OROCO RESOURCE CORP",
+        "sector": "Basic Materials"
+    },
+    "HANNF": {
+        "cik_str": 1123267,
+        "ticker": "HANNF",
+        "title": "Hannan Metals Ltd.",
+        "sector": "Basic Materials"
+    },
+    "SVRSF": {
+        "cik_str": 1682056,
+        "ticker": "SVRSF",
+        "title": "Silver Storm Mining Ltd.",
+        "sector": "Basic Materials"
+    },
+    "CRCUF": {
+        "cik_str": 868822,
+        "ticker": "CRCUF",
+        "title": "Canagold Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "NVA": {
+        "cik_str": 1852551,
+        "ticker": "NVA",
+        "title": "Nova Minerals Ltd",
+        "sector": "Basic Materials"
+    },
+    "BIOF": {
+        "cik_str": 1549145,
+        "ticker": "BIOF",
+        "title": "BLUE BIOFUELS, INC.",
+        "sector": "Basic Materials"
+    },
+    "WWR": {
+        "cik_str": 839470,
+        "ticker": "WWR",
+        "title": "WESTWATER RESOURCES, INC.",
+        "sector": "Basic Materials"
+    },
+    "BHLL": {
+        "cik_str": 1407583,
+        "ticker": "BHLL",
+        "title": "Bunker Hill Mining Corp.",
+        "sector": "Basic Materials"
+    },
+    "AGXPF": {
+        "cik_str": 1482436,
+        "ticker": "AGXPF",
+        "title": "SILVER X MINING CORP.",
+        "sector": "Basic Materials"
+    },
+    "FEAM": {
+        "cik_str": 1888654,
+        "ticker": "FEAM",
+        "title": "5E Advanced Materials, Inc.",
+        "sector": "Basic Materials"
+    },
+    "SPAZF": {
+        "cik_str": 1337090,
+        "ticker": "SPAZF",
+        "title": "SPANISH MOUNTAIN GOLD LTD.",
+        "sector": "Basic Materials"
+    },
+    "CGA": {
+        "cik_str": 857949,
+        "ticker": "CGA",
+        "title": "China Green Agriculture, Inc.",
+        "sector": "Basic Materials"
+    },
+    "AXREF": {
+        "cik_str": 1175596,
+        "ticker": "AXREF",
+        "title": "AMARC RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "GEVI": {
+        "cik_str": 894556,
+        "ticker": "GEVI",
+        "title": "General Enterprise Ventures, Inc.",
+        "sector": "Basic Materials"
+    },
+    "DYNR": {
+        "cik_str": 1111741,
+        "ticker": "DYNR",
+        "title": "DYNARESOURCE, INC.",
+        "sector": "Basic Materials"
+    },
+    "ELBM": {
+        "cik_str": 1907184,
+        "ticker": "ELBM",
+        "title": "Electra Battery Materials Corp",
+        "sector": "Basic Materials"
+    },
+    "UURAF": {
+        "cik_str": 1495651,
+        "ticker": "UURAF",
+        "title": "Ucore Rare Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "HUDI": {
+        "cik_str": 1791725,
+        "ticker": "HUDI",
+        "title": "Huadi International Group Co., Ltd.",
+        "sector": "Basic Materials"
+    },
+    "GLGI": {
+        "cik_str": 1088413,
+        "ticker": "GLGI",
+        "title": "GREYSTONE LOGISTICS, INC.",
+        "sector": "Basic Materials"
+    },
+    "BHIL": {
+        "cik_str": 1830210,
+        "ticker": "BHIL",
+        "title": "Benson Hill, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GFGSF": {
+        "cik_str": 1684888,
+        "ticker": "GFGSF",
+        "title": "GFG Resources Inc.",
+        "sector": "Basic Materials"
+    },
+    "LCGMF": {
+        "cik_str": 1339688,
+        "ticker": "LCGMF",
+        "title": "LION COPPER & GOLD CORP.",
+        "sector": "Basic Materials"
+    },
+    "NGLD": {
+        "cik_str": 1605481,
+        "ticker": "NGLD",
+        "title": "Nevada Canyon Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "AUST": {
+        "cik_str": 1817740,
+        "ticker": "AUST",
+        "title": "Austin Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "PZG": {
+        "cik_str": 1629210,
+        "ticker": "PZG",
+        "title": "Paramount Gold Nevada Corp.",
+        "sector": "Basic Materials"
+    },
+    "ITXXF": {
+        "cik_str": 1677912,
+        "ticker": "ITXXF",
+        "title": "Itaconix Plc",
+        "sector": "Basic Materials"
+    },
+    "RNGE": {
+        "cik_str": 1438943,
+        "ticker": "RNGE",
+        "title": "RANGE IMPACT, INC.",
+        "sector": "Basic Materials"
+    },
+    "CAPT": {
+        "cik_str": 1967478,
+        "ticker": "CAPT",
+        "title": "Captivision Inc.",
+        "sector": "Basic Materials"
+    },
+    "NWGL": {
+        "cik_str": 1948294,
+        "ticker": "NWGL",
+        "title": "Nature Wood Group Ltd",
+        "sector": "Basic Materials"
+    },
+    "EQMEF": {
+        "cik_str": 1792554,
+        "ticker": "EQMEF",
+        "title": "Equity Metals Corp",
+        "sector": "Basic Materials"
+    },
+    "ZKIN": {
+        "cik_str": 1687451,
+        "ticker": "ZKIN",
+        "title": "ZK International Group Co., Ltd.",
+        "sector": "Basic Materials"
+    },
+    "EQTRF": {
+        "cik_str": 1635729,
+        "ticker": "EQTRF",
+        "title": "Altamira Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "RETO": {
+        "cik_str": 1687277,
+        "ticker": "RETO",
+        "title": "ReTo Eco-Solutions, Inc.",
+        "sector": "Basic Materials"
+    },
+    "NMEX": {
+        "cik_str": 1415744,
+        "ticker": "NMEX",
+        "title": "NORTHERN MINERALS & EXPLORATION LTD.",
+        "sector": "Basic Materials"
+    },
+    "NNUP": {
+        "cik_str": 888981,
+        "ticker": "NNUP",
+        "title": "NOCOPI TECHNOLOGIES INC/MD/",
+        "sector": "Basic Materials"
+    },
+    "HLP": {
+        "cik_str": 1855557,
+        "ticker": "HLP",
+        "title": "Hongli Group Inc.",
+        "sector": "Basic Materials"
+    },
+    "QZMRF": {
+        "cik_str": 811522,
+        "ticker": "QZMRF",
+        "title": "QUARTZ MOUNTAIN RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "LILIF": {
+        "cik_str": 1689448,
+        "ticker": "LILIF",
+        "title": "Argentina Lithium & Energy Corp.",
+        "sector": "Basic Materials"
+    },
+    "TMRC": {
+        "cik_str": 1445942,
+        "ticker": "TMRC",
+        "title": "Texas Mineral Resources Corp.",
+        "sector": "Basic Materials"
+    },
+    "SEED": {
+        "cik_str": 1321851,
+        "ticker": "SEED",
+        "title": "Origin Agritech LTD",
+        "sector": "Basic Materials"
+    },
+    "DNMR": {
+        "cik_str": 1779020,
+        "ticker": "DNMR",
+        "title": "Danimer Scientific, Inc.",
+        "sector": "Basic Materials"
+    },
+    "WMLLF": {
+        "cik_str": 1077640,
+        "ticker": "WMLLF",
+        "title": "Wealth Minerals Ltd.",
+        "sector": "Basic Materials"
+    },
+    "VAUCF": {
+        "cik_str": 1723047,
+        "ticker": "VAUCF",
+        "title": "Viva Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "JCTC": {
+        "cik_str": 885307,
+        "ticker": "JCTC",
+        "title": "JEWETT CAMERON TRADING CO LTD",
+        "sector": "Basic Materials"
+    },
+    "TETOF": {
+        "cik_str": 1783432,
+        "ticker": "TETOF",
+        "title": "Tectonic Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "PBMLF": {
+        "cik_str": 1319150,
+        "ticker": "PBMLF",
+        "title": "Pacific Booker Minerals Inc.",
+        "sector": "Basic Materials"
+    },
+    "GORO": {
+        "cik_str": 1160791,
+        "ticker": "GORO",
+        "title": "GOLD RESOURCE CORP",
+        "sector": "Basic Materials"
+    },
+    "SRLZF": {
+        "cik_str": 861972,
+        "ticker": "SRLZF",
+        "title": "Salazar Resources Ltd",
+        "sector": "Basic Materials"
+    },
+    "INHD": {
+        "cik_str": 1961847,
+        "ticker": "INHD",
+        "title": "INNO HOLDINGS INC.",
+        "sector": "Basic Materials"
+    },
+    "PUBC": {
+        "cik_str": 1575858,
+        "ticker": "PUBC",
+        "title": "PureBase Corp",
+        "sector": "Basic Materials"
+    },
+    "JGLDF": {
+        "cik_str": 1686000,
+        "ticker": "JGLDF",
+        "title": "Japan Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "GRFX": {
+        "cik_str": 1816723,
+        "ticker": "GRFX",
+        "title": "Graphex Group Ltd",
+        "sector": "Basic Materials"
+    },
+    "FMST": {
+        "cik_str": 1935418,
+        "ticker": "FMST",
+        "title": "Foremost Clean Energy Ltd.",
+        "sector": "Basic Materials"
+    },
+    "GESI": {
+        "cik_str": 1955083,
+        "ticker": "GESI",
+        "title": "General European Strategic Investments, Inc.",
+        "sector": "Basic Materials"
+    },
+    "RSMXF": {
+        "cik_str": 1858994,
+        "ticker": "RSMXF",
+        "title": "Regency Silver Corp.",
+        "sector": "Basic Materials"
+    },
+    "OMEX": {
+        "cik_str": 798528,
+        "ticker": "OMEX",
+        "title": "ODYSSEY MARINE EXPLORATION INC",
+        "sector": "Basic Materials"
+    },
+    "AHNR": {
+        "cik_str": 1304409,
+        "ticker": "AHNR",
+        "title": "ATHENA GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "CRKN": {
+        "cik_str": 1761696,
+        "ticker": "CRKN",
+        "title": "Crown Electrokinetics Corp.",
+        "sector": "Basic Materials"
+    },
+    "NMGX": {
+        "cik_str": 891417,
+        "ticker": "NMGX",
+        "title": "Nano Magic Inc.",
+        "sector": "Basic Materials"
+    },
+    "BASA": {
+        "cik_str": 1448705,
+        "ticker": "BASA",
+        "title": "BASANITE, INC.",
+        "sector": "Basic Materials"
+    },
+    "SMREF": {
+        "cik_str": 1480313,
+        "ticker": "SMREF",
+        "title": "SUN SUMMIT MINERALS CORP.",
+        "sector": "Basic Materials"
+    },
+    "LISMF": {
+        "cik_str": 1643715,
+        "ticker": "LISMF",
+        "title": "LITHIUM SOUTH DEVELOPMENT Corp",
+        "sector": "Basic Materials"
+    },
+    "LBSR": {
+        "cik_str": 1172178,
+        "ticker": "LBSR",
+        "title": "LIBERTY STAR URANIUM & METALS CORP.",
+        "sector": "Basic Materials"
+    },
+    "TRBMF": {
+        "cik_str": 1406944,
+        "ticker": "TRBMF",
+        "title": "TORQ RESOURCES INC.",
+        "sector": "Basic Materials"
+    },
+    "GURE": {
+        "cik_str": 885462,
+        "ticker": "GURE",
+        "title": "GULF RESOURCES, INC.",
+        "sector": "Basic Materials"
+    },
+    "CNEY": {
+        "cik_str": 1780785,
+        "ticker": "CNEY",
+        "title": "CN ENERGY GROUP. INC.",
+        "sector": "Basic Materials"
+    },
+    "BON": {
+        "cik_str": 1816815,
+        "ticker": "BON",
+        "title": "Bon Natural Life Ltd",
+        "sector": "Basic Materials"
+    },
+    "LITM": {
+        "cik_str": 1769697,
+        "ticker": "LITM",
+        "title": "Snow Lake Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "JUPGF": {
+        "cik_str": 1684688,
+        "ticker": "JUPGF",
+        "title": "Jupiter Gold Corp",
+        "sector": "Basic Materials"
+    },
+    "KNGRF": {
+        "cik_str": 1191832,
+        "ticker": "KNGRF",
+        "title": "Kingsmen Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "TIGCF": {
+        "cik_str": 1387473,
+        "ticker": "TIGCF",
+        "title": "Triumph Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "RYES": {
+        "cik_str": 1424864,
+        "ticker": "RYES",
+        "title": "Rise Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "BMXI": {
+        "cik_str": 1122993,
+        "ticker": "BMXI",
+        "title": "BROOKMOUNT EXPLORATIONS INC",
+        "sector": "Basic Materials"
+    },
+    "BGLC": {
+        "cik_str": 1737523,
+        "ticker": "BGLC",
+        "title": "BioNexus Gene Lab Corp",
+        "sector": "Basic Materials"
+    },
+    "NULGF": {
+        "cik_str": 1502758,
+        "ticker": "NULGF",
+        "title": "NuLegacy Gold Corp",
+        "sector": "Basic Materials"
+    },
+    "NMREF": {
+        "cik_str": 1519457,
+        "ticker": "NMREF",
+        "title": "Namibia Critical Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "LTUM": {
+        "cik_str": 1415332,
+        "ticker": "LTUM",
+        "title": "Lithium Corp",
+        "sector": "Basic Materials"
+    },
+    "GARWF": {
+        "cik_str": 1403870,
+        "ticker": "GARWF",
+        "title": "Golden Arrow Resources Corp",
+        "sector": "Basic Materials"
+    },
+    "SVBL": {
+        "cik_str": 1031093,
+        "ticker": "SVBL",
+        "title": "SILVER BULL RESOURCES, INC.",
+        "sector": "Basic Materials"
+    },
+    "SCYYF": {
+        "cik_str": 1408146,
+        "ticker": "SCYYF",
+        "title": "SCANDIUM INTERNATIONAL MINING CORP.",
+        "sector": "Basic Materials"
+    },
+    "BLTH": {
+        "cik_str": 1487718,
+        "ticker": "BLTH",
+        "title": "AMERICAN BATTERY MATERIALS, INC.",
+        "sector": "Basic Materials"
+    },
+    "LMRMF": {
+        "cik_str": 1588837,
+        "ticker": "LMRMF",
+        "title": "Lomiko Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "AUMN": {
+        "cik_str": 1011509,
+        "ticker": "AUMN",
+        "title": "Golden Minerals Co",
+        "sector": "Basic Materials"
+    },
+    "ORMNF": {
+        "cik_str": 1458057,
+        "ticker": "ORMNF",
+        "title": "OREX MINERALS INC",
+        "sector": "Basic Materials"
+    },
+    "AAUGF": {
+        "cik_str": 1905688,
+        "ticker": "AAUGF",
+        "title": "AERO ENERGY Ltd",
+        "sector": "Basic Materials"
+    },
+    "WOLV": {
+        "cik_str": 1424404,
+        "ticker": "WOLV",
+        "title": "Wolverine Resources Corp.",
+        "sector": "Basic Materials"
+    },
+    "NVDEF": {
+        "cik_str": 1398713,
+        "ticker": "NVDEF",
+        "title": "URZ3 ENERGY CORP.",
+        "sector": "Basic Materials"
+    },
+    "THMG": {
+        "cik_str": 711034,
+        "ticker": "THMG",
+        "title": "THUNDER MOUNTAIN GOLD INC",
+        "sector": "Basic Materials"
+    },
+    "FUST": {
+        "cik_str": 1636051,
+        "ticker": "FUST",
+        "title": "FUSE GROUP HOLDING INC.",
+        "sector": "Basic Materials"
+    },
+    "ABCFF": {
+        "cik_str": 1284237,
+        "ticker": "ABCFF",
+        "title": "ABACUS MINING & EXPLORATION CORP",
+        "sector": "Basic Materials"
+    },
+    "TARSF": {
+        "cik_str": 1409036,
+        "ticker": "TARSF",
+        "title": "Silver North Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "BITTF": {
+        "cik_str": 1028357,
+        "ticker": "BITTF",
+        "title": "BITTERROOT RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "MAGE": {
+        "cik_str": 1515317,
+        "ticker": "MAGE",
+        "title": "MAGELLAN COPPER & GOLD INC.",
+        "sector": "Basic Materials"
+    },
+    "BGAVF": {
+        "cik_str": 1500620,
+        "ticker": "BGAVF",
+        "title": "Bravada Gold Corp",
+        "sector": "Basic Materials"
+    },
+    "RMESF": {
+        "cik_str": 1358654,
+        "ticker": "RMESF",
+        "title": "RED METAL RESOURCES, LTD.",
+        "sector": "Basic Materials"
+    },
+    "EGMCF": {
+        "cik_str": 1199392,
+        "ticker": "EGMCF",
+        "title": "EMERGENT METALS CORP.",
+        "sector": "Basic Materials"
+    },
+    "FEMFF": {
+        "cik_str": 1066130,
+        "ticker": "FEMFF",
+        "title": "FE Battery Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "NITO": {
+        "cik_str": 1789192,
+        "ticker": "NITO",
+        "title": "N2OFF, Inc.",
+        "sector": "Basic Materials"
+    },
+    "FMNJ": {
+        "cik_str": 1304077,
+        "ticker": "FMNJ",
+        "title": "Franklin Mining, Inc.",
+        "sector": "Basic Materials"
+    },
+    "ITP": {
+        "cik_str": 1358190,
+        "ticker": "ITP",
+        "title": "IT TECH PACKAGING, INC.",
+        "sector": "Basic Materials"
+    },
+    "SNES": {
+        "cik_str": 1680378,
+        "ticker": "SNES",
+        "title": "SenesTech, Inc.",
+        "sector": "Basic Materials"
+    },
+    "ATAO": {
+        "cik_str": 1570937,
+        "ticker": "ATAO",
+        "title": "ALTAIR INTERNATIONAL CORP.",
+        "sector": "Basic Materials"
+    },
+    "PAANF": {
+        "cik_str": 1953588,
+        "ticker": "PAANF",
+        "title": "Pan American Energy Corp. (Canada)",
+        "sector": "Basic Materials"
+    },
+    "ZPHYF": {
+        "cik_str": 1613979,
+        "ticker": "ZPHYF",
+        "title": "ZEPHYR MINERALS LTD.",
+        "sector": "Basic Materials"
+    },
+    "PGOL": {
+        "cik_str": 1080448,
+        "ticker": "PGOL",
+        "title": "PATRIOT GOLD CORP",
+        "sector": "Basic Materials"
+    },
+    "IMII": {
+        "cik_str": 1416090,
+        "ticker": "IMII",
+        "title": "INCEPTION MINING INC.",
+        "sector": "Basic Materials"
+    },
+    "AVPMF": {
+        "cik_str": 1445467,
+        "ticker": "AVPMF",
+        "title": "AVRUPA MINERALS LTD.",
+        "sector": "Basic Materials"
+    },
+    "HHHEF": {
+        "cik_str": 825171,
+        "ticker": "HHHEF",
+        "title": "37 CAPITAL INC",
+        "sector": "Basic Materials"
+    },
+    "SRGZ": {
+        "cik_str": 1401835,
+        "ticker": "SRGZ",
+        "title": "Star Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "HGAS": {
+        "cik_str": 1817232,
+        "ticker": "HGAS",
+        "title": "Global Gas Corp",
+        "sector": "Basic Materials"
+    },
+    "GNTOF": {
+        "cik_str": 1346917,
+        "ticker": "GNTOF",
+        "title": "GENTOR RESOURCES INC.",
+        "sector": "Basic Materials"
+    },
+    "NVSGF": {
+        "cik_str": 1415758,
+        "ticker": "NVSGF",
+        "title": "Nevada Sunrise Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "ENRT": {
+        "cik_str": 1346022,
+        "ticker": "ENRT",
+        "title": "Enertopia Corp.",
+        "sector": "Basic Materials"
+    },
+    "NRHI": {
+        "cik_str": 1680689,
+        "ticker": "NRHI",
+        "title": "Natural Resource Holdings, Inc.",
+        "sector": "Basic Materials"
+    },
+    "CBNT": {
+        "cik_str": 1421636,
+        "ticker": "CBNT",
+        "title": "C-Bond Systems, Inc",
+        "sector": "Basic Materials"
+    },
+    "STAL": {
+        "cik_str": 1614556,
+        "ticker": "STAL",
+        "title": "Star Alliance International Corp.",
+        "sector": "Basic Materials"
+    },
+    "MEXGF": {
+        "cik_str": 1609436,
+        "ticker": "MEXGF",
+        "title": "Mexican Gold Mining Corp.",
+        "sector": "Basic Materials"
+    },
+    "VYST": {
+        "cik_str": 1308027,
+        "ticker": "VYST",
+        "title": "Vystar Corp",
+        "sector": "Basic Materials"
+    },
+    "YTEN": {
+        "cik_str": 1121702,
+        "ticker": "YTEN",
+        "title": "YIELD10 BIOSCIENCE, INC.",
+        "sector": "Basic Materials"
+    },
+    "PVNNF": {
+        "cik_str": 1627480,
+        "ticker": "PVNNF",
+        "title": "PV Nano Cell, Ltd.",
+        "sector": "Basic Materials"
+    },
+    "GPLDF": {
+        "cik_str": 1300050,
+        "ticker": "GPLDF",
+        "title": "GREAT PANTHER MINING Ltd",
+        "sector": "Basic Materials"
+    },
+    "GRO": {
+        "cik_str": 1472326,
+        "ticker": "GRO",
+        "title": "Brazil Potash Corp.",
+        "sector": "Basic Materials"
+    },
+    "AAUAF": {
+        "cik_str": 1015647,
+        "ticker": "AAUAF",
+        "title": "ALMADEN MINERALS LTD",
+        "sector": "Basic Materials"
+    },
+    "BHPLF": {
+        "cik_str": 811809,
+        "ticker": "BHPLF",
+        "title": "BHP Group Ltd",
+        "sector": "Basic Materials"
+    },
+    "RTPPF": {
+        "cik_str": 863064,
+        "ticker": "RTPPF",
+        "title": "RIO TINTO PLC",
+        "sector": "Basic Materials"
+    },
+    "AIQUF": {
+        "cik_str": 1161167,
+        "ticker": "AIQUF",
+        "title": "L AIR LIQUIDE SA /FI",
+        "sector": "Basic Materials"
+    },
+    "CTA-PB": {
+        "cik_str": 30554,
+        "ticker": "CTA-PB",
+        "title": "EIDP, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GLCNF": {
+        "cik_str": 1524684,
+        "ticker": "GLCNF",
+        "title": "Glencore plc/ADR",
+        "sector": "Basic Materials"
+    },
+    "TCKRF": {
+        "cik_str": 886986,
+        "ticker": "TCKRF",
+        "title": "TECK RESOURCES LTD",
+        "sector": "Basic Materials"
+    },
+    "AMSYF": {
+        "cik_str": 1243429,
+        "ticker": "AMSYF",
+        "title": "ArcelorMittal",
+        "sector": "Basic Materials"
+    },
+    "JHIUF": {
+        "cik_str": 1159152,
+        "ticker": "JHIUF",
+        "title": "James Hardie Industries plc",
+        "sector": "Basic Materials"
+    },
+    "HLBZF": {
+        "cik_str": 1400691,
+        "ticker": "HLBZF",
+        "title": "HeidelbergCement AG",
+        "sector": "Basic Materials"
+    },
+    "PTPIF": {
+        "cik_str": 1547873,
+        "ticker": "PTPIF",
+        "title": "PT Chandra Asri Petrochemical Tbk/ADR",
+        "sector": "Basic Materials"
+    },
+    "NVZMF": {
+        "cik_str": 1131345,
+        "ticker": "NVZMF",
+        "title": "NOVOZYMES AS/FI",
+        "sector": "Basic Materials"
+    },
+    "GFIOF": {
+        "cik_str": 1172724,
+        "ticker": "GFIOF",
+        "title": "GOLD FIELDS LTD",
+        "sector": "Basic Materials"
+    },
+    "SVYSF": {
+        "cik_str": 930826,
+        "ticker": "SVYSF",
+        "title": "SOLVAY S A /ADR/",
+        "sector": "Basic Materials"
+    },
+    "SHECF": {
+        "cik_str": 1442651,
+        "ticker": "SHECF",
+        "title": "Shin-Etsu Chemical Co., Ltd.",
+        "sector": "Basic Materials"
+    },
+    "ALMMF": {
+        "cik_str": 1161611,
+        "ticker": "ALMMF",
+        "title": "ALUMINUM CORP OF CHINA LTD",
+        "sector": "Basic Materials"
+    },
+    "NDEKF": {
+        "cik_str": 353991,
+        "ticker": "NDEKF",
+        "title": "NITTO DENKO CORP / ADR/",
+        "sector": "Basic Materials"
+    },
+    "CXMSF": {
+        "cik_str": 1076378,
+        "ticker": "CXMSF",
+        "title": "CEMEX SAB DE CV",
+        "sector": "Basic Materials"
+    },
+    "SASOF": {
+        "cik_str": 314590,
+        "ticker": "SASOF",
+        "title": "SASOL LTD",
+        "sector": "Basic Materials"
+    },
+    "SBYSF": {
+        "cik_str": 1786909,
+        "ticker": "SBYSF",
+        "title": "Sibanye Stillwater Ltd",
+        "sector": "Basic Materials"
+    },
+    "FUPBY": {
+        "cik_str": 1534043,
+        "ticker": "FUPBY",
+        "title": "Fuchs Petrolub SE/ADR",
+        "sector": "Basic Materials"
+    },
+    "FUPEF": {
+        "cik_str": 1534043,
+        "ticker": "FUPEF",
+        "title": "Fuchs Petrolub SE/ADR",
+        "sector": "Basic Materials"
+    },
+    "HGMCF": {
+        "cik_str": 1023514,
+        "ticker": "HGMCF",
+        "title": "HARMONY GOLD MINING CO LTD",
+        "sector": "Basic Materials"
+    },
+    "BZZUF": {
+        "cik_str": 1437774,
+        "ticker": "BZZUF",
+        "title": "BUZZI UNICEM S.p.A.",
+        "sector": "Basic Materials"
+    },
+    "SHWDF": {
+        "cik_str": 1446694,
+        "ticker": "SHWDF",
+        "title": "Showa Denko K.K./ADR",
+        "sector": "Basic Materials"
+    },
+    "CODQL": {
+        "cik_str": 1770561,
+        "ticker": "CODQL",
+        "title": "Coronado Global Resources Inc.",
+        "sector": "Basic Materials"
+    },
+    "HL-PB": {
+        "cik_str": 719413,
+        "ticker": "HL-PB",
+        "title": "HECLA MINING CO/DE/",
+        "sector": "Basic Materials"
+    },
+    "PLLTL": {
+        "cik_str": 1728205,
+        "ticker": "PLLTL",
+        "title": "Piedmont Lithium Inc.",
+        "sector": "Basic Materials"
+    },
+    "DRDGF": {
+        "cik_str": 1023512,
+        "ticker": "DRDGF",
+        "title": "DRDGOLD LTD",
+        "sector": "Basic Materials"
+    },
+    "GSCCF": {
+        "cik_str": 1896084,
+        "ticker": "GSCCF",
+        "title": "ioneer Ltd",
+        "sector": "Basic Materials"
+    },
+    "ERLFF": {
+        "cik_str": 1271554,
+        "ticker": "ERLFF",
+        "title": "Entree Resources Ltd.",
+        "sector": "Basic Materials"
+    },
+    "MPVDF": {
+        "cik_str": 1004530,
+        "ticker": "MPVDF",
+        "title": "Mountain Province Diamonds Inc.",
+        "sector": "Basic Materials"
+    },
+    "NSRCF": {
+        "cik_str": 1302084,
+        "ticker": "NSRCF",
+        "title": "NextSource Materials Inc.",
+        "sector": "Basic Materials"
+    },
+    "SMTSF": {
+        "cik_str": 1705259,
+        "ticker": "SMTSF",
+        "title": "Sierra Metals Inc.",
+        "sector": "Basic Materials"
+    },
+    "SGTM": {
+        "cik_str": 1895251,
+        "ticker": "SGTM",
+        "title": "Sustainable Green Team, Ltd.",
+        "sector": "Basic Materials"
+    },
+    "AVLNF": {
+        "cik_str": 1362898,
+        "ticker": "AVLNF",
+        "title": "Avalon Advanced Materials Inc.",
+        "sector": "Basic Materials"
+    },
+    "ARRKF": {
+        "cik_str": 1855743,
+        "ticker": "ARRKF",
+        "title": "ARRAS MINERALS CORP.",
+        "sector": "Basic Materials"
+    },
+    "SGLDF": {
+        "cik_str": 1318482,
+        "ticker": "SGLDF",
+        "title": "KIDOZ INC.",
+        "sector": "Basic Materials"
+    },
+    "EXNRF": {
+        "cik_str": 1263011,
+        "ticker": "EXNRF",
+        "title": "EXCELLON RESOURCES INC",
+        "sector": "Basic Materials"
+    },
+    "SHVLF": {
+        "cik_str": 1301713,
+        "ticker": "SHVLF",
+        "title": "STARCORE INTERNATIONAL MINES LTD.",
+        "sector": "Basic Materials"
+    },
+    "HGLD": {
+        "cik_str": 1551206,
+        "ticker": "HGLD",
+        "title": "Patagonia Gold Corp.",
+        "sector": "Basic Materials"
+    },
+    "SILEF": {
+        "cik_str": 1545224,
+        "ticker": "SILEF",
+        "title": "Silver Elephant Mining Corp.",
+        "sector": "Basic Materials"
+    },
+    "TMBXF": {
+        "cik_str": 1072772,
+        "ticker": "TMBXF",
+        "title": "TOMBSTONE EXPLORATION CORP",
+        "sector": "Basic Materials"
+    },
+    "GRDAF": {
+        "cik_str": 1804469,
+        "ticker": "GRDAF",
+        "title": "Guardforce AI Co., Ltd.",
+        "sector": "Basic Materials"
+    },
+    "JSHG": {
+        "cik_str": 1475430,
+        "ticker": "JSHG",
+        "title": "JOSHUA GOLD RESOURCES INC",
+        "sector": "Basic Materials"
+    },
+    "GEMZ": {
+        "cik_str": 1104023,
+        "ticker": "GEMZ",
+        "title": "Gemxx Corp.",
+        "sector": "Basic Materials"
+    },
+    "SGMD": {
+        "cik_str": 919175,
+        "ticker": "SGMD",
+        "title": "Sugarmade, Inc.",
+        "sector": "Basic Materials"
+    },
+    "ACRL": {
+        "cik_str": 1584618,
+        "ticker": "ACRL",
+        "title": "Atacama Resources International, Inc.",
+        "sector": "Basic Materials"
+    },
+    "MNGG": {
+        "cik_str": 1406588,
+        "ticker": "MNGG",
+        "title": "Mining Global, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GYST": {
+        "cik_str": 1510524,
+        "ticker": "GYST",
+        "title": "GRAYSTONE COMPANY, INC.",
+        "sector": "Basic Materials"
+    },
+    "SIXWF": {
+        "cik_str": 1515251,
+        "ticker": "SIXWF",
+        "title": "SIXTH WAVE INNOVATIONS INC.",
+        "sector": "Basic Materials"
+    },
+    "MLLOF": {
+        "cik_str": 1370496,
+        "ticker": "MLLOF",
+        "title": "Medallion Resources Ltd",
+        "sector": "Basic Materials"
+    },
+    "CGSI": {
+        "cik_str": 1552358,
+        "ticker": "CGSI",
+        "title": "CGS INTERNATIONAL, INC.",
+        "sector": "Basic Materials"
+    },
+    "VNTRF": {
+        "cik_str": 1705682,
+        "ticker": "VNTRF",
+        "title": "Venator Materials PLC",
+        "sector": "Basic Materials"
+    },
+    "SINC": {
+        "cik_str": 1532595,
+        "ticker": "SINC",
+        "title": "Sincerity Applied Materials Holdings Corp.",
+        "sector": "Basic Materials"
+    },
+    "SSRGF": {
+        "cik_str": 921638,
+        "ticker": "SSRGF",
+        "title": "SSR MINING INC.",
+        "sector": "Basic Materials"
+    },
+    "ARLTF": {
+        "cik_str": 1977303,
+        "ticker": "ARLTF",
+        "title": "Arcadium Lithium plc",
+        "sector": "Basic Materials"
+    },
+    "BHILW": {
+        "cik_str": 1830210,
+        "ticker": "BHILW",
+        "title": "Benson Hill, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GRDV": {
+        "cik_str": 1761534,
+        "ticker": "GRDV",
+        "title": "Golden Royal Development Inc.",
+        "sector": "Basic Materials"
+    },
+    "HYMCL": {
+        "cik_str": 1718405,
+        "ticker": "HYMCL",
+        "title": "HYCROFT MINING HOLDING CORP",
+        "sector": "Basic Materials"
+    },
+    "HYMCW": {
+        "cik_str": 1718405,
+        "ticker": "HYMCW",
+        "title": "HYCROFT MINING HOLDING CORP",
+        "sector": "Basic Materials"
+    },
+    "ALB-PA": {
+        "cik_str": 915913,
+        "ticker": "ALB-PA",
+        "title": "ALBEMARLE CORP",
+        "sector": "Basic Materials"
+    },
+    "CLGDF": {
+        "cik_str": 1964504,
+        "ticker": "CLGDF",
+        "title": "Aris Mining Corp",
+        "sector": "Basic Materials"
+    },
+    "ASTLW": {
+        "cik_str": 1860805,
+        "ticker": "ASTLW",
+        "title": "Algoma Steel Group Inc.",
+        "sector": "Basic Materials"
+    },
+    "METCB": {
+        "cik_str": 1687187,
+        "ticker": "METCB",
+        "title": "Ramaco Resources, Inc.",
+        "sector": "Basic Materials"
+    },
+    "GIGGF": {
+        "cik_str": 1336364,
+        "ticker": "GIGGF",
+        "title": "Giga Metals Corp",
+        "sector": "Basic Materials"
+    },
+    "NEMCL": {
+        "cik_str": 1164727,
+        "ticker": "NEMCL",
+        "title": "NEWMONT Corp /DE/",
+        "sector": "Basic Materials"
+    },
+    "HGASW": {
+        "cik_str": 1817232,
+        "ticker": "HGASW",
+        "title": "Global Gas Corp",
+        "sector": "Basic Materials"
+    },
+    "OUTFF": {
+        "cik_str": 920822,
+        "ticker": "OUTFF",
+        "title": "OUTOKUMPU OY /FI",
+        "sector": "Basic Materials"
+    },
+    "FUPPF": {
+        "cik_str": 1534043,
+        "ticker": "FUPPF",
+        "title": "Fuchs Petrolub SE/ADR",
+        "sector": "Basic Materials"
+    },
+    "PAAND": {
+        "cik_str": 1953588,
+        "ticker": "PAAND",
+        "title": "Pan American Energy Corp. (Canada)",
+        "sector": "Basic Materials"
+    },
+    "MQMNW": {
+        "cik_str": 314203,
+        "ticker": "MQMNW",
+        "title": "McEwen Mining Inc.",
+        "sector": "Basic Materials"
+    },
+    "CJRCF": {
+        "cik_str": 1484515,
+        "ticker": "CJRCF",
+        "title": "China Resources Cement Holdings Limited/ADR/",
+        "sector": "Basic Materials"
+    },
+    "ORGNW": {
+        "cik_str": 1802457,
+        "ticker": "ORGNW",
+        "title": "Origin Materials, Inc.",
+        "sector": "Basic Materials"
+    },
+    "DMXCF": {
+        "cik_str": 1839586,
+        "ticker": "DMXCF",
+        "title": "District Metals Corp.",
+        "sector": "Basic Materials"
+    },
+    "ODVWZ": {
+        "cik_str": 1431852,
+        "ticker": "ODVWZ",
+        "title": "Osisko Development Corp.",
+        "sector": "Basic Materials"
+    },
+    "TMCWW": {
+        "cik_str": 1798562,
+        "ticker": "TMCWW",
+        "title": "TMC the metals Co Inc.",
+        "sector": "Basic Materials"
+    },
+    "FMSTW": {
+        "cik_str": 1935418,
+        "ticker": "FMSTW",
+        "title": "Foremost Clean Energy Ltd.",
+        "sector": "Basic Materials"
+    },
+    "CAPTW": {
+        "cik_str": 1967478,
+        "ticker": "CAPTW",
+        "title": "Captivision Inc.",
+        "sector": "Basic Materials"
+    },
+    "NVAAF": {
+        "cik_str": 1852551,
+        "ticker": "NVAAF",
+        "title": "Nova Minerals Ltd",
+        "sector": "Basic Materials"
+    },
+    "NVAWW": {
+        "cik_str": 1852551,
+        "ticker": "NVAWW",
+        "title": "Nova Minerals Ltd",
+        "sector": "Basic Materials"
+    },
+    "CRMLW": {
+        "cik_str": 1951089,
+        "ticker": "CRMLW",
+        "title": "Critical Metals Corp.",
+        "sector": "Basic Materials"
+    }
+}
